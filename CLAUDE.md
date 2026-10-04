@@ -103,6 +103,12 @@ All writers are fictional characters. Never write as, quote, or impersonate a re
 - Jeff's upset pick is the projected underdog. Picks match the `pick` field.
 - Team names are spelled exactly as in `teams` (the first mention in each article is auto-underlined and linked).
 - No placeholders, no "Player #id", no invented injuries or lines.
+- Pick ownership comes ONLY from derived `dynasty[team].picks` (built from Sleeper's traded_picks.json). Never carry a
+  pick claim forward from an older article; re-verify every sentence that says who owns a pick, every run.
+- Trade contents (players and picks each side received) come ONLY from `data/transactions/*.json`. Re-read the raw
+  trade before grading it.
+- Rosters, IR and taxi status come ONLY from `data/rosters.json`. If an older article names a player a team no longer
+  has, fix the article.
 
 ## edition.json schema (top level)
 
