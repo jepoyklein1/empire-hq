@@ -453,7 +453,7 @@ function section(x,ed,seen){
     <div class="vsh">${side(x.a)}<span class="vsx">vs</span>${side(x.b)}</div>
     ${x.book?`<div class="book"><span><b>Line</b>${esc(x.book.line)}</span><span><b>Total</b>${f1(x.book.total)}</span><span><b>Vegas env.</b>${f1(x.book.envA)} vs ${f1(x.book.envB)}</span><span><b>25+ spots</b>${x.book.hiA} vs ${x.book.hiB}</span></div>`:""}
     <div class="sec-body">${paras(x.p,seen)}</div>
-    <div class="verdict"><span class="lab">${x.upset?"Upset pick":"The pick"}</span><span class="who-wins">${esc(T(x.pick).team)}</span><span class="over">over ${esc(T(loser).team)}</span>${x.note?`<span class="why">${esc(x.note)}</span>`:""}</div>
+    ${x.pick?`<div class="verdict"><span class="lab">${x.upset?"Upset pick":"The pick"}</span><span class="who-wins">${esc(T(x.pick).team)}</span><span class="over">over ${esc(T(loser).team)}</span>${x.note?`<span class="why">${esc(x.note)}</span>`:""}</div>`:(x.note?`<div class="verdict"><span class="lab">Bottom line</span><span class="why">${esc(x.note)}</span></div>`:"")}
   </section>`;
 }
 function story(s,ed,wide){
@@ -608,7 +608,7 @@ function teamPage(id){
   <div class="tiles">${tiles.map(([k,v,n])=>`<div class="panel tile"><span class="k">${k}</span><span class="v">${esc(v)}</span><span class="n">${esc(n)}</span></div>`).join("")}</div>
   <div class="tgrid">
     <article class="panel story ${b.by==="simone"?"red":b.by==="anita"?"teal":"blue"} ${b.by==="simone"?"":"serif"}">
-      <div class="byline"><img class="portrait" src="${AV[b.by]}" alt=""><span class="who"><b>${esc(w.name||"")}</b><span>Team breakdown</span></span></div>
+      <div class="byline"><img class="portrait" src="${AV[b.by]}" alt=""><span class="who"><b>${esc(w.name||"")}</b><span>Team breakdown${b.asOf?` · Week ${b.asOf}`:""}</span></span></div>
       <span class="kicker">Dynasty breakdown</span><h3>${esc(b.headline)}</h3>
       <div class="body">${paras(b.p,new Set())}</div>
       <div class="callouts"><div class="callout v"><b>The verdict</b>${esc(b.verdict)}</div><div class="callout m"><b>The move</b>${esc(b.move)}</div></div>
