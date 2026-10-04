@@ -1,0 +1,5845 @@
+{
+ "season": 2026,
+ "throughWeek": 3,
+ "current": "sunday",
+ "order": [
+  "sunday",
+  "thursday",
+  "tuesday"
+ ],
+ "teams": [
+  {
+   "id": 1,
+   "team": "Sheev",
+   "mgr": "HollywoodJK",
+   "w": 0,
+   "l": 3,
+   "pf": 450.44,
+   "pa": 537.84,
+   "max": 523.66,
+   "streak": "3L"
+  },
+  {
+   "id": 2,
+   "team": "God Bless Vodka",
+   "mgr": "GodBlessVodka",
+   "w": 1,
+   "l": 2,
+   "pf": 344.64,
+   "pa": 426.94,
+   "max": 412.34,
+   "streak": "2L"
+  },
+  {
+   "id": 3,
+   "team": "Send Nudes",
+   "mgr": "RandleSavage",
+   "w": 2,
+   "l": 1,
+   "pf": 500.62,
+   "pa": 458.54,
+   "max": 541.9,
+   "streak": "2W",
+   "champ": true
+  },
+  {
+   "id": 4,
+   "team": "ClutchJuice",
+   "mgr": "ClutchJuice",
+   "w": 0,
+   "l": 3,
+   "pf": 225.78,
+   "pa": 317.8,
+   "max": 238.98,
+   "streak": "3L"
+  },
+  {
+   "id": 5,
+   "team": "brimley",
+   "mgr": "brimley",
+   "w": 1,
+   "l": 2,
+   "pf": 440.8,
+   "pa": 604.5,
+   "max": 497.86,
+   "streak": "2L"
+  },
+  {
+   "id": 6,
+   "team": "Panic Trade Project",
+   "mgr": "bhegg97",
+   "w": 2,
+   "l": 1,
+   "pf": 276.99,
+   "pa": 272.88,
+   "max": 331.1,
+   "streak": "2W"
+  },
+  {
+   "id": 7,
+   "team": "#StopAsianHate",
+   "mgr": "MasturBasian",
+   "w": 2,
+   "l": 1,
+   "pf": 455.96,
+   "pa": 395.54,
+   "max": 530.92,
+   "streak": "2W"
+  },
+  {
+   "id": 8,
+   "team": "Bijan Your Face 🍆💦",
+   "mgr": "BlackSheepFF",
+   "w": 3,
+   "l": 0,
+   "pf": 627.64,
+   "pa": 418.62,
+   "max": 702.1,
+   "streak": "3W"
+  },
+  {
+   "id": 9,
+   "team": "Very Naughty Boys",
+   "mgr": "poulbri",
+   "w": 0,
+   "l": 3,
+   "pf": 250.38,
+   "pa": 410.06,
+   "max": 290.78,
+   "streak": "3L"
+  },
+  {
+   "id": 10,
+   "team": "Stroke The Post",
+   "mgr": "RhinosFF",
+   "w": 3,
+   "l": 0,
+   "pf": 576.1,
+   "pa": 394.54,
+   "max": 630.88,
+   "streak": "3W"
+  },
+  {
+   "id": 11,
+   "team": "Ben Football Team",
+   "mgr": "BenFootballTeam",
+   "w": 2,
+   "l": 1,
+   "pf": 302.88,
+   "pa": 295.38,
+   "max": 350.04,
+   "streak": "1L"
+  },
+  {
+   "id": 12,
+   "team": "Jackie aCHANe",
+   "mgr": "Churboy323",
+   "w": 2,
+   "l": 1,
+   "pf": 313.0,
+   "pa": 232.6,
+   "max": 422.78,
+   "streak": "1W"
+  }
+ ],
+ "weekly": {
+  "1": {
+   "1": 153.36,
+   "2": 86.86,
+   "3": 159.6,
+   "4": 67.46,
+   "5": 203.78,
+   "6": 101.34,
+   "7": 170.08,
+   "8": 183.46,
+   "9": 67.12,
+   "10": 178.96,
+   "11": 117.56,
+   "12": 121.96
+  },
+  "2": {
+   "1": 144.42,
+   "2": 126.8,
+   "3": 147.36,
+   "4": 85.68,
+   "5": 106.36,
+   "6": 98.02,
+   "7": 129.46,
+   "8": 257.48,
+   "9": 85.6,
+   "10": 203.4,
+   "11": 118.2,
+   "12": 82.68
+  },
+  "3": {
+   "1": 152.66,
+   "2": 130.98,
+   "3": 193.66,
+   "4": 72.64,
+   "5": 130.66,
+   "6": 77.64,
+   "7": 156.42,
+   "8": 186.7,
+   "9": 97.66,
+   "10": 193.74,
+   "11": 67.12,
+   "12": 108.36
+  }
+ },
+ "movesNote": "Weeks 3 and 4",
+ "moves": [
+  {
+   "type": "trade",
+   "leg": 4,
+   "sides": [
+    {
+     "team": 1,
+     "adds": [
+      "Quinshon Judkins"
+     ],
+     "picks": [
+      "2028 1st (#StopAsianHate)",
+      "2028 2nd (#StopAsianHate)"
+     ],
+     "drops": []
+    },
+    {
+     "team": 7,
+     "adds": [
+      "Kenneth Walker"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "trade",
+   "leg": 4,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Patrick Mahomes",
+      "Ollie Gordon",
+      "Adonai Mitchell"
+     ],
+     "picks": [
+      "2027 4th (ClutchJuice)"
+     ],
+     "drops": []
+    },
+    {
+     "team": 4,
+     "adds": [
+      "Drake Maye"
+     ],
+     "picks": [
+      "2027 3rd (Ben Football Team)"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "trade",
+   "leg": 4,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Bhayshul Tuten"
+     ],
+     "picks": [
+      "2027 2nd (Stroke The Post)"
+     ],
+     "drops": []
+    },
+    {
+     "team": 8,
+     "picks": [
+      "2028 1st (Ben Football Team)",
+      "2028 3rd (Ben Football Team)"
+     ],
+     "adds": [],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "trade",
+   "leg": 4,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Sam LaPorta"
+     ],
+     "drops": []
+    },
+    {
+     "team": 6,
+     "adds": [
+      "Omar Cooper"
+     ],
+     "picks": [
+      "2027 2nd (Ben Football Team)"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 4,
+   "bid": 8,
+   "sides": [
+    {
+     "team": 3,
+     "adds": [
+      "Konata Mumpfield"
+     ],
+     "drops": [
+      "Joe Flacco"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 4,
+   "bid": 1,
+   "sides": [
+    {
+     "team": 8,
+     "adds": [
+      "Kalif Raymond"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 4,
+   "bid": 0,
+   "sides": [
+    {
+     "team": 12,
+     "adds": [
+      "Samaje Perine"
+     ],
+     "drops": [
+      "Jalen Nailor"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 4,
+   "bid": 0,
+   "sides": [
+    {
+     "team": 6,
+     "adds": [
+      "Najee Harris"
+     ],
+     "drops": [
+      "Tyson Bagent"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 4,
+   "bid": 0,
+   "sides": [
+    {
+     "team": 7,
+     "adds": [
+      "Mike Gesicki"
+     ],
+     "drops": [
+      "Zach Ertz"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "free_agent",
+   "leg": 4,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Justice Hill"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "free_agent",
+   "leg": 4,
+   "sides": [
+    {
+     "team": 5,
+     "adds": [
+      "Mack Hollins"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "trade",
+   "leg": 3,
+   "sides": [
+    {
+     "team": 6,
+     "adds": [
+      "Emeka Egbuka"
+     ],
+     "picks": [
+      "2027 2nd (swap)"
+     ],
+     "drops": []
+    },
+    {
+     "team": 1,
+     "adds": [
+      "TreVeyon Henderson"
+     ],
+     "picks": [
+      "2027 2nd (swap)"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "trade",
+   "leg": 3,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [
+      "Elijah Sarratt"
+     ],
+     "picks": [
+      "2027 2nd (swap)"
+     ],
+     "drops": []
+    },
+    {
+     "team": 6,
+     "adds": [
+      "Kaleb Johnson"
+     ],
+     "picks": [
+      "2027 2nd (swap)"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 3,
+   "bid": 16,
+   "sides": [
+    {
+     "team": 6,
+     "adds": [
+      "Keaton Mitchell"
+     ],
+     "drops": [
+      "Sione Vaki"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 3,
+   "bid": 16,
+   "sides": [
+    {
+     "team": 6,
+     "adds": [
+      "Jaylen Wright"
+     ],
+     "drops": [
+      "Emari Demercado"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 3,
+   "bid": 14,
+   "sides": [
+    {
+     "team": 3,
+     "adds": [
+      "Jalon Daniels"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 3,
+   "bid": 8,
+   "sides": [
+    {
+     "team": 1,
+     "adds": [
+      "Brenton Strange"
+     ],
+     "drops": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 3,
+   "bid": 0,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [
+      "Cade Otton"
+     ],
+     "drops": [
+      "Jaylen Wright"
+     ]
+    }
+   ]
+  }
+ ],
+ "editions": {
+  "sunday": {
+   "key": "sunday",
+   "label": "Sunday Edition",
+   "week": 4,
+   "published": "Sun, Oct 4, 2026",
+   "scoreboard": {
+    "mode": "live",
+    "label": "Week 4",
+    "sublabel": "Game day",
+    "games": [
+     {
+      "a": 3,
+      "b": 10,
+      "aPts": 0,
+      "bPts": 0,
+      "aProj": 171.2,
+      "bProj": 169.4,
+      "status": "Game of the week"
+     },
+     {
+      "a": 7,
+      "b": 8,
+      "aPts": 15.6,
+      "bPts": 0,
+      "aProj": 165.5,
+      "bProj": 177.5,
+      "status": "Kickoff Sun"
+     },
+     {
+      "a": 1,
+      "b": 6,
+      "aPts": 33.3,
+      "bPts": 0,
+      "aProj": 142.2,
+      "bProj": 91.8,
+      "status": "Kickoff Sun"
+     },
+     {
+      "a": 5,
+      "b": 11,
+      "aPts": 0,
+      "bPts": 12.9,
+      "aProj": 147.0,
+      "bProj": 122.7,
+      "status": "Kickoff Sun"
+     },
+     {
+      "a": 2,
+      "b": 12,
+      "aPts": 0,
+      "bPts": 0,
+      "aProj": 119.7,
+      "bProj": 126.9,
+      "status": "Kickoff Sun"
+     },
+     {
+      "a": 4,
+      "b": 9,
+      "aPts": 3.1,
+      "bPts": 11.4,
+      "aProj": 84.2,
+      "bProj": 105.3,
+      "status": "Kickoff Sun"
+     }
+    ]
+   },
+   "lead": {
+    "flag": "Front page · Sunday Edition · Game day",
+    "headline": "The Champ Smells Blood",
+    "deck": "Undefeated Stroke The Post is a projected underdog to Send Nudes, 171.2 to 169.4. Jeff Longwood's upset of the week is Ben Football Team over brimley, and the injury report reaches nine of twelve rosters."
+   },
+   "stories": [
+    {
+     "color": "gold",
+     "avatar": "jeff",
+     "writer": "Jeff Longwood",
+     "role": "Sunday Picks · Never Met a Parlay He Didn't Like",
+     "kicker": "Week 4 locks",
+     "headline": "I'm Telling You. This Is How I Win.",
+     "paragraphs": [],
+     "intro": [
+      "I spent all night with the Vegas board, and I need you to understand something. The projections tell you who's better. The board tells you who's playing in a shootout and who's stuck in a 38-point rock fight. That's where the money is. Six games. Six calls. One of them is going to make me rich."
+     ],
+     "sections": [
+      {
+       "a": 3,
+       "b": 10,
+       "tag": "Game of the week",
+       "pick": 3,
+       "note": "Chalk, but the right chalk. The Burrow-Chase stack in a 51.5-point game is the best two-man combo in this matchup.",
+       "p": [
+        "Everybody's treating Stroke The Post like the house because it's 3-0. Wake up. The computer has the champ favored, so this isn't an upset. This is the favorite nobody believes in, which is my favorite kind of bet.",
+        "Here's what the board says. Send Nudes has Joe Burrow and Ja'Marr Chase together against Jacksonville, the highest total on the whole slate at 51.5. When that game goes off, the champ gets paid twice. Derrick Henry gets Tennessee with Baltimore laying 11.5, which means a fourth quarter full of clock-killing carries, and that's Henry's favorite food. Jahmyr Gibbs closes it out Sunday night in Carolina with the Lions implied for 27.",
+        "Stroke's problem is the calendar. Three of its starters play Monday night, on both sides of the same game: Michael Penix and Drake London for Atlanta, Chris Olave for New Orleans. Stroke won't know if it won until Tuesday. Garrett Wilson draws Chicago with the Jets implied for 20. James Cook against New England is the best spot on the roster, Buffalo at 28.",
+        "The risk is Mike Evans and his ribs at 3:25 against Denver. If he's inactive, swap him and keep the pick."
+       ],
+       "book": {
+        "line": "Send Nudes -1.8",
+        "total": 340.6,
+        "envA": 25.1,
+        "envB": 24.1,
+        "hiA": 6,
+        "hiB": 4
+       }
+      },
+      {
+       "a": 7,
+       "b": 8,
+       "tag": "Sunday",
+       "pick": 8,
+       "note": "Bijan wins, but if you gave me #StopAsianHate plus 12, I'd take the points.",
+       "p": [
+        "Twelve points is a big number, and I'm telling you right now the board says this is closer. #StopAsianHate has six starters in offenses implied for 25 or more. Lamar Jackson and Zay Flowers get Tennessee. Kenneth Walker and Rashee Rice are in Kansas City's 26-point spot against the Raiders. Jaylen Warren already put up 15.6 Thursday.",
+        "But watch the Baltimore number. Ravens minus 11.5 means a blowout, and in blowouts Lamar spends the fourth quarter in a headset. Flowers is questionable with a hamstring on top of that. That's how 165 turns into 140.",
+        "Bijan Your Face has the soft spot too. Ashton Jeanty and Brock Bowers both play for a Raiders team implied for 21.8 as 4.5-point dogs. Trailing script is great for Bowers' targets and bad for Jeanty's carries. Josh Allen against New England at 28 implied fixes everything, and Bijan Robinson sweats it out Monday night.",
+        "Straight up, I'm on the 209-a-week machine. Against the number? Different story."
+       ],
+       "book": {
+        "line": "Bijan Your Face -12.0",
+        "total": 343.0,
+        "envA": 24.9,
+        "envB": 24.5,
+        "hiA": 6,
+        "hiB": 5
+       }
+      },
+      {
+       "a": 1,
+       "b": 6,
+       "tag": "Lock of the week",
+       "pick": 1,
+       "note": "Sheev minus 50 and I'd still lay it. Four Panic starters play in offenses implied for 18 or less.",
+       "p": [
+        "I've seen bad lineups. I've never seen a lineup this deep in the dead zone. Panic Trade Project starts Jaylen Wright in Miami, implied for 14.2 points as a 10-point dog in Minnesota. Carnell Tate plays for a Titans offense implied for 15.5 against Baltimore. Emeka Egbuka catches passes from Jalon Daniels in a game with a 38.5 total, tied for the lowest on the board. Keaton Mitchell runs into Seattle as a 7-point dog.",
+        "That's four starters in offenses projected for 18 points or fewer. That's not a lineup. That's a hostage situation.",
+        "Sheev already has 33.3 points from Thursday, Brock Purdy and Deebo Samuel get Denver at home with San Francisco implied for 25, and C.J. Stroud gets Dallas indoors. The commissioner's first win of the season is the safest bet I'll make all year. I'm putting my watch on it. Don't ask which watch."
+       ],
+       "book": {
+        "line": "Sheev -50.4",
+        "total": 234.0,
+        "envA": 23.8,
+        "envB": 19.7,
+        "hiA": 3,
+        "hiB": 0
+       }
+      },
+      {
+       "a": 5,
+       "b": 11,
+       "tag": "Upset of the week",
+       "upset": true,
+       "pick": 11,
+       "note": "UPSET. Five Ben starters play in offenses implied for 25 or more. brimley has one.",
+       "p": [
+        "This is the one. The projection says brimley by 24. The Vegas board says the game environments are lopsided the other way, and I trust Vegas a lot more than I trust a spreadsheet.",
+        "Look where brimley's points live. Jordan Love and Christian Watson both play in Green Bay at Tampa, a 38.5 total, tied for the lowest on the board. Bucky Irving plays on the other side of that same game for a Bucs offense with Jalon Daniels at quarterback, implied for 17.8. That's three brimley starters stuck in the slowest game of the week. Stefon Diggs gets Marcus Mariota. Saquon Barkley gets the Rams with Philly implied for 21. DJ Moore in Buffalo is the only starter with a real ceiling.",
+        "Now Ben. Jared Goff and Sam LaPorta stack together in Detroit's Sunday night game, Lions implied for 27 in a 50.5 total, and Chuba Hubbard plays on the other side of it. Patrick Mahomes gets the Raiders with Kansas City at 26.2. Rashid Shaheed and Devaughn Vele both play in 25-point spots. Denzel Boston already banked 12.9 Thursday.",
+        "Everybody laughed when Ben traded for a 31-year-old quarterback. Today the 31-year-old quarterback pays for my dinner."
+       ],
+       "book": {
+        "line": "brimley -24.3",
+        "total": 269.7,
+        "envA": 22.0,
+        "envB": 23.7,
+        "hiA": 1,
+        "hiB": 5
+       }
+      },
+      {
+       "a": 2,
+       "b": 12,
+       "tag": "Sunday",
+       "pick": 12,
+       "note": "Jackie, but only if somebody wakes up for the London inactives. That game kicks at 8:30 a.m. Central.",
+       "p": [
+        "I wanted to fade Jackie aCHANe. I really did. Two questionable receivers, the worst lineup decisions in the league, Nico Collins rotting on the bench. Then I looked at the board and it wouldn't let me.",
+        "God Bless Vodka is in trouble at quarterback and running back. Justin Herbert and Omarion Hampton play for a Chargers team implied for 18 as 7-point dogs in Seattle. Geno Smith gets Chicago with the Jets at 20. Matthew Golden is in the 38.5-point Green Bay game. Jameson Williams on Sunday night in Carolina is Vodka's best bet, and one receiver doesn't win a week.",
+        "Jackie, meanwhile, has Chase Brown in Cincinnati's 27-point spot, Khalil Shakir with Buffalo at 28, and Kyler Murray against a Dolphins team getting 10 points. Even the Houston backfield split between David Montgomery and Woody Marks lands in a 25-point environment.",
+        "The catch: Terry McLaurin and Keenan Allen are both questionable, and both play in the London game, which kicks at 8:30 in the morning our time. Inactives come out around 7. If Jackie sleeps in, Jackie loses."
+       ],
+       "book": {
+        "line": "Jackie aCHANe -7.2",
+        "total": 246.6,
+        "envA": 22.4,
+        "envB": 23.6,
+        "hiA": 3,
+        "hiB": 5
+       }
+      },
+      {
+       "a": 4,
+       "b": 9,
+       "tag": "Toilet bowl",
+       "pick": 9,
+       "note": "Naughty Boys lead 11.4 to 3.1 already and project by 21. I always take the points.",
+       "p": [
+        "Two 0-3 teams, and here's the beautiful part. ClutchJuice owns Very Naughty Boys' first-round pick. ClutchJuice is the only manager in history rooting for both teams to lose.",
+        "There's a sneaky angle for ClutchJuice: Drake Maye in Buffalo as a 7-point dog. Trailing teams throw all afternoon, and garbage-time quarterback points count the same as real ones. Rashod Bateman in Baltimore's 27-point spot helps too.",
+        "But Very Naughty Boys has the better board. Dalton Kincaid gets New England with Buffalo implied for 28. Jordan Addison gets every target Justin Jefferson isn't there to take. Sam Darnold plays at home as a 7-point favorite. They're up 11.4 to 3.1 from Thursday. I'll take the points."
+       ],
+       "book": {
+        "line": "Very Naughty Boys -21.1",
+        "total": 189.5,
+        "envA": 21.8,
+        "envB": 22.5,
+        "hiA": 2,
+        "hiB": 2
+       }
+      }
+     ]
+    },
+    {
+     "color": "teal",
+     "serif": true,
+     "avatar": "anita",
+     "writer": "Dr. Anita Wang",
+     "role": "Injury Desk",
+     "kicker": "Injury report",
+     "headline": "Chicago Loses Its Quarterback, and Four of You Feel It",
+     "paragraphs": [
+      "Good morning. Final injury reports are in, and the most important name on them isn't in anyone's starting lineup. Caleb Williams is out with a hamstring injury, and Case Keenum starts for Chicago. That downgrade runs through four of our rosters: Sheev's Luther Burden and Kyle Monangai, Stroke The Post's D'Andre Swift, Very Naughty Boys' Colston Loveland, and Panic Trade Project's Rome Odunze.",
+      "The questionable list matters most in the game of the week. Mike Evans is questionable for Send Nudes with a rib injury. He has said he intends to play, and rib injuries rarely cost a receiver snaps once he's active. Zay Flowers is questionable for #StopAsianHate with a hamstring. Reporting out of Baltimore is optimistic, but hamstrings are the injury most likely to reappear mid-game.",
+      "Jackie aCHANe carries the most risk this morning. Terry McLaurin was a late addition to Washington's report with a hamstring, Keenan Allen is questionable with a groin issue, and Jayden Daniels is out, so Marcus Mariota is throwing to both. Jackie needs a plan B for each before kickoff.",
+      "Panic Trade Project has a timing problem. Jalen Coker is questionable with a quad injury, and Carolina plays Sunday night. If Coker starts and is ruled inactive Sunday evening, there may be nobody left on the bench who hasn't already played. A safer starter now beats an empty slot later.",
+      "Inactive lists come out about 90 minutes before each kickoff. Check them. These designations tell you who's at risk, not who sits."
+     ],
+     "injuries": true
+    }
+   ],
+   "injuries": [
+    {
+     "status": "out",
+     "player": "Caleb Williams",
+     "nfl": "CHI · QB",
+     "injury": "Hamstring",
+     "teams": [
+      1,
+      10,
+      9,
+      6
+     ],
+     "impact": "Case Keenum starts. Downgrade for Luther Burden and Kyle Monangai (Sheev), D'Andre Swift (Stroke The Post), Colston Loveland (Very Naughty Boys) and Rome Odunze (Panic Trade Project)."
+    },
+    {
+     "status": "out",
+     "player": "Baker Mayfield",
+     "nfl": "TB · QB",
+     "injury": "Thumb",
+     "teams": [
+      6,
+      9,
+      4,
+      5,
+      3
+     ],
+     "impact": "Sleeper projects Jalon Daniels to start, owned by Send Nudes. Downgrade for Emeka Egbuka (Panic), Chris Godwin (Very Naughty Boys), Cade Otton (ClutchJuice) and Bucky Irving (brimley)."
+    },
+    {
+     "status": "out",
+     "player": "Justin Jefferson",
+     "nfl": "MIN · WR",
+     "injury": "Ankle",
+     "teams": [
+      9,
+      3,
+      12
+     ],
+     "impact": "More targets for Jordan Addison (Very Naughty Boys). Aaron Jones (Send Nudes) should see more work. Kyler Murray (Jackie aCHANe) loses his top target."
+    },
+    {
+     "status": "out",
+     "player": "Jayden Daniels",
+     "nfl": "WAS · QB",
+     "injury": "Elbow",
+     "teams": [
+      12,
+      9,
+      5
+     ],
+     "impact": "Marcus Mariota starts. Downgrade for Terry McLaurin (Jackie aCHANe), Jacory Croskey-Merritt (Very Naughty Boys) and Stefon Diggs (brimley)."
+    },
+    {
+     "status": "q",
+     "player": "Mike Evans",
+     "nfl": "SF · WR",
+     "injury": "Ribs",
+     "teams": [
+      3
+     ],
+     "impact": "Says he will play. A starter for Send Nudes in the game of the week."
+    },
+    {
+     "status": "q",
+     "player": "Zay Flowers",
+     "nfl": "BAL · WR",
+     "injury": "Hamstring",
+     "teams": [
+      7
+     ],
+     "impact": "Optimism he plays. #StopAsianHate's second-best projected receiver."
+    },
+    {
+     "status": "q",
+     "player": "Terry McLaurin",
+     "nfl": "WAS · WR",
+     "injury": "Hamstring, added Friday",
+     "teams": [
+      12
+     ],
+     "impact": "Late addition is a bad sign. Jackie aCHANe should line up a replacement."
+    },
+    {
+     "status": "q",
+     "player": "Keenan Allen",
+     "nfl": "IND · WR",
+     "injury": "Groin",
+     "teams": [
+      12
+     ],
+     "impact": "Low projection (8.9) even if active. Jackie's second questionable starter."
+    },
+    {
+     "status": "q",
+     "player": "Jalen Coker",
+     "nfl": "CAR · WR",
+     "injury": "Quad",
+     "teams": [
+      6
+     ],
+     "impact": "Plays Sunday night. If inactive, Panic Trade Project may have no healthy swap left."
+    },
+    {
+     "status": "clear",
+     "player": "Puka Nacua, Lamar Jackson, Brock Bowers, Ashton Jeanty, Drake Maye, Bryce Young, D'Andre Swift, J.K. Dobbins",
+     "nfl": "Various",
+     "injury": "Listed, no game designation",
+     "teams": [
+      3,
+      7,
+      8,
+      4,
+      12,
+      10,
+      9
+     ],
+     "impact": "All practiced through injuries this week and carry no status for Sunday. Start them."
+    }
+   ]
+  },
+  "thursday": {
+   "key": "thursday",
+   "label": "Thursday Edition",
+   "week": 4,
+   "published": "Thu, Oct 1, 2026",
+   "scoreboard": {
+    "mode": "upcoming",
+    "label": "Week 4",
+    "sublabel": "Projected",
+    "games": [
+     {
+      "a": 3,
+      "b": 10,
+      "aProj": 171.2,
+      "bProj": 169.4,
+      "status": "Game of the week"
+     },
+     {
+      "a": 7,
+      "b": 8,
+      "aProj": 168.4,
+      "bProj": 177.5,
+      "status": "Thu–Mon"
+     },
+     {
+      "a": 1,
+      "b": 6,
+      "aProj": 131.5,
+      "bProj": 91.8,
+      "status": "Thu–Mon"
+     },
+     {
+      "a": 5,
+      "b": 11,
+      "aProj": 147.0,
+      "bProj": 120.5,
+      "status": "Thu–Mon"
+     },
+     {
+      "a": 2,
+      "b": 12,
+      "aProj": 119.7,
+      "bProj": 126.9,
+      "status": "Thu–Mon"
+     },
+     {
+      "a": 4,
+      "b": 9,
+      "aProj": 88.1,
+      "bProj": 100.9,
+      "status": "Thu–Mon"
+     }
+    ]
+   },
+   "lead": {
+    "flag": "Front page · Thursday Edition",
+    "headline": "Ben Football Team Burns It Down",
+    "deck": "Three trades in one week. Patrick Mahomes is in, Drake Maye is out, and a future first is gone. Meanwhile the waiver wire went quiet."
+   },
+   "stories": [
+    {
+     "color": "red",
+     "avatar": "simone",
+     "writer": "Simone Hart",
+     "role": "Senior Insider · Waiver Wire",
+     "kicker": "The wire",
+     "headline": "The Waiver Wire Went Quiet. Panic Trade Project Didn't.",
+     "paragraphs": [
+      "This was a trade week, and the waiver wire showed it. Only two Week 4 claims cost anything: Send Nudes paid $8 for receiver Konata Mumpfield and cut Joe Flacco to make room, and Bijan Your Face spent $1 on Kalif Raymond. Everyone else shopped the $0 bin.",
+      "The best value of the week might be the cheapest. Jackie aCHANe picked up Samaje Perine for nothing. He won't win anyone a week, but Jackie has started the league's least efficient lineups, and a usable depth back costs exactly zero.",
+      "The real spending happened a week earlier, and it was all Panic Trade Project. bhegg97 dropped $32 of FAAB in one night, $16 on Keaton Mitchell and $16 more on Jaylen Wright, the running back ClutchJuice had just cut. Then he traded for Emeka Egbuka. Two trades, two big claims, one week. The team name is not a joke.",
+      "Send Nudes also made a quiet move worth watching: $14 for Jalon Daniels in Week 3. In a superflex league, any quarterback projected to start is never a throwaway claim. The defending champ is stocking the cupboard."
+     ]
+    },
+    {
+     "color": "blue",
+     "serif": true,
+     "avatar": "kenny",
+     "writer": "Kenny Park",
+     "role": "Matchup Intelligence",
+     "kicker": "Here's what matters",
+     "headline": "Six Games, Six Questions",
+     "paragraphs": [
+      "No picks here. Jeff Longwood handles those on Sunday, after the injury report settles. This is the scouting file: what each matchup hinges on, by the numbers.",
+      "The game of the week is a coin flip on paper. Send Nudes projects at 171.2 and Stroke The Post at 169.4, and both scored exactly 193.7 last week. The difference is construction. Send Nudes starts Gibbs, Henry, Kyren Williams and Aaron Jones, the best projected backfield in the league. Stroke counters with Lamb, Olave, London and Garrett Wilson.",
+      "The schedule has been loud. Sheev and brimley have each faced more than 179 points a game, the two toughest slates in the league. Jackie aCHANe and Panic Trade Project have faced fewer than 92. Records built on those numbers tend to regress, in both directions.",
+      "One number to watch all season: lineup efficiency. ClutchJuice sets the best lineups in the league at 94% and is 0-3 anyway. Jackie aCHANe sets the worst at 74% and is 2-1. Talent and decisions are separate problems, and right now they're producing opposite results."
+     ]
+    }
+   ],
+   "intel": [
+    {
+     "a": 3,
+     "b": 10,
+     "A": {
+      "rec": "2-1",
+      "ppg": 166.9,
+      "last": 193.7,
+      "proj": 171.2,
+      "pag": 152.8,
+      "eff": 92
+     },
+     "B": {
+      "rec": "3-0",
+      "ppg": 192.0,
+      "last": 193.7,
+      "proj": 169.4,
+      "pag": 131.5,
+      "eff": 91
+     },
+     "ga": {
+      "QB": 34.4,
+      "RB": 73.0,
+      "WR": 51.5,
+      "TE": 12.3
+     },
+     "gb": {
+      "QB": 31.0,
+      "RB": 55.1,
+      "WR": 71.5,
+      "TE": 11.8
+     },
+     "note": "Mirror images. Both teams scored 193.7 last week. Send Nudes owns the backfield by 17.9 projected points; Stroke owns the receivers by 20.0. Whichever unit hits decides it."
+    },
+    {
+     "a": 7,
+     "b": 8,
+     "A": {
+      "rec": "2-1",
+      "ppg": 152.0,
+      "last": 156.4,
+      "proj": 168.4,
+      "pag": 131.8,
+      "eff": 86
+     },
+     "B": {
+      "rec": "3-0",
+      "ppg": 209.2,
+      "last": 186.7,
+      "proj": 177.5,
+      "pag": 139.5,
+      "eff": 89
+     },
+     "ga": {
+      "QB": 38.4,
+      "RB": 53.8,
+      "WR": 68.3,
+      "TE": 8.0
+     },
+     "gb": {
+      "QB": 41.9,
+      "RB": 56.3,
+      "WR": 64.0,
+      "TE": 15.3
+     },
+     "note": "Bijan's 209 average is inflated by a 257-point Week 2, but its floor is still 183. #StopAsianHate has the better projected receiver group, 68.3 to 64.0, and trails by only 9.1 overall."
+    },
+    {
+     "a": 1,
+     "b": 6,
+     "A": {
+      "rec": "0-3",
+      "ppg": 150.1,
+      "last": 152.7,
+      "proj": 131.5,
+      "pag": 179.3,
+      "eff": 86
+     },
+     "B": {
+      "rec": "2-1",
+      "ppg": 92.3,
+      "last": 77.6,
+      "proj": 91.8,
+      "pag": 91.0,
+      "eff": 84
+     },
+     "ga": {
+      "QB": 38.2,
+      "RB": 28.6,
+      "WR": 52.9,
+      "TE": 11.7
+     },
+     "gb": {
+      "QB": 18.1,
+      "RB": 10.3,
+      "WR": 59.1,
+      "TE": 4.2
+     },
+     "note": "The biggest quarterback gap of the week: 20.1 projected points. Sheev has faced 179 points a game, the second-toughest schedule. Panic has faced 91, the second-easiest."
+    },
+    {
+     "a": 5,
+     "b": 11,
+     "A": {
+      "rec": "1-2",
+      "ppg": 146.9,
+      "last": 130.7,
+      "proj": 147.0,
+      "pag": 201.5,
+      "eff": 89
+     },
+     "B": {
+      "rec": "2-1",
+      "ppg": 101.0,
+      "last": 67.1,
+      "proj": 120.5,
+      "pag": 98.5,
+      "eff": 87
+     },
+     "ga": {
+      "QB": 37.4,
+      "RB": 28.9,
+      "WR": 63.3,
+      "TE": 17.4
+     },
+     "gb": {
+      "QB": 38.6,
+      "RB": 24.8,
+      "WR": 46.2,
+      "TE": 10.9
+     },
+     "note": "brimley's 89% lineup efficiency and 201.5 points allowed per game say the record is the schedule's fault. Ben's roster is new; its 101 average describes a team that no longer exists."
+    },
+    {
+     "a": 2,
+     "b": 12,
+     "A": {
+      "rec": "1-2",
+      "ppg": 114.9,
+      "last": 131.0,
+      "proj": 119.7,
+      "pag": 142.3,
+      "eff": 84
+     },
+     "B": {
+      "rec": "2-1",
+      "ppg": 104.3,
+      "last": 108.4,
+      "proj": 126.9,
+      "pag": 77.5,
+      "eff": 74
+     },
+     "ga": {
+      "QB": 28.8,
+      "RB": 26.3,
+      "WR": 43.8,
+      "TE": 20.7
+     },
+     "gb": {
+      "QB": 36.6,
+      "RB": 40.9,
+      "WR": 38.9,
+      "TE": 10.5
+     },
+     "note": "Jackie wins on the ground by 14.6; Vodka answers at tight end by 10.2. Jackie's 74% lineup efficiency is the worst in the league. Start-sit decisions are the swing factor."
+    },
+    {
+     "a": 4,
+     "b": 9,
+     "A": {
+      "rec": "0-3",
+      "ppg": 75.3,
+      "last": 72.6,
+      "proj": 88.1,
+      "pag": 105.9,
+      "eff": 94
+     },
+     "B": {
+      "rec": "0-3",
+      "ppg": 83.5,
+      "last": 97.7,
+      "proj": 100.9,
+      "pag": 136.7,
+      "eff": 86
+     },
+     "ga": {
+      "QB": 18.2,
+      "RB": 33.5,
+      "WR": 29.3,
+      "TE": 7.1
+     },
+     "gb": {
+      "QB": 16.7,
+      "RB": 21.1,
+      "WR": 40.6,
+      "TE": 22.5
+     },
+     "note": "Two winless teams. Four rookie starters without projections between them make this the least predictable game of the week."
+    }
+   ],
+   "intelNote": "Proj = sum of Sleeper's Week 4 projections for each starting lineup. Starters without a Sleeper projection count as 7 points."
+  },
+  "tuesday": {
+   "key": "tuesday",
+   "label": "Tuesday Edition",
+   "pending": true,
+   "week": 4,
+   "pendingNote": "The first Tuesday Edition, with Margaret Lee's Week 4 recap, Kenny Park's takes and final scores, publishes Tuesday, Oct 6 at 12:00 AM."
+  }
+ },
+ "projNote": "Projections are Sleeper's Week 4 numbers summed across each starting lineup. Starters without a Sleeper projection count as 7 points.",
+ "dynasty": {
+  "asOf": "Sun, Oct 4, 2026",
+  "teams": {
+   "1": {
+    "players": [
+     {
+      "id": 8183,
+      "name": "Brock Purdy",
+      "pos": "QB",
+      "age": 26.7,
+      "val": 5876,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "SF",
+      "inj": null
+     },
+     {
+      "id": 11566,
+      "name": "Jayden Daniels",
+      "pos": "QB",
+      "age": 25.8,
+      "val": 5075,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "WAS",
+      "inj": "Out"
+     },
+     {
+      "id": 12526,
+      "name": "Tetairoa McMillan",
+      "pos": "WR",
+      "age": 23.5,
+      "val": 4058,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "CAR",
+      "inj": null
+     },
+     {
+      "id": 9487,
+      "name": "Parker Washington",
+      "pos": "WR",
+      "age": 24.5,
+      "val": 3892,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 8155,
+      "name": "Breece Hall",
+      "pos": "RB",
+      "age": 25.3,
+      "val": 3508,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "NYJ",
+      "inj": "Out"
+     },
+     {
+      "id": 13281,
+      "name": "Jordyn Tyson",
+      "pos": "WR",
+      "age": 22.1,
+      "val": 3102,
+      "src": "fc",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "NO",
+      "inj": "IR"
+     },
+     {
+      "id": 12519,
+      "name": "Luther Burden",
+      "pos": "WR",
+      "age": 22.8,
+      "val": 3073,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 9758,
+      "name": "C.J. Stroud",
+      "pos": "QB",
+      "age": 25.0,
+      "val": 3073,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 12512,
+      "name": "Quinshon Judkins",
+      "pos": "RB",
+      "age": 22.9,
+      "val": 3016,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "CLE",
+      "inj": null
+     },
+     {
+      "id": 12506,
+      "name": "Harold Fannin",
+      "pos": "TE",
+      "age": 22.2,
+      "val": 2936,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "CLE",
+      "inj": null
+     },
+     {
+      "id": 12529,
+      "name": "TreVeyon Henderson",
+      "pos": "RB",
+      "age": 23.9,
+      "val": 2714,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "NE",
+      "inj": null
+     },
+     {
+      "id": 12534,
+      "name": "Kyle Monangai",
+      "pos": "RB",
+      "age": 24.3,
+      "val": 1000,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 13289,
+      "name": "Drew Allar",
+      "pos": "QB",
+      "age": 22.6,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "PIT",
+      "inj": "Out"
+     },
+     {
+      "id": 13417,
+      "name": "De'Zhaun Stribling",
+      "pos": "WR",
+      "age": 23.8,
+      "val": 900,
+      "src": "est",
+      "status": "IR",
+      "cls": 2026,
+      "nfl": "SF",
+      "inj": "IR"
+     },
+     {
+      "id": 12493,
+      "name": "Oronde Gadsden",
+      "pos": "TE",
+      "age": 23.3,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "LAC",
+      "inj": null
+     },
+     {
+      "id": 11583,
+      "name": "Jonathon Brooks",
+      "pos": "RB",
+      "age": 23.2,
+      "val": 500,
+      "src": "est",
+      "status": "IR",
+      "cls": 2024,
+      "nfl": "CAR",
+      "inj": "IR"
+     },
+     {
+      "id": 5872,
+      "name": "Deebo Samuel",
+      "pos": "WR",
+      "age": 30.7,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2019,
+      "nfl": "SF",
+      "inj": null
+     },
+     {
+      "id": 10218,
+      "name": "Xavier Hutchinson",
+      "pos": "WR",
+      "age": 26.3,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 10222,
+      "name": "Jayden Reed",
+      "pos": "WR",
+      "age": 26.4,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "GB",
+      "inj": "IR"
+     },
+     {
+      "id": 9480,
+      "name": "Brenton Strange",
+      "pos": "TE",
+      "age": 25.8,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 9504,
+      "name": "Kayshon Boutte",
+      "pos": "WR",
+      "age": 24.4,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 8131,
+      "name": "Isaiah Likely",
+      "pos": "TE",
+      "age": 26.5,
+      "val": 250,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "NYG",
+      "inj": null
+     },
+     {
+      "id": 2307,
+      "name": "Marcus Mariota",
+      "pos": "QB",
+      "age": 32.9,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2015,
+      "nfl": "WAS",
+      "inj": "Questionable"
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 11,
+      "val": 3170,
+      "slot": "mid"
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 1,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 1,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 3,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 7,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 1,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 7,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 1,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 8,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 1,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 46573,
+    "pickVal": 8920,
+    "total": 55493,
+    "wage": 24.3,
+    "youngShare": 64,
+    "oldShare": 0,
+    "fcCount": 11,
+    "allplay": 1.91,
+    "luck": -1.91,
+    "proj": 6.0,
+    "strength": 140.8,
+    "drank": 5,
+    "window": "Dynasty power",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 5,
+      "pts": 153.36,
+      "oppPts": 203.78,
+      "ap": 6
+     },
+     {
+      "w": 2,
+      "opp": 3,
+      "pts": 144.42,
+      "oppPts": 147.36,
+      "ap": 8
+     },
+     {
+      "w": 3,
+      "opp": 8,
+      "pts": 152.66,
+      "oppPts": 186.7,
+      "ap": 7
+     }
+    ],
+    "breakdown": {
+     "by": "margaret",
+     "headline": "The Unluckiest 0‑3 You'll Ever See",
+     "verdict": "Dynasty power hiding behind a bad record. Youngest contender in the league.",
+     "move": "Hold. Do not sell low because of the record. If anything, consolidate two of the four quarterbacks into one elite piece.",
+     "p": [
+      "Sheev is 0-3. Sheev is also one of the five most valuable teams in this league. Both things are true.",
+      "The record is mostly bad luck. Sheev has scored 150 a week, fifth in the league, and faced 179.3 points a game, the second-toughest schedule in the league. The all-play mark is 1.91, which means an average schedule produces about a 2-1 start. The luck factor is -1.91, the worst in the league by more than a full win.",
+      "The roster is the youngest of any contender. Value-weighted age is 24.3, and 64% of the team's value sits in players 25 or younger. Nothing on this roster is 29 or older. Tetairoa McMillan, Luther Burden, Jordyn Tyson, Quinshon Judkins, Harold Fannin and TreVeyon Henderson are all 24 or younger.",
+      "The quarterback room is crowded: Brock Purdy, Jayden Daniels (out this week), C.J. Stroud and Marcus Mariota. In superflex that's leverage. Four starters for two slots is a trade waiting to happen.",
+      "One real concern. Sheev doesn't own its 2027 first. Very Naughty Boys does. The model projects Sheev for 6.0 wins, so that pick could land in the top half of the draft if the luck doesn't turn. Sheev holds Ben Football Team's 2027 first and #StopAsianHate's 2028 first, which softens the blow."
+     ]
+    }
+   },
+   "2": {
+    "players": [
+     {
+      "id": 13287,
+      "name": "Jeremiyah Love",
+      "pos": "RB",
+      "age": 21.3,
+      "val": 6587,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "ARI",
+      "inj": null
+     },
+     {
+      "id": 12507,
+      "name": "Omarion Hampton",
+      "pos": "RB",
+      "age": 23.5,
+      "val": 4303,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "LAC",
+      "inj": null
+     },
+     {
+      "id": 6797,
+      "name": "Justin Herbert",
+      "pos": "QB",
+      "age": 28.5,
+      "val": 4124,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "LAC",
+      "inj": null
+     },
+     {
+      "id": 12501,
+      "name": "Matthew Golden",
+      "pos": "WR",
+      "age": 23.1,
+      "val": 2775,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "GB",
+      "inj": null
+     },
+     {
+      "id": 13286,
+      "name": "Jadarian Price",
+      "pos": "RB",
+      "age": 23.0,
+      "val": 2543,
+      "src": "fc",
+      "status": "IR",
+      "cls": 2026,
+      "nfl": "SEA",
+      "inj": "IR"
+     },
+     {
+      "id": 12522,
+      "name": "Cam Ward",
+      "pos": "QB",
+      "age": 24.3,
+      "val": 2489,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 4217,
+      "name": "George Kittle",
+      "pos": "TE",
+      "age": 33.0,
+      "val": 2385,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2017,
+      "nfl": "SF",
+      "inj": null
+     },
+     {
+      "id": 8148,
+      "name": "Jameson Williams",
+      "pos": "WR",
+      "age": 25.5,
+      "val": 2307,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "DET",
+      "inj": null
+     },
+     {
+      "id": 13348,
+      "name": "J'Mari Taylor",
+      "pos": "RB",
+      "age": 24.6,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 11631,
+      "name": "Brian Thomas",
+      "pos": "WR",
+      "age": 24.0,
+      "val": 800,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 12497,
+      "name": "Tory Horton",
+      "pos": "WR",
+      "age": 23.8,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 12536,
+      "name": "Jaylin Noel",
+      "pos": "WR",
+      "age": 24.1,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 9500,
+      "name": "Josh Downs",
+      "pos": "WR",
+      "age": 25.1,
+      "val": 650,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "IND",
+      "inj": null
+     },
+     {
+      "id": 8110,
+      "name": "Jake Ferguson",
+      "pos": "TE",
+      "age": 27.7,
+      "val": 550,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "DAL",
+      "inj": null
+     },
+     {
+      "id": 11610,
+      "name": "Malik Washington",
+      "pos": "WR",
+      "age": 25.7,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "MIA",
+      "inj": null
+     },
+     {
+      "id": 11624,
+      "name": "Xavier Worthy",
+      "pos": "WR",
+      "age": 23.4,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 1373,
+      "name": "Geno Smith",
+      "pos": "QB",
+      "age": 36.0,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "NYJ",
+      "inj": null
+     },
+     {
+      "id": 10235,
+      "name": "Roschon Johnson",
+      "pos": "RB",
+      "age": 25.7,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 8132,
+      "name": "Tyler Allgeier",
+      "pos": "RB",
+      "age": 26.5,
+      "val": 250,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "ARI",
+      "inj": null
+     },
+     {
+      "id": 8205,
+      "name": "Isiah Pacheco",
+      "pos": "RB",
+      "age": 27.6,
+      "val": 250,
+      "src": "est",
+      "status": "IR",
+      "cls": 2022,
+      "nfl": "DET",
+      "inj": "IR"
+     },
+     {
+      "id": 9225,
+      "name": "Tank Bigsby",
+      "pos": "RB",
+      "age": 24.1,
+      "val": 250,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "PHI",
+      "inj": null
+     },
+     {
+      "id": 5012,
+      "name": "Mark Andrews",
+      "pos": "TE",
+      "age": 31.1,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "BAL",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 2,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 8,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 2,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 8,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 2,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 2,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 2,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 2,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 34513,
+    "pickVal": 4800,
+    "total": 39313,
+    "wage": 24.7,
+    "youngShare": 66,
+    "oldShare": 7,
+    "fcCount": 8,
+    "allplay": 1.27,
+    "luck": -0.27,
+    "proj": 5.5,
+    "strength": 117.3,
+    "drank": 10,
+    "window": "Rebuild",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 9,
+      "pts": 86.86,
+      "oppPts": 67.12,
+      "ap": 2
+     },
+     {
+      "w": 2,
+      "opp": 10,
+      "pts": 126.8,
+      "oppPts": 203.4,
+      "ap": 6
+     },
+     {
+      "w": 3,
+      "opp": 7,
+      "pts": 130.98,
+      "oppPts": 156.42,
+      "ap": 6
+     }
+    ],
+    "breakdown": {
+     "by": "anita",
+     "headline": "The League's Best Young Backfield, and No 2027 Pick",
+     "verdict": "Rebuild with real youth. Jeremiyah Love is a cornerstone. The missing 2027 picks hurt.",
+     "move": "Sell George Kittle now. He's 33, he still scores, and contenders will pay for that.",
+     "p": [
+      "God Bless Vodka has one of the healthiest rosters in the league from an age standpoint. Value-weighted age is 24.7, and 66% of the team's value is in players 25 or younger.",
+      "The centerpiece is Jeremiyah Love. At 21.3, he's the 12th-most valuable asset in the league and the youngest player in the top 15. Omarion Hampton (23.5) and Jadarian Price (23.0) give Vodka three young backs, though Price is on the IR slot. Matthew Golden (23.1) and Cam Ward (24.3) add youth at receiver and quarterback.",
+      "The outlier is George Kittle. At 33.0, he's the oldest starter on the roster and an injury risk every week; tight ends that age wear down fast. He's still productive, which makes him a sell candidate rather than a hold.",
+      "The current team is middling: 1-2 with an all-play of 1.27, so the record is close to fair. The model projects 5.5 wins.",
+      "Here's the catch. Bijan Your Face owns Vodka's 2027 first and second, and that first currently projects early. Vodka is rebuilding without its most valuable rebuilding asset. Only the 2028 first and second remain."
+     ]
+    }
+   },
+   "3": {
+    "players": [
+     {
+      "id": 9221,
+      "name": "Jahmyr Gibbs",
+      "pos": "RB",
+      "age": 24.5,
+      "val": 10577,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "DET",
+      "inj": null
+     },
+     {
+      "id": 7564,
+      "name": "Ja'Marr Chase",
+      "pos": "WR",
+      "age": 26.6,
+      "val": 8686,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2021,
+      "nfl": "CIN",
+      "inj": null
+     },
+     {
+      "id": 9493,
+      "name": "Puka Nacua",
+      "pos": "WR",
+      "age": 25.3,
+      "val": 7583,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 6770,
+      "name": "Joe Burrow",
+      "pos": "QB",
+      "age": 29.8,
+      "val": 5954,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "CIN",
+      "inj": null
+     },
+     {
+      "id": 12518,
+      "name": "Tyler Warren",
+      "pos": "TE",
+      "age": 24.3,
+      "val": 4127,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "IND",
+      "inj": null
+     },
+     {
+      "id": 3198,
+      "name": "Derrick Henry",
+      "pos": "RB",
+      "age": 32.7,
+      "val": 3740,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2016,
+      "nfl": "BAL",
+      "inj": null
+     },
+     {
+      "id": 8150,
+      "name": "Kyren Williams",
+      "pos": "RB",
+      "age": 26.1,
+      "val": 3593,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 5859,
+      "name": "A.J. Brown",
+      "pos": "WR",
+      "age": 29.2,
+      "val": 2857,
+      "src": "fc",
+      "status": "IR",
+      "cls": 2019,
+      "nfl": "NE",
+      "inj": "IR"
+     },
+     {
+      "id": 4892,
+      "name": "Baker Mayfield",
+      "pos": "QB",
+      "age": 31.4,
+      "val": 2538,
+      "src": "fc",
+      "status": "IR",
+      "cls": 2018,
+      "nfl": "TB",
+      "inj": "Out"
+     },
+     {
+      "id": 13425,
+      "name": "Jalon Daniels",
+      "pos": "QB",
+      "age": 23.9,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "TB",
+      "inj": null
+     },
+     {
+      "id": 12535,
+      "name": "Isaac TeSlaa",
+      "pos": "WR",
+      "age": 24.6,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "DET",
+      "inj": null
+     },
+     {
+      "id": 12641,
+      "name": "Jaylin Lane",
+      "pos": "WR",
+      "age": 24.4,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "WAS",
+      "inj": null
+     },
+     {
+      "id": 12718,
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "age": 23.9,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 11569,
+      "name": "Jarquez Hunter",
+      "pos": "RB",
+      "age": 23.8,
+      "val": 500,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2024,
+      "nfl": "MIA",
+      "inj": null
+     },
+     {
+      "id": 1166,
+      "name": "Kirk Cousins",
+      "pos": "QB",
+      "age": 38.1,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "LV",
+      "inj": null
+     },
+     {
+      "id": 2216,
+      "name": "Mike Evans",
+      "pos": "WR",
+      "age": 33.1,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "SF",
+      "inj": "Questionable"
+     },
+     {
+      "id": 4199,
+      "name": "Aaron Jones",
+      "pos": "RB",
+      "age": 31.8,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2017,
+      "nfl": "MIN",
+      "inj": null
+     },
+     {
+      "id": 8136,
+      "name": "Rachaad White",
+      "pos": "RB",
+      "age": 27.7,
+      "val": 250,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "WAS",
+      "inj": "Out"
+     },
+     {
+      "id": 8161,
+      "name": "Malik Willis",
+      "pos": "QB",
+      "age": 27.4,
+      "val": 250,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "MIA",
+      "inj": null
+     },
+     {
+      "id": 2505,
+      "name": "Darren Waller",
+      "pos": "TE",
+      "age": 34.1,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2016,
+      "nfl": "CAR",
+      "inj": null
+     },
+     {
+      "id": 5045,
+      "name": "Courtland Sutton",
+      "pos": "WR",
+      "age": 31.0,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "DEN",
+      "inj": null
+     },
+     {
+      "id": 7527,
+      "name": "Mac Jones",
+      "pos": "QB",
+      "age": 28.1,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "SF",
+      "inj": null
+     },
+     {
+      "id": 7553,
+      "name": "Kyle Pitts",
+      "pos": "TE",
+      "age": 26.0,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "ATL",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 3,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 3,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 3,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 3,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 3,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 55605,
+    "pickVal": 4400,
+    "total": 60005,
+    "wage": 27.0,
+    "youngShare": 33,
+    "oldShare": 27,
+    "fcCount": 9,
+    "allplay": 2.36,
+    "luck": -0.36,
+    "proj": 9.7,
+    "strength": 169.0,
+    "drank": 2,
+    "window": "Dynasty power",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 8,
+      "pts": 159.6,
+      "oppPts": 183.46,
+      "ap": 7
+     },
+     {
+      "w": 2,
+      "opp": 1,
+      "pts": 147.36,
+      "oppPts": 144.42,
+      "ap": 9
+     },
+     {
+      "w": 3,
+      "opp": 5,
+      "pts": 193.66,
+      "oppPts": 130.66,
+      "ap": 10
+     }
+    ],
+    "breakdown": {
+     "by": "simone",
+     "headline": "The Champ Is Reloading, Not Rebuilding",
+     "verdict": "Dynasty power. Three elite young skill players and a quiet hedge at quarterback.",
+     "move": "Get a 2027 first back. Derrick Henry is the obvious sale before he turns 33.",
+     "p": [
+      "The defending champion didn't run it back with the same roster. RandleSavage has been quietly reshaping it, and the result is the second-most valuable team in the league at 60,005.",
+      "The foundation is three players most of this league would trade its whole roster for: Jahmyr Gibbs (24.5), Ja'Marr Chase (26.6) and Puka Nacua (25.3). Gibbs is the second-most valuable asset in the league. Tyler Warren, at 24.3, gives them a long-term answer at tight end.",
+      "Here's what I'm hearing about the quarterbacks. Baker Mayfield is on the IR slot and out with a thumb injury. Send Nudes spent $14 of FAAB on Jalon Daniels in Week 3, and Sleeper projects Daniels to start for Tampa Bay this week. That's not luck. That looks like a manager covering his own injury before it became a crisis.",
+      "The age problem is real, though. Derrick Henry is 32.7. Joe Burrow is 29.8. A.J. Brown, on the IR slot, is 29.2. Mike Evans and Aaron Jones are veterans. Twenty-seven percent of the value sits in players 29 or older.",
+      "And the picks are gone. Send Nudes has no 2027 first or second; Very Naughty Boys holds both. Only the 2028 first and second remain. The record is fair, 2-1 against an all-play of 2.36, with a 9.7-win projection. This window is open, but it's on a clock."
+     ]
+    }
+   },
+   "4": {
+    "players": [
+     {
+      "id": 11564,
+      "name": "Drake Maye",
+      "pos": "QB",
+      "age": 24.1,
+      "val": 5437,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "NE",
+      "inj": null
+     },
+     {
+      "id": 13274,
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "age": 22.8,
+      "val": 1200,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "PIT",
+      "inj": null
+     },
+     {
+      "id": 13285,
+      "name": "Malachi Fields",
+      "pos": "WR",
+      "age": 23.1,
+      "val": 1200,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "NYG",
+      "inj": null
+     },
+     {
+      "id": 12492,
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "age": 23.8,
+      "val": 1000,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "DEN",
+      "inj": null
+     },
+     {
+      "id": 13268,
+      "name": "Elijah Sarratt",
+      "pos": "WR",
+      "age": 23.4,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "BAL",
+      "inj": null
+     },
+     {
+      "id": 13272,
+      "name": "Carson Beck",
+      "pos": "QB",
+      "age": 23.9,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "ARI",
+      "inj": null
+     },
+     {
+      "id": 13278,
+      "name": "Max Klare",
+      "pos": "TE",
+      "age": 23.2,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 13296,
+      "name": "Caleb Douglas",
+      "pos": "WR",
+      "age": 23.1,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "MIA",
+      "inj": "Out"
+     },
+     {
+      "id": 13302,
+      "name": "Adam Randall",
+      "pos": "RB",
+      "age": 22.2,
+      "val": 900,
+      "src": "est",
+      "status": "IR",
+      "cls": 2026,
+      "nfl": "BAL",
+      "inj": "IR"
+     },
+     {
+      "id": 13347,
+      "name": "Demond Claiborne",
+      "pos": "RB",
+      "age": 23.0,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "MIN",
+      "inj": null
+     },
+     {
+      "id": 13402,
+      "name": "Skyler Bell",
+      "pos": "WR",
+      "age": 24.2,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "BUF",
+      "inj": null
+     },
+     {
+      "id": 11571,
+      "name": "Isaiah Davis",
+      "pos": "RB",
+      "age": 24.6,
+      "val": 800,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "NYJ",
+      "inj": null
+     },
+     {
+      "id": 11576,
+      "name": "Braelon Allen",
+      "pos": "RB",
+      "age": 22.7,
+      "val": 800,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "NYJ",
+      "inj": null
+     },
+     {
+      "id": 12498,
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "age": 22.4,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "NYJ",
+      "inj": "Out"
+     },
+     {
+      "id": 12510,
+      "name": "Jalen Milroe",
+      "pos": "QB",
+      "age": 23.8,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 11370,
+      "name": "Chris Brooks",
+      "pos": "RB",
+      "age": 26.7,
+      "val": 650,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "GB",
+      "inj": null
+     },
+     {
+      "id": 9757,
+      "name": "Kendre Miller",
+      "pos": "RB",
+      "age": 24.3,
+      "val": 650,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 8111,
+      "name": "Cade Otton",
+      "pos": "TE",
+      "age": 27.5,
+      "val": 550,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "TB",
+      "inj": null
+     },
+     {
+      "id": 11575,
+      "name": "Ray Davis",
+      "pos": "RB",
+      "age": 26.9,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "BUF",
+      "inj": "Questionable"
+     },
+     {
+      "id": 7571,
+      "name": "Rashod Bateman",
+      "pos": "WR",
+      "age": 26.8,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2021,
+      "nfl": "BAL",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 4,
+      "val": 4814,
+      "slot": "early"
+     },
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 5,
+      "val": 3170,
+      "slot": "mid"
+     },
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 7,
+      "val": 2436,
+      "slot": "late"
+     },
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 9,
+      "val": 4814,
+      "slot": "early"
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 4,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 6,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 12,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 7,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 11,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 1,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 4,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 4,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 4,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 5,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 4,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 20937,
+    "pickVal": 26334,
+    "total": 47271,
+    "wage": 24.1,
+    "youngShare": 89,
+    "oldShare": 0,
+    "fcCount": 1,
+    "allplay": 0.36,
+    "luck": -0.36,
+    "proj": 2.5,
+    "strength": 81.7,
+    "drank": 8,
+    "window": "Rebuild",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 12,
+      "pts": 67.46,
+      "oppPts": 121.96,
+      "ap": 1
+     },
+     {
+      "w": 2,
+      "opp": 11,
+      "pts": 85.68,
+      "oppPts": 118.2,
+      "ap": 2
+     },
+     {
+      "w": 3,
+      "opp": 6,
+      "pts": 72.64,
+      "oppPts": 77.64,
+      "ap": 1
+     }
+    ],
+    "breakdown": {
+     "by": "simone",
+     "headline": "Full Teardown, Full Pick Board",
+     "verdict": "Rebuild, and the most committed one in the league. More draft capital than anyone.",
+     "move": "Keep doing exactly this. Flip any veteran that scores points in October for more 2028 picks.",
+     "p": [
+      "ClutchJuice is 0-3 and ranks eighth in dynasty value anyway. That tells you everything about what's happening here.",
+      "ClutchJuice holds 26,334 points of draft capital, the most in the league by a wide margin. Four 2027 firsts: its own, brimley's, #StopAsianHate's and Very Naughty Boys'. Two of those currently project as early picks. Add three 2027 seconds and two 2028 firsts, its own and Sheev's. Nobody else is close.",
+      "The roster is the other half of the plan, and it's thin by design. Drake Maye, acquired for Patrick Mahomes, is the only player in the league's top 100 dynasty assets. The rest is rookies and depth: 12 players I can't yet identify from Sleeper's data, most of them 2026 draft picks. Value-weighted age is 24.1.",
+      "Credit where it's due: ClutchJuice sets the most efficient lineups in the league, capturing 94% of its available points. The manager isn't tanking with bad decisions. There just isn't much talent to start yet.",
+      "The model projects 2.5 wins. That makes ClutchJuice's own 2027 first a likely top-two pick. Pair it with Very Naughty Boys' first, which also projects early, and ClutchJuice could have two top-five picks next spring. That's how a rebuild becomes a dynasty in two years."
+     ]
+    }
+   },
+   "5": {
+    "players": [
+     {
+      "id": 8130,
+      "name": "Trey McBride",
+      "pos": "TE",
+      "age": 26.8,
+      "val": 6768,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "ARI",
+      "inj": null
+     },
+     {
+      "id": 6794,
+      "name": "Justin Jefferson",
+      "pos": "WR",
+      "age": 27.3,
+      "val": 6019,
+      "src": "fc",
+      "status": "IR",
+      "cls": 2020,
+      "nfl": "MIN",
+      "inj": "Out"
+     },
+     {
+      "id": 7523,
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "age": 27.0,
+      "val": 5516,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2021,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 11632,
+      "name": "Malik Nabers",
+      "pos": "WR",
+      "age": 23.2,
+      "val": 5244,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "NYG",
+      "inj": null
+     },
+     {
+      "id": 6804,
+      "name": "Jordan Love",
+      "pos": "QB",
+      "age": 27.9,
+      "val": 3745,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "GB",
+      "inj": null
+     },
+     {
+      "id": 4866,
+      "name": "Saquon Barkley",
+      "pos": "RB",
+      "age": 29.6,
+      "val": 3376,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2018,
+      "nfl": "PHI",
+      "inj": null
+     },
+     {
+      "id": 8167,
+      "name": "Christian Watson",
+      "pos": "WR",
+      "age": 27.4,
+      "val": 3308,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "GB",
+      "inj": null
+     },
+     {
+      "id": 11584,
+      "name": "Bucky Irving",
+      "pos": "RB",
+      "age": 24.1,
+      "val": 3068,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "TB",
+      "inj": null
+     },
+     {
+      "id": 4983,
+      "name": "DJ Moore",
+      "pos": "WR",
+      "age": 29.4,
+      "val": 2466,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2018,
+      "nfl": "BUF",
+      "inj": null
+     },
+     {
+      "id": 13317,
+      "name": "Ted Hurst",
+      "pos": "WR",
+      "age": 22.3,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "TB",
+      "inj": null
+     },
+     {
+      "id": 12467,
+      "name": "Jordan James",
+      "pos": "RB",
+      "age": 22.5,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "SF",
+      "inj": null
+     },
+     {
+      "id": 12524,
+      "name": "Shedeur Sanders",
+      "pos": "QB",
+      "age": 24.7,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "CLE",
+      "inj": null
+     },
+     {
+      "id": 8121,
+      "name": "Romeo Doubs",
+      "pos": "WR",
+      "age": 26.5,
+      "val": 550,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "NE",
+      "inj": null
+     },
+     {
+      "id": 11581,
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "age": 25.7,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "GB",
+      "inj": null
+     },
+     {
+      "id": 11630,
+      "name": "Roman Wilson",
+      "pos": "WR",
+      "age": 25.3,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "PIT",
+      "inj": null
+     },
+     {
+      "id": 2449,
+      "name": "Stefon Diggs",
+      "pos": "WR",
+      "age": 32.8,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "WAS",
+      "inj": null
+     },
+     {
+      "id": 9754,
+      "name": "Quentin Johnston",
+      "pos": "WR",
+      "age": 25.1,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "LAC",
+      "inj": null
+     },
+     {
+      "id": 8154,
+      "name": "Brian Robinson",
+      "pos": "RB",
+      "age": 27.5,
+      "val": 250,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "ATL",
+      "inj": null
+     },
+     {
+      "id": 3257,
+      "name": "Jacoby Brissett",
+      "pos": "QB",
+      "age": 33.8,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2016,
+      "nfl": "ARI",
+      "inj": null
+     },
+     {
+      "id": 5967,
+      "name": "Tony Pollard",
+      "pos": "RB",
+      "age": 29.4,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 6768,
+      "name": "Tua Tagovailoa",
+      "pos": "QB",
+      "age": 28.6,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2020,
+      "nfl": "ATL",
+      "inj": null
+     },
+     {
+      "id": 7543,
+      "name": "Travis Etienne",
+      "pos": "RB",
+      "age": 27.7,
+      "val": 150,
+      "src": "est",
+      "status": "IR",
+      "cls": 2021,
+      "nfl": "NO",
+      "inj": "IR"
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 5,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 5,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 10,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 5,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 5,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 5,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 45010,
+    "pickVal": 5550,
+    "total": 50560,
+    "wage": 26.8,
+    "youngShare": 26,
+    "oldShare": 13,
+    "fcCount": 9,
+    "allplay": 1.82,
+    "luck": -0.82,
+    "proj": 7.4,
+    "strength": 147.0,
+    "drank": 7,
+    "window": "Win-now",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 1,
+      "pts": 203.78,
+      "oppPts": 153.36,
+      "ap": 11
+     },
+     {
+      "w": 2,
+      "opp": 8,
+      "pts": 106.36,
+      "oppPts": 257.48,
+      "ap": 4
+     },
+     {
+      "w": 3,
+      "opp": 3,
+      "pts": 130.66,
+      "oppPts": 193.66,
+      "ap": 5
+     }
+    ],
+    "breakdown": {
+     "by": "margaret",
+     "headline": "Good Team, Wrong Schedule",
+     "verdict": "Win-now. Talented and unlucky, with the 2027 first already gone.",
+     "move": "Stay the course and buy cheap veterans. The 201.5 points allowed per game will not continue.",
+     "p": [
+      "brimley has given up 604.5 points in three games. That's 201.5 a week, the most in the league by 22 points. A good team can't defend that, because nobody can.",
+      "The underlying team is solid. brimley scores 146.9 a week, sixth in the league, and sets an 89% efficient lineup. The all-play mark is 1.82, so on a normal schedule brimley is roughly 2-1, not 1-2. The luck factor is -0.82.",
+      "The roster leans on the 26-to-29 window. Trey McBride is the best tight end asset in the league after Brock Bowers. Trevor Lawrence and Jordan Love are a stable superflex pair. Malik Nabers, at 23.2, is the one true young star. Saquon Barkley (29.6) and DJ Moore (29.4) carry 13% of the value and are on the back nine.",
+      "Justin Jefferson is the wild card. He's in the IR slot and out this week with an ankle injury, and he's still the second-most valuable asset on the roster. When he returns, this lineup is one of the deepest at receiver in the league.",
+      "The future capital is thin. ClutchJuice owns brimley's 2027 first. brimley has its 2027 second and its 2028 first and second. The model projects 7.4 wins, fifth-best in the league. That's inside the playoff line, but not by much."
+     ]
+    }
+   },
+   "6": {
+    "players": [
+     {
+      "id": 12508,
+      "name": "Jaxson Dart",
+      "pos": "QB",
+      "age": 23.4,
+      "val": 4438,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "NYG",
+      "inj": "IR"
+     },
+     {
+      "id": 11563,
+      "name": "Bo Nix",
+      "pos": "QB",
+      "age": 26.6,
+      "val": 4225,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "DEN",
+      "inj": null
+     },
+     {
+      "id": 12514,
+      "name": "Emeka Egbuka",
+      "pos": "WR",
+      "age": 23.9,
+      "val": 3355,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "TB",
+      "inj": null
+     },
+     {
+      "id": 13279,
+      "name": "Carnell Tate",
+      "pos": "WR",
+      "age": 21.7,
+      "val": 3186,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 13294,
+      "name": "Makai Lemon",
+      "pos": "WR",
+      "age": 22.3,
+      "val": 2344,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "PHI",
+      "inj": null
+     },
+     {
+      "id": 11646,
+      "name": "Jalen Coker",
+      "pos": "WR",
+      "age": 24.9,
+      "val": 2284,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "CAR",
+      "inj": "Questionable"
+     },
+     {
+      "id": 11628,
+      "name": "Marvin Harrison",
+      "pos": "WR",
+      "age": 24.1,
+      "val": 2248,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "ARI",
+      "inj": null
+     },
+     {
+      "id": 11620,
+      "name": "Rome Odunze",
+      "pos": "WR",
+      "age": 24.3,
+      "val": 2204,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 13275,
+      "name": "Ty Simpson",
+      "pos": "QB",
+      "age": 23.8,
+      "val": 2188,
+      "src": "fc",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 13421,
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "age": 22.6,
+      "val": 1200,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "NE",
+      "inj": "Questionable"
+     },
+     {
+      "id": 13276,
+      "name": "Omar Cooper",
+      "pos": "WR",
+      "age": 22.8,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "NYJ",
+      "inj": "IR"
+     },
+     {
+      "id": 13293,
+      "name": "Ja'Kobi Lane",
+      "pos": "WR",
+      "age": 22.4,
+      "val": 900,
+      "src": "est",
+      "status": "IR",
+      "cls": 2026,
+      "nfl": "BAL",
+      "inj": "IR"
+     },
+     {
+      "id": 13303,
+      "name": "Cade Klubnik",
+      "pos": "QB",
+      "age": 23.0,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "NYJ",
+      "inj": null
+     },
+     {
+      "id": 13349,
+      "name": "Eli Stowers",
+      "pos": "TE",
+      "age": 23.5,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "PHI",
+      "inj": "IR"
+     },
+     {
+      "id": 13394,
+      "name": "Josh Cameron",
+      "pos": "WR",
+      "age": 23.5,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 11643,
+      "name": "Jaylen Wright",
+      "pos": "RB",
+      "age": 23.5,
+      "val": 800,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "MIA",
+      "inj": null
+     },
+     {
+      "id": 12487,
+      "name": "Terrance Ferguson",
+      "pos": "TE",
+      "age": 23.6,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "LAR",
+      "inj": "IR"
+     },
+     {
+      "id": 12504,
+      "name": "Kaleb Johnson",
+      "pos": "RB",
+      "age": 23.1,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "GB",
+      "inj": null
+     },
+     {
+      "id": 12530,
+      "name": "Travis Hunter",
+      "pos": "DB",
+      "age": 23.4,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 10213,
+      "name": "Tre Tucker",
+      "pos": "WR",
+      "age": 25.6,
+      "val": 650,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "LV",
+      "inj": null
+     },
+     {
+      "id": 9511,
+      "name": "Keaton Mitchell",
+      "pos": "RB",
+      "age": 24.7,
+      "val": 650,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "LAC",
+      "inj": null
+     },
+     {
+      "id": 9502,
+      "name": "Tank Dell",
+      "pos": "WR",
+      "age": 26.9,
+      "val": 350,
+      "src": "est",
+      "status": "IR",
+      "cls": 2023,
+      "nfl": "HOU",
+      "inj": "IR"
+     },
+     {
+      "id": 7528,
+      "name": "Najee Harris",
+      "pos": "RB",
+      "age": 28.6,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "NYG",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 6,
+      "val": 4814,
+      "slot": "early"
+     },
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 10,
+      "val": 2436,
+      "slot": "late"
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 1,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 11,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 6,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 6,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 6,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 10,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 6,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 12,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 6,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 36872,
+    "pickVal": 14800,
+    "total": 51672,
+    "wage": 23.9,
+    "youngShare": 78,
+    "oldShare": 0,
+    "fcCount": 9,
+    "allplay": 0.73,
+    "luck": 1.27,
+    "proj": 5.0,
+    "strength": 92.1,
+    "drank": 6,
+    "window": "Rising",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 11,
+      "pts": 101.34,
+      "oppPts": 117.56,
+      "ap": 3
+     },
+     {
+      "w": 2,
+      "opp": 12,
+      "pts": 98.02,
+      "oppPts": 82.68,
+      "ap": 3
+     },
+     {
+      "w": 3,
+      "opp": 4,
+      "pts": 77.64,
+      "oppPts": 72.64,
+      "ap": 2
+     }
+    ],
+    "breakdown": {
+     "by": "simone",
+     "headline": "The Name Is Panic. The Plan Is Patience.",
+     "verdict": "Rising. Youngest roster in the league and a stack of future picks. The 2-1 record is borrowed.",
+     "move": "Don't be fooled by 2-1. Sell anything older than 26 for 2027 picks and keep stacking.",
+     "p": [
+      "Panic Trade Project is 2-1. Panic Trade Project is not a 2-1 team. The all-play mark is 0.73, meaning a typical schedule produces fewer than one win. The luck factor is +1.27, the most in the league. Only 272.9 points against in three weeks will do that.",
+      "But I don't think bhegg97 cares about this season, and he shouldn't. This is the youngest roster in the league: value-weighted age 23.9, with 78% of its value in players 25 or younger.",
+      "The quarterback plan is a three-way bet: Bo Nix (26.6), Jaxson Dart (23.4) and rookie Ty Simpson on the taxi squad. The receiver room is all youth: Emeka Egbuka, Carnell Tate (21.7), Makai Lemon, Jalen Coker, Marvin Harrison Jr. and Rome Odunze. Running back is the hole. Keaton Mitchell and Jaylen Wright are FAAB adds, not foundation pieces.",
+      "The draft capital is the second-best in the league among teams that aren't fully rebuilding: its own 2027 first, which projects early, plus Stroke The Post's 2027 first, two extra 2027 seconds from Sheev and Ben Football Team, and its own 2028 first.",
+      "The model projects 5.0 wins. That's a top-four pick in 2027 for a team that already has the youngest receivers in the league. The trades have a plan, even if the team name doesn't."
+     ]
+    }
+   },
+   "7": {
+    "players": [
+     {
+      "id": 9488,
+      "name": "Jaxon Smith-Njigba",
+      "pos": "WR",
+      "age": 24.6,
+      "val": 10240,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 4881,
+      "name": "Lamar Jackson",
+      "pos": "QB",
+      "age": 29.7,
+      "val": 7558,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2018,
+      "nfl": "BAL",
+      "inj": null
+     },
+     {
+      "id": 8151,
+      "name": "Kenneth Walker",
+      "pos": "RB",
+      "age": 25.9,
+      "val": 6434,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 6904,
+      "name": "Jalen Hurts",
+      "pos": "QB",
+      "age": 28.1,
+      "val": 4894,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "PHI",
+      "inj": null
+     },
+     {
+      "id": 9997,
+      "name": "Zay Flowers",
+      "pos": "WR",
+      "age": 26.0,
+      "val": 4400,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "BAL",
+      "inj": "Questionable"
+     },
+     {
+      "id": 8137,
+      "name": "George Pickens",
+      "pos": "WR",
+      "age": 25.6,
+      "val": 4199,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "DAL",
+      "inj": null
+     },
+     {
+      "id": 11635,
+      "name": "Ladd McConkey",
+      "pos": "WR",
+      "age": 24.9,
+      "val": 3178,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "LAC",
+      "inj": "Questionable"
+     },
+     {
+      "id": 10229,
+      "name": "Rashee Rice",
+      "pos": "WR",
+      "age": 26.4,
+      "val": 3145,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 12481,
+      "name": "Cam Skattebo",
+      "pos": "RB",
+      "age": 24.6,
+      "val": 2944,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "NYG",
+      "inj": null
+     },
+     {
+      "id": 13330,
+      "name": "Kenyon Sadiq",
+      "pos": "TE",
+      "age": 21.6,
+      "val": 2840,
+      "src": "fc",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "NYJ",
+      "inj": "Questionable"
+     },
+     {
+      "id": 13413,
+      "name": "Cyrus Allen",
+      "pos": "WR",
+      "age": 23.6,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 12489,
+      "name": "RJ Harvey",
+      "pos": "RB",
+      "age": 25.7,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "DEN",
+      "inj": null
+     },
+     {
+      "id": 12544,
+      "name": "LeQuint Allen",
+      "pos": "RB",
+      "age": 22.2,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 8228,
+      "name": "Jaylen Warren",
+      "pos": "RB",
+      "age": 27.9,
+      "val": 550,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "PIT",
+      "inj": null
+     },
+     {
+      "id": 11586,
+      "name": "Blake Corum",
+      "pos": "RB",
+      "age": 25.9,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 4993,
+      "name": "Mike Gesicki",
+      "pos": "TE",
+      "age": 31.0,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2018,
+      "nfl": "CIN",
+      "inj": null
+     },
+     {
+      "id": 4017,
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "age": 31.1,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2017,
+      "nfl": "CLE",
+      "inj": null
+     },
+     {
+      "id": 5022,
+      "name": "Dallas Goedert",
+      "pos": "TE",
+      "age": 31.8,
+      "val": 150,
+      "src": "est",
+      "status": "IR",
+      "cls": 2019,
+      "nfl": "PHI",
+      "inj": "Out"
+     },
+     {
+      "id": 6819,
+      "name": "Michael Pittman",
+      "pos": "WR",
+      "age": 29.0,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2020,
+      "nfl": "PIT",
+      "inj": null
+     },
+     {
+      "id": 7567,
+      "name": "Kenny Gainwell",
+      "pos": "RB",
+      "age": 27.6,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "TB",
+      "inj": null
+     },
+     {
+      "id": 7611,
+      "name": "Rhamondre Stevenson",
+      "pos": "RB",
+      "age": 28.6,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "NE",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 7,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 4,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 12,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 5,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 7,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 7,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 7,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 54382,
+    "pickVal": 2250,
+    "total": 56632,
+    "wage": 26.1,
+    "youngShare": 40,
+    "oldShare": 14,
+    "fcCount": 10,
+    "allplay": 2.09,
+    "luck": -0.09,
+    "proj": 9.2,
+    "strength": 160.2,
+    "drank": 4,
+    "window": "Dynasty power",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 10,
+      "pts": 170.08,
+      "oppPts": 178.96,
+      "ap": 8
+     },
+     {
+      "w": 2,
+      "opp": 9,
+      "pts": 129.46,
+      "oppPts": 85.6,
+      "ap": 7
+     },
+     {
+      "w": 3,
+      "opp": 2,
+      "pts": 156.42,
+      "oppPts": 130.98,
+      "ap": 8
+     }
+    ],
+    "breakdown": {
+     "by": "anita",
+     "headline": "A Young Star and Two Quarterbacks on the Clock",
+     "verdict": "Dynasty power, but thin on picks after the Judkins and Walker trades.",
+     "move": "Protect the quarterback depth. Lamar Jackson's back and Jalen Hurts' age are the two risks that matter most.",
+     "p": [
+      "#StopAsianHate ranks fourth in dynasty value at 56,632 and has the youngest value-weighted age of the top four teams at 26.1. From a durability standpoint, this roster is in good shape. With two caveats.",
+      "The franchise piece is Jaxon Smith-Njigba. At 24.6, he's the fourth-most valuable asset in the league and the kind of receiver who gets better for three more seasons. George Pickens (25.6), Zay Flowers (26.0), Rashee Rice (26.4) and Ladd McConkey (24.9) make this the deepest receiver room in the league.",
+      "Now the caveats. Lamar Jackson is 29.7 and listed with a back issue this week, no game designation. Jalen Hurts is 28.1. Running quarterbacks age faster than pocket passers because they take hits. In superflex, losing either one would hurt more than losing any receiver.",
+      "Kenneth Walker, acquired in the Judkins trade, is 25.9 and has missed time in past seasons. He's the lead back now, with Cam Skattebo (24.6) behind him. Rookie tight end Kenyon Sadiq is on the taxi squad and questionable this week with a back injury.",
+      "The cost of building this roster was future picks. #StopAsianHate's 2027 first belongs to ClutchJuice, and its 2028 first and second went to Sheev. Only its 2027 second remains. The record is fair: 2-1 against an all-play of 2.09. The model projects 9.2 wins."
+     ]
+    }
+   },
+   "8": {
+    "players": [
+     {
+      "id": 4984,
+      "name": "Josh Allen",
+      "pos": "QB",
+      "age": 30.3,
+      "val": 10782,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2018,
+      "nfl": "BUF",
+      "inj": null
+     },
+     {
+      "id": 9509,
+      "name": "Bijan Robinson",
+      "pos": "RB",
+      "age": 24.6,
+      "val": 10567,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "ATL",
+      "inj": null
+     },
+     {
+      "id": 11604,
+      "name": "Brock Bowers",
+      "pos": "TE",
+      "age": 23.8,
+      "val": 7562,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "LV",
+      "inj": null
+     },
+     {
+      "id": 7547,
+      "name": "Amon-Ra St. Brown",
+      "pos": "WR",
+      "age": 26.9,
+      "val": 7503,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2021,
+      "nfl": "DET",
+      "inj": null
+     },
+     {
+      "id": 12527,
+      "name": "Ashton Jeanty",
+      "pos": "RB",
+      "age": 22.8,
+      "val": 6569,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "LV",
+      "inj": null
+     },
+     {
+      "id": 12545,
+      "name": "Tyler Shough",
+      "pos": "QB",
+      "age": 27.0,
+      "val": 4533,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 4034,
+      "name": "Christian McCaffrey",
+      "pos": "RB",
+      "age": 30.3,
+      "val": 4382,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2017,
+      "nfl": "SF",
+      "inj": null
+     },
+     {
+      "id": 3294,
+      "name": "Dak Prescott",
+      "pos": "QB",
+      "age": 33.2,
+      "val": 4267,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2016,
+      "nfl": "DAL",
+      "inj": null
+     },
+     {
+      "id": 7525,
+      "name": "DeVonta Smith",
+      "pos": "WR",
+      "age": 27.9,
+      "val": 3510,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "PHI",
+      "inj": "Out"
+     },
+     {
+      "id": 6801,
+      "name": "Tee Higgins",
+      "pos": "WR",
+      "age": 27.7,
+      "val": 3213,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "CIN",
+      "inj": null
+     },
+     {
+      "id": 7526,
+      "name": "Jaylen Waddle",
+      "pos": "WR",
+      "age": 27.8,
+      "val": 2674,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "DEN",
+      "inj": null
+     },
+     {
+      "id": 10232,
+      "name": "Michael Wilson",
+      "pos": "WR",
+      "age": 26.6,
+      "val": 2483,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "ARI",
+      "inj": null
+     },
+     {
+      "id": 2133,
+      "name": "Davante Adams",
+      "pos": "WR",
+      "age": 33.8,
+      "val": 2414,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 13288,
+      "name": "Nicholas Singleton",
+      "pos": "RB",
+      "age": 22.7,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 13414,
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "age": 25.0,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "SF",
+      "inj": null
+     },
+     {
+      "id": 12502,
+      "name": "Gunnar Helm",
+      "pos": "TE",
+      "age": 24.1,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 3321,
+      "name": "Tyreek Hill",
+      "pos": "WR",
+      "age": 32.6,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2016,
+      "nfl": null,
+      "inj": ""
+     },
+     {
+      "id": 3634,
+      "name": "Kalif Raymond",
+      "pos": "WR",
+      "age": 32.2,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2017,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 5001,
+      "name": "Dalton Schultz",
+      "pos": "TE",
+      "age": 30.2,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 5850,
+      "name": "Josh Jacobs",
+      "pos": "RB",
+      "age": 28.6,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "GB",
+      "inj": "NA"
+     },
+     {
+      "id": 7600,
+      "name": "Pat Freiermuth",
+      "pos": "TE",
+      "age": 27.9,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "PIT",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 2,
+      "val": 4814,
+      "slot": "early"
+     },
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 8,
+      "val": 2436,
+      "slot": "late"
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 2,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 8,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 8,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 11,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 8,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 11,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 8,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 73709,
+    "pickVal": 16100,
+    "total": 89809,
+    "wage": 27.3,
+    "youngShare": 37,
+    "oldShare": 30,
+    "fcCount": 13,
+    "allplay": 2.73,
+    "luck": 0.27,
+    "proj": 11.8,
+    "strength": 193.4,
+    "drank": 1,
+    "window": "Dynasty power",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 3,
+      "pts": 183.46,
+      "oppPts": 159.6,
+      "ap": 10
+     },
+     {
+      "w": 2,
+      "opp": 5,
+      "pts": 257.48,
+      "oppPts": 106.36,
+      "ap": 11
+     },
+     {
+      "w": 3,
+      "opp": 1,
+      "pts": 186.7,
+      "oppPts": 152.66,
+      "ap": 9
+     }
+    ],
+    "breakdown": {
+     "by": "margaret",
+     "headline": "The Rare Team That Wins Now and Later",
+     "verdict": "Dynasty power. Best roster today and the deepest pick cupboard among contenders.",
+     "move": "Sell Davante Adams and Dak Prescott while they still return value. Neither will matter in 2028.",
+     "p": [
+      "Bijan Your Face isn't just the best team in the league. It's the best-built one, and the gap is enormous. Its dynasty score of 89,809 is nearly 30,000 points clear of second place. That gap is bigger than the distance between second place and last.",
+      "Start with the core. Bijan Robinson (24.6), Brock Bowers (23.8) and Ashton Jeanty (22.8) are three of the 14 most valuable assets in the league, and none is older than 25. Josh Allen is the single most valuable player in superflex. Amon-Ra St. Brown is in his prime. That's five foundation pieces. Most teams in this league have one or two.",
+      "The risk is the back half of the roster. Thirty percent of this team's value sits in players 29 or older: Allen, Christian McCaffrey (30.3), Dak Prescott (33.2) and Davante Adams (33.8). Allen ages well because quarterbacks do. McCaffrey, Prescott and Adams are the kind of assets that lose half their value in a single offseason.",
+      "The record is earned. A 3-0 start with an all-play mark of 2.73 means Bijan would have beaten 91% of the league in an average week. Luck is a rounding error at +0.27. The model projects 11.8 wins, the best in the league.",
+      "And the cupboard is full. Two 2027 firsts, including God Bless Vodka's, which currently projects early, plus two 2028 firsts after the Ben Football Team trade. Contenders don't usually hold this much draft capital. This one does."
+     ]
+    }
+   },
+   "9": {
+    "players": [
+     {
+      "id": 13269,
+      "name": "Fernando Mendoza",
+      "pos": "QB",
+      "age": 23.0,
+      "val": 3732,
+      "src": "fc",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "LV",
+      "inj": null
+     },
+     {
+      "id": 12517,
+      "name": "Colston Loveland",
+      "pos": "TE",
+      "age": 22.5,
+      "val": 3682,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 4943,
+      "name": "Sam Darnold",
+      "pos": "QB",
+      "age": 29.3,
+      "val": 2942,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2018,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 10236,
+      "name": "Dalton Kincaid",
+      "pos": "TE",
+      "age": 26.9,
+      "val": 2715,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "BUF",
+      "inj": null
+     },
+     {
+      "id": 13298,
+      "name": "KC Concepcion",
+      "pos": "WR",
+      "age": 22.0,
+      "val": 2323,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "CLE",
+      "inj": null
+     },
+     {
+      "id": 13301,
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "age": 22.2,
+      "val": 1200,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "WAS",
+      "inj": null
+     },
+     {
+      "id": 12509,
+      "name": "Tre' Harris",
+      "pos": "WR",
+      "age": 24.6,
+      "val": 1000,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "LAC",
+      "inj": null
+     },
+     {
+      "id": 12533,
+      "name": "Jacory Croskey-Merritt",
+      "pos": "RB",
+      "age": 25.5,
+      "val": 1000,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "WAS",
+      "inj": null
+     },
+     {
+      "id": 13345,
+      "name": "Jonah Coleman",
+      "pos": "RB",
+      "age": 23.1,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "DEN",
+      "inj": "IR"
+     },
+     {
+      "id": 13405,
+      "name": "Kaytron Allen",
+      "pos": "RB",
+      "age": 23.7,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "WAS",
+      "inj": null
+     },
+     {
+      "id": 13423,
+      "name": "Eli Heidenreich",
+      "pos": "RB",
+      "age": 23.3,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "PIT",
+      "inj": "Out"
+     },
+     {
+      "id": 12469,
+      "name": "Dylan Sampson",
+      "pos": "RB",
+      "age": 22.1,
+      "val": 700,
+      "src": "est",
+      "status": "IR",
+      "cls": 2025,
+      "nfl": "CLE",
+      "inj": "IR"
+     },
+     {
+      "id": 12472,
+      "name": "Raheim Sanders",
+      "pos": "RB",
+      "age": 24.3,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "CLE",
+      "inj": null
+     },
+     {
+      "id": 12483,
+      "name": "Jack Bech",
+      "pos": "WR",
+      "age": 23.8,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "LV",
+      "inj": "IR"
+     },
+     {
+      "id": 12484,
+      "name": "Jayden Higgins",
+      "pos": "WR",
+      "age": 23.8,
+      "val": 700,
+      "src": "est",
+      "status": "IR",
+      "cls": 2025,
+      "nfl": "HOU",
+      "inj": "IR"
+     },
+     {
+      "id": 12540,
+      "name": "Chimere Dike",
+      "pos": "WR",
+      "age": 24.8,
+      "val": 700,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2025,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 9756,
+      "name": "Jordan Addison",
+      "pos": "WR",
+      "age": 24.7,
+      "val": 650,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "MIN",
+      "inj": null
+     },
+     {
+      "id": 11565,
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "age": 23.7,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "NYG",
+      "inj": null
+     },
+     {
+      "id": 4037,
+      "name": "Chris Godwin",
+      "pos": "WR",
+      "age": 30.6,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2017,
+      "nfl": "TB",
+      "inj": null
+     },
+     {
+      "id": 6806,
+      "name": "J.K. Dobbins",
+      "pos": "RB",
+      "age": 27.8,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "DEN",
+      "inj": null
+     },
+     {
+      "id": 9229,
+      "name": "Anthony Richardson",
+      "pos": "QB",
+      "age": 24.4,
+      "val": 250,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2022,
+      "nfl": "IND",
+      "inj": null
+     },
+     {
+      "id": 5854,
+      "name": "Drew Lock",
+      "pos": "QB",
+      "age": 29.9,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 7591,
+      "name": "Justin Fields",
+      "pos": "QB",
+      "age": 27.6,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "KC",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 1,
+      "val": 3170,
+      "slot": "mid"
+     },
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 3,
+      "val": 2436,
+      "slot": "late"
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 3,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 9,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 9,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 9,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 9,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 9,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 9,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 9,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 27394,
+    "pickVal": 12206,
+    "total": 39600,
+    "wage": 24.6,
+    "youngShare": 72,
+    "oldShare": 11,
+    "fcCount": 5,
+    "allplay": 0.36,
+    "luck": -0.36,
+    "proj": 3.0,
+    "strength": 92.2,
+    "drank": 9,
+    "window": "Rebuild",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 2,
+      "pts": 67.12,
+      "oppPts": 86.86,
+      "ap": 0
+     },
+     {
+      "w": 2,
+      "opp": 7,
+      "pts": 85.6,
+      "oppPts": 129.46,
+      "ap": 1
+     },
+     {
+      "w": 3,
+      "opp": 10,
+      "pts": 97.66,
+      "oppPts": 193.74,
+      "ap": 3
+     }
+    ],
+    "breakdown": {
+     "by": "anita",
+     "headline": "Good Bones, Wrong Pick",
+     "verdict": "Rebuild with a promising young core. The problem is who owns its 2027 first.",
+     "move": "Try to buy back your own 2027 first from ClutchJuice. It is the most valuable pick in the league right now.",
+     "p": [
+      "Very Naughty Boys is 0-3 and the model projects just 3.0 wins. In a normal rebuild, that's fine, because losing produces a top pick. Here's the problem: ClutchJuice owns Very Naughty Boys' 2027 first.",
+      "That's the single biggest issue on this roster, and it's not a medical one. Every loss this season improves someone else's draft position.",
+      "The young core is promising. Fernando Mendoza (23.0) is on the taxi squad as the quarterback of the future. Colston Loveland (22.5) is a long-term tight end, and rookie KC Concepcion (22.0) is already starting. Value-weighted age is 24.6.",
+      "The veterans are where the injury risk lives. Chris Godwin plays for Tampa Bay, which lost Baker Mayfield this week. J.K. Dobbins is listed with a hip issue and no game designation, and running backs coming off his kind of injury history are year-to-year propositions. Sam Darnold (29.3) is the starting quarterback, a bridge, not a plan.",
+      "The pick board does have help: Sheev's 2027 first, which projects mid-round and could improve if Sheev keeps losing, plus Send Nudes' 2027 first and second and its own 2028 first. The luck factor is -0.36, so the record is roughly deserved."
+     ]
+    }
+   },
+   "10": {
+    "players": [
+     {
+      "id": 11560,
+      "name": "Caleb Williams",
+      "pos": "QB",
+      "age": 24.8,
+      "val": 6757,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "CHI",
+      "inj": "Out"
+     },
+     {
+      "id": 6786,
+      "name": "CeeDee Lamb",
+      "pos": "WR",
+      "age": 27.5,
+      "val": 6570,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "DAL",
+      "inj": null
+     },
+     {
+      "id": 6813,
+      "name": "Jonathan Taylor",
+      "pos": "RB",
+      "age": 27.7,
+      "val": 5955,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "IND",
+      "inj": null
+     },
+     {
+      "id": 8144,
+      "name": "Chris Olave",
+      "pos": "WR",
+      "age": 26.2,
+      "val": 5443,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 8112,
+      "name": "Drake London",
+      "pos": "WR",
+      "age": 25.2,
+      "val": 5414,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "ATL",
+      "inj": null
+     },
+     {
+      "id": 8138,
+      "name": "James Cook",
+      "pos": "RB",
+      "age": 27.0,
+      "val": 5409,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "BUF",
+      "inj": null
+     },
+     {
+      "id": 8146,
+      "name": "Garrett Wilson",
+      "pos": "WR",
+      "age": 26.2,
+      "val": 4768,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "NYJ",
+      "inj": null
+     },
+     {
+      "id": 7588,
+      "name": "Javonte Williams",
+      "pos": "RB",
+      "age": 26.4,
+      "val": 3382,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "DAL",
+      "inj": null
+     },
+     {
+      "id": 6790,
+      "name": "D'Andre Swift",
+      "pos": "RB",
+      "age": 27.7,
+      "val": 3095,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2020,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 421,
+      "name": "Matthew Stafford",
+      "pos": "QB",
+      "age": 38.6,
+      "val": 2611,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "LAR",
+      "inj": null
+     },
+     {
+      "id": 13411,
+      "name": "Zavion Thomas",
+      "pos": "WR",
+      "age": 22.6,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "CHI",
+      "inj": null
+     },
+     {
+      "id": 13424,
+      "name": "Seth McGowan",
+      "pos": "RB",
+      "age": 24.9,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "IND",
+      "inj": null
+     },
+     {
+      "id": 11559,
+      "name": "Michael Penix",
+      "pos": "QB",
+      "age": 26.4,
+      "val": 800,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "ATL",
+      "inj": null
+     },
+     {
+      "id": 12505,
+      "name": "Jalen Royals",
+      "pos": "WR",
+      "age": 23.6,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 11637,
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "age": 23.4,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "BUF",
+      "inj": null
+     },
+     {
+      "id": 12048,
+      "name": "George Holani",
+      "pos": "RB",
+      "age": 26.8,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 1466,
+      "name": "Travis Kelce",
+      "pos": "TE",
+      "age": 37.0,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 8408,
+      "name": "Jordan Mason",
+      "pos": "RB",
+      "age": 27.4,
+      "val": 250,
+      "src": "est",
+      "status": "IR",
+      "cls": 2022,
+      "nfl": "MIN",
+      "inj": "IR"
+     },
+     {
+      "id": 3161,
+      "name": "Carson Wentz",
+      "pos": "QB",
+      "age": 33.8,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2016,
+      "nfl": "MIN",
+      "inj": null
+     },
+     {
+      "id": 4035,
+      "name": "Alvin Kamara",
+      "pos": "RB",
+      "age": 31.2,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2017,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 5846,
+      "name": "DK Metcalf",
+      "pos": "WR",
+      "age": 28.8,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "PIT",
+      "inj": null
+     },
+     {
+      "id": 7002,
+      "name": "Juwan Johnson",
+      "pos": "TE",
+      "age": 30.1,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 7021,
+      "name": "Rico Dowdle",
+      "pos": "RB",
+      "age": 28.3,
+      "val": 150,
+      "src": "est",
+      "status": "IR",
+      "cls": 2021,
+      "nfl": "PIT",
+      "inj": "Out"
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 10,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 10,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 3,
+      "from": 10,
+      "val": 350,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 10,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 55154,
+    "pickVal": 3000,
+    "total": 58154,
+    "wage": 27.1,
+    "youngShare": 20,
+    "oldShare": 5,
+    "fcCount": 10,
+    "allplay": 2.73,
+    "luck": 0.27,
+    "proj": 11.3,
+    "strength": 180.7,
+    "drank": 3,
+    "window": "Dynasty power",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 7,
+      "pts": 178.96,
+      "oppPts": 170.08,
+      "ap": 9
+     },
+     {
+      "w": 2,
+      "opp": 2,
+      "pts": 203.4,
+      "oppPts": 126.8,
+      "ap": 10
+     },
+     {
+      "w": 3,
+      "opp": 9,
+      "pts": 193.74,
+      "oppPts": 97.66,
+      "ap": 11
+     }
+    ],
+    "breakdown": {
+     "by": "margaret",
+     "headline": "Built for Right Now, and Right Now Only",
+     "verdict": "Dynasty power with a short window. Elite prime-age core, almost no future capital.",
+     "move": "Use Caleb Williams as the trade chip. He's the only young asset on the roster and the cleanest way to add a 2027 first back.",
+     "p": [
+      "Stroke The Post is the purest win-now roster in the league, and I mean that as a compliment and a warning.",
+      "Look at the ages. CeeDee Lamb 27.5, Jonathan Taylor 27.7, Chris Olave 26.2, Drake London 25.2, James Cook 27.0, Garrett Wilson 26.2. Every major piece is between 25 and 28, which is exactly where fantasy production peaks. Only 20% of the roster's value is in players 25 and under, the lowest share in the league.",
+      "The quarterback room is the oddity. Matthew Stafford is 38.6 and starting at superflex. Caleb Williams, the most valuable quarterback on the roster at 24.8, sits on the bench and is out this week with a hamstring injury. That's 6,757 points of dynasty value doing nothing.",
+      "The 3-0 record is real. The all-play mark is 2.73, tied with Bijan for best in the league, and Stroke has topped 178 points every week. The model projects 11.3 wins.",
+      "The cost shows up on the draft board. Stroke owns its 2028 first and nothing else in the first two rounds of either draft. Its 2027 first belongs to Panic Trade Project. This roster has roughly a two-season window before the running backs age out, and no picks to restock it."
+     ]
+    }
+   },
+   "11": {
+    "players": [
+     {
+      "id": 4046,
+      "name": "Patrick Mahomes",
+      "pos": "QB",
+      "age": 31.0,
+      "val": 5848,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2017,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 3163,
+      "name": "Jared Goff",
+      "pos": "QB",
+      "age": 31.9,
+      "val": 3575,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2016,
+      "nfl": "DET",
+      "inj": null
+     },
+     {
+      "id": 12490,
+      "name": "Bhayshul Tuten",
+      "pos": "RB",
+      "age": 23.6,
+      "val": 2844,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 10859,
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "age": 25.7,
+      "val": 2824,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "DET",
+      "inj": null
+     },
+     {
+      "id": 13346,
+      "name": "Denzel Boston",
+      "pos": "WR",
+      "age": 22.8,
+      "val": 2589,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2026,
+      "nfl": "CLE",
+      "inj": null
+     },
+     {
+      "id": 7594,
+      "name": "Chuba Hubbard",
+      "pos": "RB",
+      "age": 27.3,
+      "val": 2419,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2021,
+      "nfl": "CAR",
+      "inj": null
+     },
+     {
+      "id": 12495,
+      "name": "Ollie Gordon",
+      "pos": "RB",
+      "age": 22.7,
+      "val": 1000,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "MIA",
+      "inj": null
+     },
+     {
+      "id": 13305,
+      "name": "Mike Washington",
+      "pos": "RB",
+      "age": 23.3,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "LV",
+      "inj": null
+     },
+     {
+      "id": 13306,
+      "name": "Taylen Green",
+      "pos": "QB",
+      "age": 24.0,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "CLE",
+      "inj": "Out"
+     },
+     {
+      "id": 13311,
+      "name": "Chris Bell",
+      "pos": "WR",
+      "age": 22.3,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "MIA",
+      "inj": null
+     },
+     {
+      "id": 13319,
+      "name": "Oscar Delp",
+      "pos": "TE",
+      "age": 23.2,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 13337,
+      "name": "Emmett Johnson",
+      "pos": "RB",
+      "age": 23.0,
+      "val": 900,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2026,
+      "nfl": "KC",
+      "inj": null
+     },
+     {
+      "id": 13353,
+      "name": "Chris Brazzell",
+      "pos": "WR",
+      "age": 23.0,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "CAR",
+      "inj": "IR"
+     },
+     {
+      "id": 11834,
+      "name": "Devaughn Vele",
+      "pos": "WR",
+      "age": 28.8,
+      "val": 800,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2024,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 9486,
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "age": 25.3,
+      "val": 650,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "PHI",
+      "inj": null
+     },
+     {
+      "id": 8676,
+      "name": "Rashid Shaheed",
+      "pos": "WR",
+      "age": 28.1,
+      "val": 550,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 11625,
+      "name": "Adonai Mitchell",
+      "pos": "WR",
+      "age": 24.0,
+      "val": 500,
+      "src": "est",
+      "status": "IR",
+      "cls": 2024,
+      "nfl": "NYJ",
+      "inj": "Out"
+     },
+     {
+      "id": 11638,
+      "name": "Ricky Pearsall",
+      "pos": "WR",
+      "age": 26.1,
+      "val": 500,
+      "src": "est",
+      "status": "IR",
+      "cls": 2024,
+      "nfl": "SF",
+      "inj": "IR"
+     },
+     {
+      "id": 11435,
+      "name": "Emanuel Wilson",
+      "pos": "RB",
+      "age": 27.4,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 9508,
+      "name": "Tyjae Spears",
+      "pos": "RB",
+      "age": 25.3,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "TEN",
+      "inj": "Questionable"
+     },
+     {
+      "id": 2306,
+      "name": "Jameis Winston",
+      "pos": "QB",
+      "age": 32.7,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2015,
+      "nfl": "NYG",
+      "inj": null
+     },
+     {
+      "id": 5844,
+      "name": "T.J. Hockenson",
+      "pos": "TE",
+      "age": 29.3,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "MIN",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 2,
+      "from": 10,
+      "val": 1100,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 4,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 11,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 11,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 11,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 30499,
+    "pickVal": 2100,
+    "total": 32599,
+    "wage": 27.9,
+    "youngShare": 45,
+    "oldShare": 31,
+    "fcCount": 6,
+    "allplay": 0.82,
+    "luck": 1.18,
+    "proj": 6.1,
+    "strength": 110.7,
+    "drank": 12,
+    "window": "Rebuild",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 6,
+      "pts": 117.56,
+      "oppPts": 101.34,
+      "ap": 4
+     },
+     {
+      "w": 2,
+      "opp": 4,
+      "pts": 118.2,
+      "oppPts": 85.68,
+      "ap": 5
+     },
+     {
+      "w": 3,
+      "opp": 12,
+      "pts": 67.12,
+      "oppPts": 108.36,
+      "ap": 0
+     }
+    ],
+    "breakdown": {
+     "by": "simone",
+     "headline": "All In on a Hand the Numbers Don't Like",
+     "verdict": "Rebuild by the numbers, but managed like a contender. The oldest roster in the league with the fewest picks.",
+     "move": "Commit. If Ben is buying, buy one more young running back. Going halfway is the worst outcome.",
+     "p": [
+      "Ben Football Team made three trades in Week 4 and walked out with Patrick Mahomes and Sam LaPorta. Ben is clearly playing to win now. The numbers say he's playing from last place.",
+      "Ben Football Team ranks 12th in dynasty value at 32,599. The roster is the oldest in the league by value-weighted age (27.9), and 31% of its value sits in players 29 or older. Mahomes is 31.0. Jared Goff, the other starting quarterback, is 31.9.",
+      "The draft cost of the buying spree is steep. Sheev owns Ben's 2027 first. Bijan Your Face owns Ben's 2028 first and third. Ben has 2,100 points of draft capital left, the least in the league: Stroke The Post's 2027 second and his own 2028 second.",
+      "The 2-1 record isn't what it looks like either. The all-play mark is 0.82, and the luck factor is +1.18, tied for second-luckiest. The new roster projects better than the old one, but the model still sees 6.1 wins.",
+      "There are young pieces here: Bhayshul Tuten (23.6), rookie Denzel Boston (22.8) and LaPorta (25.7). But this is a two-quarterback, 31-year-old core with no first-round picks for two years. If it doesn't make the playoffs this season, the recovery takes a long time."
+     ]
+    }
+   },
+   "12": {
+    "players": [
+     {
+      "id": 7569,
+      "name": "Nico Collins",
+      "pos": "WR",
+      "age": 27.5,
+      "val": 4451,
+      "src": "fc",
+      "status": "Bench",
+      "cls": 2021,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 9226,
+      "name": "De'Von Achane",
+      "pos": "RB",
+      "age": 24.9,
+      "val": 4247,
+      "src": "fc",
+      "status": "IR",
+      "cls": 2022,
+      "nfl": "MIA",
+      "inj": "IR"
+     },
+     {
+      "id": 9224,
+      "name": "Chase Brown",
+      "pos": "RB",
+      "age": 26.5,
+      "val": 4180,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "CIN",
+      "inj": null
+     },
+     {
+      "id": 9228,
+      "name": "Bryce Young",
+      "pos": "QB",
+      "age": 25.2,
+      "val": 3514,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "CAR",
+      "inj": null
+     },
+     {
+      "id": 9484,
+      "name": "Tucker Kraft",
+      "pos": "TE",
+      "age": 25.9,
+      "val": 2703,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2023,
+      "nfl": "GB",
+      "inj": null
+     },
+     {
+      "id": 5849,
+      "name": "Kyler Murray",
+      "pos": "QB",
+      "age": 29.1,
+      "val": 2317,
+      "src": "fc",
+      "status": "Starter",
+      "cls": 2019,
+      "nfl": "MIN",
+      "inj": null
+     },
+     {
+      "id": 12474,
+      "name": "Woody Marks",
+      "pos": "RB",
+      "age": 25.8,
+      "val": 1000,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2025,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 13420,
+      "name": "Bryce Lance",
+      "pos": "WR",
+      "age": 24.1,
+      "val": 900,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2026,
+      "nfl": "NO",
+      "inj": null
+     },
+     {
+      "id": 12499,
+      "name": "Elic Ayomanor",
+      "pos": "WR",
+      "age": 23.3,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 12521,
+      "name": "Elijah Arroyo",
+      "pos": "TE",
+      "age": 23.5,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi",
+      "cls": 2025,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 8126,
+      "name": "Wan'Dale Robinson",
+      "pos": "WR",
+      "age": 25.7,
+      "val": 550,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "TEN",
+      "inj": null
+     },
+     {
+      "id": 8134,
+      "name": "Khalil Shakir",
+      "pos": "WR",
+      "age": 26.7,
+      "val": 550,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2022,
+      "nfl": "BUF",
+      "inj": null
+     },
+     {
+      "id": 11603,
+      "name": "AJ Barner",
+      "pos": "TE",
+      "age": 24.4,
+      "val": 500,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2024,
+      "nfl": "SEA",
+      "inj": null
+     },
+     {
+      "id": 1479,
+      "name": "Keenan Allen",
+      "pos": "WR",
+      "age": 34.4,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2015,
+      "nfl": "IND",
+      "inj": "Out"
+     },
+     {
+      "id": 5892,
+      "name": "David Montgomery",
+      "pos": "RB",
+      "age": 29.3,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2019,
+      "nfl": "HOU",
+      "inj": null
+     },
+     {
+      "id": 5927,
+      "name": "Terry McLaurin",
+      "pos": "WR",
+      "age": 31.1,
+      "val": 450,
+      "src": "est",
+      "status": "Starter",
+      "cls": 2019,
+      "nfl": "WAS",
+      "inj": "Out"
+     },
+     {
+      "id": 10219,
+      "name": "Chris Rodriguez",
+      "pos": "RB",
+      "age": 27.0,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 9753,
+      "name": "Zach Charbonnet",
+      "pos": "RB",
+      "age": 25.7,
+      "val": 350,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2023,
+      "nfl": "SEA",
+      "inj": "PUP"
+     },
+     {
+      "id": 8142,
+      "name": "Alec Pierce",
+      "pos": "WR",
+      "age": 26.4,
+      "val": 250,
+      "src": "est",
+      "status": "IR",
+      "cls": 2022,
+      "nfl": "IND",
+      "inj": "IR"
+     },
+     {
+      "id": 4147,
+      "name": "Samaje Perine",
+      "pos": "RB",
+      "age": 31.0,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2017,
+      "nfl": "CIN",
+      "inj": null
+     },
+     {
+      "id": 5870,
+      "name": "Daniel Jones",
+      "pos": "QB",
+      "age": 29.4,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "IND",
+      "inj": null
+     },
+     {
+      "id": 5947,
+      "name": "Jakobi Meyers",
+      "pos": "WR",
+      "age": 29.9,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2019,
+      "nfl": "JAX",
+      "inj": null
+     },
+     {
+      "id": 96,
+      "name": "Aaron Rodgers",
+      "pos": "QB",
+      "age": 42.8,
+      "val": 150,
+      "src": "est",
+      "status": "Bench",
+      "cls": 2015,
+      "nfl": "PIT",
+      "inj": null
+     }
+    ],
+    "picks": [
+     {
+      "season": 2027,
+      "round": 1,
+      "from": 12,
+      "val": 3170,
+      "slot": "mid"
+     },
+     {
+      "season": 2027,
+      "round": 3,
+      "from": 6,
+      "val": 400,
+      "slot": null
+     },
+     {
+      "season": 2027,
+      "round": 4,
+      "from": 12,
+      "val": 0,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 1,
+      "from": 12,
+      "val": 2650,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 2,
+      "from": 12,
+      "val": 1000,
+      "slot": null
+     },
+     {
+      "season": 2028,
+      "round": 4,
+      "from": 12,
+      "val": 0,
+      "slot": null
+     }
+    ],
+    "playerVal": 29212,
+    "pickVal": 7220,
+    "total": 36432,
+    "wage": 26.4,
+    "youngShare": 28,
+    "oldShare": 8,
+    "fcCount": 6,
+    "allplay": 0.82,
+    "luck": 1.18,
+    "proj": 6.4,
+    "strength": 115.6,
+    "drank": 11,
+    "window": "Rebuild",
+    "sched": [
+     {
+      "w": 1,
+      "opp": 4,
+      "pts": 121.96,
+      "oppPts": 67.46,
+      "ap": 5
+     },
+     {
+      "w": 2,
+      "opp": 6,
+      "pts": 82.68,
+      "oppPts": 98.02,
+      "ap": 0
+     },
+     {
+      "w": 3,
+      "opp": 11,
+      "pts": 108.36,
+      "oppPts": 67.12,
+      "ap": 4
+     }
+    ],
+    "breakdown": {
+     "by": "anita",
+     "headline": "A 2-1 Record Built on an Easy Schedule",
+     "verdict": "Rebuild. The record overstates the roster, and the best player is on the bench.",
+     "move": "Start Nico Collins. Then decide which direction this roster is going and commit to it.",
+     "p": [
+      "Jackie aCHANe is 2-1, and I'd describe that record as fragile. The all-play mark is 0.82. Jackie has faced just 77.5 points a game, the easiest schedule in the league by 13.5 points. The luck factor is +1.18, tied for second-luckiest.",
+      "The bigger issue is lineup management. Jackie captures 74% of its available points, the worst in the league by ten points. Nico Collins, the most valuable player on the roster, is on the bench this week while Keenan Allen, questionable with a groin injury, starts.",
+      "From an injury standpoint, this week is rough. De'Von Achane is on the IR slot. Terry McLaurin and Keenan Allen are both questionable, and Jayden Daniels is out, so McLaurin catches passes from Marcus Mariota.",
+      "The dynasty core is modest: Collins (27.5), Achane (24.9), Chase Brown (26.5), Bryce Young (25.2) and Tucker Kraft (25.9). Kyler Murray (29.1) is the starting superflex. Value-weighted age is 26.4, middle of the pack, and the team ranks 11th in value.",
+      "Jackie does own its own 2027 first, which projects mid-round, and its 2028 first. The model projects 6.4 wins. That's a fringe playoff team that needs to pick a direction."
+     ]
+    }
+   }
+  },
+  "method": "Dynasty score = market value of every rostered player plus draft picks. Values for the top 100 dynasty assets come from FantasyCalc's superflex, 12-team PPR market, which already prices in age. Other players get an estimate by draft class, plus a bump if they start. 2027 firsts are valued early, mid or late by the original owner's projected finish; later picks are scaled from those. Updated with each Sunday Edition."
+ },
+ "tradeGrades": {
+  "writer": "mona",
+  "asOf": "Through Week 4",
+  "headline": "Ben Football Team Made Three Trades in One Week. I Have Notes.",
+  "intro": "I grade every trade three ways: value, fit and timing. Value is market price, using FantasyCalc's dynasty values for players and the same pick values as our Dynasty Rankings. Fit is whether the pieces solve a real roster problem. Timing is whether the move matches where the team actually is, not where the manager hopes it is. Winning on value with the wrong timeline is still a bad trade.",
+  "trades": [
+   {
+    "week": 4,
+    "title": "The Judkins-Walker swap",
+    "sides": [
+     {
+      "team": 1,
+      "gets": [
+       "Quinshon Judkins (RB, 22.9)",
+       "#StopAsianHate 2028 1st",
+       "#StopAsianHate 2028 2nd"
+      ],
+      "value": 6666,
+      "grade": "A-",
+      "reason": "Sheev turned an older back into a younger one and got a first and a second for the trouble. Judkins is three years younger than Walker and already paid off with 21.6 points Thursday. For the league's youngest contender, this is exactly the right direction."
+     },
+     {
+      "team": 7,
+      "gets": [
+       "Kenneth Walker (RB, 25.9)"
+      ],
+      "value": 6434,
+      "grade": "B-",
+      "reason": "Walker is the better player today, and #StopAsianHate is a real contender, so the upgrade is defensible. But it paid a first and a second to move up roughly 3,400 in player value, and running backs lose value fast after 26. With this deal, #StopAsianHate has only one pick left in the first two rounds of 2027 or 2028."
+     }
+    ]
+   },
+   {
+    "week": 4,
+    "title": "LaPorta to Ben",
+    "sides": [
+     {
+      "team": 11,
+      "gets": [
+       "Sam LaPorta (TE, 25.7)"
+      ],
+      "value": 2824,
+      "grade": "B-",
+      "reason": "A fair price for a prime-age starting tight end, and LaPorta fills a real hole. The problem is the pattern. This is another future pick out the door from a team that, by my numbers, isn't a contender yet."
+     },
+     {
+      "team": 6,
+      "gets": [
+       "Omar Cooper (WR, 22.8, rookie)",
+       "Ben Football Team 2027 2nd"
+      ],
+      "value": 2000,
+      "grade": "B+",
+      "reason": "Panic sold a 25.7-year-old tight end for rookie receiver Omar Cooper, currently on IR, and a second-round pick from a team projected for about six wins, so that second could land early. It weakens this season's lineup, but Panic's window is two years out. Disciplined."
+     }
+    ]
+   },
+   {
+    "week": 4,
+    "title": "Tuten for a future first",
+    "sides": [
+     {
+      "team": 11,
+      "gets": [
+       "Bhayshul Tuten (RB, 23.6)",
+       "Stroke The Post 2027 2nd"
+      ],
+      "value": 3944,
+      "grade": "C+",
+      "reason": "On paper Ben won, roughly 3,900 to 3,000. In practice, Ben traded a 2028 first from what is now the oldest roster in the league. If Ben is bad in 2027, that pick is worth far more than its current price. Tuten is a nice young back. He isn't worth that risk."
+     },
+     {
+      "team": 8,
+      "gets": [
+       "Ben Football Team 2028 1st",
+       "Ben Football Team 2028 3rd"
+      ],
+      "value": 3000,
+      "grade": "A-",
+      "reason": "Bijan Your Face had Bijan Robinson, Ashton Jeanty and Christian McCaffrey. Tuten was never starting. Turning a bench back into a future first from the league's oldest roster is the kind of move that keeps a dynasty power on top for years."
+     }
+    ]
+   },
+   {
+    "week": 4,
+    "title": "Mahomes for Maye",
+    "sides": [
+     {
+      "team": 11,
+      "gets": [
+       "Patrick Mahomes (QB, 31.0)",
+       "Ollie Gordon (RB)",
+       "Adonai Mitchell (WR, 24.0)",
+       "ClutchJuice 2027 4th"
+      ],
+      "value": 7048,
+      "grade": "C+",
+      "reason": "Here's the uncomfortable part: on today's market, Ben won this trade by about 1,200 points. Mahomes is also about three points a week better than Maye right now. But Ben swapped a 24-year-old franchise quarterback for a 31-year-old one, and in superflex that's the most important position on the board. Maye's value goes up from here. Mahomes' goes down."
+     },
+     {
+      "team": 4,
+      "gets": [
+       "Drake Maye (QB, 24.1)",
+       "Ben Football Team 2027 3rd"
+      ],
+      "value": 5837,
+      "grade": "A",
+      "reason": "This is the best trade of the five. ClutchJuice is in a full rebuild, and it just converted a 31-year-old quarterback into a 24-year-old one who'll be in his prime when its four 2027 firsts mature. Giving up a little market value to get the right age is exactly how rebuilds should work."
+     }
+    ]
+   },
+   {
+    "week": 3,
+    "title": "Egbuka for Henderson",
+    "sides": [
+     {
+      "team": 1,
+      "gets": [
+       "TreVeyon Henderson (RB, 23.9)",
+       "2027 2nd-round swap"
+      ],
+      "value": 2714,
+      "grade": "B-",
+      "reason": "Sheev had receivers to spare: McMillan, Parker Washington, Burden and Tyson. It needed a back. Henderson starts every week, which is real. But Sheev paid about 640 in value for the positional fit, and Egbuka is the better long-term asset."
+     },
+     {
+      "team": 6,
+      "gets": [
+       "Emeka Egbuka (WR, 23.9)",
+       "2027 2nd-round swap"
+      ],
+      "value": 3355,
+      "grade": "B",
+      "reason": "Panic won on value with a same-age player, and Egbuka is the better dynasty piece. The knock is fit. Panic already had the deepest young receiver room in the league and almost nothing at running back, and this made both of those problems bigger."
+     }
+    ]
+   }
+  ],
+  "note": "Values are current dynasty market values, not values at the time of the trade. The Week 3 pick swap involved 2027 second-round picks; league records show the picks changing hands more than once, so I treated it as even."
+ }
+}

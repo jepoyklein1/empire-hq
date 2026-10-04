@@ -1,0 +1,44 @@
+name: Pull Sleeper data
+
+# Runs shortly before each edition (Sun, Tue, Thu at 12:00 AM Central)
+# so the newspaper is written from fresh league data. Times are UTC.
+on:
+  schedule:
+    - cron: "30 4 * * 0,2,4"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download league data from Sleeper
+        env:
+          LEAGUE: "1324744734186422272"
+        run: |
+          set -euo pipefail
+          API=https://api.sleeper.app/v1
+          mkdir -p data/matchups data/transactions
+          curl -fsS "$API/state/nfl"                       -o data/state.json
+          curl -fsS "$API/league/$LEAGUE"                  -o data/league.json
+          curl -fsS "$API/league/$LEAGUE/users"            -o data/users.json
+          curl -fsS "$API/league/$LEAGUE/rosters"          -o data/rosters.json
+          curl -fsS "$API/league/$LEAGUE/traded_picks"     -o data/traded_picks.json
+          curl -fsS "$API/players/nfl"                     -o data/players.json
+          WEEK=$(python3 -c "import json;print(max(1,json.load(open('data/state.json')).get('leg') or json.load(open('data/state.json')).get('week') or 1))")
+          for w in $(seq 1 "$WEEK"); do
+            curl -fsS "$API/league/$LEAGUE/matchups/$w"     -o "data/matchups/$w.json"
+            curl -fsS "$API/league/$LEAGUE/transactions/$w" -o "data/transactions/$w.json"
+          done
+          curl -fsS "https://api.sleeper.app/projections/nfl/2026/$WEEK?season_type=regular&position[]=QB&position[]=RB&position[]=WR&position[]=TE" -o "data/projections.json" || true
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > data/updated_at.txt
+      - name: Save to the repository
+        run: |
+          git config user.name "empire-hq-bot"
+          git config user.email "empire-hq-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Sleeper data refresh"
+          git push

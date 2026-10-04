@@ -1,0 +1,641 @@
+<title>Empire Strikes Back HQ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@500;700;800;900&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Serif:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@500;600&display=swap">
+<style>
+/* Layout: league news desk. Scoreboard strip, masthead with edition tabs, front-page banner, bylined columns,
+   edition segments (injury report / matchup intelligence), the desk, then standings beside the transaction wire. */
+:root{
+  --bg:#eef1f4; --surface:#ffffff; --ink:#151a21; --muted:#5d6774; --line:#d6dce3;
+  --accent:#b3202c; --accent-soft:#f6e3e4; --steel:#2f5d86; --steel-soft:#e1eaf3;
+  --gold:#c08a1e; --gold-ink:#8a5f0e; --gold-soft:#f6ecd8; --teal:#1f7a78; --teal-soft:#dcefee;
+  --strip:#151a21; --strip-ink:#f2f4f6; --strip-muted:#9aa4b0; --strip-line:#2c343e;
+  --good:#1d7a4f; --bad:#b3202c; --warn:#b77a0a; --cut:#c48a14;
+  --display:"Saira Condensed","Arial Narrow",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --read:"IBM Plex Serif",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1318; --surface:#171d24; --ink:#e8ecf0; --muted:#97a1ad; --line:#2a323c;
+  --accent:#e2525c; --accent-soft:#2c1a1e; --steel:#7fb0dc; --steel-soft:#18232f;
+  --gold:#d9a23a; --gold-ink:#e6b04a; --gold-soft:#2a2216; --teal:#5cc3bf; --teal-soft:#14292a;
+  --strip:#07090c; --strip-ink:#e8ecf0; --strip-muted:#8a949f; --strip-line:#232a33;
+  --good:#4cc38a; --bad:#e2525c; --warn:#e0aa3e; --cut:#e0aa3e; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1318; --surface:#171d24; --ink:#e8ecf0; --muted:#97a1ad; --line:#2a323c;
+  --accent:#e2525c; --accent-soft:#2c1a1e; --steel:#7fb0dc; --steel-soft:#18232f;
+  --gold:#d9a23a; --gold-ink:#e6b04a; --gold-soft:#2a2216; --teal:#5cc3bf; --teal-soft:#14292a;
+  --strip:#07090c; --strip-ink:#e8ecf0; --strip-muted:#8a949f; --strip-line:#232a33;
+  --good:#4cc38a; --bad:#e2525c; --warn:#e0aa3e; --cut:#e0aa3e; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 var(--body)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+/* scoreboard strip */
+.strip{max-width:100vw;position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--strip);color:var(--strip-ink);display:flex;align-items:stretch;border-bottom:3px solid var(--accent)}
+.strip-label{flex:0 0 auto;display:grid;align-content:center;padding:8px 12px 8px 16px;font:800 13px/1.05 var(--display);text-transform:uppercase;letter-spacing:.06em;border-right:1px solid var(--strip-line)}
+.strip-label small{font:500 9.5px/1.3 var(--mono);letter-spacing:.1em;color:var(--strip-muted)}
+.games{display:flex;overflow-x:auto;scrollbar-width:thin;min-width:0}
+.game{flex:0 0 auto;min-width:190px;padding:7px 14px;border-right:1px solid var(--strip-line);display:grid;gap:2px;font-variant-numeric:tabular-nums}
+.game .st{font:500 9.5px/1.3 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--strip-muted)}
+.game .ln{display:flex;justify-content:space-between;gap:12px;font-size:13px;line-height:1.35}
+.game .ln .tm{max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.game .ln .sub{color:var(--strip-muted);font-size:11px}
+.game .ln.lose{color:var(--strip-muted)}
+.game .ln.win{font-weight:600}
+.game .ln b{font-weight:600}
+
+.wrap>*,#edition-body>*{min-width:0}
+.wrap{max-width:1120px;margin:0 auto;padding-inline:16px;padding-block:18px 48px;display:grid;gap:30px}
+.mast{display:grid;gap:10px;padding-block:4px 14px;border-bottom:3px solid var(--ink)}
+.eyebrow{font:500 11px/1.3 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+h1{font:800 clamp(34px,7vw,60px)/.9 var(--display);text-transform:uppercase;letter-spacing:.01em;margin:0;text-wrap:balance}
+h1 span{color:var(--accent)}
+.tabs{display:flex;gap:6px;flex-wrap:wrap}
+.tab{font:700 14px/1 var(--display);text-transform:uppercase;letter-spacing:.06em;padding:9px 14px;border-radius:4px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer;display:inline-flex;gap:8px;align-items:baseline}
+.tab small{font:500 10px/1 var(--mono);letter-spacing:.06em;color:var(--muted);text-transform:none}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.tab[aria-selected="true"] small{color:var(--bg);opacity:.7}
+.edition{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px;color:var(--muted)}
+.edition b{color:var(--ink);font-weight:600}
+
+/* banner */
+.banner{display:grid;gap:10px;padding-block:4px}
+.banner .flag{font:600 11px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.banner h2.big{font:900 clamp(46px,11vw,110px)/.86 var(--display);text-transform:uppercase;letter-spacing:-.005em;margin:0;text-wrap:balance}
+.banner .deck{font:400 clamp(17px,2.2vw,21px)/1.45 var(--read);color:var(--muted);max-width:62ch;margin:0}
+
+h2{font:700 22px/1.1 var(--display);text-transform:uppercase;letter-spacing:.04em;margin:0}
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+.sec-head small{color:var(--muted);font-size:12px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:6px;min-width:0}
+
+/* columns */
+.cols{display:grid;gap:20px;grid-template-columns:repeat(2,minmax(0,1fr));align-items:start}
+@media (max-width:860px){.cols{grid-template-columns:minmax(0,1fr)}}
+article.story{padding:18px 18px 22px;display:grid;gap:14px;align-content:start}
+.byline{display:flex;gap:16px;align-items:flex-end}
+.portrait{width:120px;height:160px;border-radius:6px;object-fit:cover;object-position:center top;flex:0 0 auto;box-shadow:0 0 0 1px var(--line);max-width:100%}
+.who{display:grid;gap:3px;line-height:1.25;min-width:0}
+.who b{font:700 24px/1.05 var(--display);text-transform:uppercase;letter-spacing:.03em}
+.who span{font-size:12.5px;color:var(--muted)}
+.kicker{font:600 10.5px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;padding:5px 7px;border-radius:3px;justify-self:start}
+.story.red .kicker{background:var(--accent-soft);color:var(--accent)}
+.story.blue .kicker{background:var(--steel-soft);color:var(--steel)}
+.story.gold .kicker{background:var(--gold-soft);color:var(--gold-ink)}
+.story.teal .kicker{background:var(--teal-soft);color:var(--teal)}
+.story h3{margin:0;font:800 clamp(25px,3.6vw,32px)/1.02 var(--display);text-transform:uppercase;letter-spacing:.01em;text-wrap:balance}
+.story .body{display:grid;gap:11px;max-width:66ch}
+.story .body p{margin:0}
+.story.serif .body p{font-family:var(--read);font-size:16px;line-height:1.62}
+
+/* picks */
+.picks{display:grid;gap:8px}
+.picks-h{font:800 15px/1 var(--display);text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.pk{display:grid;gap:3px;padding:10px 12px;border:1px solid var(--line);border-radius:5px;background:var(--bg)}
+.pk .vs{font-size:12.5px;color:var(--muted);line-height:1.3}
+.pk .win{font:900 24px/1 var(--display);text-transform:uppercase;letter-spacing:.01em}
+.pk .win::before{content:"PICK ";font:700 11px/1 var(--mono);letter-spacing:.1em;color:var(--gold-ink);vertical-align:4px}
+.pk .note{font-size:13px;color:var(--muted)}
+.pk.upset{border:2px solid var(--gold);background:var(--gold-soft)}
+.upset-box{display:grid;gap:6px;padding:16px;border-radius:6px;background:var(--ink);color:var(--bg)}
+.upset-box .lbl{font:700 11px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+.upset-box .big{font:900 clamp(28px,4.8vw,40px)/.95 var(--display);text-transform:uppercase}
+.upset-box .big span{opacity:.6;font-weight:700;font-size:.55em;vertical-align:.3em;margin-inline:6px}
+.upset-box p{margin:0;font-size:14px;opacity:.85}
+
+/* injury report */
+.inj{display:grid}
+.inj-row{display:grid;grid-template-columns:128px minmax(0,1fr);gap:4px 14px;padding:14px 16px;border-bottom:1px solid var(--line)}
+.inj-row:last-child{border-bottom:0}
+.status{grid-row:span 3;align-self:start;font:700 12px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:7px 8px;border-radius:4px;text-align:center}
+.status.out{background:color-mix(in srgb,var(--bad) 16%,transparent);color:var(--bad)}
+.status.q{background:color-mix(in srgb,var(--warn) 18%,transparent);color:var(--warn)}
+.status.clear{background:color-mix(in srgb,var(--good) 15%,transparent);color:var(--good)}
+.inj-row .pl{font:800 21px/1.05 var(--display);text-transform:uppercase;letter-spacing:.02em}
+.inj-row .meta{font-size:12.5px;color:var(--muted)}
+.inj-row .hit{display:flex;gap:6px;flex-wrap:wrap;margin-top:2px}
+.chip{font:500 11.5px/1 var(--body);padding:5px 7px;border-radius:3px;background:var(--bg);border:1px solid var(--line);white-space:nowrap}
+.inj-row .imp{grid-column:2;font-size:14px;margin-top:4px}
+@media (max-width:520px){.inj-row{grid-template-columns:minmax(0,1fr)}.status{grid-row:auto;justify-self:start}.inj-row .imp{grid-column:1}}
+
+/* matchup intelligence */
+.intel{display:grid;gap:14px;grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:860px){.intel{grid-template-columns:minmax(0,1fr)}}
+.mi{padding:14px 16px;display:grid;gap:12px}
+.mi-h{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:8px;align-items:end}
+.mi-h .t{font:800 20px/1.05 var(--display);text-transform:uppercase;letter-spacing:.02em;overflow-wrap:anywhere}
+.mi-h .t:last-child{text-align:right}
+.mi-h .v{font:500 11px var(--mono);color:var(--muted);padding-bottom:3px}
+.mi table{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:14px}
+.mi td{padding:5px 0;border-bottom:1px solid var(--line)}
+.mi td:nth-child(2){text-align:center;font:500 10.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);width:34%}
+.mi td:last-child{text-align:right}
+.mi td.hi{font-weight:700}
+.mi tr:last-child td{border-bottom:0}
+.edges{display:grid;gap:6px}
+.edges .lbl{font:600 10.5px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.edge{display:grid;grid-template-columns:44px minmax(0,1fr) 30px minmax(0,1fr) 44px;gap:6px;align-items:center;font:500 12.5px var(--mono);font-variant-numeric:tabular-nums}
+.edge .pos{text-align:center;color:var(--muted);font-size:11px}
+.edge .lv{text-align:left}.edge .rv{text-align:right}
+.edge .bl,.edge .br{height:8px;background:var(--line);border-radius:4px;position:relative;overflow:hidden}
+.edge .bl i{position:absolute;right:0;top:0;bottom:0;background:var(--steel);border-radius:4px}
+.edge .br i{position:absolute;left:0;top:0;bottom:0;background:var(--steel);border-radius:4px}
+.mi .why{font-size:13.5px;border-top:1px solid var(--line);padding-top:10px}
+.mi .why b{font:600 10.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--steel);display:block;margin-bottom:3px}
+.fine{font-size:12px;color:var(--muted);margin-top:8px}
+
+/* the desk */
+.desk{display:grid;gap:12px;grid-template-columns:repeat(6,minmax(0,1fr))}
+@media (max-width:900px){.desk{grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:minmax(170px,44%);overflow-x:auto;padding-bottom:6px}}
+.writer{display:grid;align-content:start;background:var(--surface);border:1px solid var(--line);border-radius:6px;overflow:hidden;min-width:0}
+.writer img{width:100%;aspect-ratio:3/4;object-fit:cover;object-position:center top;display:block;max-width:100%}
+.writer div{display:grid;gap:3px;padding:10px 12px 12px;min-width:0}
+.writer b{font:700 19px/1.1 var(--display);text-transform:uppercase;letter-spacing:.03em}
+.writer span{font-size:12.5px;color:var(--muted)}
+.writer .day{font:600 10.5px/1.2 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.writer:not(.on) img{filter:saturate(.5)}
+
+.pending{padding:28px 20px;display:grid;gap:8px;justify-items:start}
+.pending b{font:800 28px/1 var(--display);text-transform:uppercase}
+.pending p{margin:0;color:var(--muted);max-width:60ch}
+
+/* standings + wire */
+.grid2{display:grid;gap:20px;grid-template-columns:minmax(0,1.55fr) minmax(0,1fr)}
+@media (max-width:860px){.grid2{grid-template-columns:minmax(0,1fr)}}
+.tablewrap{overflow-x:auto}
+.std{border-collapse:collapse;width:100%;font-variant-numeric:tabular-nums;font-size:14px}
+.std th{font:500 10.5px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:right;padding:12px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+.std th:nth-child(1),.std th:nth-child(2){text-align:left}
+.std td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.std td.rk{text-align:left;font:700 16px var(--display);color:var(--muted);width:28px}
+.std td.team{text-align:left;white-space:normal;min-width:150px}
+.tn{font-weight:600;display:block;line-height:1.25}
+.mgr{font-size:12px;color:var(--muted)}
+.std tr.cutline td{border-bottom:2px dashed var(--cut)}
+.std tbody tr:last-child td{border-bottom:0}
+.std td.wl{font-weight:600}
+.pill{display:inline-block;font:600 11px/1 var(--mono);padding:4px 6px;border-radius:3px}
+.pill.w{color:var(--good);background:color-mix(in srgb,var(--good) 14%,transparent)}
+.pill.l{color:var(--bad);background:color-mix(in srgb,var(--bad) 14%,transparent)}
+.eff{display:inline-flex;align-items:center;gap:6px}
+.bar{width:44px;height:5px;background:var(--line);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--ink)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;padding:10px 12px;font-size:12px;color:var(--muted);border-top:1px solid var(--line)}
+.legend .dash{display:inline-block;width:18px;border-top:2px dashed var(--cut);vertical-align:middle;margin-right:4px}
+.champ{font-size:12px;margin-left:4px}
+.moves{display:grid;max-height:760px;overflow-y:auto}
+.move{display:grid;gap:6px;padding:12px 14px;border-bottom:1px solid var(--line)}
+.move:last-child{border-bottom:0}
+.move .meta{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+.mtype{font:600 10px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:4px 6px;border-radius:3px}
+.mtype.trade{background:var(--accent-soft);color:var(--accent)}
+.mtype.waiver{background:var(--steel-soft);color:var(--steel)}
+.mtype.free_agent{background:var(--line);color:var(--ink)}
+.sides{display:grid;gap:5px}
+.side{display:flex;gap:4px 10px;flex-wrap:wrap;align-items:baseline;font-size:14px}
+.side b{font-weight:600;margin-right:2px}
+.side .add{color:var(--good)}
+.side .drop{color:var(--muted);text-decoration:line-through}
+.bid{font:500 12px var(--mono);color:var(--ink)}
+.unk{color:var(--muted)}
+footer{font-size:12px;color:var(--muted);display:grid;gap:4px}
+
+.view{display:grid;gap:30px}
+.view>*,.tgrid>*{min-width:0}
+.view[hidden]{display:none!important}
+#edition-body{display:grid;gap:30px}
+a.tlink{color:inherit;text-decoration:none;font-weight:600;border-bottom:1px dotted var(--muted)}
+a.tlink:hover{color:var(--accent);border-bottom-color:var(--accent)}
+.fine.pad{padding:0 12px 12px;margin:0}
+.wpill{display:inline-block;font:600 10.5px/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:5px 7px;border-radius:3px;white-space:nowrap}
+.wpill.power{background:var(--gold-soft);color:var(--gold-ink)}
+.wpill.rising{background:var(--teal-soft);color:var(--teal)}
+.wpill.now{background:var(--accent-soft);color:var(--accent)}
+.wpill.rebuild{background:var(--steel-soft);color:var(--steel)}
+.dyn td.score{min-width:200px}
+.dyn th:nth-child(3),.dyn td:nth-child(3){text-align:left}
+.sbar{display:flex;height:9px;border-radius:5px;overflow:hidden;background:var(--line);margin-top:4px}
+.sbar i{display:block;height:100%}
+.sbar .p,.sw-p{background:var(--ink)}
+.sbar .k,.sw-k{background:var(--gold)}
+.sw{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px}
+.pos-luck{color:var(--good)}.neg-luck{color:var(--bad)}
+/* team page */
+.back{font:600 12px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--accent);text-decoration:none;justify-self:start}
+.thead{display:grid;gap:8px}
+.thead h2{font:900 clamp(40px,8vw,84px)/.88 var(--display);text-transform:uppercase;letter-spacing:-.005em;text-wrap:balance;margin:0}
+.thead .sub{display:flex;gap:8px 16px;flex-wrap:wrap;align-items:center;color:var(--muted);font-size:14px}
+.thead .sub b{color:var(--ink)}
+.tiles{display:grid;gap:12px;grid-template-columns:repeat(6,minmax(0,1fr))}
+@media (max-width:900px){.tiles{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (max-width:480px){.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.tile{padding:12px 14px;display:grid;gap:4px;align-content:start}
+.tile .k{font:600 10px/1.2 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.tile .v{font:800 30px/1 var(--display);font-variant-numeric:tabular-nums}
+.tile .n{font-size:12px;color:var(--muted)}
+.tgrid{display:grid;gap:20px;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);align-items:start}
+@media (max-width:900px){.tgrid{grid-template-columns:minmax(0,1fr)}}
+.callouts{display:grid;gap:10px}
+.callout{padding:12px 14px;border-radius:6px;display:grid;gap:4px}
+.callout b{font:600 10.5px var(--mono);letter-spacing:.1em;text-transform:uppercase}
+.callout.v{background:var(--ink);color:var(--bg)}
+.callout.v b{color:var(--gold)}
+.callout.m{background:var(--gold-soft);border:1px solid var(--gold)}
+.callout.m b{color:var(--gold-ink)}
+.sched{display:grid}
+.sched .r{display:grid;grid-template-columns:44px minmax(0,1fr) auto 28px;gap:10px;align-items:center;padding:10px 14px;border-bottom:1px solid var(--line);font-variant-numeric:tabular-nums;font-size:14px}
+.sched .r:last-child{border-bottom:0}
+.sched .wk{font:600 11px var(--mono);color:var(--muted)}
+.sched .res{font:700 12px var(--mono);text-align:center;border-radius:3px;padding:4px 0}
+.sched .res.W{background:color-mix(in srgb,var(--good) 15%,transparent);color:var(--good)}
+.sched .res.L{background:color-mix(in srgb,var(--bad) 15%,transparent);color:var(--bad)}
+.sched .ap{font-size:12px;color:var(--muted)}
+.roster td.nm{text-align:left;white-space:normal;min-width:150px}
+.roster td.nm .unk{font-style:italic}
+.roster .vbar{display:inline-block;width:70px;height:6px;background:var(--line);border-radius:3px;overflow:hidden;vertical-align:middle;margin-right:6px}
+.roster .vbar i{display:block;height:100%;background:var(--ink)}
+.injt{font:600 10px var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--bad);margin-left:4px}
+.roster .est{color:var(--muted);font-style:italic}
+.roster tr.grp td{background:var(--bg);font:600 10.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:left;padding:7px 10px}
+.st-chip{font:500 10.5px var(--mono);padding:3px 6px;border-radius:3px;background:var(--bg);border:1px solid var(--line)}
+.st-chip.Starter{border-color:var(--ink)}
+.st-chip.IR{color:var(--bad);border-color:var(--bad)}
+.picklist{display:grid}
+.picklist .r{display:flex;justify-content:space-between;gap:10px;padding:9px 14px;border-bottom:1px solid var(--line);font-size:14px}
+.picklist .r:last-child{border-bottom:0}
+.picklist .r span:last-child{color:var(--muted);font-size:12.5px;text-align:right}
+
+.tm1{color:inherit;text-decoration:underline;text-decoration-color:var(--accent);text-decoration-thickness:2px;text-underline-offset:3px;font-weight:600}
+.tm1:hover{color:var(--accent)}
+.story.wide{grid-column:1/-1}
+.story.flow .body{display:block;max-width:none;columns:2 340px;column-gap:36px}
+.story.flow .body p{break-inside:avoid;margin-bottom:11px}
+.secs{display:grid;gap:14px;grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:860px){.secs{grid-template-columns:minmax(0,1fr)}}
+.sec{border:1px solid var(--line);border-radius:6px;padding:14px 16px 0;display:flex;flex-direction:column;gap:10px;background:var(--bg);overflow:hidden}
+.sec.upset{border:2px solid var(--gold)}
+.sec .tag{font:600 10.5px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.sec.upset .tag{color:var(--gold-ink)}
+.vsh{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:10px;align-items:start;padding-bottom:10px;border-bottom:1px solid var(--line)}
+.side-l{display:grid;gap:2px;min-width:0}
+.side-l:last-child{text-align:right}
+.side-l a{font:800 21px/1.05 var(--display);text-transform:uppercase;letter-spacing:.02em;border:0;overflow-wrap:anywhere}
+.side-l span{font:500 11px var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.vsx{font:600 11px var(--mono);color:var(--muted);padding-top:6px}
+.sec-body{display:grid;gap:9px}
+.sec-body p{margin:0}
+.verdict{margin:auto -16px 0;padding:12px 16px 14px;background:var(--ink);color:var(--bg);display:grid;gap:3px}
+.sec.upset .verdict{background:var(--gold);color:#1a1205}
+.verdict .lab{font:700 10.5px/1 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--gold)}
+.sec.upset .verdict .lab{color:#1a1205;opacity:.75}
+.verdict .who-wins{font:900 28px/1 var(--display);text-transform:uppercase;letter-spacing:.01em}
+.verdict .over{font-size:12.5px;opacity:.75}
+.verdict .why{font-size:13.5px;opacity:.92;margin-top:2px}
+
+.book{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;padding:8px 10px;border:1px dashed var(--line);border-radius:4px;background:var(--surface);font:500 12px var(--mono);font-variant-numeric:tabular-nums}
+.book span{display:grid;gap:2px;min-width:0;overflow-wrap:anywhere}
+.book b{font:600 9.5px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+@media (max-width:520px){.book{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.book-note{font-size:12px;color:var(--muted);margin:0}
+
+.tg-lead{display:flex;gap:18px;align-items:flex-end;padding:16px 18px;margin-bottom:14px}
+.tg-lead-t{display:grid;gap:8px;min-width:0}
+.tg-lead h3{margin:0;font:800 clamp(22px,3.2vw,30px)/1.05 var(--display);text-transform:uppercase;text-wrap:balance}
+.tg-lead p{margin:0;max-width:72ch;font-family:var(--read);font-size:15.5px;line-height:1.55}
+@media (max-width:560px){.tg-lead{flex-direction:column;align-items:flex-start}}
+.tgs{display:grid;gap:14px}
+.tg{padding:14px 16px;display:grid;gap:12px}
+.tg-h{display:grid;gap:4px}
+.tg-h .tag{font:600 10.5px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.tg-h h4{margin:0;font:800 22px/1.05 var(--display);text-transform:uppercase;letter-spacing:.02em}
+.tg-sides{display:grid;gap:14px;grid-template-columns:repeat(2,minmax(0,1fr))}
+@media (max-width:760px){.tg-sides{grid-template-columns:minmax(0,1fr)}}
+.tg-side{display:grid;gap:9px;align-content:start;padding:12px 14px;background:var(--bg);border-radius:6px;min-width:0}
+.tg-top{display:flex;justify-content:space-between;align-items:center;gap:10px}
+.tg-top a{font:800 21px/1.05 var(--display);text-transform:uppercase;letter-spacing:.02em;border:0}
+.grade{font:900 34px/1 var(--display);min-width:58px;text-align:center;padding:6px 8px;border-radius:5px;flex:0 0 auto}
+.grade.ga{background:color-mix(in srgb,var(--good) 18%,transparent);color:var(--good)}
+.grade.gb{background:var(--steel-soft);color:var(--steel)}
+.grade.gc{background:color-mix(in srgb,var(--warn) 20%,transparent);color:var(--warn)}
+.grade.gd{background:color-mix(in srgb,var(--bad) 16%,transparent);color:var(--bad)}
+.tg-gets{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:13px}
+.tg-gets b{font:600 10px var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-right:2px}
+.tg-gets span{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:4px 7px}
+.tg-val{display:flex;gap:8px;align-items:center;font:500 11.5px var(--mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.tg-val .vb{width:90px;height:7px;background:var(--line);border-radius:4px;overflow:hidden;flex:0 0 auto}
+.tg-val .vb i{display:block;height:100%;background:var(--ink)}
+.tg-side p{margin:0;font-size:14px;line-height:1.55}
+@media (prefers-reduced-motion:no-preference){.banner h2.big{animation:rise .5s ease-out both}@keyframes rise{from{transform:translateY(6px)}to{transform:none}}}
+</style>
+
+<nav class="strip" aria-label="Scoreboard">
+  <div class="strip-label" id="strip-label"></div>
+  <div class="games" id="games" tabindex="0"></div>
+</nav>
+
+<div class="wrap">
+  <header class="mast">
+    <div class="eyebrow" id="eyebrow"></div>
+    <h1>The Empire <span>Strikes Back</span></h1>
+    <div class="tabs" role="tablist" id="tabs"></div>
+    <div class="edition" id="edition"></div>
+  </header>
+
+  <div id="news-view" class="view">
+  <div id="edition-body"></div>
+
+  <section>
+    <div class="sec-head"><h2>The Desk</h2><small>Who writes when</small></div>
+    <div class="desk" id="desk"></div>
+  </section>
+
+  <div class="grid2">
+    <section>
+      <div class="sec-head"><h2>Standings</h2><small>Sorted by record, then points for</small></div>
+      <div class="panel">
+        <div class="tablewrap">
+          <table class="std">
+            <thead><tr><th>#</th><th>Team</th><th>W-L</th><th>PF</th><th>PA</th><th>Lineup eff.</th><th>Streak</th></tr></thead>
+            <tbody id="standings"></tbody>
+          </table>
+        </div>
+        <div class="legend"><span><span class="dash"></span>Playoff line (top 6)</span><span>Lineup eff. = points scored ÷ max possible points</span><span>🏆 defending champ</span></div>
+      </div>
+    </section>
+    <section>
+      <div class="sec-head"><h2>Transaction Wire</h2><small id="moves-note"></small></div>
+      <div class="panel moves" id="moves"></div>
+    </section>
+  </div>
+
+  <section id="grades"></section>
+
+  <section id="dynasty">
+    <div class="sec-head"><h2>Dynasty Rankings</h2><small id="dyn-asof"></small></div>
+    <div class="panel">
+      <div class="tablewrap"><table class="std dyn">
+        <thead><tr><th>#</th><th>Team</th><th>Window</th><th>Dynasty score</th><th>Core age</th><th>Age 25 and under</th></tr></thead>
+        <tbody id="dyn-body"></tbody></table></div>
+      <div class="legend"><span><i class="sw sw-p"></i>Players</span><span><i class="sw sw-k"></i>Draft picks</span><span>Core age = value-weighted age of top dynasty assets</span></div>
+      <p class="fine pad" id="dyn-method"></p>
+    </div>
+  </section>
+  </div>
+  <div id="team-view" class="view" hidden></div>
+
+  <footer>
+    <span>Sunday Edition: injuries and picks. Tuesday Edition: weekend recap and final scores. Thursday Edition: waiver wire and matchup intelligence. Each publishes at 12:00 AM Central.</span>
+    <span>Writers are fictional characters. The numbers are real, pulled from Sleeper and the NFL's official injury reports.</span>
+  </footer>
+</div>
+
+<script type="application/json" id="edition-data">__DATA__</script>
+<script>
+const AV=__AV__;
+const DESK=[
+ {av:"margaret",name:"Margaret Lee",days:["tuesday"],dayLabel:"Tuesdays",beat:"Weekend recap and matchup takes"},
+ {av:"kenny",name:"Kenny Park",days:["tuesday","thursday"],dayLabel:"Tuesdays · Thursdays",beat:"Tuesday takes, Thursday matchup intelligence"},
+ {av:"simone",name:"Simone Hart",days:["thursday"],dayLabel:"Thursdays",beat:"The waiver wire, from the inside"},
+ {av:"jeff",name:"Jeff Longwood",days:["sunday"],dayLabel:"Sundays",beat:"The picks and the upset of the week"},
+ {av:"anita",name:"Dr. Anita Wang",days:["sunday"],dayLabel:"Sundays",beat:"The injury report"},
+ {av:"mona",name:"Mona Lott",days:["sunday","tuesday","thursday"],dayLabel:"Every edition",beat:"Trade grades"}
+];
+const D=JSON.parse(document.getElementById("edition-data").textContent);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const f1=n=>Number(n).toFixed(1);
+const T=id=>D.teams.find(t=>t.id===id)||{team:"Unknown",w:0,l:0};
+const rec=t=>`${t.w}-${t.l}${t.t?"-"+t.t:""}`;
+const $=id=>document.getElementById(id);
+
+function strip(sb){
+  $("strip-label").innerHTML=`${esc(sb.label)}<small>${esc(sb.sublabel||"")}</small>`;
+  $("games").innerHTML=sb.games.map(g=>{
+    const A=T(g.a),B=T(g.b);
+    if(sb.mode==="final"){
+      const aw=g.aPts>g.bPts;
+      return `<div class="game"><span class="st">${esc(g.status||"Final")}</span>
+      <div class="ln ${aw?"win":"lose"}"><span class="tm">${esc(A.team)}</span><b>${f1(g.aPts)}</b></div>
+      <div class="ln ${aw?"lose":"win"}"><span class="tm">${esc(B.team)}</span><b>${f1(g.bPts)}</b></div></div>`;
+    }
+    const cell=(pts,pr)=>sb.mode==="live"?`<b>${f1(pts)}</b> <span class="sub">/ ${f1(pr)}p</span>`:`<b>${f1(pr)}</b> <span class="sub">proj</span>`;
+    return `<div class="game"><span class="st">${esc(g.status||"")}</span>
+    <div class="ln"><span class="tm">${esc(A.team)} <span class="sub">${rec(A)}</span></span><span>${cell(g.aPts,g.aProj)}</span></div>
+    <div class="ln"><span class="tm">${esc(B.team)} <span class="sub">${rec(B)}</span></span><span>${cell(g.bPts,g.bProj)}</span></div></div>`;
+  }).join("");
+}
+
+const NAMES=D.teams.map(t=>({id:t.id,n:t.team.replace(/\p{Extended_Pictographic}|️/gu,"").trim()})).sort((x,y)=>y.n.length-x.n.length);
+// escape text, then turn the first mention of each team in an article into an underlined link to its team page
+function hl(text,seen){
+  let h=esc(text);
+  for(const {id,n} of NAMES){
+    if(seen.has(id))continue;
+    const en=esc(n);let i=h.indexOf(en);
+    while(i>=0&&h.lastIndexOf("<",i)>h.lastIndexOf(">",i))i=h.indexOf(en,i+1);
+    if(i<0)continue;
+    seen.add(id);
+    h=h.slice(0,i)+`<a class="tm1" href="#team-${id}">${en}</a>`+h.slice(i+en.length);
+  }
+  return h;
+}
+const paras=(ps,seen)=>(ps||[]).map(p=>`<p>${hl(p,seen)}</p>`).join("");
+function gameFor(ed,a,b){return ((ed&&ed.scoreboard&&ed.scoreboard.games)||[]).find(g=>(g.a===a&&g.b===b)||(g.a===b&&g.b===a));}
+function section(x,ed,seen){
+  const g=gameFor(ed,x.a,x.b), live=ed&&ed.scoreboard&&ed.scoreboard.mode==="live";
+  const side=id=>{const t=T(id);const pr=g?(g.a===id?g.aProj:g.bProj):null;const pts=g?(g.a===id?g.aPts:g.bPts):null;
+    return `<div class="side-l"><a class="tlink" href="#team-${id}">${esc(t.team)}</a><span>${rec(t)}${pr!=null?` · ${f1(pr)} proj`:""}${live&&pts?` · ${f1(pts)} in`:""}</span></div>`;};
+  seen.add(x.a);seen.add(x.b);
+  const loser=x.pick===x.a?x.b:x.a;
+  return `<section class="sec ${x.upset?"upset":""}">
+    <span class="tag">${esc(x.tag||"")}</span>
+    <div class="vsh">${side(x.a)}<span class="vsx">vs</span>${side(x.b)}</div>
+    ${x.book?`<div class="book"><span><b>Line</b>${esc(x.book.line)}</span><span><b>Total</b>${f1(x.book.total)}</span><span><b>Vegas env.</b>${f1(x.book.envA)} vs ${f1(x.book.envB)}</span><span><b>25+ spots</b>${x.book.hiA} vs ${x.book.hiB}</span></div>`:""}
+    <div class="sec-body">${paras(x.p,seen)}</div>
+    <div class="verdict"><span class="lab">${x.upset?"Upset pick":"The pick"}</span><span class="who-wins">${esc(T(x.pick).team)}</span><span class="over">over ${esc(T(loser).team)}</span>${x.note?`<span class="why">${esc(x.note)}</span>`:""}</div>
+  </section>`;
+}
+function story(s,ed,wide){
+  const seen=new Set();
+  const color=["blue","gold","teal"].includes(s.color)?s.color:"red";
+  const img=AV[s.avatar]?`<img class="portrait" src="${AV[s.avatar]}" alt="">`:"";
+  const up=s.upset?`<div class="upset-box"><span class="lbl">Upset of the week</span><span class="big">${esc(T(s.upset.team).team)}<span>over</span>${esc(T(s.upset.over).team)}</span><p>${esc(s.upset.why)}</p></div>`:"";
+  const intro=paras(s.intro,seen)+paras(s.paragraphs,seen);
+  const secs=(s.sections||[]).length?`<div class="secs">${s.sections.map(x=>section(x,ed,seen)).join("")}</div>`:"";
+  return `<article class="panel story ${color} ${s.serif?"serif":""} ${wide?"wide":""} ${wide&&!secs?"flow":""}">
+  <div class="byline">${img}<span class="who"><b>${esc(s.writer)}</b><span>${esc(s.role)}</span></span></div>
+  <span class="kicker">${esc(s.kicker)}</span>
+  <h3>${esc(s.headline)}</h3>
+  ${intro?`<div class="body">${intro}</div>`:""}
+  ${up}${secs?`<p class="book-note">Line and total come from each lineup's Sleeper projection. Vegas env. is the average implied team total of each side's starters, from this week's sportsbook spreads and totals. 25+ spots counts starters whose NFL offense is implied for 25 or more points.</p>`+secs:""}</article>`;
+}
+
+function injuries(list){
+  const label={out:"Out",q:"Questionable",clear:"Cleared"};
+  return `<section><div class="sec-head"><h2>Injury Report with Anita Wang</h2><small>Final NFL designations, matched to your league's starting lineups</small></div>
+  <div class="panel inj">${list.map(i=>`<div class="inj-row"><span class="status ${esc(i.status)}">${label[i.status]||esc(i.status)}</span>
+    <span class="pl">${esc(i.player)}</span>
+    <span class="meta">${esc(i.nfl)} · ${esc(i.injury)}</span>
+    <span class="hit">${(i.teams||[]).map(t=>`<span class="chip">${esc(T(t).team)}</span>`).join("")}</span>
+    <span class="imp">${esc(i.impact)}</span></div>`).join("")}</div></section>`;
+}
+
+function intel(ed){
+  const rows=[["Record","rec",null],["Points / game","ppg",1],["Last week","last",1],["Week 4 proj","proj",1],["Allowed / game","pag",null],["Lineup eff.","eff",1]];
+  const fmt=(k,v)=>k==="eff"?v+"%":k==="rec"?v:f1(v);
+  const cards=ed.intel.map(m=>{
+    const A=T(m.a),B=T(m.b);
+    const tr=rows.map(([lab,k,cmp])=>{const a=m.A[k],b=m.B[k];const ah=cmp&&a>b,bh=cmp&&b>a;
+      return `<tr><td class="${ah?"hi":""}">${fmt(k,a)}</td><td>${lab}</td><td class="${bh?"hi":""}">${fmt(k,b)}</td></tr>`;}).join("");
+    const edges=["QB","RB","WR","TE"].map(p=>{const a=m.ga[p],b=m.gb[p],d=a-b,w=Math.min(Math.abs(d)/25*100,100);
+      return `<div class="edge"><span class="lv">${f1(a)}</span><span class="bl">${d>0?`<i style="width:${w}%"></i>`:""}</span><span class="pos">${p}</span><span class="br">${d<0?`<i style="width:${w}%"></i>`:""}</span><span class="rv">${f1(b)}</span></div>`;}).join("");
+    return `<div class="panel mi"><div class="mi-h"><span class="t">${esc(A.team)}</span><span class="v">vs</span><span class="t">${esc(B.team)}</span></div>
+      <table>${tr}</table>
+      <div class="edges"><span class="lbl">Projected points by position · bar shows the edge</span>${edges}</div>
+      <div class="why"><b>What matters</b>${esc(m.note)}</div></div>`;}).join("");
+  return `<section><div class="sec-head"><h2>Matchup Intelligence with Kenny Park</h2><small>No picks. Just what matters.</small></div>
+  <div class="intel">${cards}</div><p class="fine">${esc(ed.intelNote||D.projNote)} Allowed / game is schedule strength, not defense.</p></section>`;
+}
+
+function render(key){
+  const ed=D.editions[key]||D.editions[D.current];
+  document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected",b.dataset.k===ed.key?"true":"false"));
+  $("eyebrow").textContent=`Sleeper dynasty · Season ${D.season} · Through week ${D.throughWeek}`;
+  $("edition").innerHTML=ed.pending?`<span><b>${esc(ed.label)}</b> · coming soon</span>`:
+    `<span><b>${esc(ed.label)}</b> · Week ${ed.week}</span><span>Published <b>${esc(ed.published)}</b></span><span>Trade deadline <b>Wk 11</b></span><span>Playoffs <b>Wk 15</b> · top 6</span>`;
+  const body=$("edition-body");
+  if(ed.pending){
+    const last=D.editions[D.current];strip(last.scoreboard);
+    body.innerHTML=`<div class="panel pending"><span class="eyebrow">${esc(ed.label)}</span><b>Coming soon</b><p>${esc(ed.pendingNote)}</p></div>`;
+  } else {
+    strip(ed.scoreboard);
+    body.style.display="grid";body.style.gap="30px";
+    body.innerHTML=`<section class="banner" aria-label="Lead story"><span class="flag">${esc(ed.lead.flag)}</span><h2 class="big">${esc(ed.lead.headline)}</h2><p class="deck">${esc(ed.lead.deck)}</p></section>
+      <section class="cols">${(()=>{const wide=ed.stories.some(x=>(x.sections||[]).length);return ed.stories.map(x=>story(x,ed,wide)).join("");})()}</section>
+      ${ed.injuries?injuries(ed.injuries):""}${ed.intel?intel(ed):""}`;
+  }
+  $("desk").innerHTML=DESK.map(w=>`<div class="writer ${w.days.includes(ed.key)?"on":""}"><img src="${AV[w.av]}" alt="${esc(w.name)}"><div><b>${esc(w.name)}</b><span class="day">${esc(w.dayLabel)}</span><span>${esc(w.beat)}</span></div></div>`).join("");
+}
+
+// tabs
+const short={sunday:"Sun",thursday:"Thu",tuesday:"Tue"};
+$("tabs").innerHTML=D.order.map(k=>{const e=D.editions[k];return `<button class="tab" role="tab" data-k="${k}" id="tab-${k}">${esc(e.label.replace(" Edition",""))}<small>${e.pending?"soon":esc((e.published||"").split(",").slice(0,2).join(","))}</small></button>`;}).join("");
+$("tabs").addEventListener("click",e=>{const b=e.target.closest(".tab");if(!b)return;go(b.dataset.k);});
+
+// standings
+const sorted=[...D.teams].sort((a,b)=>b.w-a.w||b.pf-a.pf);
+$("standings").innerHTML=sorted.map((t,i)=>{
+  const eff=t.max?t.pf/t.max*100:0, s=String(t.streak).endsWith("W")?"w":"l";
+  return `<tr class="${i===5?"cutline":""}"><td class="rk">${i+1}</td>
+  <td class="team"><span class="tn"><a class="tlink" href="#team-${t.id}">${esc(t.team)}</a>${t.champ?'<span class="champ" aria-label="defending champion">🏆</span>':""}</span><span class="mgr">${esc(t.mgr)}</span></td>
+  <td class="wl">${rec(t)}</td><td>${f1(t.pf)}</td><td>${f1(t.pa)}</td>
+  <td><span class="eff"><span class="bar"><i style="width:${eff.toFixed(0)}%"></i></span>${eff.toFixed(0)}%</span></td>
+  <td><span class="pill ${s}">${esc(t.streak)}</span></td></tr>`;}).join("");
+
+// wire
+const label={trade:"Trade",waiver:"Waiver claim",free_agent:"Free agent"};
+const pl=p=>p.startsWith("#")?`<span class="unk" title="Player name not yet available">Player ${esc(p)}</span>`:esc(p);
+$("moves-note").textContent=D.movesNote||"";
+$("moves").innerHTML=!D.moves.length?`<p class="empty">No moves since the last edition.</p>`:D.moves.map(m=>`
+<div class="move"><div class="meta"><span class="mtype ${esc(m.type)}">${label[m.type]||esc(m.type)}</span><span>Week ${esc(m.leg)}</span>${m.bid!=null?`<span class="bid">$${esc(m.bid)} FAAB</span>`:""}</div>
+<div class="sides">${m.sides.map(sd=>`<div class="side"><b>${esc(T(sd.team).team)}</b>${[
+ ...(sd.adds||[]).map(p=>`<span class="add">+ ${pl(p)}</span>`),...(sd.picks||[]).map(p=>`<span class="add">+ ${esc(p)}</span>`),
+ ...(sd.drops||[]).map(p=>`<span class="drop">${pl(p)}</span>`)].join("")}</div>`).join("")}</div></div>`).join("");
+
+// ---------- dynasty rankings
+const WCLS={"Dynasty power":"power","Rising":"rising","Win-now":"now","Rebuild":"rebuild"};
+const DY=D.dynasty;
+const kfmt=n=>Math.round(n).toLocaleString("en-US");
+const lk=v=>`<span class="${v>0.05?"pos-luck":v<-0.05?"neg-luck":""}">${v>0?"+":""}${v.toFixed(2)}</span>`;
+(function(){
+  const ids=Object.keys(DY.teams).sort((a,b)=>DY.teams[a].drank-DY.teams[b].drank);
+  const max=Math.max(...ids.map(i=>DY.teams[i].total));
+  $("dyn-asof").textContent=`Updated with the Sunday Edition · ${DY.asOf}`;
+  $("dyn-method").textContent=DY.method;
+  $("dyn-body").innerHTML=ids.map(i=>{const d=DY.teams[i],t=T(+i);
+    return `<tr><td class="rk">${d.drank}</td><td class="team"><span class="tn"><a class="tlink" href="#team-${i}">${esc(t.team)}</a></span><span class="mgr">${rec(t)} · ${esc(t.mgr)}</span></td>
+    <td><span class="wpill ${WCLS[d.window]}">${esc(d.window)}</span></td>
+    <td class="score"><b>${kfmt(d.total)}</b><div class="sbar" title="Players ${kfmt(d.playerVal)} · Picks ${kfmt(d.pickVal)}"><i class="p" style="width:${(d.playerVal/max*100).toFixed(1)}%"></i><i class="k" style="width:${(d.pickVal/max*100).toFixed(1)}%"></i></div></td>
+    <td>${d.wage.toFixed(1)}</td><td>${d.youngShare}%</td></tr>`;}).join("");
+})();
+
+
+// ---------- trade grades
+(function(){
+  const G=D.tradeGrades;if(!G)return;
+  const gcls=g=>g[0]==="A"?"ga":g[0]==="B"?"gb":g[0]==="C"?"gc":"gd";
+  const cards=G.trades.map(tr=>{
+    const tot=tr.sides.reduce((a,s)=>a+s.value,0);
+    return `<article class="panel tg"><div class="tg-h"><span class="tag">Week ${tr.week} trade</span><h4>${esc(tr.title)}</h4></div>
+    <div class="tg-sides">${tr.sides.map(sd=>{const seen=new Set();return `<div class="tg-side">
+      <div class="tg-top"><a class="tlink" href="#team-${sd.team}">${esc(T(sd.team).team)}</a><span class="grade ${gcls(sd.grade)}">${esc(sd.grade)}</span></div>
+      <div class="tg-gets"><b>Gets</b>${sd.gets.map(x=>`<span>${esc(x)}</span>`).join("")}</div>
+      <div class="tg-val"><span class="vb"><i style="width:${(sd.value/tot*100).toFixed(0)}%"></i></span><span>${kfmt(sd.value)} in value · ${Math.round(sd.value/tot*100)}% of the deal</span></div>
+      <p>${hl(sd.reason,seen)}</p></div>`;}).join("")}</div></article>`;}).join("");
+  const seen=new Set();
+  $("grades").innerHTML=`<div class="sec-head"><h2>Trade Grades with Mona Lott</h2><small>The five most recent trades · ${esc(G.asOf)}</small></div>
+  <div class="panel tg-lead"><img class="portrait" src="${AV.mona}" alt=""><div class="tg-lead-t"><span class="who"><b>Mona Lott</b><span>Trade Desk</span></span><h3>${esc(G.headline)}</h3><p>${hl(G.intro,seen)}</p></div></div>
+  <div class="tgs">${cards}</div><p class="fine">${esc(G.note)}</p>`;
+})();
+
+// ---------- team pages
+const ORD=["QB","RB","WR","TE"];
+const ordinal=n=>n+(["th","st","nd","rd"][(n%100-20)%10]||["th","st","nd","rd"][n%100]||"th");
+function teamPage(id){
+  const t=T(id),d=DY.teams[id];if(!d)return "";
+  const b=d.breakdown, w=DESK.find(x=>x.av===b.by)||{};
+  const g=t.w+t.l;
+  const tiles=[
+    ["Record",rec(t),`${f1(t.pf)} PF · ${f1(t.pf/g)} per game`],
+    ["All-play wins",d.allplay.toFixed(2),"Expected wins vs. the whole league each week"],
+    ["Luck factor",(d.luck>0?"+":"")+d.luck.toFixed(2),d.luck>0.3?"Record is better than the scoring":d.luck<-0.3?"Record is worse than the scoring":"Record matches the scoring"],
+    ["Projected wins",d.proj.toFixed(1),"Of 14 regular-season games"],
+    ["Dynasty rank","#"+d.drank,kfmt(d.total)+" score · "+d.window],
+    ["Core age",d.wage.toFixed(1),`${d.youngShare}% of value age 25 or younger`]];
+  const sched=d.sched.map(s=>{const W=s.pts>s.oppPts?"W":"L";
+    return `<div class="r"><span class="wk">WK ${s.w}</span><span><a class="tlink" href="#team-${s.opp}">${esc(T(s.opp).team)}</a><br><span class="ap">Beat ${s.ap} of 11 teams that week</span></span><span>${f1(s.pts)}–${f1(s.oppPts)}</span><span class="res ${W}">${W}</span></div>`;}).join("");
+  const maxv=Math.max(...d.players.map(p=>p.val));
+  const named=d.players.filter(p=>p.name), unk=d.players.filter(p=>!p.name);
+  const row=p=>`<tr><td class="nm">${p.name?esc(p.name):`<span class="unk">Unknown player</span>`}${p.nfl?` <span class="mgr">${esc(p.nfl)}</span>`:""}${p.inj?` <span class="injt">${esc(p.inj)}</span>`:""}</td><td>${esc(p.pos||"—")}</td><td>${p.age?p.age.toFixed(1):"—"}</td><td><span class="st-chip ${esc(p.status)}">${esc(p.status)}</span></td><td><span class="vbar"><i style="width:${(p.val/maxv*100).toFixed(0)}%"></i></span><span class="${p.src==="est"?"est":""}">${kfmt(p.val)}</span></td></tr>`;
+  const groups=ORD.map(pos=>{const ps=named.filter(p=>p.pos===pos);return ps.length?`<tr class="grp"><td colspan="5">${pos}</td></tr>`+ps.map(row).join(""):"";}).join("")
+    +(()=>{const o=named.filter(p=>!ORD.includes(p.pos));return o.length?`<tr class="grp"><td colspan="5">Other</td></tr>`+o.map(row).join(""):"";})()+(unk.length?`<tr class="grp"><td colspan="5">Depth and rookies not yet identified (${unk.length})</td></tr>`+unk.map(row).join(""):"");
+  const RN=["","1st","2nd","3rd","4th"];
+  const picks=d.picks.filter(p=>p.round<=3).map(p=>`<div class="r"><span><b>${p.season} ${RN[p.round]}</b> ${p.from===id?"(own)":`via ${esc(T(p.from).team)}`}</span><span>${p.slot?`Projects ${p.slot} · `:""}${kfmt(p.val)}</span></div>`).join("")||`<div class="r"><span>No picks in rounds 1–3 for 2027 or 2028</span><span></span></div>`;
+  return `<a class="back" href="#${D.current}">← Back to the front page</a>
+  <section class="thead"><span class="eyebrow">Team profile · ${ordinal(d.drank)} in dynasty value</span><h2>${esc(t.team)}</h2>
+    <div class="sub"><span>Manager <b>${esc(t.mgr)}</b></span><span>Record <b>${rec(t)}</b></span><span class="wpill ${WCLS[d.window]}">${esc(d.window)}</span>${t.champ?"<span>🏆 Defending champion</span>":""}</div></section>
+  <div class="tiles">${tiles.map(([k,v,n])=>`<div class="panel tile"><span class="k">${k}</span><span class="v">${esc(v)}</span><span class="n">${esc(n)}</span></div>`).join("")}</div>
+  <div class="tgrid">
+    <article class="panel story ${b.by==="simone"?"red":b.by==="anita"?"teal":"blue"} ${b.by==="simone"?"":"serif"}">
+      <div class="byline"><img class="portrait" src="${AV[b.by]}" alt=""><span class="who"><b>${esc(w.name||"")}</b><span>Team breakdown</span></span></div>
+      <span class="kicker">Dynasty breakdown</span><h3>${esc(b.headline)}</h3>
+      <div class="body">${paras(b.p,new Set())}</div>
+      <div class="callouts"><div class="callout v"><b>The verdict</b>${esc(b.verdict)}</div><div class="callout m"><b>The move</b>${esc(b.move)}</div></div>
+    </article>
+    <div style="display:grid;gap:20px;min-width:0">
+      <section><div class="sec-head"><h2>Results</h2><small>Weeks 1–3</small></div><div class="panel sched">${sched}</div></section>
+      <section><div class="sec-head"><h2>Draft capital</h2><small>${kfmt(d.pickVal)} in value</small></div><div class="panel picklist">${picks}</div></section>
+    </div>
+  </div>
+  <section><div class="sec-head"><h2>Roster</h2><small>${d.players.length} players · sorted by dynasty value within each position</small></div>
+    <div class="panel"><div class="tablewrap"><table class="std roster"><thead><tr><th>Player</th><th>Pos</th><th>Age</th><th>Status</th><th>Dynasty value</th></tr></thead><tbody>${groups}</tbody></table></div>
+    <p class="fine pad">Italic values are estimates for players outside the top 100 dynasty assets, based on years in the league and starting role.</p></div></section>`;
+}
+
+// ---------- router
+function route(){
+  const h=(location.hash||"").slice(1);
+  const m=h.match(/^team-(\d+)$/);
+  if(m&&DY.teams[m[1]]){
+    $("news-view").hidden=true;const tv=$("team-view");tv.hidden=false;tv.innerHTML=teamPage(+m[1]);
+    document.querySelectorAll(".tab").forEach(b=>b.setAttribute("aria-selected","false"));
+    window.scrollTo(0,0);return;
+  }
+  $("team-view").hidden=true;$("news-view").hidden=false;
+  render(D.editions[h]?h:D.current);
+}
+function go(k){if(location.hash.slice(1)===k)route();else location.hash=k;}
+window.addEventListener("hashchange",route);
+route();
+</script>
