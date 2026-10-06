@@ -468,7 +468,7 @@ function story(s,ed,wide){
   <span class="kicker">${esc(s.kicker)}</span>
   <h3>${esc(s.headline)}</h3>
   ${intro?`<div class="body">${intro}</div>`:""}
-  ${up}${secs?`<p class="book-note">Line and total come from each lineup's Sleeper projection. Vegas env. is the average implied team total of each side's starters, from this week's sportsbook spreads and totals. 25+ spots counts starters whose NFL offense is implied for 25 or more points.</p>`+secs:""}</article>`;
+  ${up}${secs&&s.sections.some(x=>x.book)?`<p class="book-note">Line and total come from each lineup's Sleeper projection. Vegas env. is the average implied team total of each side's starters, from this week's sportsbook spreads and totals. 25+ spots counts starters whose NFL offense is implied for 25 or more points.</p>`+secs:secs}</article>`;
 }
 
 function injuries(list){
