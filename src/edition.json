@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "throughWeek": 4,
- "current": "sunday",
+ "throughWeek": 5,
+ "current": "tuesday",
  "order": [
   "sunday",
   "thursday",
@@ -13,145 +13,145 @@
    "team": "Sheev",
    "mgr": "HollywoodJK",
    "w": 1,
-   "l": 3,
+   "l": 4,
    "t": 0,
-   "pf": 630.84,
-   "pa": 628.1,
-   "max": 721.96,
-   "streak": "1W"
+   "pf": 777.16,
+   "pa": 778.98,
+   "max": 891.26,
+   "streak": "1L"
   },
   {
    "id": 2,
    "team": "God Bless Vodka",
    "mgr": "GodBlessVodka",
    "w": 1,
-   "l": 3,
+   "l": 4,
    "t": 0,
-   "pf": 448.06,
-   "pa": 569.28,
-   "max": 549.18,
-   "streak": "3L"
+   "pf": 535.9,
+   "pa": 697.14,
+   "max": 654.0,
+   "streak": "4L"
   },
   {
    "id": 3,
    "team": "Send Nudes",
    "mgr": "RandleSavage",
-   "w": 3,
+   "w": 4,
    "l": 1,
    "t": 0,
-   "pf": 692.14,
-   "pa": 614.04,
-   "max": 741.22,
-   "streak": "3W",
+   "pf": 940.84,
+   "pa": 774.14,
+   "max": 989.92,
+   "streak": "4W",
    "champ": true
   },
   {
    "id": 4,
    "team": "ClutchJuice",
    "mgr": "ClutchJuice",
-   "w": 1,
+   "w": 2,
    "l": 3,
    "t": 0,
-   "pf": 314.64,
-   "pa": 403.42,
-   "max": 328.24,
-   "streak": "1W"
+   "pf": 442.5,
+   "pa": 491.26,
+   "max": 460.2,
+   "streak": "2W"
   },
   {
    "id": 5,
    "team": "brimley",
    "mgr": "brimley",
-   "w": 1,
+   "w": 2,
    "l": 3,
    "t": 0,
-   "pf": 552.06,
-   "pa": 788.38,
-   "max": 655.98,
-   "streak": "3L"
+   "pf": 766.98,
+   "pa": 864.4,
+   "max": 876.04,
+   "streak": "1W"
   },
   {
    "id": 6,
    "team": "Panic Trade Project",
    "mgr": "bhegg97",
    "w": 2,
-   "l": 2,
+   "l": 3,
    "t": 0,
-   "pf": 367.26,
-   "pa": 453.28,
-   "max": 426.56,
-   "streak": "1L"
+   "pf": 443.28,
+   "pa": 668.2,
+   "max": 509.78,
+   "streak": "2L"
   },
   {
    "id": 7,
    "team": "#StopAsianHate",
    "mgr": "MasturBasian",
    "w": 2,
-   "l": 2,
+   "l": 3,
    "t": 0,
-   "pf": 603.36,
-   "pa": 579.8,
-   "max": 708.82,
-   "streak": "1L"
+   "pf": 763.46,
+   "pa": 828.5,
+   "max": 890.62,
+   "streak": "2L"
   },
   {
    "id": 8,
    "team": "Bijan Your Face 🍆💦",
    "mgr": "BlackSheepFF",
-   "w": 4,
+   "w": 5,
    "l": 0,
    "t": 0,
-   "pf": 811.9,
-   "pa": 566.02,
-   "max": 895.82,
-   "streak": "4W"
+   "pf": 971.92,
+   "pa": 709.14,
+   "max": 1064.44,
+   "streak": "5W"
   },
   {
    "id": 9,
    "team": "Very Naughty Boys",
    "mgr": "poulbri",
    "w": 0,
-   "l": 4,
+   "l": 5,
    "t": 0,
-   "pf": 336.0,
-   "pa": 498.92,
-   "max": 378.3,
-   "streak": "4L"
+   "pf": 401.7,
+   "pa": 601.96,
+   "max": 468.84,
+   "streak": "5L"
   },
   {
    "id": 10,
    "team": "Stroke The Post",
    "mgr": "RhinosFF",
    "w": 3,
-   "l": 1,
+   "l": 2,
    "t": 0,
-   "pf": 731.6,
-   "pa": 586.06,
-   "max": 849.6,
-   "streak": "1L"
+   "pf": 874.72,
+   "pa": 746.08,
+   "max": 1013.22,
+   "streak": "2L"
   },
   {
    "id": 11,
    "team": "Ben Football Team",
    "mgr": "BenFootballTeam",
-   "w": 3,
+   "w": 4,
    "l": 1,
    "t": 0,
-   "pf": 486.76,
-   "pa": 406.64,
-   "max": 551.32,
-   "streak": "1W"
+   "pf": 637.64,
+   "pa": 552.96,
+   "max": 702.2,
+   "streak": "2W"
   },
   {
    "id": 12,
    "team": "Jackie aCHANe",
    "mgr": "Churboy323",
-   "w": 3,
+   "w": 4,
    "l": 1,
    "t": 0,
-   "pf": 455.34,
-   "pa": 336.02,
-   "max": 601.6,
-   "streak": "2W"
+   "pf": 558.38,
+   "pa": 401.72,
+   "max": 740.14,
+   "streak": "3W"
   }
  ],
  "weekly": {
@@ -210,10 +210,107 @@
    "10": 155.5,
    "11": 183.88,
    "12": 142.34
+  },
+  "5": {
+   "1": 146.32,
+   "2": 87.84,
+   "3": 248.7,
+   "4": 127.86,
+   "5": 214.92,
+   "6": 76.02,
+   "7": 160.1,
+   "8": 160.02,
+   "9": 65.7,
+   "10": 143.12,
+   "11": 150.88,
+   "12": 103.04
   }
  },
- "movesNote": "Weeks 4 and 5",
+ "movesNote": "Weeks 5 and 6",
  "moves": [
+  {
+   "type": "trade",
+   "leg": 5,
+   "sides": [
+    {
+     "team": 5,
+     "adds": [
+      "Tyler Higbee"
+     ],
+     "drops": [
+      "Tua Tagovailoa"
+     ],
+     "picks": []
+    },
+    {
+     "team": 8,
+     "adds": [
+      "Tua Tagovailoa"
+     ],
+     "drops": [
+      "Tyler Higbee"
+     ],
+     "picks": [
+      "$15 FAAB"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 5,
+   "sides": [
+    {
+     "team": 8,
+     "adds": [
+      "Tyler Higbee"
+     ],
+     "drops": [],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "trade",
+   "leg": 5,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "DK Metcalf"
+     ],
+     "drops": [],
+     "picks": []
+    },
+    {
+     "team": 10,
+     "adds": [],
+     "drops": [
+      "DK Metcalf"
+     ],
+     "picks": [
+      "2027 2nd (Stroke The Post)",
+      "2027 4th (ClutchJuice)"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 5,
+   "sides": [
+    {
+     "team": 12,
+     "adds": [
+      "Kendrick Bourne"
+     ],
+     "drops": [],
+     "picks": []
+    }
+   ],
+   "bid": 8
+  },
   {
    "type": "free_agent",
    "leg": 5,
@@ -253,6 +350,23 @@
      ]
     }
    ]
+  },
+  {
+   "type": "waiver",
+   "leg": 5,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [
+      "Roschon Johnson"
+     ],
+     "drops": [
+      "Mack Hollins"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
   },
   {
    "type": "waiver",
@@ -509,578 +623,6 @@
     }
    ],
    "bid": 25
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 10,
-     "adds": [
-      "Michael Mayer"
-     ],
-     "drops": [
-      "Carson Wentz"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 4
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [
-      "Athan Kaliakmanis"
-     ],
-     "drops": [
-      "Marcus Mariota"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 5
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [
-      "Sione Vaki"
-     ],
-     "drops": [
-      "Darren Waller"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Joe Mixon"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 12,
-     "adds": [
-      "Will Shipley"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 23
-  },
-  {
-   "type": "free_agent",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 2,
-     "adds": [],
-     "drops": [
-      "Roschon Johnson"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 12,
-     "adds": [
-      "Matthew Golden"
-     ],
-     "drops": [
-      "Nico Collins",
-      "Chase Brown"
-     ],
-     "picks": [
-      "2028 1st (God Bless Vodka)",
-      "2028 4th (God Bless Vodka)",
-      "2027 1st (Bijan Your Face 🍆💦)",
-      "2027 3rd (Bijan Your Face 🍆💦)"
-     ]
-    },
-    {
-     "team": 2,
-     "adds": [
-      "Nico Collins",
-      "Chase Brown"
-     ],
-     "drops": [
-      "Matthew Golden"
-     ],
-     "picks": [
-      "2028 2nd (Jackie aCHANe)"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 12,
-     "adds": [
-      "Deebo Samuel"
-     ],
-     "drops": [
-      "Zach Charbonnet"
-     ],
-     "picks": [
-      "2028 2nd (Sheev)"
-     ]
-    },
-    {
-     "team": 1,
-     "adds": [
-      "Zach Charbonnet"
-     ],
-     "drops": [
-      "Deebo Samuel"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 2,
-     "adds": [
-      "Austin Ekeler"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 4
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 8,
-     "adds": [
-      "Justice Hill"
-     ],
-     "drops": [
-      "Pat Freiermuth"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 2
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [
-      "Tyson Bagent"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 12,
-     "adds": [
-      "Isaiah Williams"
-     ],
-     "drops": [
-      "Keenan Allen"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 8,
-     "adds": [
-      "Jauan Jennings"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 5,
-     "adds": [
-      "Skyy Moore"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 12,
-     "adds": [
-      "Zachariah Branch"
-     ],
-     "drops": [
-      "Samaje Perine"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 17
-  },
-  {
-   "type": "trade",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [
-      "Quinshon Judkins"
-     ],
-     "drops": [
-      "Kenneth Walker"
-     ],
-     "picks": [
-      "2028 1st (#StopAsianHate)",
-      "2028 2nd (#StopAsianHate)"
-     ]
-    },
-    {
-     "team": 7,
-     "adds": [
-      "Kenneth Walker"
-     ],
-     "drops": [
-      "Quinshon Judkins"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "Justice Hill"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [
-      "Sam LaPorta"
-     ],
-     "drops": [
-      "Omar Cooper"
-     ],
-     "picks": []
-    },
-    {
-     "team": 6,
-     "adds": [
-      "Omar Cooper"
-     ],
-     "drops": [
-      "Sam LaPorta"
-     ],
-     "picks": [
-      "2027 2nd (Ben Football Team)"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 8,
-     "adds": [
-      "Kalif Raymond"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "free_agent",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "Zachariah Branch"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Mack Hollins"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "free_agent",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "Jalen McMillan"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [
-      "Bhayshul Tuten"
-     ],
-     "drops": [],
-     "picks": [
-      "2027 2nd (Stroke The Post)"
-     ]
-    },
-    {
-     "team": 8,
-     "adds": [],
-     "drops": [
-      "Bhayshul Tuten"
-     ],
-     "picks": [
-      "2028 1st (Ben Football Team)",
-      "2028 3rd (Ben Football Team)"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Drake Maye"
-     ],
-     "drops": [
-      "Adonai Mitchell",
-      "Ollie Gordon",
-      "Patrick Mahomes"
-     ],
-     "picks": [
-      "2027 3rd (Ben Football Team)"
-     ]
-    },
-    {
-     "team": 11,
-     "adds": [
-      "Adonai Mitchell",
-      "Ollie Gordon",
-      "Patrick Mahomes"
-     ],
-     "drops": [
-      "Drake Maye"
-     ],
-     "picks": [
-      "2027 4th (ClutchJuice)"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "Hunter Henry"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 5,
-     "adds": [],
-     "drops": [
-      "Mack Hollins"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 7,
-     "adds": [
-      "Mike Gesicki"
-     ],
-     "drops": [
-      "Zach Ertz"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 12,
-     "adds": [
-      "Samaje Perine"
-     ],
-     "drops": [
-      "Jalen Nailor"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 6,
-     "adds": [
-      "Josh Cameron"
-     ],
-     "drops": [
-      "Michael Mayer"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 6,
-     "adds": [
-      "Najee Harris"
-     ],
-     "drops": [
-      "Tyson Bagent"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 4,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [
-      "Konata Mumpfield"
-     ],
-     "drops": [
-      "Joe Flacco"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 8
   }
  ],
  "editions": {
@@ -1877,140 +1419,140 @@
   "tuesday": {
    "key": "tuesday",
    "label": "Tuesday Edition",
-   "week": 4,
-   "published": "Tue, Oct 6, 2026",
+   "week": 5,
+   "published": "Tue, Oct 13, 2026",
    "scoreboard": {
     "mode": "final",
-    "label": "Week 4",
+    "label": "Week 5",
     "sublabel": "Final scores",
     "games": [
      {
-      "a": 2,
-      "b": 12,
-      "aPts": 103.42,
-      "bPts": 142.34,
-      "status": "Final"
-     },
-     {
-      "a": 4,
-      "b": 9,
-      "aPts": 88.86,
-      "bPts": 85.62,
+      "a": 8,
+      "b": 10,
+      "aPts": 160.02,
+      "bPts": 143.12,
       "status": "Final"
      },
      {
       "a": 3,
-      "b": 10,
-      "aPts": 191.52,
-      "bPts": 155.5,
+      "b": 7,
+      "aPts": 248.7,
+      "bPts": 160.1,
       "status": "Final"
      },
      {
-      "a": 7,
-      "b": 8,
-      "aPts": 147.4,
-      "bPts": 184.26,
-      "status": "Final"
-     },
-     {
-      "a": 1,
-      "b": 6,
-      "aPts": 180.4,
-      "bPts": 90.26,
+      "a": 2,
+      "b": 4,
+      "aPts": 87.84,
+      "bPts": 127.86,
       "status": "Final"
      },
      {
       "a": 5,
+      "b": 6,
+      "aPts": 214.92,
+      "bPts": 76.02,
+      "status": "Final"
+     },
+     {
+      "a": 1,
       "b": 11,
-      "aPts": 111.26,
-      "bPts": 183.88,
+      "aPts": 146.32,
+      "bPts": 150.88,
+      "status": "Final"
+     },
+     {
+      "a": 9,
+      "b": 12,
+      "aPts": 65.7,
+      "bPts": 103.04,
       "status": "Final"
      }
     ]
    },
    "lead": {
-    "flag": "Front page · Tuesday Edition · Week 4 final",
-    "headline": "63 Points on the Bench: Stroke Blows It as the Champ Cashes In",
-    "deck": "Send Nudes hands Stroke The Post its first loss, 191.52 to 155.50, while Stroke's best lineup sat idle. Bijan Your Face is the last unbeaten team, the commissioner finally wins, and Jackie aCHANe sells Nico Collins to the team he just beat."
+    "flag": "Front page · Tuesday Edition · Week 5 final",
+    "headline": "PERFECT 248.7: The Champ Goes Nuclear While Stroke Benches Its Own Win Again",
+    "deck": "Send Nudes posts the second-highest score of the season without leaving a single point on the bench. Bijan Your Face survives its worst day of the year to reach 5-0, Stroke The Post leaves the winning points on the bench for the second week running, and ClutchJuice wins as a 55.5-point underdog behind the quarterback Ben Football Team traded away."
    },
    "stories": [
     {
      "writer": "Margaret Lee",
      "role": "Matchup Recaps",
-     "kicker": "Week 4 recap",
+     "kicker": "Week 5 recap",
      "avatar": "margaret",
      "color": "blue",
      "serif": true,
-     "headline": "One Unbeaten, One Bad Bench and One Very Awkward Trade",
+     "headline": "A Perfect Lineup, a Bench That Cost a Game and Another One for the Unbeaten",
      "intro": [
-      "Week 4 in one sentence: the unbeaten list shrank to one, the commissioner finally won, and two teams that played each other on Sunday made a trade on Monday.",
-      "Bijan Your Face is alone at 4-0. Four teams sit at 3-1: Stroke The Post, Send Nudes, Ben Football Team and Jackie aCHANe. Six teams make the playoffs, and the sixth spot belongs to #StopAsianHate at 2-2, ahead of Panic Trade Project on points scored, 603.36 to 367.26. Here is every game."
+      "Week 5 in one sentence: the champion played a perfect game, the unbeaten team won ugly, and two of the six losers had the winning points sitting on their own benches.",
+      "Bijan Your Face is 5-0. Send Nudes, Ben Football Team and Jackie aCHANe are 4-1, and Stroke The Post is 3-2. Then it gets crowded: four teams are 2-3, and the sixth and final playoff spot belongs to brimley, which leads #StopAsianHate on points scored by 3.52, 766.98 to 763.46. Those two play each other on Sunday. Here is every game."
      ],
      "sections": [
       {
-       "a": 3,
+       "a": 8,
        "b": 10,
        "tag": "Game of the week",
        "p": [
-        "The champ came in as a 1.8-point favorite on Sunday's lineup projections and won by 36.02. Send Nudes posted 191.52, the high score of the week, and handed Stroke The Post its first loss.",
-        "Kyren Williams did the heavy lifting with 36.7 points against a 13.61 projection, and Puka Nacua added 27.7, so the Rams pair alone produced 64.4. Joe Burrow scored 25.72 and Kirk Cousins added 23.6 in the superflex. That cushion mattered, because Ja'Marr Chase managed 5.7 and is now listed out with a concussion.",
-        "Here is the detail that will sting in Stroke's group chat. CeeDee Lamb scored 41.3, the second-best individual score in the league this week, and Stroke still lost because of who sat. Javonte Williams scored 31.3 on the bench, Keon Coleman 23.6 and Alvin Kamara 22.8, while D'Andre Swift (7.4), Garrett Wilson (5.7) and Travis Kelce (3.5) started. Stroke's best possible lineup was 218.72, which would have been the top score of the week by 27.2 points. It left 63.22 points on the bench, the most in the league."
+        "Bijan Your Face won 160.02 to 143.12 and stayed unbeaten, but this was its lowest score of the season and it did not cover the 25.5-point line from Sunday's lineup projections. Josh Allen carried it with 31.5. Brock Bowers added 23.0 and Davante Adams 22.1. The stars underneath did not: Bijan Robinson scored 15.8 against a 24.33 projection, and Amon-Ra St. Brown 12.9 against 20.89.",
+        "Stroke The Post had its chances, and it left them on the bench again. CeeDee Lamb started and scored 2.9 against a 20.71 projection, and he is now listed questionable with a quadriceps injury. Garrett Wilson scored 23.4 on the bench. That one swap would have produced 163.62, Stroke's best possible lineup, and beaten Bijan by 3.6. Last week Stroke's best lineup was 218.72 and it lost to Send Nudes. Two weeks, two losses, and both times the winning lineup was on the roster.",
+        "Matthew Stafford (27.32) and James Cook (22.8) did their part. Stroke also traded DK Metcalf to Ben Football Team on Sunday morning; he started for Ben and scored 5.3."
        ],
-       "note": "Send Nudes is 3-1 with three straight wins. Stroke The Post falls into a four-way tie at 3-1 and gets the unbeaten team next."
+       "note": "Bijan Your Face is 5-0 and leads the league with 971.92 points. Stroke The Post has lost two straight, posted its season low and falls to 3-2."
       },
       {
-       "a": 7,
-       "b": 8,
-       "tag": "Last unbeaten",
+       "a": 3,
+       "b": 7,
+       "tag": "Perfect game",
        "p": [
-        "Bijan Your Face won 184.26 to 147.4 and is the last unbeaten team in the league. It got there the way it usually does: everybody contributed. Bijan Robinson scored 27.7, Tee Higgins 26.7, Brock Bowers 20.6 and Ashton Jeanty 18.6. Nine of ten starters reached double figures. Davante Adams, at 7.2, was the only exception.",
-        "#StopAsianHate had its moments. Kenneth Walker, acquired from Sheev on Oct. 1, scored 30.9, and Zay Flowers played through a questionable tag for 25.8. But Rashee Rice started and scored zero, and Jaxon Smith-Njigba managed 12.6 against a 22.6 projection. RJ Harvey (19.3) and Rhamondre Stevenson (18.4) sat on the bench, though even the best possible lineup, 177.9, would have come up short."
+        "Send Nudes scored 248.7, the second-highest score of the season behind Bijan Your Face's 257.48 in Week 2, and its best possible lineup was also 248.7. Not one point left on the bench. Every starter scored at least 18.7.",
+        "Jahmyr Gibbs and Puka Nacua each scored 37.7. Mike Evans added 26.3 against a 13.47 projection and Tyler Warren 21.4 against 10.83. Aaron Rodgers, acquired from Jackie aCHANe on Oct. 7, scored 22.0 in the superflex next to Joe Burrow's 24.6. Ja'Marr Chase played through his questionable tag for 19.7.",
+        "Here is the part #StopAsianHate will hate. It scored 160.1, the third-highest score of the week, more than nine other teams, including 0.08 more than Bijan Your Face scored in its win. Jaylen Warren scored 36.8 and George Pickens 28.0. RJ Harvey, though, managed 0.7 on an 11.65 projection while Blake Corum scored 16.2 on the bench. Against 248.7, none of it mattered."
        ],
-       "note": "Bijan Your Face leads the league with 811.9 points, 80.3 more than anyone else. #StopAsianHate drops to 2-2."
-      },
-      {
-       "a": 5,
-       "b": 11,
-       "tag": "Upset",
-       "p": [
-        "Ben Football Team came in as a 24.3-point underdog on Sunday's lineup projections and won by 72.62, 183.88 to 111.26. After three trades in one week, the new pieces delivered: Sam LaPorta scored 22.4, Patrick Mahomes 17.0 and Bhayshul Tuten 11.1.",
-        "The bigger contributions came from players who were already there. Emanuel Wilson scored 27.0 on a 9.15 projection, Chuba Hubbard 25.9 and T.J. Hockenson 24.9. Jared Goff added 20.48 in the superflex. Ben's 183.88 beat its previous season high by 65.68 points.",
-        "brimley was the opposite. Saquon Barkley scored 2.0 and is now listed out with a hamstring injury. DJ Moore had 2.7 and Bucky Irving 6.1, which wasted strong games from Romeo Doubs (23.8) and Malik Nabers (23.2). Brian Robinson scored 25.7 on the bench. brimley has now faced 788.38 points, the most in the league by 160.28. That is a brutal schedule, but this loss was not about the schedule."
-       ],
-       "note": "Ben Football Team is 3-1. brimley has lost three straight and is 1-3."
-      },
-      {
-       "a": 1,
-       "b": 6,
-       "tag": "Blowout",
-       "p": [
-        "The commissioner finally has a win. Sheev scored 180.4, the fourth-best score of the week, and beat Panic Trade Project by 90.14, the largest margin of Week 4.",
-        "Tetairoa McMillan was the story with 45.2 points, the best individual score in the league this week. Kyle Monangai turned an 8.15 projection into 28.0, and Quinshon Judkins, the back Sheev bought from #StopAsianHate, added 21.6. C.J. Stroud (23.08) and Brock Purdy (19.62) were steady. The only real miss was Parker Washington at 2.0.",
-        "Panic Trade Project had a rough day at the skill spots. Jaylen Wright scored 0.7, Eli Raridon 2.2 and Emeka Egbuka 3.3. Carnell Tate (21.5) and Rome Odunze (15.4) were the only starters above 15. Panic's best possible lineup was 95.46, so this wasn't a lineup mistake. The roster just didn't have it."
-       ],
-       "note": "Sheev is 1-3 but has scored 630.84 points, fourth in the league. Panic Trade Project falls to 2-2."
+       "note": "Send Nudes is 4-1 with four straight wins and the second-most points in the league, 940.84. #StopAsianHate falls to 2-3 and sits 3.52 points out of sixth."
       },
       {
        "a": 2,
-       "b": 12,
-       "tag": "The trade game",
+       "b": 4,
+       "tag": "Upset of the week",
        "p": [
-        "Jackie aCHANe won 142.34 to 103.42, and the box score now reads like a trade negotiation. Nico Collins scored 30.8 and Chase Brown 19.1 for Jackie. On Monday, God Bless Vodka traded for both of them.",
-        "Bryce Young added 21.46 and Tucker Kraft 16.5. Jackie still left 36.48 points on its bench. Aaron Rodgers scored 23.96 there while Kyler Murray started in the superflex and scored 11.48, and Deebo Samuel, acquired from Sheev on Sunday, scored 18.0 without leaving the bench. Jackie's lineup efficiency for the season is 76%, the lowest in the league.",
-        "Vodka's problems were at the top. Geno Smith started in the superflex and scored 8.76 while Cam Ward scored 16.58 on the bench. Jeremiyah Love scored 6.5 against a 15.9 projection and is now listed questionable with an ankle injury. Josh Downs had 4.6 and Jake Ferguson 4.1, with Mark Andrews scoring 13.7 on the bench."
+        "ClutchJuice was a 55.5-point underdog on Sunday's lineup projections and won by 40.02, 127.86 to 87.84. That is a 95.5-point miss on the line, and it is ClutchJuice's highest score of the season.",
+        "The reason has a name: Drake Maye. He scored 39.46, the best individual score in the league this week, against a 19.1 projection. ClutchJuice got him from Ben Football Team on Oct. 1. The receivers nobody projected for much came through behind him: Darius Cooper scored 15.1 on a 7.23 projection, Germie Bernard 14.4 on 7.19 and Rashod Bateman 11.2 on 5.43. Braelon Allen added 18.6.",
+        "God Bless Vodka's quarterbacks scored 17.24 combined: Justin Herbert 11.24 and Cam Ward 6.0. Nico Collins and Chase Brown, the two players it bought from Jackie aCHANe in Week 4, scored 17.6 together against a combined projection of 34.44. Jeremiyah Love scored 2.2. Jameson Williams, at 18.7, was the only starter to beat his projection by more than a point."
        ],
-       "note": "Jackie aCHANe is 3-1. God Bless Vodka is 1-3 and has lost three straight."
+       "note": "ClutchJuice has won two straight and is 2-3. God Bless Vodka has lost four straight and is 1-4."
       },
       {
-       "a": 4,
-       "b": 9,
+       "a": 5,
+       "b": 6,
+       "tag": "Blowout",
+       "p": [
+        "brimley won 214.92 to 76.02. The 138.9-point margin is the second-largest of the season, behind only Bijan Your Face's 151.12-point win over brimley in Week 2. It is also brimley's best score of the year and the second-best score of this week.",
+        "Christian Watson scored 32.3, Bucky Irving 31.5 and Malik Nabers 29.1. Jacoby Brissett (26.28) and Trevor Lawrence (22.74) gave brimley 49.02 from the two quarterback spots, and Jordan Love scored 25.28 on the bench. Trey McBride added 21.6, Justin Jefferson played through a questionable tag for 18.8, and Tyler Higbee, acquired from Bijan Your Face on Monday, scored 13.3 in his first start. Romeo Doubs, at 2.6, was the only miss.",
+        "Panic Trade Project scored its lowest total of the season. Bo Nix scored 7.92 on a 17.48 projection, Carnell Tate 1.6 and Jaylen Wright 1.1. Emeka Egbuka (17.2) was the top scorer."
+       ],
+       "note": "brimley is 2-3 and holds sixth place on points. Panic Trade Project has lost two straight and is 2-3."
+      },
+      {
+       "a": 1,
+       "b": 11,
+       "tag": "Photo finish",
+       "p": [
+        "Ben Football Team won 150.88 to 146.32, and it did it with a perfect lineup: its best possible score was 150.88. Jared Goff scored 28.94 and Jameis Winston 25.74. Sam LaPorta added 19.8. DK Metcalf, acquired Sunday morning, scored 5.3.",
+        "Sheev got 95.06 points from three players: Isaiah Likely (32.4), Jayden Daniels (32.26) and Parker Washington (30.4). The problem was the rest. Harold Fannin scored 1.4 at tight end while Brenton Strange scored 13.8 on the bench. That swap alone would have won the game. Roman Wilson, acquired from brimley on Oct. 9, scored 0.0, and C.J. Stroud's 20.94 sat behind Brock Purdy's 17.16. Sheev's best lineup was 169.3.",
+        "The commissioner's new receivers combined for 11.0, all of it from Khalil Shakir."
+       ],
+       "note": "Ben Football Team is 4-1 with two straight wins. Sheev is 1-4 with 777.16 points, fourth in the league, and the worst luck rating in the league at -2.18."
+      },
+      {
+       "a": 9,
+       "b": 12,
        "tag": "Toilet bowl",
        "p": [
-        "The lowest-scoring game of the week was also the closest. ClutchJuice won 88.86 to 85.62 as a 21.1-point underdog on Sunday's projections.",
-        "Drake Maye made the difference in his first start for ClutchJuice with 27.16 points, more than 30% of the team's total. Malachi Fields added 13.2 on a 5.29 projection.",
-        "Very Naughty Boys is the only winless team left. Dalton Kincaid scored 1.7 against a 12.19 projection, Jacory Croskey-Merritt 7.0 and Jordan Addison 9.1. The bench couldn't save it either: the best possible lineup was 87.52, still 1.34 short."
+        "Very Naughty Boys scored 65.7, the lowest score by any team this season. Jordan Addison scored 0.0, KC Concepcion 1.5, Tre' Harris 3.6, Colston Loveland 3.9 and Dalton Kincaid 3.7. Sam Darnold scored 10.3 while Tyler Huntley, claimed off waivers last week, scored 24.04 on the bench. Even the best possible lineup, 90.54, would have lost.",
+        "Jackie aCHANe won by 37.34 with 103.04, and it left 35.5 points on its bench, the most in the league this week. Malik Willis scored 20.88 there, more than either quarterback Jackie started: Kyler Murray (18.26) and Daniel Jones (11.08). Terry McLaurin added 12.2 on the bench. Matthew Golden led the starters with 20.3, and David Montgomery scored 1.1."
        ],
-       "note": "ClutchJuice gets its first win and is 1-3. Very Naughty Boys is 0-4."
+       "note": "Jackie aCHANe is 4-1 with three straight wins. Very Naughty Boys is 0-5."
       }
      ]
     },
@@ -2020,14 +1562,14 @@
      "kicker": "Tuesday takes",
      "avatar": "kenny",
      "color": "red",
-     "headline": "Stroke The Post Lost a Game It Won",
+     "headline": "Stroke The Post Is Playing Against Its Own Bench",
      "paragraphs": [
-      "Stroke The Post lost a game it won. I mean that literally. The best lineup on Stroke's roster was 218.72, which beats every score in the league this week. Instead Stroke started Travis Kelce for 3.5 and watched Javonte Williams drop 31.3 on the bench. That's 63.22 points on the pine. That's not a bench, that's a second franchise. And next up is the 4-0 Bijan Your Face. Set your lineup, my guy.",
-      "Ben Football Team got roasted all week for burning it down. Three trades, a 2028 first out the door, Mahomes in, Maye out. Result: 183.88, Ben's best score of the season by 65.68 points, and a win as a 24.3-point underdog. Am I saying the trades were smart? No. Mona has receipts on that. But I'm saying 3-1 is 3-1. Ben's luck rating is +1.36, second-highest in the league, so enjoy it while the dice are warm.",
-      "My favorite team in the league is Jackie aCHANe, purely as performance art. 3-1 with the eighth-most points. The easiest schedule in the league at 84.0 points against per game. The luckiest record in the league at +1.73. And on Monday, the day after Nico Collins dropped 30.8 on God Bless Vodka, Jackie sold Collins and Chase Brown to God Bless Vodka. That's beating a guy at poker and then selling him your chips back at a markup. Jackie now holds four first-round picks across 2027 and 2028.",
-      "The commissioner won. Alert the media, which is us. Tetairoa McMillan put up 45.2, the best single score of the week, and Sheev beat Panic by 90.14. Sheev's luck rating is still -1.64, the worst in the league. Fourth in points, 1-3 in the standings. That's a playoff roster wearing a 1-3 costume.",
-      "Credit where it's due, and it physically hurts me: Jeff Longwood went 5-1 on Sunday. He hit his upset of the week with Ben over brimley. His only miss was the toilet bowl, where he took Very Naughty Boys and ClutchJuice won by 3.24. Somebody check that he still has a watch.",
-      "Week 5 game to circle: Bijan Your Face (4-0, 203.0 a game) against Stroke The Post (3-1, 182.9 a game). The two highest-scoring teams in the league. If Stroke starts its best players, this is the game of the year so far. If it doesn't, start planning the Bijan parade."
+      "Stroke The Post has now lost two games in a row that it won. Last week the best lineup was 218.72 and it lost to Send Nudes. This week CeeDee Lamb started and scored 2.9, Garrett Wilson scored 23.4 on the bench, and Stroke lost to the unbeaten team by 16.9. Swap those two guys and Stroke wins by 3.6. At this point Stroke's toughest opponent isn't on the schedule. It's the guy setting the lineup.",
+      "Send Nudes scored 248.7 and its best possible lineup was 248.7. Perfect. Every starter scored at least 18.7. That's not a fantasy team, that's a firing squad. And Bijan Your Face, the 5-0 team, just posted its season low. Nobody in this league should feel comfortable, but Bijan should feel a draft on the back of its neck.",
+      "Drake Maye scored 39.46, the best score in the league this week, for ClutchJuice, a team that was a 55.5-point underdog and won by 40. Who traded ClutchJuice Drake Maye? Ben Football Team. And how did Ben celebrate going 4-1? It traded a 2027 second and a 2027 fourth for DK Metcalf, who scored 5.3. Ben is now last in our dynasty value rankings and holds no picks in the first three rounds of 2027. Ben is living like 2028 is a rumor. To be fair, it's 4-1. To be fairer, it's 4-1 with the second-best luck rating in the league.",
+      "The best luck rating belongs, again, to Jackie aCHANe, at +2.45. Jackie is 4-1 with the eighth-most points in the league, has faced 80.3 points a game, the fewest in the league, and this week left 35.5 points on the bench and still won by 37. Malik Willis scored 20.88 on that bench. Jackie isn't a fantasy team. Jackie is a horseshoe with a Sleeper account.",
+      "Jeff Longwood went 4-2 on Sunday. His upset of the week was Very Naughty Boys, who then scored 65.7, the lowest score of the season by anybody. And he took God Bless Vodka by 55.5 in the toilet bowl, which ClutchJuice won outright. His lock, brimley by 73.5, came in by 138.9, so he'll be insufferable about that one.",
+      "Week 6 game to circle: brimley against #StopAsianHate. Both 2-3, separated by 3.52 points for the last playoff spot, and they play each other. Undercard: Sheev against Stroke The Post, the two teams in this league most likely to lose with the answer sitting on the bench."
      ]
     }
    ]
@@ -6262,9 +5804,59 @@
  "tradeGrades": {
   "writer": "mona",
   "asOf": "Week 5",
-  "headline": "The Commissioner Goes Shopping",
-  "intro": "Two new trades since Thursday, and Sheev is in both. On Oct. 9 it sent Jonathon Brooks and its 2028 third to brimley for Roman Wilson. On Saturday night it sent its 2027 third to Jackie aCHANe for Khalil Shakir and a 2027 sixth. I grade every trade three ways: value, fit and timing. Value is market price, using FantasyCalc's dynasty values for players and the same pick values as our Dynasty Rankings. Fit is whether the pieces solve a real roster problem. Timing is whether the move matches where the team actually is. Winning on value with the wrong timeline is still a bad trade.",
+  "headline": "Ben Buys Again, and Bijan Flips a Free Tight End",
+  "intro": "Two new trades since Sunday's edition. On Sunday morning, Ben Football Team bought DK Metcalf from Stroke The Post for a 2027 second and a 2027 fourth. On Monday evening, Bijan Your Face sent Tyler Higbee, whom it had claimed off waivers for $0 the day before, to brimley for Tua Tagovailoa and $15 in FAAB. I grade every trade three ways: value, fit and timing. Value is market price, using FantasyCalc's dynasty values for players and the same pick values as our Dynasty Rankings. Fit is whether the pieces solve a real roster problem. Timing is whether the move matches where the team actually is. Winning on value with the wrong timeline is still a bad trade. Values below are current, so the three older trades have been re-priced.",
   "trades": [
+   {
+    "week": 5,
+    "title": "Higbee to brimley",
+    "sides": [
+     {
+      "team": 5,
+      "gets": [
+       "Tyler Higbee (TE, 33.7)"
+      ],
+      "value": 911,
+      "grade": "B",
+      "reason": "brimley gave up Tua Tagovailoa (602) and $15 of FAAB for a tight end worth 911, so it won on market value by 309. Tua was its fourth quarterback behind Jordan Love, Trevor Lawrence and Jacoby Brissett, so it lost nothing it was using. Higbee went straight into the lineup and scored 13.3 in a 214.92-point win. The deduction: he is 33, and brimley is a 2-3 team paying for a short-term piece. For a team fighting for sixth, that's the right kind of rental."
+     },
+     {
+      "team": 8,
+      "gets": [
+       "Tua Tagovailoa (QB, 28.6)",
+       "$15 FAAB"
+      ],
+      "value": 602,
+      "grade": "B",
+      "reason": "On paper Bijan lost 309 in market value. In practice it claimed Higbee for $0 on Sunday and flipped him about a day and a half later for a quarterback and $15 of FAAB. In superflex, a fourth quarterback behind Josh Allen, Dak Prescott and Tyler Shough is cheap bye-week insurance. Tua is not Atlanta's starter, so he won't play often. Good hustle, small stakes."
+     }
+    ]
+   },
+   {
+    "week": 5,
+    "title": "Metcalf to Ben",
+    "sides": [
+     {
+      "team": 11,
+      "gets": [
+       "DK Metcalf (WR, 28.8)"
+      ],
+      "value": 1908,
+      "grade": "C",
+      "reason": "Ben paid 2,487 in pick value, a 2027 second (1,612) and a 2027 fourth (875), for a receiver worth 1,908. That's a 579-point loss. The fit is real: Metcalf is an upgrade over Devaughn Vele, who started and scored 6.6. But Ben ranks 12th of 12 in dynasty value and now holds no 2027 picks in the first three rounds and no first-round pick in 2028. Being 4-1 justifies buying. It doesn't justify overpaying for a 28-year-old who scored 5.3 in his debut."
+     },
+     {
+      "team": 10,
+      "gets": [
+       "2027 2nd (Stroke The Post)",
+       "2027 4th (ClutchJuice)"
+      ],
+      "value": 2487,
+      "grade": "B+",
+      "reason": "Stroke won on value by 579 and got its own 2027 second back. It sold from depth: Stroke still has CeeDee Lamb, Drake London, Chris Olave and Garrett Wilson at receiver. The deduction is timing. Stroke is 3-2, has lost two straight, and sold a starting-caliber receiver to a team it is chasing in the standings."
+     }
+    ]
+   },
    {
     "week": 5,
     "title": "Shakir to Sheev",
@@ -6275,18 +5867,18 @@
        "Khalil Shakir (WR, 26.6)",
        "2027 6th (Jackie aCHANe)"
       ],
-      "value": 1215,
+      "value": 1311,
       "grade": "B-",
-      "reason": "Sheev paid its 2027 third (1,101) for a receiver worth 1,215, so the price was fair. Shakir starts Monday night in Buffalo's 25.75-point spot, with DJ Moore questionable. The deduction is the pattern: this is Sheev's second third-round pick spent on a depth receiver in three days, and it no longer holds any of its own first-, second- or third-round picks in 2027 or 2028."
+      "reason": "Sheev paid its 2027 third (1,091) for a receiver now worth 1,311, so it won on value by 220. Shakir scored 11.0 in his debut. The deduction is the pattern: this is Sheev's second third-round pick spent on a depth receiver in three days, and it no longer holds any of its own first-, second- or third-round picks in 2027 or 2028."
      },
      {
       "team": 12,
       "gets": [
        "2027 3rd (Sheev)"
       ],
-      "value": 1101,
+      "value": 1091,
       "grade": "B-",
-      "reason": "Jackie took a small value loss, 1,101 for 1,215, to turn a 26-year-old receiver into a pick. That fits a team that ranks 11th in dynasty value. The timing is awkward: Jackie is 3-1 and starting Isaiah Williams, projected for 7.73, at receiver this week."
+      "reason": "Jackie took a 220-point value loss to turn a 26-year-old receiver into a pick. That fits a team that ranks 10th in dynasty value. The timing is awkward: Jackie is 4-1 and started Isaiah Williams at receiver in Week 5. He scored 2.9."
      }
     ]
    },
@@ -6299,9 +5891,9 @@
       "gets": [
        "Roman Wilson (WR, 25.3)"
       ],
-      "value": 1362,
+      "value": 1301,
       "grade": "C",
-      "reason": "Sheev gave up 2,338 in value, Jonathon Brooks (1,340) plus its 2028 third (998), for a receiver worth 1,362. Wilson does fill a starting spot, and Michael Pittman's foot injury should push more targets his way in Pittsburgh. But a 1-3 team with the worst luck in the league doesn't need to overpay for a WR3. That's a 976-point loss for a marginal upgrade."
+      "reason": "Sheev gave up 2,380 in value, Jonathon Brooks (1,370) plus its 2028 third (1,010), for a receiver worth 1,301. That's a 1,079-point loss. Wilson started in Week 5 and scored 0.0, and he is now listed out with a finger injury. A 1-4 team with the worst luck in the league didn't need to overpay for a WR3."
      },
      {
       "team": 5,
@@ -6309,9 +5901,9 @@
        "Jonathon Brooks (RB, 23.2)",
        "2028 3rd (Sheev)"
       ],
-      "value": 2338,
+      "value": 2380,
       "grade": "B",
-      "reason": "brimley won on value by 976 and added a 23-year-old back. The problem is timing. brimley is a 1-3 contender that needs points now, and Brooks is on IR with an abdominal injury. Good business, wrong week."
+      "reason": "brimley won on value by 1,079 and added a 23-year-old back. The problem is timing. brimley is a 2-3 team fighting for the last playoff spot, and Brooks is on IR. Good business, wrong week."
      }
     ]
    },
@@ -6325,73 +5917,18 @@
        "Deebo Samuel (WR, 30.7)",
        "Aaron Rodgers (QB, 42.8)"
       ],
-      "value": 2871,
+      "value": 2973,
       "grade": "B+",
-      "reason": "Send Nudes is 3-1, the defending champion, and has Baker Mayfield on IR, so a quarterback who starts on Sunday is worth more to it than the market price says. Rodgers projects 16.77 this week to Willis's 15.39, and Samuel, who scored 18.0 on Jackie's bench in Week 4, is insurance with Ja'Marr Chase and Mike Evans both questionable. It also won on value, 2,871 to 1,794. The deduction: neither player will matter in two years. For a contender, this is the right kind of rental."
+      "reason": "Send Nudes is the defending champion with Baker Mayfield on IR, so a quarterback who starts on Sunday is worth more to it than the market price says. Rodgers scored 22.0 in a perfect 248.7-point lineup in Week 5. It also won on value, 2,973 to 1,928. The deduction: neither player will matter in two years, and Samuel scored 2.5 on the bench and is now listed out. For a contender, this is still the right kind of rental."
      },
      {
       "team": 12,
       "gets": [
        "Malik Willis (QB, 27.3)"
       ],
-      "value": 1794,
+      "value": 1928,
       "grade": "B-",
-      "reason": "Jackie lost 1,077 in market value here, and Samuel was sold three days after he arrived. But Jackie is a rebuild, and in superflex, turning a 42-year-old and a 30-year-old into a 27-year-old listed atop Miami's depth chart is the right direction. Across both Samuel deals, Jackie turned Zach Charbonnet, a back on the PUP list worth 1,812, into Willis and Sheev's 2028 second, 3,166 combined. That's good business, even if this leg of it wasn't."
-     }
-    ]
-   },
-   {
-    "week": 4,
-    "title": "Collins and Brown to Vodka",
-    "sides": [
-     {
-      "team": 12,
-      "gets": [
-       "Matthew Golden (WR, 23.1)",
-       "God Bless Vodka 2028 1st",
-       "Bijan Your Face 🍆💦 2027 1st",
-       "Bijan Your Face 🍆💦 2027 3rd",
-       "God Bless Vodka 2028 4th"
-      ],
-      "value": 9430,
-      "grade": "A-",
-      "reason": "This is selling at the top. Jackie aCHANe is 3-1 on the easiest schedule in the league and has the luckiest record by all-play, so this was the moment to cash out a 27-year-old receiver and a 26-year-old back. It now holds four first-round picks across 2027 and 2028, and Golden is 23. The minus: the lineup gets thinner for a team currently sitting in a playoff spot."
-     },
-     {
-      "team": 2,
-      "gets": [
-       "Nico Collins (WR, 27.5)",
-       "Chase Brown (RB, 26.5)",
-       "Jackie aCHANe 2028 2nd"
-      ],
-      "value": 9792,
-      "grade": "C-",
-      "reason": "On value this is close to even, 9,792 to 9,430, so nobody got fleeced. The problem is timing. God Bless Vodka is 1-3 and ninth in points, and it now owns no first-round pick in 2027 or 2028; Bijan Your Face already holds its 2027 first and second. There is one logic here: with that 2027 first gone, losing only helps someone else. But spending the last first on two players 26 and older is a bet on this season from a team that hasn't shown it can win one."
-     }
-    ]
-   },
-   {
-    "week": 4,
-    "title": "Deebo for Charbonnet",
-    "sides": [
-     {
-      "team": 1,
-      "gets": [
-       "Zach Charbonnet (RB, 25.7, PUP)"
-      ],
-      "value": 1845,
-      "grade": "C-",
-      "reason": "Sheev paid a 2028 second to swap a 30-year-old receiver for a younger back who is on the PUP list with an ACL injury. Charbonnet fits the youth build, but he's worth about 1,000 less than what went out and can't help a 1-3 team that needs wins now. The commissioner gets no special treatment at this desk."
-     },
-     {
-      "team": 12,
-      "gets": [
-       "Deebo Samuel (WR, 30.7)",
-       "Sheev 2028 2nd"
-      ],
-      "value": 2882,
-      "grade": "B+",
-      "reason": "Jackie aCHANe added a usable receiver and a second-round pick for an injured back. Samuel scored 18.0 on Jackie's bench the same day. A 30-year-old doesn't fit a rebuild, but a day later Jackie sold Nico Collins, so Samuel fills that hole while the picks pile up. Update: three days later Jackie flipped Samuel and Aaron Rodgers to Send Nudes for Malik Willis (graded above)."
+      "reason": "Jackie lost 1,045 in market value, and Samuel was sold three days after he arrived. But in superflex, turning a 42-year-old and a 30-year-old into a 27-year-old listed atop Miami's depth chart is the right direction for a rebuild. Willis scored 20.88 on Jackie's bench in Week 5, more than either quarterback Jackie started."
      }
     ]
    }
