@@ -482,7 +482,7 @@ function injuries(list){
 }
 
 function intel(ed){
-  const rows=[["Record","rec",null],["Points / game","ppg",1],["Last week","last",1],["Week 4 proj","proj",1],["Allowed / game","pag",null],["Lineup eff.","eff",1]];
+  const rows=[["Record","rec",null],["Points / game","ppg",1],["Last week","last",1],["Week "+ed.week+" proj","proj",1],["Allowed / game","pag",null],["Lineup eff.","eff",1]];
   const fmt=(k,v)=>k==="eff"?v+"%":k==="rec"?v:f1(v);
   const cards=ed.intel.map(m=>{
     const A=T(m.a),B=T(m.b);
@@ -614,7 +614,7 @@ function teamPage(id){
       <div class="callouts"><div class="callout v"><b>The verdict</b>${esc(b.verdict)}</div><div class="callout m"><b>The move</b>${esc(b.move)}</div></div>
     </article>
     <div style="display:grid;gap:20px;min-width:0">
-      <section><div class="sec-head"><h2>Results</h2><small>Weeks 1–3</small></div><div class="panel sched">${sched}</div></section>
+      <section><div class="sec-head"><h2>Results</h2><small>Weeks 1–${D.throughWeek}</small></div><div class="panel sched">${sched}</div></section>
       <section><div class="sec-head"><h2>Draft capital</h2><small>${kfmt(d.pickVal)} in value</small></div><div class="panel picklist">${picks}</div></section>
     </div>
   </div>
