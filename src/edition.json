@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "throughWeek": 7,
- "current": "tuesday",
+ "current": "thursday",
  "order": [
   "sunday",
   "thursday",
@@ -76,9 +76,9 @@
    "w": 4,
    "l": 3,
    "t": 0,
-   "pf": 666.4,
+   "pf": 666.3,
    "pa": 863.26,
-   "max": 772.02,
+   "max": 771.92,
    "streak": "2W"
   },
   {
@@ -113,7 +113,7 @@
    "l": 7,
    "t": 0,
    "pf": 624.84,
-   "pa": 832.0,
+   "pa": 831.9,
    "max": 696.7,
    "streak": "7L"
   },
@@ -245,7 +245,7 @@
    "3": 137.66,
    "4": 141.64,
    "5": 195.64,
-   "6": 115.08,
+   "6": 114.98,
    "7": 173.12,
    "8": 193.9,
    "9": 108.72,
@@ -254,8 +254,139 @@
    "12": 84.32
   }
  },
- "movesNote": "Weeks 6 and 7 · through Monday night",
+ "movesNote": "Weeks 7 and 8 · through Wednesday’s waiver run",
  "moves": [
+  {
+   "type": "waiver",
+   "leg": 8,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [
+      "Kalif Raymond"
+     ],
+     "drops": [],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 8,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [
+      "Cooper Kupp"
+     ],
+     "drops": [
+      "Ray Davis"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 8,
+   "sides": [
+    {
+     "team": 10,
+     "adds": [
+      "Elijah Mitchell"
+     ],
+     "drops": [
+      "Tua Tagovailoa"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 5
+  },
+  {
+   "type": "waiver",
+   "leg": 7,
+   "sides": [
+    {
+     "team": 1,
+     "adds": [
+      "Josh Cameron"
+     ],
+     "drops": [
+      "Roschon Johnson"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 7,
+   "sides": [
+    {
+     "team": 3,
+     "adds": [
+      "Chig Okonkwo"
+     ],
+     "drops": [
+      "Pat Freiermuth"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 6
+  },
+  {
+   "type": "free_agent",
+   "leg": 7,
+   "sides": [
+    {
+     "team": 7,
+     "adds": [],
+     "drops": [
+      "Tyler Higbee"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 7,
+   "sides": [
+    {
+     "team": 3,
+     "adds": [
+      "Colby Parkinson"
+     ],
+     "drops": [
+      "Christian Kirk"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 4
+  },
+  {
+   "type": "waiver",
+   "leg": 7,
+   "sides": [
+    {
+     "team": 6,
+     "adds": [
+      "Devin Singletary"
+     ],
+     "drops": [
+      "Pierre Strong Jr."
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 3
+  },
   {
    "type": "waiver",
    "leg": 7,
@@ -464,643 +595,6 @@
     }
    ],
    "bid": 8
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [
-      "Courtland Sutton"
-     ],
-     "drops": [
-      "Kayshon Boutte"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 11
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 8,
-     "adds": [
-      "Ryan Flournoy"
-     ],
-     "drops": [
-      "Kyle Juszczyk"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 6
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 8,
-     "adds": [
-      "Michael Mayer"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 13
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 9,
-     "adds": [
-      "Jahan Dotson"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 5
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [
-      "Sione Vaki"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 2
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 9,
-     "adds": [
-      "Treylon Burks"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 6
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [],
-     "drops": [
-      "Mac Jones"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "Tyler Higbee"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "Jameis Winston"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [
-      "Chris Godwin Jr.",
-      "Justin Fields"
-     ],
-     "drops": [
-      "Dontayvion Wicks"
-     ],
-     "picks": []
-    },
-    {
-     "team": 9,
-     "adds": [
-      "Dontayvion Wicks"
-     ],
-     "drops": [
-      "Chris Godwin Jr.",
-      "Justin Fields"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Anthony Richardson Sr."
-     ],
-     "drops": [],
-     "picks": []
-    },
-    {
-     "team": 9,
-     "adds": [],
-     "drops": [
-      "Anthony Richardson Sr."
-     ],
-     "picks": [
-      "2028 5th (ClutchJuice)"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [],
-     "drops": [
-      "Brandin Cooks"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 5,
-     "adds": [
-      "Tre Tucker"
-     ],
-     "drops": [
-      "Jonathon Brooks"
-     ],
-     "picks": []
-    },
-    {
-     "team": 6,
-     "adds": [
-      "Jonathon Brooks"
-     ],
-     "drops": [
-      "Tre Tucker"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 9,
-     "adds": [],
-     "drops": [
-      "Raheim Sanders"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 9,
-     "adds": [
-      "Austin Ekeler"
-     ],
-     "drops": [],
-     "picks": []
-    },
-    {
-     "team": 2,
-     "adds": [],
-     "drops": [
-      "Austin Ekeler"
-     ],
-     "picks": [
-      "2027 4th (Very Naughty Boys)"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 7,
-     "adds": [
-      "Tyrone Tracy Jr."
-     ],
-     "drops": [
-      "Efton Chism III"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 37
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 8,
-     "adds": [
-      "Kyle Juszczyk"
-     ],
-     "drops": [
-      "Justice Hill"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 2
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [
-      "Brandin Cooks"
-     ],
-     "drops": [
-      "Sione Vaki"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 4
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [
-      "Christian Kirk"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 7
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [
-      "Tank Dell"
-     ],
-     "drops": [
-      "George Holani"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [],
-     "drops": [
-      "Dohnte Meyers"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 5,
-     "adds": [
-      "Kendre Miller"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 8
-  },
-  {
-   "type": "trade",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [
-      "CJ Donaldson"
-     ],
-     "drops": [],
-     "picks": []
-    },
-    {
-     "team": 5,
-     "adds": [],
-     "drops": [
-      "CJ Donaldson"
-     ],
-     "picks": [
-      "$3 FAAB"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 10,
-     "adds": [
-      "Cole Payton"
-     ],
-     "drops": [
-      "Ryan Flournoy"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [
-      "Tyler Higbee"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 7
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Kevin Coleman Jr."
-     ],
-     "drops": [
-      "Roschon Johnson"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 9,
-     "adds": [
-      "DeMario Douglas"
-     ],
-     "drops": [
-      "Tyler Huntley"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 9,
-     "adds": [
-      "Tanner McKee"
-     ],
-     "drops": [
-      "Drew Lock"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 35
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 6,
-     "adds": [
-      "Jalon Daniels"
-     ],
-     "drops": [
-      "Tank Dell"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 5,
-     "adds": [
-      "CJ Donaldson"
-     ],
-     "drops": [
-      "Tyler Higbee"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 10,
-     "adds": [
-      "Tua Tagovailoa"
-     ],
-     "drops": [
-      "Michael Mayer"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 12
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 8,
-     "adds": [],
-     "drops": [
-      "Tua Tagovailoa"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Mac Jones"
-     ],
-     "drops": [
-      "Kendre Miller"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 7,
-     "adds": [],
-     "drops": [
-      "Mike Gesicki"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [],
-     "drops": [
-      "Chris Brooks"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "trade",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Kyle Pitts Sr."
-     ],
-     "drops": [],
-     "picks": []
-    },
-    {
-     "team": 3,
-     "adds": [],
-     "drops": [
-      "Kyle Pitts Sr."
-     ],
-     "picks": [
-      "2027 3rd (Ben Football Team)",
-      "$90 FAAB"
-     ]
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 6,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [
-      "Tyson Bagent"
-     ],
-     "drops": [
-      "Cade Otton"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
   }
  ],
  "editions": {
@@ -1633,61 +1127,61 @@
   "thursday": {
    "key": "thursday",
    "label": "Thursday Edition",
-   "week": 7,
-   "published": "Thu, Oct 22, 2026",
+   "week": 8,
+   "published": "Thu, Oct 29, 2026",
    "scoreboard": {
     "mode": "upcoming",
-    "label": "Week 7",
+    "label": "Week 8",
     "sublabel": "Projected",
     "games": [
      {
-      "a": 5,
-      "b": 10,
-      "aProj": 148.9,
-      "bProj": 166.0,
+      "a": 7,
+      "b": 11,
+      "aProj": 160.9,
+      "bProj": 131.9,
       "status": "Game of the week"
      },
      {
       "a": 1,
-      "b": 7,
-      "aProj": 125.3,
-      "bProj": 156.9,
-      "status": "Thu–Mon"
-     },
-     {
-      "a": 2,
-      "b": 11,
-      "aProj": 119.6,
-      "bProj": 129.8,
+      "b": 12,
+      "aProj": 120.2,
+      "bProj": 104.7,
       "status": "Thu–Mon"
      },
      {
       "a": 6,
-      "b": 9,
-      "aProj": 97.8,
-      "bProj": 87.4,
+      "b": 10,
+      "aProj": 103.2,
+      "bProj": 163.2,
+      "status": "Thu–Mon"
+     },
+     {
+      "a": 2,
+      "b": 3,
+      "aProj": 116.3,
+      "bProj": 175.1,
+      "status": "Thu–Mon"
+     },
+     {
+      "a": 4,
+      "b": 5,
+      "aProj": 82.5,
+      "bProj": 157.9,
       "status": "Thu–Mon"
      },
      {
       "a": 8,
-      "b": 12,
-      "aProj": 167.9,
-      "bProj": 90.5,
-      "status": "Thu–Mon"
-     },
-     {
-      "a": 3,
-      "b": 4,
-      "aProj": 178.0,
-      "bProj": 65.8,
+      "b": 9,
+      "aProj": 178.1,
+      "bProj": 101.8,
       "status": "Thu–Mon"
      }
     ]
    },
    "lead": {
     "flag": "Front page · Thursday Edition",
-    "headline": "$37 for a Backup: #StopAsianHate Breaks the Bank on Tyrone Tracy",
-    "deck": "The biggest winning bid of the season buys a running back projected for 6.64. Bijan Your Face 🍆💦 wins a five-team fight for Michael Mayer, and Sheev pays $11 for the receiver Send Nudes cut."
+    "headline": "Twelve Dollars, Zero Starts: Stroke The Post Dumps Tua for a $5 Third-Stringer",
+    "deck": "A quiet week on the wire, $32 across 15 claims, still produced a four-team fight for Chig Okonkwo, two teams buying back players they had just cut, and ClutchJuice starting two free pickups."
    },
    "stories": [
     {
@@ -1696,15 +1190,15 @@
      "writer": "Simone Hart",
      "role": "Senior Insider · Waiver Wire",
      "kicker": "The wire",
-     "headline": "Thirty-Seven Dollars and a Depth Chart",
+     "headline": "Buyer’s Remorse Week",
      "paragraphs": [
-      "Wednesday's run cleared eight claims for $88, and #StopAsianHate spent $37 of it on one player: Giants running back Tyrone Tracy Jr. That's the biggest winning bid in this league all season, two dollars past the $35 Very Naughty Boys paid for Tanner McKee last Friday. Panic Trade Project bid $17 and Send Nudes bid $7, so #StopAsianHate overpaid the field by $20. Here's what bothers me. Sleeper has Tracy second on New York's depth chart, he projects 6.64 this week, and he isn't in #StopAsianHate's lineup. That's a bet on a job opening up, made by a 2-4 team that cut Efton Chism III to do it, and it leaves #StopAsianHate with $38.",
-      "The most contested claim of the run was Michael Mayer, and five teams wanted him. Bijan Your Face 🍆💦 won at $13 over Panic ($9), #StopAsianHate ($9), Jackie aCHANe ($3) and Stroke The Post ($1). The Stroke bid is the story inside the story: Stroke had Mayer until Saturday, cut him to claim Tua Tagovailoa for $12, and bid $1 on Wednesday to get him back. It lost. Mayer is the No. 2 tight end in Las Vegas behind Brock Bowers, who starts for Bijan and is questionable. The only unbeaten team in the league just bought its own starter's backup, and it still has $70. That's my best value of the week.",
-      "Bijan also paid $6 for Dallas receiver Ryan Flournoy, beating Jackie's $2, and cut Kyle Juszczyk, whom it had claimed for $2 on Monday. Its $2 claim on Chig Okonkwo failed for lack of roster space. Sheev paid $11 for Courtland Sutton, the receiver Send Nudes released on Oct. 14, and the only other bid was Stroke's $2. Sheev overpaid by $9, but Sutton goes straight into its lineup at 9.02 projected against Arizona. Sheev cut Kayshon Boutte and is down to $15.",
-      "Very Naughty Boys kept shopping. It paid $6 for Treylon Burks over Bijan's $3, and Burks is on bye with Washington this week. It also claimed Jahan Dotson for $5 with no competing bid, and Dotson starts right away at 5.51. Its $2 claim on Roschon Johnson failed for roster space. On Tuesday, the 0-6 team also traded Chris Godwin Jr. and Justin Fields for Dontayvion Wicks and sold Anthony Richardson Sr. for a fifth-round pick. Mona Lott grades both below. VNB has $26 left.",
-      "Panic Trade Project paid $8 for Joe Milton, uncontested, and cut Jalon Daniels. Sleeper lists Milton third on Philadelphia's depth chart with no projection, so Panic is still starting a receiver, Ja'Kobi Lane, in its superflex slot. Panic lost the Tracy and Mayer auctions and has $17. Then there's Send Nudes, which went in a circle. On Monday it cut Sione Vaki to claim Brandin Cooks for $4. On Tuesday it released Cooks. On Wednesday it claimed Vaki back for $2. That's $6 to end the week where it started, and the champs can afford it.",
-      "From the weekend runs: Very Naughty Boys' $35 for McKee has already paid off, with 12.6 points in Week 6 and a 14.4 projection this week as its superflex. brimley paid $8 for Kendre Miller over Very Naughty Boys ($2) and Sheev ($1). Send Nudes claimed Christian Kirk for $7. Ben Football Team claimed Tyler Higbee for $7 on Saturday and released him Tuesday. Sheev claimed Tank Dell for $1 two days after Panic cut him, and Dell is on injured reserve.",
-      "Who has money left: Send Nudes $104, God Bless Vodka $96, brimley $74, Bijan $70, Stroke $69 and Ben $63. Then it falls off: #StopAsianHate $38, Very Naughty Boys $26, Panic $17, Sheev $15, Jackie $14 and ClutchJuice $9. The two teams with the best records and the most money are 5-1 Send Nudes and 6-0 Bijan. If a starting running back goes down this weekend, one of them gets him."
+      "Last Thursday this column opened on a $37 bid. This week the whole league spent $32. Fifteen claims have cleared since our last edition, seven of them in Wednesday's run for $18, and the biggest winning bid was $6. Nobody broke the bank. What I'm hearing instead is a lot of teams undoing last week's decisions.",
+      "Start with Stroke The Post. Earlier this month it cut Michael Mayer and paid $12 for Tua Tagovailoa. On Wednesday it released Tua, who never started a game for Stroke and is now listed third on Atlanta's depth chart, and paid $5 for Elijah Mitchell, Philadelphia's third running back, projected for 2.01 points this week. That's $17 for two backups who have combined for zero points in Stroke's lineup. Stroke still has $64, the fifth-most in the league, so it can absorb it, but at 4-3 that money should be waiting for a starter.",
+      "The most contested player of the week was Chig Okonkwo, and he's now on his third league roster this season. Bijan Your Face 🍆💦 dropped him in Week 2. Panic Trade Project claimed him for $0 on Saturday and cut him Sunday morning for Tyler Goodson. Then four teams bid Wednesday: Send Nudes won at $6 over #StopAsianHate ($2), brimley ($1) and ClutchJuice ($0). Send Nudes also paid $4 for Colby Parkinson, uncontested. Here's my problem with it. To make room, the champs cut Pat Freiermuth, who projects 9.42 this week against Cleveland, more than Okonkwo (7.38) or Parkinson (6.66, questionable). I get the logic, since Tyler Warren is questionable with a groin injury and Send Nudes wanted cover. But it spent $10 on two tight ends who both project below the one it released, and Freiermuth had only scored 3.1 and 4.0 in his two starts for them. Send Nudes cut Christian Kirk for Parkinson, too, and has $94.",
+      "Then there are the U-turns. Jackie aCHANe dropped Ty Johnson last Thursday to claim Zonovan Knight for $3, then bought Johnson back on Monday for $2 and cut Jaleel McLaughlin. Both start Sunday, Knight at 7.42 and Johnson at 5.3. Knight is my best value of the week: $3, 9.3 points in his Week 7 start, and he starts again in Arizona's game with Dallas, which has the highest total on the board at 54.5. Sheev paid $5 for Roschon Johnson last Thursday, started him for 1.3 points, and on Wednesday swapped him for Josh Cameron at $0. To make room for Roschon, Sheev had cut CJ Donaldson, whom it paid $3 in FAAB to acquire in a Week 6 trade. Sheev is down to $10.",
+      "Panic had the busiest week. Besides the Okonkwo round trip, it picked up Pierre Strong Jr. as a free agent Sunday, started him for 0.0, and on Wednesday cut him for Devin Singletary at $3. Singletary is the Giants' third running back, and the Giants are on bye. Its $0 claim on Jalen McMillan failed for lack of roster space. Panic has $14. #StopAsianHate paid $1 for Tyler Higbee on Friday, started him for 3.4 points and released him Tuesday. That makes four league teams Higbee has been on this season: Bijan, brimley, Ben Football Team and #StopAsianHate. He's a free agent again and projects 8.43.",
+      "ClutchJuice did the most with the least. It added Cooper Kupp and Kalif Raymond for $0 on Wednesday, cut Ray Davis, and both go straight into the lineup, Kupp in the superflex slot at 7.46 and Raymond at flex at 7.17. That tells you how thin it is: with Anthony Richardson Sr. and Tyson Bagent unprojected, Drake Maye is its only quarterback with a number. It also swapped Kevin Coleman Jr. for Jordan Watkins at $0. Elsewhere, Bijan paid $3 for Baltimore running back Justice Hill, beating Jackie's $1, and has $67 left. Its Saturday claims on Goodson and Brandin Cooks failed for roster space. God Bless Vodka claimed Cincinnati receiver Dohnte Meyers for $0.",
+      "Who has money left: God Bless Vodka $96, Send Nudes $94, brimley $74, Bijan $67, Stroke $64 and Ben $63. Then #StopAsianHate $37, Very Naughty Boys $26, Panic $14, Sheev $10, and Jackie and ClutchJuice at $9 each. Three of the top six budgets belong to the league's top three teams: Bijan, Send Nudes and Ben. If a starter goes down this weekend, God Bless Vodka, at 2-5, has the most to bid."
      ]
     },
     {
@@ -1714,219 +1208,219 @@
      "writer": "Kenny Park",
      "role": "Matchup Intelligence",
      "kicker": "Here's what matters",
-     "headline": "Lions Night, Bench Holes and the Unluckiest Game in the League",
+     "headline": "Byes in Houston and San Francisco, a 5-2 Underdog, and a Playoff Line on the Line",
      "paragraphs": [
-      "No picks in this column. Jeff Longwood makes those Sunday, once the injury report settles. This is the scouting file for Week 7. Buffalo, Jacksonville, the Chargers and Washington are on bye. The only bye-week starter in a league lineup as of Thursday morning is Jackie aCHANe's Jakobi Meyers in Jacksonville.",
-      "Tonight it's New England at Chicago. The Bears are favored by 3 to 3.5 with a total of 50.5 to 51, which implies about 26.75 points for Chicago, the second-most of the week. Ten league starters play. Stroke The Post has Caleb Williams and D'Andre Swift. Sheev has TreVeyon Henderson and Luther Burden III. Panic Trade Project has Rome Odunze and Eli Raridon. Very Naughty Boys has DeMario Douglas and Colston Loveland. Send Nudes has A.J. Brown, and ClutchJuice has Drake Maye, whose 21.58 projection is the highest of any quarterback in a league lineup.",
-      "Follow the implied totals. Green Bay at Detroit has the week's biggest total, 53.5, with the Lions favored by 3. That implies about 28.25 points for Detroit, the most of the week, and 25.25 for Green Bay. Eleven league starters play in that game, including Jahmyr Gibbs, whose 25.24 is the top projection in the league. Houston (26.5, as 10.5-point favorites over the Giants) and the Rams (26.5 at Las Vegas) are next. At the bottom are the Giants at 16, then Miami and Indianapolis at 17.5. Jackie has four starters in offenses implied for 25 or more, the most in the league, but one is David Montgomery, who is questionable with no projection. ClutchJuice has none. brimley's starters average 21.0 implied points, the lowest in the league. Our two sources disagree on the favorite in Cincinnati at Baltimore and San Francisco at Atlanta, so we're treating both as pick'ems.",
-      "The game of the week is brimley against Stroke The Post, because it's a playoff-line game. Stroke is 4-2. brimley is 3-3 and holds sixth only on points over Panic. Stroke projects 166.0 to 148.9 and leads at receiver by 10.4 and running back by 8.0. brimley's problem is the injury report: five of its starters are questionable, Bucky Irving, Justin Jefferson, Christian Watson, Saquon Barkley and Jordan Love, and together they're 84.69 of its 148.9 projected points. No team has more questionable starters. brimley has also allowed 165.5 a game, the most in the league.",
-      "Lineup holes, as of Thursday morning. Jackie aCHANe has Meyers (bye) and Montgomery (no projection) in its flex slots and starts Daniel Jones (10.71) at quarterback, with Kyler Murray (16.34), Malik Willis (14.6) and AJ Barner (7.43) on its bench. That's about 16 points sitting there. God Bless Vodka starts Jeremiyah Love, who is questionable with no projection. Swap in Tyler Allgeier (11.46) and it projects 131.1, ahead of Ben Football Team's 129.8. Very Naughty Boys has Jonah Coleman, who is on injured reserve, in a running back slot. ClutchJuice has running back Demond Claiborne (0.64) in its superflex slot, and Anthony Richardson Sr., its new quarterback, has no projection.",
-      "Last, the bad-luck game. Sheev is 1-5 and #StopAsianHate is 2-4, and by all-play they're the two unluckiest teams in the league. Sheev has played like a 3.82-win team and #StopAsianHate like a 4.18-win team. Both score more than 148 a game. #StopAsianHate projects 156.9 to 125.3, and almost all of that edge is at receiver, 66.6 to 35.6, led by Jaxon Smith-Njigba's 23.48, the top receiver projection in the league. Sheev has the better quarterbacks, C.J. Stroud and Brock Purdy, by 4.7."
+      "No picks here. Jeff Longwood makes those Sunday, after the injury report settles. This is the scouting file for Week 8. Houston, New Orleans, the Giants and San Francisco are on bye, and the team that feels it is Sheev. Both of its veteran quarterbacks, C.J. Stroud and Brock Purdy, are off, and Tyler Huntley has no projection, so Sheev starts tight end Brenton Strange in its superflex slot. No other league team has a starter on bye as of Thursday morning.",
+      "Tonight it's Carolina at Green Bay. The Packers are 3.5-point favorites and the total is 47.5, which implies 25.5 points for Green Bay and 22 for Carolina. Nine league starters play. Jackie aCHANe has three, Bryce Young, Matthew Golden and Tucker Kraft. brimley has Jordan Love and Christian Watson. Bijan has Josh Jacobs, Ben Football Team has Chuba Hubbard, Panic Trade Project has Jalen Coker, and Sheev has Tetairoa McMillan. Golden is questionable with a shoulder injury.",
+      "Follow the implied totals. Dallas is a 7-point favorite over Arizona with a 54.5 total, which implies 30.75 points, the most of the week. Buffalo (28.75, favored by 3 over Baltimore in the other 54.5-point game), Cincinnati (28.25, favored by 10 over Tennessee) and Jacksonville (28.0, favored by 9.5 over Indianapolis) are next. The bottom of the board is Philadelphia at 17.5, a 5.5-point underdog to Washington, then Cleveland at 18.0, and Miami and Tennessee at 18.25. Send Nudes has six starters in offenses implied for 25 or more and the highest average, 24.85. Panic has one, and its starters average 20.88, the lowest in the league. Our sources disagree on the favorite in Las Vegas at the Jets, so we treat it as a pick'em.",
+      "The game of the week is #StopAsianHate against Ben Football Team, because the 5-2 team is the projected underdog by 29.0. Ben is tied for the second-best record in the league, but it has scored 122.5 a game, seventh in the league, and its opponents have averaged 114.1, the softest schedule anyone has played. By all-play, Ben has played like a 2.73-win team. #StopAsianHate is 3-4 but has played like a 5-win team, and it just scored a season-high 173.12. The gap is receiver, 70.5 to 32.3, behind Jaxon Smith-Njigba's 25.03, the top projection in the league. Ben's answer is tight end, where Hockenson and LaPorta give it a 12.1-point edge. Watch the injury report: Lamar Jackson, George Pickens and Rashee Rice are all questionable for #StopAsianHate, and Ladd McConkey (11.01, questionable) is on its bench. Ben and Stroke The Post are the only teams with no questionable starters.",
+      "Now the playoff line. Six teams get in. Bijan is 7-0, Send Nudes and Ben are 5-2, and four teams are 4-3: Stroke, brimley, Jackie and Panic. Jackie holds sixth on points, with Panic seventh. Jackie plays Sheev in the closest projected game of the week, 120.2 to 104.7 for Sheev. Jackie has the edge at quarterback by 17.4, thanks to Sheev's byes, but its running backs project 12.7, the second-lowest group in the league, and it starts Zachariah Branch (2.93) at flex with Jakobi Meyers (10.18, questionable) on the bench. Jackie has also set the least efficient lineups in the league, 78% of its optimal points. Sheev is the unluckiest team in the league by all-play and has faced the toughest schedule, opponents averaging 150.8. Panic draws Stroke and projects 103.2 to 163.2, a 50.2-point gap at running back alone. Panic is 4-3 while averaging 95.2 points, the second-lowest in the league, and it's the luckiest team by all-play.",
+      "The rest of the slate is lopsided on paper. Bijan projects 178.1, the best of the week, against Very Naughty Boys' 101.8, and its quarterbacks, Josh Allen (24.43) and Dak Prescott (22.67), are the top two quarterback projections in any lineup. Four Bijan starters are questionable, Brock Bowers again among them, but Hunter Henry (9.37) and Michael Mayer (7.47) are on the bench. Send Nudes projects 175.1 against God Bless Vodka's 116.3, but its four questionable starters, Jahmyr Gibbs, Ja'Marr Chase, A.J. Brown and Tyler Warren, carry 68.94 points, the most at risk anywhere. And ClutchJuice projects 82.5, the lowest of the week, against brimley's 157.9. ClutchJuice's best hope is that brimley's defense keeps doing what it does: brimley has allowed 166.0 a game, the most in the league."
      ]
     }
    ],
    "injuries": [],
    "intel": [
     {
-     "a": 5,
-     "b": 10,
+     "a": 7,
+     "b": 11,
      "A": {
-      "rec": "3-3",
-      "ppg": 151.4,
-      "last": 141.48,
-      "proj": 148.9,
-      "pag": 165.5,
-      "eff": 88
-     },
-     "B": {
-      "rec": "4-2",
-      "ppg": 171.1,
-      "last": 151.98,
-      "proj": 166.0,
-      "pag": 145.2,
-      "eff": 86
-     },
-     "ga": {
-      "QB": 33.4,
-      "RB": 42.7,
-      "WR": 57.5,
-      "TE": 15.3
-     },
-     "gb": {
-      "QB": 35.9,
-      "RB": 50.7,
-      "WR": 67.9,
-      "TE": 11.5
-     },
-     "note": "A playoff-line game. Stroke The Post is 4-2 and scored 151.98 last week, the most in the league. brimley is 3-3 and holds sixth on points. Stroke leads at receiver by 10.4, running back by 8.0 and quarterback by 2.5. brimley leads at tight end by 3.8 with Trey McBride. Five brimley starters are questionable, worth 84.69 of its 148.9 projected points, the most questionable starters on any team. Stroke has three starters in offenses implied for 25 or more, including Caleb Williams and D'Andre Swift tonight. brimley's starters average 21.0 implied points, the league's lowest."
-    },
-    {
-     "a": 1,
-     "b": 7,
-     "A": {
-      "rec": "1-5",
-      "ppg": 150.4,
-      "last": 124.96,
-      "proj": 125.3,
-      "pag": 155.2,
+      "rec": "3-4",
+      "ppg": 152.2,
+      "last": 173.12,
+      "proj": 160.9,
+      "pag": 155.0,
       "eff": 87
      },
      "B": {
-      "rec": "2-4",
-      "ppg": 148.7,
-      "last": 128.86,
-      "proj": 156.9,
-      "pag": 161.7,
-      "eff": 86
-     },
-     "ga": {
-      "QB": 39.9,
-      "RB": 37.8,
-      "WR": 35.6,
-      "TE": 12.0
-     },
-     "gb": {
-      "QB": 35.2,
-      "RB": 44.1,
-      "WR": 66.6,
-      "TE": 11.1
-     },
-     "note": "The two unluckiest teams in the league by all-play. Sheev (1-5) has played like a 3.82-win team, #StopAsianHate (2-4) like a 4.18-win team. #StopAsianHate's edge is at receiver, 66.6 to 35.6, led by Jaxon Smith-Njigba at 23.48. Sheev leads at quarterback by 4.7 with C.J. Stroud and Brock Purdy. Sheev starts Zach Charbonnet, who is on PUP, at flex for 5.57, with Harold Fannin Jr. (11.03) on the bench. Lamar Jackson and Rashee Rice are questionable for #StopAsianHate."
-    },
-    {
-     "a": 2,
-     "b": 11,
-     "A": {
-      "rec": "1-5",
-      "ppg": 103.7,
-      "last": 86.34,
-      "proj": 119.6,
-      "pag": 134.2,
-      "eff": 81
-     },
-     "B": {
-      "rec": "5-1",
-      "ppg": 125.4,
-      "last": 114.96,
-      "proj": 129.8,
-      "pag": 111.2,
-      "eff": 92
-     },
-     "ga": {
-      "QB": 29.9,
-      "RB": 15.1,
-      "WR": 57.9,
-      "TE": 16.6
-     },
-     "gb": {
-      "QB": 34.7,
-      "RB": 29.4,
-      "WR": 43.3,
-      "TE": 22.5
-     },
-     "note": "Ben Football Team is 5-1 and the luckiest team in the league by all-play, 2.36 wins above its scoring. God Bless Vodka is 1-5 with five straight losses and scored 86.34 last week, the league's lowest. Ben leads at running back by 14.3, tight end by 5.9 and quarterback by 4.8. God Bless Vodka leads at receiver by 14.6. Jeremiyah Love is in God Bless Vodka's lineup with no projection. With Tyler Allgeier (11.46) in his place, it projects 131.1 to Ben's 129.8. Chris Godwin Jr. starts for Ben two days after the trade."
-    },
-    {
-     "a": 6,
-     "b": 9,
-     "A": {
-      "rec": "3-3",
-      "ppg": 91.9,
-      "last": 108.04,
-      "proj": 97.8,
-      "pag": 125.8,
-      "eff": 85
-     },
-     "B": {
-      "rec": "0-6",
-      "ppg": 86.0,
-      "last": 114.42,
-      "proj": 87.4,
-      "pag": 119.5,
-      "eff": 88
-     },
-     "ga": {
-      "QB": 19.4,
-      "RB": 7.5,
-      "WR": 65.4,
-      "TE": 5.5
-     },
-     "gb": {
-      "QB": 28.7,
-      "RB": 10.5,
-      "WR": 38.5,
-      "TE": 9.7
-     },
-     "note": "Panic Trade Project leads at receiver by 26.9. Very Naughty Boys leads at quarterback by 9.3, because it starts two (Sam Darnold and Tanner McKee) and Panic starts Ja'Kobi Lane, a receiver, at superflex. Very Naughty Boys has Jonah Coleman, who is on injured reserve, in a running back slot, and Panic's Kaleb Johnson projects 0.23. Very Naughty Boys is 0-6 and scores 86.0 a game, the fewest in the league. Panic is 3-3 and 1.82 wins luckier than its scoring."
-    },
-    {
-     "a": 8,
-     "b": 12,
-     "A": {
-      "rec": "6-0",
-      "ppg": 184.8,
-      "last": 137.12,
-      "proj": 167.9,
-      "pag": 135.4,
+      "rec": "5-2",
+      "ppg": 122.5,
+      "last": 105.02,
+      "proj": 131.9,
+      "pag": 110.6,
       "eff": 91
      },
+     "ga": {
+      "QB": 34.2,
+      "RB": 46.1,
+      "WR": 70.5,
+      "TE": 10.2
+     },
+     "gb": {
+      "QB": 33.1,
+      "RB": 44.3,
+      "WR": 32.3,
+      "TE": 22.3
+     },
+     "note": "The 5-2 team is the projected underdog, by 29.0. #StopAsianHate's edge is all receiver, 70.5 to 32.3, led by Jaxon Smith-Njigba's 25.03, the top projection of any player in the league this week, and Zay Flowers at 18.23. Ben Football Team leads at tight end by 12.1 with T.J. Hockenson and Sam LaPorta. The risk is on the favorite's side: Lamar Jackson, George Pickens and Rashee Rice are questionable, 47.45 projected points together. Ben is one of two teams with no questionable starters. Ben's opponents have averaged 114.1 a game, the softest schedule in the league; #StopAsianHate's have averaged 146.3."
+    },
+    {
+     "a": 1,
+     "b": 12,
+     "A": {
+      "rec": "1-6",
+      "ppg": 145.3,
+      "last": 115.04,
+      "proj": 120.2,
+      "pag": 157.7,
+      "eff": 88
+     },
      "B": {
-      "rec": "4-2",
-      "ppg": 112.8,
-      "last": 118.2,
-      "proj": 90.5,
-      "pag": 86.7,
+      "rec": "4-3",
+      "ppg": 108.7,
+      "last": 84.32,
+      "proj": 104.7,
+      "pag": 102.0,
       "eff": 78
      },
      "ga": {
-      "QB": 32.1,
-      "RB": 71.4,
-      "WR": 48.4,
-      "TE": 16.0
+      "QB": 18.1,
+      "RB": 28.8,
+      "WR": 52.0,
+      "TE": 21.2
      },
      "gb": {
-      "QB": 29.3,
-      "RB": 16.1,
-      "WR": 33.4,
-      "TE": 11.7
+      "QB": 35.5,
+      "RB": 12.7,
+      "WR": 37.4,
+      "TE": 19.1
      },
-     "note": "Bijan Your Face 🍆💦 is 6-0, the league's only unbeaten team, and scores 184.8 a game, the most. It leads at running back by 55.3. Jackie aCHANe is 4-2, has allowed 86.7 a game, the fewest in the league, and has the league's lowest lineup efficiency at 78%. As of Thursday morning, Jakobi Meyers (bye) and David Montgomery (no projection) are in its flex spots, and Jaleel McLaughlin projects 1.33. Kyler Murray, Malik Willis and AJ Barner are on the bench. Brock Bowers is questionable for Bijan, which claimed his backup, Michael Mayer, on Wednesday."
+     "note": "The closest projected game of the week, 120.2 to 104.7. Jackie aCHANe holds the sixth and final playoff spot at 4-3, on points over Panic Trade Project. Sheev has both its veteran quarterbacks on bye, C.J. Stroud (Houston) and Brock Purdy (San Francisco), so tight end Brenton Strange is in its superflex at 10.53, and Jackie leads at quarterback by 17.4. Sheev leads at running back by 16.1 and receiver by 14.6. Jackie starts Zachariah Branch (2.93) at flex with Jakobi Meyers (10.18, questionable) on the bench. Sheev's opponents have averaged 150.8 a game, the toughest schedule in the league."
     },
     {
-     "a": 3,
-     "b": 4,
+     "a": 6,
+     "b": 10,
      "A": {
-      "rec": "5-1",
-      "ppg": 176.5,
-      "last": 118.34,
-      "proj": 178.0,
-      "pag": 148.7,
-      "eff": 96
+      "rec": "4-3",
+      "ppg": 95.2,
+      "last": 114.98,
+      "proj": 103.2,
+      "pag": 123.3,
+      "eff": 86
      },
      "B": {
-      "rec": "2-4",
-      "ppg": 91.0,
-      "last": 103.5,
-      "proj": 65.8,
-      "pag": 104.7,
-      "eff": 97
+      "rec": "4-3",
+      "ppg": 170.8,
+      "last": 168.72,
+      "proj": 163.2,
+      "pag": 152.4,
+      "eff": 87
      },
      "ga": {
-      "QB": 37.2,
-      "RB": 74.2,
-      "WR": 56.1,
-      "TE": 10.5
+      "QB": 14.0,
+      "RB": 14.4,
+      "WR": 69.3,
+      "TE": 5.5
      },
      "gb": {
-      "QB": 21.6,
-      "RB": 8.4,
-      "WR": 21.6,
-      "TE": 14.2
+      "QB": 31.9,
+      "RB": 64.6,
+      "WR": 55.3,
+      "TE": 11.4
      },
-     "note": "The widest projected gap of the week, 112.2 points. Send Nudes projects 178.0, the most in the league, with Jahmyr Gibbs' 25.24 the top individual projection. ClutchJuice projects 65.8, the fewest, though it has the best quarterback projection in the league in Drake Maye (21.58) and leads at tight end by 3.7. Its superflex slot holds running back Demond Claiborne (0.64), and Anthony Richardson Sr. has no projection. Maye and A.J. Brown play tonight in Chicago."
+     "note": "Two 4-3 teams, and the loser is looking up at the playoff line. Stroke The Post projects 163.2 to 103.2 and leads at running back by 50.2, the biggest positional gap of the week. Panic Trade Project leads at receiver by 14.0, but that counts rookie Makai Lemon (8.25), who is in its superflex slot because Bo Nix is its only quarterback with a projection. Panic's starters average 20.88 implied points, the lowest in the league. Stroke has no questionable starters. Panic has won two straight and is the luckiest team in the league by all-play (+2.45)."
+    },
+    {
+     "a": 2,
+     "b": 3,
+     "A": {
+      "rec": "2-5",
+      "ppg": 104.2,
+      "last": 106.82,
+      "proj": 116.3,
+      "pag": 130.0,
+      "eff": 83
+     },
+     "B": {
+      "rec": "5-2",
+      "ppg": 171.0,
+      "last": 137.66,
+      "proj": 175.1,
+      "pag": 147.7,
+      "eff": 95
+     },
+     "ga": {
+      "QB": 30.9,
+      "RB": 37.5,
+      "WR": 38.1,
+      "TE": 9.8
+     },
+     "gb": {
+      "QB": 38.0,
+      "RB": 69.7,
+      "WR": 56.7,
+      "TE": 10.7
+     },
+     "note": "Send Nudes projects 175.1 and has six starters in offenses implied for 25 or more, the most in the league. It leads at running back by 32.2 and receiver by 18.6. The catch: Jahmyr Gibbs, Ja'Marr Chase, A.J. Brown and Tyler Warren are questionable, 68.94 projected points, the most at risk on any roster. The bench can absorb it, with Aaron Rodgers (16.1), Baker Mayfield (16.0), Aaron Jones Sr. (9.8) and Keenan Allen (9.28). God Bless Vodka starts two questionable flex players, Jeremiyah Love and Malik Washington."
+    },
+    {
+     "a": 4,
+     "b": 5,
+     "A": {
+      "rec": "3-4",
+      "ppg": 98.2,
+      "last": 141.64,
+      "proj": 82.5,
+      "pag": 109.4,
+      "eff": 97
+     },
+     "B": {
+      "rec": "4-3",
+      "ppg": 157.7,
+      "last": 195.64,
+      "proj": 157.9,
+      "pag": 166.0,
+      "eff": 89
+     },
+     "ga": {
+      "QB": 21.9,
+      "RB": 11.7,
+      "WR": 37.2,
+      "TE": 11.8
+     },
+     "gb": {
+      "QB": 38.2,
+      "RB": 39.6,
+      "WR": 60.8,
+      "TE": 19.3
+     },
+     "note": "ClutchJuice projects 82.5, the lowest total of the week, and starts Cooper Kupp at superflex because Drake Maye is its only quarterback with a projection. Kupp and Kalif Raymond both cost $0 on Wednesday and both start. brimley projects 157.9 and leads at every position, by 27.9 at running back and 23.6 at receiver. brimley has won three straight but has allowed 166.0 a game, the most in the league. It has Jacoby Brissett (18.66) on the bench behind Jordan Love (17.15). ClutchJuice is the league's most efficient lineup setter at 97%."
+    },
+    {
+     "a": 8,
+     "b": 9,
+     "A": {
+      "rec": "7-0",
+      "ppg": 186.1,
+      "last": 193.9,
+      "proj": 178.1,
+      "pag": 128.1,
+      "eff": 92
+     },
+     "B": {
+      "rec": "0-7",
+      "ppg": 89.3,
+      "last": 108.72,
+      "proj": 101.8,
+      "pag": 118.8,
+      "eff": 90
+     },
+     "ga": {
+      "QB": 47.1,
+      "RB": 53.6,
+      "WR": 60.5,
+      "TE": 17.0
+     },
+     "gb": {
+      "QB": 29.8,
+      "RB": 16.5,
+      "WR": 35.2,
+      "TE": 20.3
+     },
+     "note": "Unbeaten against winless. Bijan Your Face 🍆💦 projects 178.1, the highest total of the week, and its quarterbacks, Josh Allen (24.43) and Dak Prescott (22.67), are the top two quarterback projections in any lineup. Allen plays in Buffalo's 54.5-point game with Baltimore and Prescott in Dallas' 54.5-point game with Arizona. Four Bijan starters are questionable: Amon-Ra St. Brown, Brock Bowers, Michael Wilson and Jaylen Waddle. Very Naughty Boys' only edge is tight end, 20.3 to 17.0, with Dalton Kincaid (questionable) at flex."
     }
    ],
-   "intelNote": "Proj = sum of Sleeper's Week 7 projections for each starting lineup as set early Thursday (data pulled 1:25 a.m. Central). Starters without a Sleeper projection (Jeremiyah Love, Jonah Coleman, David Montgomery and Jakobi Meyers) count as zero. Vegas lines are from VegasInsider (updated Oct. 21–22) and SportsBrackets (Oct. 20). Where they disagree on the favorite, Bengals–Ravens and 49ers–Falcons, we treat the game as a pick'em. Implied team total = (game total − spread) / 2. Buffalo, Jacksonville, the Chargers and Washington are on bye."
+   "intelNote": "Proj = sum of Sleeper's Week 8 projections for each starting lineup as set early Thursday (data pulled 1:34 a.m. Central). Every Week 8 starter has a projection. Injury designations are Sleeper's as of that pull. Vegas lines are from VegasInsider (updated Oct. 27), cross-checked against ESPN/DraftKings and CBS Sports (both Oct. 28). Where the sources disagree on the favorite (Raiders–Jets), we treat the game as a pick'em. Implied team total = (game total − spread) / 2. Houston, New Orleans, the Giants and San Francisco are on bye. Last = Week 7 score. Eff = actual points as a share of optimal lineup points."
   },
   "tuesday": {
    "key": "tuesday",
