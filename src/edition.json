@@ -1,7 +1,7 @@
 {
  "season": 2026,
  "throughWeek": 9,
- "current": "tuesday",
+ "current": "sunday",
  "order": [
   "sunday",
   "thursday",
@@ -282,8 +282,118 @@
    "12": 139.26
   }
  },
- "movesNote": "Weeks 9 and 10 · through Monday night",
+ "movesNote": "Weeks 9 and 10 · through Thursday morning",
  "moves": [
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 6,
+     "adds": [
+      "Lan Larison"
+     ],
+     "drops": [
+      "Kimani Vidal"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 1
+  },
+  {
+   "type": "free_agent",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 10,
+     "adds": [],
+     "drops": [
+      "Carson Wentz"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 9,
+   "sides": [
+    {
+     "team": 1,
+     "adds": [
+      "Kyle McCord"
+     ],
+     "drops": [
+      "Demarcus Robinson"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "free_agent",
+   "leg": 9,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [],
+     "drops": [
+      "Mike Gesicki"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 9,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Kaleb Johnson"
+     ],
+     "drops": [
+      "Emanuel Wilson"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 30
+  },
+  {
+   "type": "free_agent",
+   "leg": 9,
+   "sides": [
+    {
+     "team": 3,
+     "adds": [],
+     "drops": [
+      "Darius Cooper"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 9,
+   "sides": [
+    {
+     "team": 5,
+     "adds": [
+      "Mack Hollins"
+     ],
+     "drops": [
+      "Drew Lock"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 1
+  },
   {
    "type": "free_agent",
    "leg": 9,
@@ -504,216 +614,216 @@
   "sunday": {
    "key": "sunday",
    "label": "Sunday Edition",
-   "week": 9,
-   "published": "Sun, Nov 8, 2026",
+   "week": 10,
+   "published": "Sun, Nov 15, 2026",
    "scoreboard": {
     "mode": "live",
-    "label": "Week 9",
+    "label": "Week 10",
     "sublabel": "Game day · Thursday points (est.) in",
     "games": [
      {
-      "a": 10,
+      "a": 8,
       "b": 11,
       "aPts": 0,
-      "bPts": 8.9,
-      "aProj": 155.6,
-      "bProj": 131.2,
-      "status": "Upset of the week"
-     },
-     {
-      "a": 6,
-      "b": 7,
-      "aPts": 0,
-      "bPts": 5.3,
-      "aProj": 102.2,
-      "bProj": 144.8,
+      "bPts": 0,
+      "aProj": 170.7,
+      "bProj": 127.3,
       "status": "Game of the week"
      },
      {
-      "a": 5,
-      "b": 12,
-      "aPts": 13.58,
-      "bPts": 21.7,
-      "aProj": 151.5,
-      "bProj": 78.6,
-      "status": "Lock of the week"
-     },
-     {
       "a": 1,
-      "b": 4,
-      "aPts": 14.1,
-      "bPts": 1.6,
-      "aProj": 137.0,
-      "bProj": 69.9,
-      "status": "Toilet bowl"
-     },
-     {
-      "a": 2,
-      "b": 8,
-      "aPts": 0,
+      "b": 2,
+      "aPts": 50.46,
       "bPts": 0,
-      "aProj": 126.5,
-      "bProj": 183.1,
-      "status": "Kickoff Sun"
+      "aProj": 157.0,
+      "bProj": 122.7,
+      "status": "Upset of the week"
      },
      {
       "a": 3,
+      "b": 6,
+      "aPts": 6.4,
+      "bPts": 0.3,
+      "aProj": 154.3,
+      "bProj": 58.3,
+      "status": "Lock of the week"
+     },
+     {
+      "a": 5,
       "b": 9,
-      "aPts": 5.58,
+      "aPts": 29.7,
+      "bPts": 39.52,
+      "aProj": 146.6,
+      "bProj": 96.4,
+      "status": "Sunday"
+     },
+     {
+      "a": 10,
+      "b": 12,
+      "aPts": 0,
       "bPts": 0,
-      "aProj": 144.8,
-      "bProj": 100.2,
-      "status": "Kickoff Sun"
+      "aProj": 162.8,
+      "bProj": 113.8,
+      "status": "Sunday"
+     },
+     {
+      "a": 4,
+      "b": 7,
+      "aPts": 9.2,
+      "bPts": 0,
+      "aProj": 86.9,
+      "bProj": 128.7,
+      "status": "Sunday"
      }
     ]
    },
    "lead": {
     "flag": "Front page · Sunday Edition · Game day",
-    "headline": "Jackie Banks the Most and Still Needs a Quarterback, Garrett Wilson Is Out, and Jeff Longwood Takes Ben as a 24.4-Point Dog",
-    "deck": "Jacksonville's 33-10 rout of Baltimore put about 21.7 in Jackie aCHANe's bank, the most in the league, but Kyler Murray is out and Jackie has three starters projected for zero. Bijan Your Face 🍆💦 goes for 9-0 as a 56.6-point favorite, Send Nudes plays without Mike Evans and A.J. Brown, and Ben Football Team is the upset pick over Stroke The Post."
+    "headline": "Isaiah Likely Puts 50 in Sheev's Bank, Kenneth Walker Is Out, and Jeff Longwood Takes God Bless Vodka in the Toilet Bowl",
+    "deck": "Washington's 24-21 win left Sheev with about 50.5 banked, the most in the league, from Likely's 9-for-127 night and Jayden Daniels' three touchdowns. Bijan Your Face 🍆💦 goes for 10-0 as a 43.4-point favorite over Ben Football Team, #StopAsianHate plays without Walker and with Cam Skattebo's 27 on the bench, and 2-7 God Bless Vodka is the upset pick over 2-7 Sheev."
    },
    "stories": [
     {
      "writer": "Jeff Longwood",
      "role": "Sunday Picks · Never Met a Parlay He Didn't Like",
-     "kicker": "Week 9 locks",
+     "kicker": "Week 10 locks",
      "avatar": "jeff",
      "color": "gold",
-     "headline": "Garrett Wilson's Concussion Is My Whole Thesis: Give Me Ben, Lay 72.9 With brimley, and Somebody Wake Up Jackie",
+     "headline": "Isaiah Likely Can't Do It Twice: Give Me God Bless Vodka in the Toilet Bowl, Lay 96 With Send Nudes, and Bijan Goes for 10-0",
      "upset": {
-      "team": 11,
-      "over": 10,
-      "why": "Stroke The Post is a 24.4-point favorite with Garrett Wilson ruled out and still in its lineup. Ben has 8.9 banked, Jared Goff and Sam LaPorta stacked in Detroit's 28.75, Patrick Mahomes in Kansas City's 28.6 against a Jets team without Wilson, and Adonai Mitchell inheriting Wilson's targets."
+      "team": 2,
+      "over": 1,
+      "why": "Sheev is a 34.3-point favorite, but 50.5 of its 157.0 is already banked from Isaiah Likely's 27.7 and Jayden Daniels' 22.8. The rest of the way, God Bless Vodka projects 122.7 to 106.5, with George Kittle, Chase Brown, Jameson Williams and Josh Downs in offenses implied for 25 or more, while Sheev starts Quinshon Judkins and Harold Fannin Jr. in Cleveland's 18.0."
      },
      "intro": [
-      "Thursday night I had Jacksonville minus 9.5, and I'm not sure I deserved to cash it. Jaguars 33, Ravens 10. Joe Fagnano went 10 of 18 for 60 yards and two interceptions in his first NFL start, and I've seen better quarterback play at a church picnic. Trevor Lawrence threw for 242 and hit Parker Washington for a 50-yard touchdown. Here's the bank, as best I can add it up from the box scores: Jackie aCHANe got about 21.7 from Chris Rodriguez Jr. (a touchdown and two catches) and Jakobi Meyers (4 for 65), the most in the league. Sheev got about 14.1 from Washington, brimley about 13.6 from Lawrence, and Ben Football Team about 8.9 from Bhayshul Tuten's 1-yard touchdown. Derrick Henry gave Send Nudes 57 yards on 17 carries, roughly 5.6. Zay Flowers (#StopAsianHate) and Rashod Bateman (ClutchJuice) combined for four catches and 12 receiving yards. The best Raven was Justice Hill, 85 yards and a 65-yard touchdown run, and he was on Jackie's bench. Of course he was.",
-      "Same system as always. Every Sunday and Monday starter gets the Vegas implied total for his offense, built from the spread and the total. I took VegasInsider's board, updated Friday night, and FanDuel's numbers as posted by EatDrinkAndSleepFootball on Thursday, and lined them up. They agree on every favorite. Where they were a half point apart I split the difference, so you'll see the 49ers at -9.75 and Bengals-Falcons at 52.75. Thursday points are in the bank, so each strip's Vegas environment only counts the guys who still have to play. Anybody ruled out on Friday's final report projects zero. That's four starters this week: Kyler Murray, Garrett Wilson, Mike Evans and A.J. Brown. One more warning: lineups are as they stood when our data was pulled early Thursday. If you fixed your team since then, your line moved and I don't know it yet.",
-      "The board in one breath. San Francisco is implied for 30.6 against the Raiders, the fattest number of the week. Detroit is 28.75 in Miami, Kansas City 28.6 against a Jets team without Garrett Wilson, Dallas 28.5 in Indianapolis, and Cincinnati 27.9 against Atlanta in Madrid, in the biggest total on the board, 52.75. The sewer: Arizona at 15.5 in Seattle, the Chargers at 17.5 against Houston, Philadelphia at 17.9 against the Giants in a 38.75 total, the lowest of the week, and the Jets at 18.9. Pittsburgh and Tennessee are on bye, which is why Wan'Dale Robinson is a zero in Jackie's lineup. Bucs at Bears goes Sunday night, and Bills at Vikings closes it out Monday."
+      "Thursday night I had the Giants minus 2.5, and Stefon Diggs took my money with 57 seconds left. Commanders 24, Giants 21, on a 32-yard touchdown that brimley gets to enjoy and I don't. Here's the bank, as best I can add it up from the box score: Sheev got about 50.5, the most in the league, and it's not close. Isaiah Likely went 9 for 127 and a touchdown, about 27.7, and Jayden Daniels threw for 249 and three touchdowns with two picks and 28 rushing yards, about 22.8. Very Naughty Boys, 0-9 and allergic to joy, banked about 39.5: J.J. McCarthy threw for 293 and ran for 34 (about 18.1), Antonio Williams caught two balls and one was a touchdown (12.2), and Austin Ekeler gave 9.2. brimley got 29.7 from Diggs (6 for 83 and the winner) and Malik Nabers (5 for 44). Malachi Fields gave ClutchJuice 9.2, Chig Okonkwo gave Send Nudes 6.4, and Devin Singletary gave Panic Trade Project one carry for three yards. The best Giant was Cam Skattebo, 18 carries, 78 yards, two touchdowns and 44 receiving yards, about 27.2 points, and he was on #StopAsianHate's bench. Of course he was.",
+      "Same system as always. Every Sunday and Monday starter gets the Vegas implied total for his offense, built from the spread and the total. I took VegasInsider's board and bet365's numbers as posted by Fox Sports on Friday, and checked both against DraftKings via CBS Sports. All three agree on every favorite. Where VegasInsider and bet365 were a half point apart I split the difference, so you'll see the Lions at -2.75, the Packers at -2.75, the 49ers at -4.25 and Bengals-Steelers at 49.25. Chargers-Ravens on Monday is Baltimore -4.5 with a 38.5 total on both Fox and CBS. Anybody ruled out on the final report projects zero, and that's three starters this week: Kenneth Walker III, T.J. Hockenson and Carnell Tate. Dallas Goedert is a zero because the Eagles are on bye, and Cade Klubnik is a zero because he isn't the Jets' starter, Geno Smith is. One more warning: lineups are as they stood when our data was pulled early Thursday. If you fixed your team since then, your line moved and I don't know it yet.",
+      "The board in one breath. San Francisco is implied for 30.0 in Dallas, in the biggest total of the week, 55.75, and Dallas gets 25.75 of it. Buffalo is 29.25 against the Jets, Jacksonville 28.5 in Tennessee, Detroit 26.5 against New England in the early game in Munich, and Cincinnati 26.4 against Pittsburgh on Sunday night. The sewer: Arizona at 15.0 against the Rams with Gardner Minshew II hurt, the Raiders and the Chargers at 17.0, Miami at 17.5 with Kyle McCord at quarterback, and Cleveland and Tennessee at 18.0. Philadelphia, Chicago, Denver and Tampa Bay are on bye."
      ],
-     "paragraphs": [],
      "sections": [
       {
-       "a": 10,
+       "a": 8,
        "b": 11,
-       "tag": "Upset of the week",
-       "upset": true,
-       "pick": 11,
-       "note": "Ben Football Team. Garrett Wilson is out and still sits in Stroke's lineup at zero, Ben has 8.9 banked, and both Ben quarterbacks play in offenses implied for 28.6 or more.",
-       "book": {
-        "line": "Stroke The Post -24.4",
-        "total": 286.8,
-        "envA": 25.9,
-        "envB": 23.4,
-        "hiA": 5,
-        "hiB": 3
-       },
-       "p": [
-        "Here's my dog, and yes, I've seen the number. Stroke The Post projects 155.6 to 131.2, a 24.4-point favorite. That's the closest game on the board, and it isn't close. Ben Football Team is 6-2 with a luck factor of +2.64, tied with Jackie for the luckiest in the league, and it's seventh in scoring at 123.5 a game. Stroke is 5-3 and third at 164.8. Every spreadsheet in this league hates Ben. That's why the number is 24.4, and that's why I'm on it.",
-        "Start with the hole. Garrett Wilson is out with a concussion, and as of Thursday's lineup he's still in Stroke's starting lineup, projected for zero. D'Andre Swift (16.58) and Michael Penix Jr. (17.0) are on the bench, and if Stroke swaps one of them in, this line goes to about 41 and I look like an idiot. But Wilson being out doesn't only hurt Stroke. Ben starts Adonai Mitchell (8.37) in that same Jets offense, and with Wilson gone, Mitchell and Omar Cooper Jr. are the receivers left to throw to. The defense they're throwing against belongs to Kansas City, implied for 28.6, and that's where Ben has Patrick Mahomes (21.24).",
-        "Now the quarterbacks. Ben has Jared Goff (19.97) and Sam LaPorta (13.45) together in Miami, Detroit implied for 28.75, the second-best offense on the board, plus Mahomes in the third-best. Stroke's quarterbacks are Matthew Stafford (18.48) against Washington and Caleb Williams (18.51) on Sunday night against Tampa Bay. Good spots, not better ones. Stroke's real juice is Cowboys-Colts in a 51.5 total: Javonte Williams (18.39) and CeeDee Lamb (20.19) for Dallas and Jonathan Taylor (17.5) for Indianapolis. Three Stroke starters in one game. If Dallas runs away with it, Taylor gets scripted out. If it's a shootout, I'm dead.",
-        "Ben has 8.9 in the bank from Tuten. James Cook III (14.99) for Stroke and T.J. Hockenson (10.75) for Ben meet Monday night in Minnesota, where the Vikings are playing without Kyler Murray, and Travis Kelce (13.19) is on Stroke's side of the Mahomes game. Is Ben the better team? No. Ben is not the better team. I'm saying 24.4 is a lot to lay when one of your starters is a zero. Ben straight up, and you can have my watch if I'm wrong."
-       ]
-      },
-      {
-       "a": 6,
-       "b": 7,
        "tag": "Game of the week",
-       "pick": 7,
-       "note": "#StopAsianHate. Jaxon Smith-Njigba (24.18) and Kenneth Walker III (21.98) lead a 144.8 projection, and Gardner Minshew II in Arizona's 15.5 is the only soft spot.",
-       "book": {
-        "line": "#StopAsianHate -42.6",
-        "total": 247.0,
-        "envA": 21.9,
-        "envB": 23.1,
-        "hiA": 2,
-        "hiB": 3
-       },
+       "pick": 8,
+       "note": "Bijan Your Face 🍆💦. Six starters in offenses implied for 25 or more, both quarterbacks in the two fattest numbers on the board, and Ben has a dead tight end slot.",
        "p": [
-        "This is the one that moves the playoff line. Panic Trade Project is 4-4 with the league's third-best luck, +2.45, and its lowest scoring, 92.4 a game. #StopAsianHate is 3-5 with the second-worst luck, -2.18, and is fifth in scoring at 147.3. If the 3-5 team wins, they're both 4-5. The 3-5 team projects 144.8 to 102.2, and it already has 5.3 banked from Zay Flowers, who caught three balls for six yards Thursday. Ugly, but banked.",
-        "#StopAsianHate's case is three guys. Jaxon Smith-Njigba (24.18) gets Arizona at home, with Seattle implied for 24.0 and Sam Darnold out. Kenneth Walker III (21.98) gets the Jets, Kansas City implied for 28.6, and Rashee Rice (15.7) is in the same offense and off the injury report. George Pickens (13.52) is questionable with the hamstring in Dallas, implied for 28.5. And C.J. Stroud (17.75) gets the Chargers in his first game for this team, Houston implied for 23.0.",
-        "The soft spot is Gardner Minshew II (11.53) in the superflex. Arizona is implied for 15.5 in Seattle, the lowest Sunday number on the board, so that's $23 of FAAB playing in a sewer. Panic can't punish it. Bo Nix (15.78) gets Carolina with Denver implied for 23.25, and Joe Milton (12.54) is in a Philadelphia offense implied for 17.9 with Tanner McKee questionable. Panic's three running backs, Tyler Goodson, Kimani Vidal and Devin Singletary, project 20.97 together. Singletary is the best of them because he's the Giants' last healthy back with Cam Skattebo doubtful. Emeka Egbuka (10.52) is questionable with the foot but practiced in full Thursday.",
-        "Panic's prayer is Sunday night: Rome Odunze (11.6) and Egbuka on opposite sides of Bucs-Bears, a 47.5 total. Two receivers in one game is a correlated prayer, but it's still a prayer. Smith-Njigba and Walker alone project 46.16, close to half of Panic's whole lineup. #StopAsianHate, and pay the man."
-       ]
-      },
-      {
-       "a": 5,
-       "b": 12,
-       "tag": "Lock of the week",
-       "pick": 5,
-       "note": "brimley. Jackie aCHANe has three starters projected for zero, Kyler Murray, Kendrick Bourne and Wan'Dale Robinson, and the quarterback fix is sitting on its own bench.",
+        "First place against third. Bijan Your Face 🍆💦 is 9-0 and scores 184.9 a game, the best in the league by 10.4. Ben Football Team is 6-3 with a luck factor of +2.45, the luckiest in the league, and scores 119.4, seventh. Bijan projects 170.7 to 127.3, a 43.4-point favorite in the biggest total on the board, 298.0. Neither team has a Thursday point in the bank. Clean fight.",
+        "Bijan's case is the environment. Josh Allen (26.27) gets the Jets with Buffalo implied for 29.25. Christian McCaffrey (22.22) is in San Francisco's 30.0, and Dak Prescott (18.68) and Ryan Flournoy (9.05) are on the other side of that same game in Dallas's 25.75. That's Bijan owning both ends of a 55.75 total, which is the closest thing to a free roll I've seen since my cousin's wedding. Amon-Ra St. Brown (19.49) is questionable with the ribs, played through them last week, and gets New England with Detroit implied for 26.5. Tee Higgins (17.15) is in Cincinnati's 26.4 on Sunday night. Six starters in 25-plus offenses. Nobody else on the board has more than five.",
+        "Ben's problem is a hole. T.J. Hockenson is out with the wrist and chest and, as of Thursday's lineup, he's still sitting in the flex at zero. The fix is on Ben's own bench: Emmett Johnson is Kansas City's workhorse now that Kenneth Walker III is out, and Kaleb Johnson leads Green Bay with Josh Jacobs out. Either one plugs the hole. Neither one closes 43 points.",
+        "Ben's prayer is Detroit. Jared Goff (18.84) and Sam LaPorta (12.51) are stacked in that 26.5 against New England, Patrick Mahomes (18.83) is in Kansas City's 25.25 with an elbow that practiced in full, and Bhayshul Tuten (15.1) is off Jacksonville's report in a 28.5 offense. But Bijan has St. Brown and Hunter Henry (10.04) on opposite sides of that same Lions game, so Ben's best stack is half hedged. The soft spot for Bijan is Las Vegas at 17.0, where Ashton Jeanty (11.52) and Brock Bowers (16.21) play Seattle. That's 27.7 points in a sewer. It's still not enough. Bijan to go 10-0, and I'm laying it."
+       ],
        "book": {
-        "line": "brimley -72.9",
-        "total": 230.1,
-        "envA": 20.4,
-        "envB": 22.2,
-        "hiA": 0,
-        "hiB": 0
-       },
-       "p": [
-        "Jackie aCHANe banked the most Thursday points in the league, about 21.7, and it is still a 72.9-point underdog. Let me explain how that's possible. Kyler Murray was ruled out with the hamstring. Kendrick Bourne is on injured reserve. Wan'Dale Robinson's Titans are on bye. That's three starting slots, one of them the quarterback, projected for zero in Thursday's lineup. Jackie projects 78.6.",
-        "Here's what makes me want to throw my phone: the fix is on the bench. Malik Willis (17.81) and Daniel Jones (15.01) are both there. Woody Marks (11.31) is there too, and with David Montgomery out again he's Houston's lead back. Willis for Murray alone gets Jackie to 96.4. There's no healthy receiver on the bench for the other two holes, but free agents cost nothing. If Jackie set the lineup Friday, good. If not, wake up.",
-        "brimley doesn't have a single starter in an offense implied for 25 or more, which normally gets my attention. Its Sunday environment is 20.4, the lowest in the league. Doesn't matter. Trevor Lawrence banked about 13.6 on Thursday. Jordan Love (17.4) and Christian Watson (16.2) stack in New England. Justin Jefferson (17.74) and DJ Moore (12.94) play each other Monday night. Trey McBride (15.4) is stuck in Arizona's 15.5. Saquon Barkley (12.83) has no designation, but he's been out-snapped by Elijah Mitchell, so I'm not counting on him. brimley still wins by about 55 if Jackie plays Willis, and by 73 if Jackie sleeps in. Lock. Both hands."
-       ]
+        "line": "Bijan Your Face 🍆💦 -43.4",
+        "total": 298.0,
+        "envA": 24.3,
+        "envB": 23.3,
+        "hiA": 6,
+        "hiB": 4
+       }
       },
       {
        "a": 1,
-       "b": 4,
-       "tag": "Toilet bowl",
-       "pick": 1,
-       "note": "Sheev. Brock Purdy gets the Raiders in the best offense on the board, and three ClutchJuice starters play for a Jets offense implied for 18.9.",
+       "b": 2,
+       "tag": "Upset of the week",
+       "upset": true,
+       "pick": 2,
+       "note": "God Bless Vodka. Sheev's 50.5 came from Isaiah Likely's career night, and the rest of the way God Bless Vodka outprojects Sheev 122.7 to 106.5 with four starters in 25-plus offenses to Sheev's two.",
+       "p": [
+        "Both teams are 2-7. This is the toilet bowl, and it's my upset of the week, and I want it on the record that I know exactly how that sounds. Sheev projects 157.0 to 122.7, a 34.3-point favorite, the smallest number on the board. And 50.5 of Sheev's 157.0 is already in the bank from Thursday night, most of it from Isaiah Likely catching nine balls for 127 yards. Good for Isaiah. That doesn't happen twice in one week.",
+        "Here's the math nobody wants to do. Take Thursday out and Sheev's other eight starters project 106.5. God Bless Vodka hasn't played anybody yet, and its ten project 122.7. So God Bless Vodka is the better team from here on out by 16.2, and it needs to beat its projection by about 34. Is that likely? No. Is it the only dog on the board within shouting distance? Yes. That's the whole job.",
+        "Now the matchups. Sheev has two starters in Cleveland, Quinshon Judkins (10.92) and Harold Fannin Jr. (11.47), and the Browns are implied for 18.0 against Houston, tied for the fifth-lowest number on the board. Tank Dell (5.95) is the other side of that game. Breece Hall (11.63) gets Buffalo with the Jets implied for 21.25, and Zach Charbonnet (12.98) is in Seattle with Drew Lock at quarterback because Sam Darnold is out. Sheev's real juice is Brock Purdy (23.02) in San Francisco's 30.0 and Parker Washington (15.12) in Jacksonville's 28.5. That's two starters in 25-plus offenses.",
+        "God Bless Vodka has four. George Kittle (16.2) is in that same 49ers offense, so whatever Purdy does, Kittle gets a piece of. Chase Brown (13.3) is in Cincinnati's 26.4 on Sunday night, Jameson Williams (12.53) is in Detroit's 26.5, and Josh Downs (6.28) is in a Kansas City offense that just lost Kenneth Walker III. That's a lot of targets going somewhere. The soft spots are real: Justin Herbert (13.85) and Omarion Hampton (8.83) are in a Chargers offense implied for 17.0 on Monday night in Baltimore, and Tyler Allgeier (9.94) is in Arizona's 15.0, the worst number of the week. If God Bless Vodka is within 20 going into Monday, Herbert is live. God Bless Vodka straight up, and if I'm wrong, you can have my watch. It's a nice watch. It's not mine."
+       ],
        "book": {
-        "line": "Sheev -67.1",
-        "total": 206.9,
-        "envA": 22.6,
-        "envB": 22.6,
+        "line": "Sheev -34.3",
+        "total": 279.7,
+        "envA": 23.1,
+        "envB": 21.8,
         "hiA": 2,
-        "hiB": 1
-       },
-       "p": [
-        "The commissioner is 1-7 with a luck factor of -3.55, the worst in the league, and he's sixth in scoring. Half the league has scored less and won more. This week he finally gets a team that can't hurt him. ClutchJuice projects 69.9, the lowest total of the week, and its Thursday bank is 1.6, from Rashod Bateman's one catch for six yards. Sheev banked about 14.1 from Parker Washington's 50-yard touchdown.",
-        "Brock Purdy (22.19) gets the Raiders with San Francisco implied for 30.6, the top number of the week, and with Mike Evans and Deebo Samuel both out, there are fewer mouths to feed. Jayden Daniels (18.55) gets the Rams. Luther Burden III (14.66) is in Chicago's 26.9 on Sunday night. Breece Hall (8.38) is off the injury report and says he's good to go after missing five games with the quad.",
-        "Hall coming back is bad news for the other side. ClutchJuice's running backs are Braelon Allen (10.51) and Isaiah Davis (0.36), both Jets, and Hall is expected to split the backfield with Allen. Mason Taylor (7.54) is a Jet too. That's three ClutchJuice starters in an offense implied for 18.9, with Garrett Wilson out, against Kansas City. Drake Maye (21.13) gets Green Bay with New England implied for 24.4, and he's the only reason this line isn't 90. Jordan Watkins (1.82), a receiver, is in the superflex slot, and the bench has nothing better. Sheev. Give the man a win."
-       ]
-      },
-      {
-       "a": 2,
-       "b": 8,
-       "tag": "Sunday",
-       "pick": 8,
-       "note": "Bijan Your Face 🍆💦 goes for 9-0. Christian McCaffrey and Michael Wilson are cleared to play, Amon-Ra St. Brown is questionable, and God Bless Vodka has Nico Collins on its bench.",
-       "book": {
-        "line": "Bijan Your Face 🍆💦 -56.6",
-        "total": 309.6,
-        "envA": 23.0,
-        "envB": 24.3,
-        "hiA": 4,
         "hiB": 4
-       },
-       "p": [
-        "Bijan Your Face 🍆💦 is 8-0 and projects 183.1, the highest total of the week. God Bless Vodka is 2-6 and projects 126.5. The only thing that can beat Bijan is the injury report, so let's read it. Christian McCaffrey (22.88) had a mild hamstring strain, isn't on San Francisco's final report, and plays in the best offense on the board, 30.6. Michael Wilson (12.99) is expected to play through broken ribs, in Arizona's 15.5, the worst number on the Sunday board. Amon-Ra St. Brown (20.32) is questionable with a rib injury, in Detroit's 28.75.",
-        "Then it's Josh Allen (22.43) on Monday night against a Minnesota team without Kyler Murray, and Dak Prescott (19.77) in Indianapolis with Dallas implied for 28.5. Bijan Robinson (23.16) and Tee Higgins (16.58) are on opposite sides of Bengals-Falcons in Madrid, the biggest total of the week. Brock Bowers (18.71) and Ashton Jeanty (12.22) are Raiders, 9.75-point underdogs in San Francisco, which means Las Vegas will be throwing all afternoon. Bowers eats when the Raiders trail.",
-        "God Bless Vodka does have four starters in 25-plus offenses: Chase Brown (16.18) in Cincinnati, Xavier Worthy (10.29) in Kansas City, Jameson Williams (12.66) in Detroit and George Kittle (15.18) in San Francisco, where Evans and Deebo being out means more for Kittle. The problem is the quarterbacks. Geno Smith (14.63) is on the Jets at 18.9 without Garrett Wilson, and Justin Herbert (14.04) is on the Chargers at 17.5 with David Njoku doubtful. And as of Thursday, Nico Collins (17.81) is on the bench while Malik Washington (10.85) starts. Move him, fellas. It's free. Bijan to 9-0."
-       ]
+       }
       },
       {
        "a": 3,
+       "b": 6,
+       "tag": "Lock of the week",
+       "pick": 3,
+       "note": "Send Nudes. Panic Trade Project has two dead slots, Cade Klubnik and Carnell Tate, and nobody on its bench projects six points.",
+       "p": [
+        "Send Nudes projects 154.3 to 58.3. That's a 96.0-point line, and I've seen closer fights between a man and a sandwich. Send Nudes is 7-2 and scores 174.5 a game, second in the league. Panic Trade Project is 4-5, has the league's third-best luck at +2.09, and scores 93.7, last in the league.",
+        "Start with Panic's lineup, because it's a crime scene. Cade Klubnik is in the superflex, and he isn't the Jets' starter, Geno Smith is, so that's a zero. Carnell Tate is out with the shoulder, another zero. Devin Singletary got one carry Thursday while Cam Skattebo got eighteen. Tyjae Spears (6.33) is questionable with the knee he's had since Week 7. And here's the kicker: nobody on Panic's bench projects even six points, and Jaxson Dart is on injured reserve. There's no fix. Jalen Coker (14.24) in Carolina's 23.0 and Keon Coleman (8.57) in Buffalo's 29.25 are the whole case.",
+        "Send Nudes has four starters in 25-plus offenses. Jahmyr Gibbs (24.7) gets New England with Detroit implied for 26.5. Joe Burrow (22.4) and Ja'Marr Chase (19.84) are in Cincinnati's 26.4 on Sunday night, and Aaron Rodgers (17.76) is the quarterback on the other side, so Send Nudes owns both quarterbacks in a 49.25 total. Deebo Samuel Sr. (10.6) says he's ready and isn't on San Francisco's final report, which puts him in the 30.0. Kyren Williams (17.09) gets Arizona with the Rams implied for 24.5 and Puka Nacua on injured reserve.",
+        "Mike Evans is out again and A.J. Brown is questionable, and both are on the bench, so Send Nudes doesn't care. Derrick Henry (15.23) gets the Chargers on Monday. Lay the 96. Lay it with both hands."
+       ],
+       "book": {
+        "line": "Send Nudes -96.0",
+        "total": 212.6,
+        "envA": 24.8,
+        "envB": 22.9,
+        "hiA": 4,
+        "hiB": 1
+       }
+      },
+      {
+       "a": 5,
        "b": 9,
        "tag": "Sunday",
-       "pick": 3,
-       "note": "Send Nudes. Mike Evans and A.J. Brown are out, and the champs still have five starters in offenses implied for 25-plus, including Jahmyr Gibbs, the top projection of the week.",
-       "book": {
-        "line": "Send Nudes -44.6",
-        "total": 245.0,
-        "envA": 25.9,
-        "envB": 22.6,
-        "hiA": 5,
-        "hiB": 1
-       },
+       "pick": 5,
+       "note": "brimley. Very Naughty Boys banked more Thursday, 39.5 to 29.7, but its remaining seven starters project 56.9 and brimley's eight project 116.9.",
        "p": [
-        "The champs are playing with two empty slots and they're still a 44.6-point favorite. Mike Evans is out with the Achilles and A.J. Brown with the ankle and knee, and both were still in Send Nudes' lineup Thursday morning. Keenan Allen (11.35), Rachaad White (10.66) and Aaron Jones Sr. (9.63) are on the bench. Put Allen and White in, and this line is about 67. Derrick Henry banked roughly 5.6 Thursday on 57 yards in that Baltimore mess.",
-        "The rest is a heater. Joe Burrow (21.35) and Ja'Marr Chase (19.72) stack in Madrid in the biggest total on the board. Jahmyr Gibbs (25.8), the top projection of any starter this week, gets Miami with Detroit at 28.75. Puka Nacua (23.13) and Kyren Williams (18.65) both go at Washington with the Rams implied for 26.5. Kirk Cousins (17.38) quarterbacks a Raiders team that'll be chasing all day.",
-        "Very Naughty Boys is 0-8 but has averaged 119.4 over its last three games, which is the scariest thing about it. Its one starter in a 25-plus offense is Colston Loveland (11.05), in Chicago on Sunday night. J.J. McCarthy (16.42) starts for the Giants as a 3-point road favorite in Philadelphia, in the lowest total of the week. Dalton Kincaid (9.74) and Jordan Addison (8.48) are on opposite sides of Bills-Vikings on Monday. Very Naughty Boys' tight ends, Loveland and Kincaid, project 20.79, more than Tyler Warren's 13.23. That's the edge. It isn't 44 points of edge. Send Nudes."
-       ]
+        "Here's a fun one. Very Naughty Boys is 0-9, and it banked more points on Thursday than brimley did, 39.5 to 29.7. J.J. McCarthy threw for 293, Antonio Williams scored, Austin Ekeler did Ekeler things. For one night, the worst team in the league was winning. Enjoy it, boys. brimley projects 146.6 to 96.4, a 50.2-point favorite, and it's won five straight.",
+        "brimley's remaining eight project 116.9. Very Naughty Boys' remaining seven project 56.9. That's the game. Trevor Lawrence (21.55) gets Tennessee with Jacksonville implied for 28.5, and DJ Moore (12.7) is in Buffalo's 29.25. The Packers trio of Jordan Love (17.51), Christian Watson (16.71) and MarShawn Lloyd (3.33) play Minnesota in a 42.0 total, Green Bay implied for 22.4, and with Josh Jacobs out the backfield belongs to Kaleb Johnson, not Lloyd. Justin Jefferson (18.06) is on the other side of that game, with Kyler Murray out. Trey McBride (14.97) is the soft spot, in Arizona's 15.0 with Carson Beck likely under center.",
+        "Very Naughty Boys has one starter in a 25-plus offense, Dalton Kincaid (9.75), who's off Buffalo's report. KC Concepcion Jr. (10.23) and Dylan Sampson (7.42) are in Cleveland's 18.0. Tre' Harris (4.87) is in the Chargers' 17.0 on Monday. Jordan Addison (9.04) is questionable with a thumb. brimley, and the streak goes to six."
+       ],
+       "book": {
+        "line": "brimley -50.2",
+        "total": 243.0,
+        "envA": 22.2,
+        "envB": 21.1,
+        "hiA": 2,
+        "hiB": 1
+       }
+      },
+      {
+       "a": 10,
+       "b": 12,
+       "tag": "Sunday",
+       "pick": 10,
+       "note": "Stroke The Post. Five starters in 25-plus offenses, led by CeeDee Lamb and Javonte Williams in the 55.75-total Cowboys-49ers game.",
+       "p": [
+        "Stroke The Post is 6-3 and third in scoring at 164.3 a game. Jackie aCHANe is 5-4 with a luck factor of +2.18, second-luckiest, and it scores 113.0. Stroke projects 162.8 to 113.8, a 49.0-point favorite, and neither team has played.",
+        "Stroke's money is in Dallas. CeeDee Lamb (20.12) and Javonte Williams (17.74) get the 49ers in the biggest total on the board, 55.75, with the Cowboys implied for 25.75 and Jake Ferguson out. James Cook III (16.41) is in Buffalo's 29.25, Chris Olave (16.36) in New Orleans' 25.5, and Travis Kelce (12.23) in Kansas City's 25.25 with Kenneth Walker III out. That's five in 25-plus offenses. The question mark is Garrett Wilson (14.37), questionable with the concussion; New York's coach is optimistic, and if he sits, Rico Dowdle (9.92) and Jordan Mason (9.47) are on the bench. Matthew Stafford (16.58) gets Arizona with Puka Nacua on injured reserve, so Stafford's throwing to whoever's left.",
+        "Jackie has Jacksonville. Jakobi Meyers (9.74) and Chris Rodriguez Jr. (7.39) are both off the Jaguars' final report and in that 28.5. Woody Marks (13.13) leads Houston's backfield with David Montgomery ruled out, but Houston is only implied for 22.5 in Cleveland. Bryce Young (19.36) gets New Orleans with Carolina at 23.0. Matthew Golden (15.27) and Tucker Kraft (11.05) are in Green Bay's 22.4. Nothing here is a disaster, and nothing here is 49 points. Stroke, and I'll take the over on Lamb."
+       ],
+       "book": {
+        "line": "Stroke The Post -49.0",
+        "total": 276.6,
+        "envA": 24.2,
+        "envB": 23.1,
+        "hiA": 5,
+        "hiB": 2
+       }
+      },
+      {
+       "a": 4,
+       "b": 7,
+       "tag": "Sunday",
+       "pick": 7,
+       "note": "#StopAsianHate. Two zeros in the lineup and Cam Skattebo's 27 on the bench, and it still projects 128.7 to 86.9.",
+       "p": [
+        "#StopAsianHate has had a week. Kenneth Walker III is out with the groin and still in its lineup at zero. Dallas Goedert is on bye and still in its lineup at zero. Cam Skattebo scored about 27.2 on Thursday night on its bench. And it still projects 128.7 to 86.9, a 41.8-point favorite over ClutchJuice. That tells you about ClutchJuice, which is 3-6 and scores 94.2 a game, 11th.",
+        "If #StopAsianHate fixes the holes, this gets uglier. Corey Kiner (11.75) could lead New England's backfield with Rhamondre Stevenson questionable, and Ladd McConkey (11.71) is available on Monday if his back allows it. As it stands: Jaxon Smith-Njigba (23.81) gets the Raiders, but with Drew Lock at quarterback in an offense implied for 23.5. C.J. Stroud (17.94) is in Cleveland with Houston at 22.5. Rashee Rice (14.14) is in Kansas City's 25.25 and should see more of the ball with Walker out. George Pickens (13.67) was taken off Dallas's report Friday and gets the 25.75. Jaylen Warren (17.28) is in Pittsburgh's 22.9.",
+        "ClutchJuice is Drake Maye (23.15) and a prayer. Maye gets Detroit in Munich, New England implied for 23.75 in a 50.25 total, which is a good spot. Malachi Fields put 9.2 in the bank. After that it's three Jets, Braelon Allen (8.29), Mason Taylor (6.63) and Isaiah Davis (0.37, which is not a typo), in a 21.25 against Buffalo, plus Jordan Watkins (6.88) as the fourth receiver in San Francisco's 30.0. One starter in a 25-plus offense. #StopAsianHate, and somebody please wake up whoever sets that lineup."
+       ],
+       "book": {
+        "line": "#StopAsianHate -41.8",
+        "total": 215.6,
+        "envA": 22.3,
+        "envB": 23.0,
+        "hiA": 1,
+        "hiB": 2
+       }
       }
      ]
     },
@@ -725,67 +835,91 @@
      "color": "teal",
      "serif": true,
      "injuries": true,
-     "headline": "Four Starters Ruled Out, Houston's Backfield Changes Hands, and McCaffrey Is Cleared",
+     "headline": "Kenneth Walker Is Out, Three Quarterback Rooms Change, and Jacksonville Clears Everyone",
      "paragraphs": [
-      "Good morning. Inactive lists come out about 90 minutes before each kickoff. For Buccaneers-Bears that means Sunday night, and for Bills-Vikings, Monday. The final reports came out Friday. As always, a designation tells you the risk. It doesn't tell you who sits.",
-      "Four league starters are out, and as of Thursday's data all four were still in starting lineups. Kyler Murray (Jackie aCHANe) has a hamstring injury, and Carson Wentz is the likely starter for Minnesota on Monday night against Buffalo. That's a downgrade for Justin Jefferson (brimley), T.J. Hockenson (Ben Football Team) and Jordan Addison (Very Naughty Boys). Garrett Wilson (Stroke The Post) has a concussion and will miss Kansas City. Adonai Mitchell (Ben Football Team) and Omar Cooper Jr. (Panic Trade Project) should see more targets, and Geno Smith (God Bless Vodka) loses his best receiver. Mike Evans (Achilles, ribs) and A.J. Brown (ankle, knee) are both out for Send Nudes, which also loses Deebo Samuel (hamstring) from its bench.",
-      "Three backfields changed, and a fourth held. David Montgomery (Jackie aCHANe) is out again with a groin injury, which makes Woody Marks, on the same bench, Houston's lead back against the Chargers. Cam Skattebo (#StopAsianHate bench) is doubtful with his hamstring, so Devin Singletary (Panic Trade Project) is the Giants' last healthy back. In Arizona, Zonovan Knight is out with a concussion and Jeremiyah Love (God Bless Vodka) is on injured reserve, leaving Tyler Allgeier (God Bless Vodka) as the lead back in a 15.5-point offense. TreVeyon Henderson (Sheev bench) is out again with an illness, and Rhamondre Stevenson (#StopAsianHate) keeps New England's backfield.",
-      "The questionables. George Pickens (#StopAsianHate) is listed with a hamstring injury on Dallas's report; at least one report this week didn't list him at all, so read the inactives. Amon-Ra St. Brown (Bijan Your Face 🍆💦) is questionable with a rib injury. Emeka Egbuka (Panic Trade Project) has missed two games with his foot and practiced fully Thursday. Jake Ferguson (God Bless Vodka bench) is questionable with a low-ankle sprain, and Hunter Henry (Bijan bench) with a foot injury. In Cleveland, Deshaun Watson (#StopAsianHate bench) is questionable with a concussion, and Shedeur Sanders (brimley taxi squad) is expected to start. That matters for Quinshon Judkins and Harold Fannin Jr. (Sheev), Dylan Sampson and KC Concepcion Jr. (Very Naughty Boys) and Denzel Boston (Ben Football Team).",
-      "The cleared list is long, which is the good news. Christian McCaffrey (Bijan) had a mild hamstring strain and is not on San Francisco's final report. Breece Hall (Sheev) has no designation and says he's good to go after missing five games with his quad; expect something close to a split with Braelon Allen (ClutchJuice). Michael Wilson (Bijan) is expected to play through broken ribs, a decision I would like to discuss with him privately. Saquon Barkley (brimley) has no designation, though he's been out-snapped by Elijah Mitchell (Stroke The Post bench). Rashee Rice (#StopAsianHate), Travis Kelce (Stroke The Post), Christian Watson and DJ Moore (brimley), Mason Taylor (ClutchJuice) and Denzel Boston (Ben) are not on their teams' final reports.",
-      "Thursday is done. Bhayshul Tuten (Ben) played through his questionable ankle and foot and scored from a yard out. Lamar Jackson (Sheev) is on injured reserve with the thumb, and Tyler Huntley (brimley) was out with a toe injury, which is how Joe Fagnano (Sheev bench) came to make his first start: 10 of 18, 60 yards, two interceptions.",
-      "Elsewhere: Sam Darnold (Very Naughty Boys bench) is out with a quad injury, so Seattle turns to Drew Lock, who has an elbow issue of his own. DeVonta Smith (Bijan, injured reserve) misses his third game with the hamstring. Terrance Ferguson (Stroke The Post) was set to come off injured reserve and instead has a new hamstring injury. The prescription this week is simple: check the four starters who were ruled out, and check them again before your first kickoff."
+      "Good morning. Inactive lists come out about 90 minutes before each kickoff. For the early game in Munich, that's before most of you are awake. For Steelers-Bengals, it's Sunday evening, and for Chargers-Ravens, Monday. The final reports came out Friday. As always, a designation tells you the risk. It doesn't tell you who sits.",
+      "Three league starters are out, and as of Thursday's data all three were still in starting lineups. Kenneth Walker III (#StopAsianHate) is out with a groin injury, which makes Emmett Johnson (Ben Football Team bench) Kansas City's lead back and pushes more of the passing game to Rashee Rice (#StopAsianHate), Travis Kelce (Stroke The Post) and Josh Downs (God Bless Vodka). One CBS status list still showed Walker as questionable, but its own headline and NBC Sports both have him ruled out. T.J. Hockenson (Ben Football Team) is out with wrist and chest injuries. Carnell Tate (Panic Trade Project) is out with the shoulder. Dallas Goedert (#StopAsianHate) isn't injured; the Eagles are on bye, which has the same effect on your score.",
+      "Three quarterback rooms changed. Sam Darnold (Very Naughty Boys bench) is out with rib and quad injuries, so Drew Lock starts in Seattle. That's a downgrade for Jaxon Smith-Njigba (#StopAsianHate), Zach Charbonnet (Sheev) and AJ Barner (Jackie aCHANe). Gardner Minshew II (#StopAsianHate bench) has a feared UCL tear, and NBC Sports expects Carson Beck (ClutchJuice taxi squad) to start for Arizona; that matters for Trey McBride (brimley) and Tyler Allgeier (God Bless Vodka). Malik Willis (Jackie aCHANe bench) went on injured reserve with a groin injury that progressed to his abdomen, so Kyle McCord (Sheev bench) starts for Miami, for Ollie Gordon II (Ben Football Team), Malik Washington (God Bless Vodka) and Caleb Douglas (ClutchJuice). Kyler Murray (Jackie aCHANe bench) has a Grade 2 hamstring strain and is expected to miss three to four weeks, which keeps Minnesota's offense, and Justin Jefferson (brimley) and Jordan Addison (Very Naughty Boys), in lower gear.",
+      "Two backfields changed hands. David Montgomery (Jackie aCHANe bench) has been ruled out with the groin, per NBC Sports, though one CBS list carried him as questionable; either way Woody Marks (Jackie aCHANe) is off the injury report and is Houston's lead back. Josh Jacobs (Bijan Your Face 🍆💦 bench) is out two to three weeks with a fractured finger, and Kaleb Johnson (Ben Football Team bench) is expected to lead Green Bay. That's not good news for MarShawn Lloyd, who is starting for brimley. In New England, TreVeyon Henderson (Sheev bench) is out again with the illness, and Rhamondre Stevenson (#StopAsianHate bench) is questionable with a knee tendon issue, which would make Corey Kiner (#StopAsianHate bench) the lead back if he sits.",
+      "The questionables. Garrett Wilson (Stroke The Post) is questionable with the concussion, though the Jets' coach is optimistic. Omar Cooper Jr. (Panic Trade Project) and Adonai Mitchell (Ben Football Team) are questionable and expected to play. Amon-Ra St. Brown (Bijan) is questionable with the ribs he played through last week. A.J. Brown (Send Nudes bench) is questionable with the knee and ankle and traveled to Germany. Jordan Addison hurt his thumb in Friday's practice. Denzel Boston (Ben Football Team) is questionable with the toe; if he sits, KC Concepcion Jr. (Very Naughty Boys) and Harold Fannin Jr. (Sheev) get more of Cleveland's targets. Tyjae Spears (Panic Trade Project) is questionable and hasn't played since Week 7. Ladd McConkey (#StopAsianHate bench) did not practice Friday with his back, for a Monday game.",
+      "The cleared list, which is the good news. Jacksonville's final report has none of Bhayshul Tuten (Ben Football Team), Jakobi Meyers or Chris Rodriguez Jr. (both Jackie aCHANe) on it. George Pickens (#StopAsianHate) came off Dallas's report Friday. Deebo Samuel Sr. (Send Nudes) says he's ready, and he isn't on San Francisco's final report. Dalton Kincaid (Very Naughty Boys) and Hunter Henry (Bijan) were removed from their reports. Patrick Mahomes (Ben) practiced in full with the elbow, and Jared Goff (Ben) and Justin Herbert (God Bless Vodka) carry minor chest and hand issues without a designation. Harold Fannin Jr. and Tank Dell (Sheev) are not on their teams' final reports.",
+      "Thursday is done, and nobody from Commanders-Giants came out of it with a reported injury. Elsewhere, the long-term list keeps growing: Puka Nacua (Send Nudes) went to injured reserve Friday with knee and toe injuries, Michael Wilson (Bijan) has a season-ending neck injury, and Lamar Jackson (Sheev) is likely done for the season with the thumb. My prescription is the same as last week. Check the three starters who were ruled out, and if you start Garrett Wilson, check him again 90 minutes before one o'clock."
      ]
     }
    ],
    "injuries": [
     {
      "status": "out",
-     "player": "Kyler Murray",
-     "nfl": "MIN · QB",
-     "injury": "Hamstring",
+     "player": "Kenneth Walker III",
+     "nfl": "KC · RB",
+     "injury": "Groin",
      "teams": [
-      12,
-      5,
+      7,
       11,
-      9
-     ],
-     "impact": "Jackie aCHANe starter, projected zero. Malik Willis (17.81) and Daniel Jones (15.01) are on Jackie's bench. Carson Wentz likely starts Monday vs. Buffalo; downgrade for Justin Jefferson (brimley), T.J. Hockenson (Ben) and Jordan Addison (Very Naughty Boys)."
-    },
-    {
-     "status": "out",
-     "player": "Garrett Wilson",
-     "nfl": "NYJ · WR",
-     "injury": "Concussion",
-     "teams": [
       10,
-      11,
-      6,
       2
      ],
-     "impact": "Stroke The Post starter, projected zero; D'Andre Swift (16.58) is on the bench. More targets for Adonai Mitchell (Ben) and Omar Cooper Jr. (Panic). Downgrade for Geno Smith (God Bless Vodka)."
+     "impact": "#StopAsianHate starter, projected zero. Emmett Johnson (Ben bench) becomes Kansas City's lead back. More targets for Rashee Rice (#StopAsianHate), Travis Kelce (Stroke The Post) and Josh Downs (God Bless Vodka)."
     },
     {
      "status": "out",
-     "player": "Mike Evans",
-     "nfl": "SF · WR",
-     "injury": "Achilles, ribs",
+     "player": "T.J. Hockenson",
+     "nfl": "MIN · TE",
+     "injury": "Wrist, chest",
      "teams": [
-      3,
-      2,
-      1
+      11
      ],
-     "impact": "Send Nudes starter, projected zero. With Evans and Deebo Samuel out, more for George Kittle (God Bless Vodka) and Brock Purdy (Sheev)."
+     "impact": "Ben Football Team starter, projected zero. Emmett Johnson and Kaleb Johnson are on Ben's bench."
     },
     {
      "status": "out",
-     "player": "A.J. Brown",
-     "nfl": "NE · WR",
-     "injury": "Ankle, knee",
+     "player": "Carnell Tate",
+     "nfl": "TEN · WR",
+     "injury": "Shoulder",
      "teams": [
-      3,
+      6
+     ],
+     "impact": "Panic Trade Project starter, projected zero. No bench replacement with a meaningful projection."
+    },
+    {
+     "status": "out",
+     "player": "Sam Darnold",
+     "nfl": "SEA · QB",
+     "injury": "Ribs, quadriceps",
+     "teams": [
+      9,
+      7,
+      1,
+      12
+     ],
+     "impact": "Very Naughty Boys bench. Drew Lock starts. Downgrade for Jaxon Smith-Njigba (#StopAsianHate), Zach Charbonnet (Sheev) and AJ Barner (Jackie aCHANe)."
+    },
+    {
+     "status": "out",
+     "player": "Gardner Minshew II",
+     "nfl": "ARI · QB",
+     "injury": "Elbow (feared UCL tear)",
+     "teams": [
+      7,
+      4,
+      5,
+      2
+     ],
+     "impact": "#StopAsianHate bench. Carson Beck (ClutchJuice taxi) expected to start. Arizona implied for 15.0, lowest of the week: downgrade for Trey McBride (brimley) and Tyler Allgeier (God Bless Vodka)."
+    },
+    {
+     "status": "out",
+     "player": "Malik Willis",
+     "nfl": "MIA · QB",
+     "injury": "Groin, abdomen (IR)",
+     "teams": [
+      12,
+      1,
+      11,
+      2,
       4
      ],
-     "impact": "Send Nudes starter, projected zero; Keenan Allen and Rachaad White are on its bench. Drake Maye (ClutchJuice) plays without him again."
+     "impact": "Jackie aCHANe bench, now on IR. Kyle McCord (Sheev bench) starts. Miami implied for 17.5: Ollie Gordon II (Ben), Malik Washington (God Bless Vodka), Caleb Douglas (ClutchJuice)."
     },
     {
      "status": "out",
@@ -795,203 +929,219 @@
      "teams": [
       12
      ],
-     "impact": "Jackie aCHANe bench. Woody Marks (Jackie bench, 11.31) leads Houston's backfield vs. the Chargers."
+     "impact": "Jackie aCHANe bench. Ruled out per NBC Sports (one CBS list showed questionable). Woody Marks (Jackie aCHANe) leads Houston's backfield."
     },
     {
      "status": "out",
-     "player": "Deebo Samuel Sr.",
+     "player": "Josh Jacobs",
+     "nfl": "GB · RB",
+     "injury": "Fractured finger",
+     "teams": [
+      8,
+      11,
+      5
+     ],
+     "impact": "Bijan bench, out 2-3 weeks. Kaleb Johnson (Ben bench) expected to lead. Downgrade for MarShawn Lloyd (brimley starter)."
+    },
+    {
+     "status": "out",
+     "player": "Kyler Murray",
+     "nfl": "MIN · QB",
+     "injury": "Hamstring (Grade 2)",
+     "teams": [
+      12,
+      5,
+      9
+     ],
+     "impact": "Jackie aCHANe bench, expected out 3-4 weeks. Keeps Justin Jefferson (brimley) and Jordan Addison (Very Naughty Boys) in a Minnesota offense implied for 19.6."
+    },
+    {
+     "status": "out",
+     "player": "Mike Evans",
      "nfl": "SF · WR",
-     "injury": "Hamstring",
+     "injury": "Achilles",
      "teams": [
       3
      ],
-     "impact": "Send Nudes bench. Third San Francisco receiver out with Evans and Christian Kirk."
+     "impact": "Send Nudes bench. Deebo Samuel Sr. (Send Nudes) and George Kittle (God Bless Vodka) keep San Francisco's targets."
     },
     {
      "status": "out",
-     "player": "TreVeyon Henderson",
-     "nfl": "NE · RB",
-     "injury": "Illness",
+     "player": "Marvin Harrison Jr.",
+     "nfl": "HOU · WR",
+     "injury": "Hamstring",
      "teams": [
-      1,
-      7
+      6,
+      2,
+      1
      ],
-     "impact": "Sheev bench. Rhamondre Stevenson (#StopAsianHate) leads the backfield vs. Green Bay."
+     "impact": "Panic Trade Project bench. More for Nico Collins (God Bless Vodka) and Tank Dell (Sheev)."
     },
     {
      "status": "out",
-     "player": "Sam Darnold",
-     "nfl": "SEA · QB",
-     "injury": "Quadriceps, ribs",
+     "player": "Puka Nacua",
+     "nfl": "LAR · WR",
+     "injury": "Knee, toe (IR)",
      "teams": [
-      9,
-      7,
-      12
+      3,
+      10
      ],
-     "impact": "Very Naughty Boys bench. Drew Lock expected to start vs. Arizona; watch Jaxon Smith-Njigba (#StopAsianHate) and AJ Barner (Jackie)."
+     "impact": "Send Nudes, placed on IR Friday. Konata Mumpfield (Send Nudes) moves up; Matthew Stafford (Stroke The Post) loses his top target."
     },
     {
-     "status": "out",
-     "player": "Terrance Ferguson",
-     "nfl": "LAR · TE",
-     "injury": "Hamstring (new)",
+     "status": "q",
+     "player": "Garrett Wilson",
+     "nfl": "NYJ · WR",
+     "injury": "Concussion",
      "teams": [
       10
      ],
-     "impact": "Stroke The Post injured reserve. Was set to return; won't."
+     "impact": "Stroke The Post starter (14.37). Coach optimistic. If he sits, Rico Dowdle (9.92) and Jordan Mason (9.47) are on the bench; Adonai Mitchell (Ben) would be the Jets' No. 1."
     },
     {
-     "status": "out",
-     "player": "DeVonta Smith",
-     "nfl": "PHI · WR",
-     "injury": "Hamstring",
+     "status": "q",
+     "player": "Amon-Ra St. Brown",
+     "nfl": "DET · WR",
+     "injury": "Ribs",
      "teams": [
       8
      ],
-     "impact": "Bijan injured reserve. Third straight missed game."
+     "impact": "Bijan starter (19.49). Played through it in Week 9."
     },
     {
-     "status": "out",
-     "player": "Lamar Jackson",
-     "nfl": "BAL · QB",
-     "injury": "Thumb (injured reserve)",
+     "status": "q",
+     "player": "Rhamondre Stevenson",
+     "nfl": "NE · RB",
+     "injury": "Knee",
      "teams": [
+      7
+     ],
+     "impact": "#StopAsianHate bench. If he sits, Corey Kiner (#StopAsianHate bench, 11.75) leads New England's backfield."
+    },
+    {
+     "status": "q",
+     "player": "A.J. Brown",
+     "nfl": "NE · WR",
+     "injury": "Knee, ankle",
+     "teams": [
+      3
+     ],
+     "impact": "Send Nudes bench (14.38). Traveled to Germany; late decision."
+    },
+    {
+     "status": "q",
+     "player": "Jordan Addison",
+     "nfl": "MIN · WR",
+     "injury": "Thumb",
+     "teams": [
+      9
+     ],
+     "impact": "Very Naughty Boys starter (9.04). Hurt in Friday's practice."
+    },
+    {
+     "status": "q",
+     "player": "Denzel Boston",
+     "nfl": "CLE · WR",
+     "injury": "Toe",
+     "teams": [
+      11,
+      9,
       1
      ],
-     "impact": "Sheev bench. Baltimore lost 33-10 Thursday with Joe Fagnano (Sheev bench) at quarterback."
+     "impact": "Ben Football Team starter (10.33). If out, more for KC Concepcion Jr. (Very Naughty Boys) and Harold Fannin Jr. (Sheev)."
     },
     {
      "status": "q",
-     "player": "Cam Skattebo",
-     "nfl": "NYG · RB",
-     "injury": "Hamstring (doubtful)",
+     "player": "Omar Cooper Jr. / Adonai Mitchell",
+     "nfl": "NYJ · WR",
+     "injury": "Ankle / knee",
      "teams": [
-      7,
+      6,
+      11
+     ],
+     "impact": "Starters for Panic Trade Project and Ben Football Team. Both expected to play."
+    },
+    {
+     "status": "q",
+     "player": "Tyjae Spears",
+     "nfl": "TEN · RB",
+     "injury": "Knee",
+     "teams": [
       6
      ],
-     "impact": "#StopAsianHate bench. Devin Singletary (Panic) is the Giants' last healthy back."
+     "impact": "Panic Trade Project starter (6.33). Hasn't played since Week 7."
     },
     {
      "status": "q",
+     "player": "Ladd McConkey",
+     "nfl": "LAC · WR",
+     "injury": "Back",
+     "teams": [
+      7
+     ],
+     "impact": "#StopAsianHate bench (11.71). Did not practice Friday; plays Monday."
+    },
+    {
+     "status": "clear",
+     "player": "Bhayshul Tuten, Jakobi Meyers, Chris Rodriguez Jr.",
+     "nfl": "JAX",
+     "injury": "Ankle, ankle, hand",
+     "teams": [
+      11,
+      12
+     ],
+     "impact": "Not on Jacksonville's final report. Jacksonville implied for 28.5."
+    },
+    {
+     "status": "clear",
      "player": "George Pickens",
      "nfl": "DAL · WR",
      "injury": "Hamstring",
      "teams": [
       7
      ],
-     "impact": "#StopAsianHate starter (13.52), Dallas implied for 28.5. Check inactives about 90 minutes before kickoff."
-    },
-    {
-     "status": "q",
-     "player": "Amon-Ra St. Brown",
-     "nfl": "DET · WR",
-     "injury": "Rib",
-     "teams": [
-      8
-     ],
-     "impact": "Bijan starter (20.32), Detroit implied for 28.75 at Miami."
-    },
-    {
-     "status": "q",
-     "player": "Emeka Egbuka",
-     "nfl": "TB · WR",
-     "injury": "Foot",
-     "teams": [
-      6
-     ],
-     "impact": "Panic starter (10.52). Missed two games; full practice Thursday. Sunday night, so inactives come late."
-    },
-    {
-     "status": "q",
-     "player": "Deshaun Watson",
-     "nfl": "CLE · QB",
-     "injury": "Concussion",
-     "teams": [
-      7,
-      5
-     ],
-     "impact": "#StopAsianHate bench. Shedeur Sanders (brimley taxi) expected to start at New Orleans."
-    },
-    {
-     "status": "q",
-     "player": "Jake Ferguson",
-     "nfl": "DAL · TE",
-     "injury": "Ankle",
-     "teams": [
-      2
-     ],
-     "impact": "God Bless Vodka bench. Status up in the air after leaving Week 8 early."
-    },
-    {
-     "status": "q",
-     "player": "Hunter Henry",
-     "nfl": "NE · TE",
-     "injury": "Foot",
-     "teams": [
-      8
-     ],
-     "impact": "Bijan bench. Eli Raridon (Panic) is the other New England tight end."
+     "impact": "#StopAsianHate starter. Removed from Dallas's report Friday."
     },
     {
      "status": "clear",
-     "player": "Christian McCaffrey",
-     "nfl": "SF · RB",
+     "player": "Deebo Samuel Sr.",
+     "nfl": "SF · WR",
      "injury": "Hamstring",
      "teams": [
+      3
+     ],
+     "impact": "Send Nudes starter. Not on San Francisco's final report."
+    },
+    {
+     "status": "clear",
+     "player": "Woody Marks",
+     "nfl": "HOU · RB",
+     "injury": "Knee",
+     "teams": [
+      12
+     ],
+     "impact": "Jackie aCHANe starter. Removed from the report; leads the backfield with Montgomery out."
+    },
+    {
+     "status": "clear",
+     "player": "Dalton Kincaid / Hunter Henry",
+     "nfl": "BUF / NE · TE",
+     "injury": "Ankle / foot",
+     "teams": [
+      9,
       8
      ],
-     "impact": "Bijan starter (22.88). Not on the final report; San Francisco implied for 30.6."
+     "impact": "Starters for Very Naughty Boys and Bijan. Both removed from their reports."
     },
     {
      "status": "clear",
-     "player": "Breece Hall",
-     "nfl": "NYJ · RB",
-     "injury": "Quadriceps",
+     "player": "Patrick Mahomes, Jared Goff",
+     "nfl": "KC / DET · QB",
+     "injury": "Elbow / chest",
      "teams": [
-      1,
-      4
+      11
      ],
-     "impact": "Sheev starter (8.38). Returns after five missed games; expected to split with Braelon Allen (ClutchJuice)."
-    },
-    {
-     "status": "clear",
-     "player": "Michael Wilson",
-     "nfl": "ARI · WR",
-     "injury": "Ribs",
-     "teams": [
-      8
-     ],
-     "impact": "Bijan starter (12.99). Expected to play through broken ribs; Arizona implied for 15.5."
-    },
-    {
-     "status": "clear",
-     "player": "Saquon Barkley",
-     "nfl": "PHI · RB",
-     "injury": "—",
-     "teams": [
-      5
-     ],
-     "impact": "brimley starter (12.83). No designation, but out-snapped by Elijah Mitchell (Stroke bench)."
-    },
-    {
-     "status": "clear",
-     "player": "Rashee Rice",
-     "nfl": "KC · WR",
-     "injury": "—",
-     "teams": [
-      7
-     ],
-     "impact": "#StopAsianHate starter (15.7). Not on Kansas City's final report."
-    },
-    {
-     "status": "clear",
-     "player": "Travis Kelce",
-     "nfl": "KC · TE",
-     "injury": "Ankle",
-     "teams": [
-      10
-     ],
-     "impact": "Stroke The Post starter (13.19). Not on Kansas City's final report."
+     "impact": "Ben Football Team's quarterbacks. Mahomes practiced in full; Goff not formally listed."
     }
    ],
    "intel": []
@@ -1452,9 +1602,9 @@
    "intel": []
   }
  },
- "projNote": "Live projections are estimated Thursday points plus Sleeper's Week 9 projections for every Sunday and Monday starter, as lineups stood early Thursday when our data was last pulled (the Sunday data refresh did not run). Thursday points are our calculation from published box scores (Bleacher Report, StatSniper, Sky Sports) using league scoring; Sleeper's official totals may differ slightly. Starters ruled out on Friday's final injury report, on injured reserve or on bye count as zero. Vegas lines: VegasInsider (Nov. 6) and FanDuel via EatDrinkAndSleepFootball (Nov. 5), averaged where they differ.",
+ "projNote": "Live projections are estimated Thursday points plus Sleeper's Week 10 projections for every Sunday and Monday starter, as lineups stood early Thursday when our data was last pulled (the Sunday data refresh did not run). Thursday points are our calculation from the published Commanders-Giants box score using league scoring; one Giants lost fumble we could not attribute is not counted, and Sleeper's official totals may differ slightly. Starters ruled out on Friday's final injury report, on bye or without a projection count as zero. Vegas lines: VegasInsider (Nov. 13-14) and bet365 via Fox Sports (Nov. 13), averaged where they differ, checked against DraftKings via CBS Sports.",
  "dynasty": {
-  "asOf": "Sun, Nov 8, 2026",
+  "asOf": "Sun, Nov 15, 2026",
   "teams": {
    "1": {
     "players": [
@@ -1463,12 +1613,12 @@
       "name": "Brock Purdy",
       "pos": "QB",
       "nfl": "SF",
-      "age": 26.8,
+      "age": 26.9,
       "birth": "1999-12-27",
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 5921,
+      "val": 6069,
       "src": "market",
       "status": "Starter"
      },
@@ -1482,7 +1632,7 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 5749,
+      "val": 5756,
       "src": "market",
       "status": "Starter"
      },
@@ -1491,12 +1641,12 @@
       "name": "Lamar Jackson",
       "pos": "QB",
       "nfl": "BAL",
-      "age": 29.8,
+      "age": 29.9,
       "birth": "1997-01-07",
       "yrs": 8,
-      "inj": "Out",
+      "inj": "IR",
       "inj_body": "Thumb",
-      "val": 5469,
+      "val": 5378,
       "src": "market",
       "status": "Bench"
      },
@@ -1510,7 +1660,7 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 4301,
+      "val": 4523,
       "src": "market",
       "status": "Starter"
      },
@@ -1522,23 +1672,23 @@
       "age": 22.9,
       "birth": "2003-12-12",
       "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 4127,
+      "inj": "Questionable",
+      "inj_body": "Undisclosed",
+      "val": 4323,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "9487",
       "name": "Parker Washington",
       "pos": "WR",
       "nfl": "JAX",
-      "age": 24.6,
+      "age": 24.7,
       "birth": "2002-03-21",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 3769,
+      "val": 3964,
       "src": "market",
       "status": "Starter"
      },
@@ -1547,40 +1697,12 @@
       "name": "Breece Hall",
       "pos": "RB",
       "nfl": "NYJ",
-      "age": 25.4,
+      "age": 25.5,
       "birth": "2001-05-31",
-      "yrs": 4,
-      "inj": "Questionable",
-      "inj_body": "Quadriceps",
-      "val": 3245,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "13281",
-      "name": "Jordyn Tyson",
-      "pos": "WR",
-      "nfl": "NO",
-      "age": 22.2,
-      "birth": "2004-08-12",
-      "yrs": 0,
-      "inj": "IR",
-      "inj_body": "Hamstring",
-      "val": 3085,
-      "src": "market",
-      "status": "Taxi"
-     },
-     {
-      "id": "8131",
-      "name": "Isaiah Likely",
-      "pos": "TE",
-      "nfl": "NYG",
-      "age": 26.5,
-      "birth": "2000-04-18",
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 3058,
+      "val": 3276,
       "src": "market",
       "status": "Starter"
      },
@@ -1592,11 +1714,39 @@
       "age": 22.3,
       "birth": "2004-07-20",
       "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 3006,
+      "inj": "Questionable",
+      "inj_body": "Groin",
+      "val": 3184,
       "src": "market",
       "status": "Starter"
+     },
+     {
+      "id": "8131",
+      "name": "Isaiah Likely",
+      "pos": "TE",
+      "nfl": "NYG",
+      "age": 26.6,
+      "birth": "2000-04-18",
+      "yrs": 4,
+      "inj": null,
+      "inj_body": null,
+      "val": 3101,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "13281",
+      "name": "Jordyn Tyson",
+      "pos": "WR",
+      "nfl": "NO",
+      "age": 22.3,
+      "birth": "2004-08-12",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 3022,
+      "src": "market",
+      "status": "Taxi"
      },
      {
       "id": "12512",
@@ -1608,7 +1758,7 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 2840,
+      "val": 2712,
       "src": "market",
       "status": "Starter"
      },
@@ -1617,12 +1767,12 @@
       "name": "TreVeyon Henderson",
       "pos": "RB",
       "nfl": "NE",
-      "age": 24.0,
+      "age": 24.1,
       "birth": "2002-10-22",
       "yrs": 1,
-      "inj": "Questionable",
+      "inj": "Out",
       "inj_body": "Illness",
-      "val": 2028,
+      "val": 2016,
       "src": "market",
       "status": "Bench"
      },
@@ -1634,9 +1784,9 @@
       "age": 24.4,
       "birth": "2002-06-06",
       "yrs": 1,
-      "inj": "Questionable",
+      "inj": "Out",
       "inj_body": "Toe",
-      "val": 1713,
+      "val": 2010,
       "src": "market",
       "status": "Bench"
      },
@@ -1645,28 +1795,14 @@
       "name": "Zach Charbonnet",
       "pos": "RB",
       "nfl": "SEA",
-      "age": 25.8,
+      "age": 25.9,
       "birth": "2001-01-08",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 1711,
+      "val": 1990,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "9480",
-      "name": "Brenton Strange",
-      "pos": "TE",
-      "nfl": "JAX",
-      "age": 25.8,
-      "birth": "2000-12-27",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 1700,
-      "src": "market",
-      "status": "Bench"
      },
      {
       "id": "13417",
@@ -1678,49 +1814,49 @@
       "yrs": 0,
       "inj": "IR",
       "inj_body": "Ankle",
-      "val": 1688,
+      "val": 1681,
       "src": "market",
       "status": "IR"
      },
      {
-      "id": "8134",
-      "name": "Khalil Shakir",
-      "pos": "WR",
-      "nfl": "BUF",
-      "age": 26.7,
-      "birth": "2000-02-03",
-      "yrs": 4,
+      "id": "9480",
+      "name": "Brenton Strange",
+      "pos": "TE",
+      "nfl": "JAX",
+      "age": 25.9,
+      "birth": "2000-12-27",
+      "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 1333,
+      "val": 1641,
       "src": "market",
       "status": "Bench"
-     },
-     {
-      "id": "12493",
-      "name": "Oronde Gadsden",
-      "pos": "TE",
-      "nfl": "LAC",
-      "age": 23.3,
-      "birth": "2003-06-25",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 1245,
-      "src": "market",
-      "status": "Taxi"
      },
      {
       "id": "9502",
       "name": "Tank Dell",
       "pos": "WR",
       "nfl": "HOU",
-      "age": 27.0,
+      "age": 27.1,
       "birth": "1999-10-29",
       "yrs": 3,
+      "inj": "Questionable",
+      "inj_body": "Hand",
+      "val": 1495,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "8134",
+      "name": "Khalil Shakir",
+      "pos": "WR",
+      "nfl": "BUF",
+      "age": 26.8,
+      "birth": "2000-02-03",
+      "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 1129,
+      "val": 1406,
       "src": "market",
       "status": "Bench"
      },
@@ -1729,40 +1865,40 @@
       "name": "Pat Freiermuth",
       "pos": "TE",
       "nfl": "PIT",
-      "age": 28.0,
+      "age": 28.1,
       "birth": "1998-10-25",
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 1108,
+      "val": 1203,
       "src": "market",
       "status": "Bench"
      },
      {
-      "id": "13289",
-      "name": "Drew Allar",
-      "pos": "QB",
-      "nfl": "PIT",
-      "age": 22.6,
-      "birth": "2004-03-08",
-      "yrs": 0,
-      "inj": "Out",
-      "inj_body": "Coach's Decision",
-      "val": 913,
+      "id": "12493",
+      "name": "Oronde Gadsden",
+      "pos": "TE",
+      "nfl": "LAC",
+      "age": 23.4,
+      "birth": "2003-06-25",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 1176,
       "src": "market",
       "status": "Taxi"
      },
      {
-      "id": "13350",
-      "name": "Joe Fagnano",
+      "id": "12494",
+      "name": "Kyle McCord",
       "pos": "QB",
-      "nfl": "BAL",
-      "age": 25.6,
-      "birth": "2001-03-31",
-      "yrs": 0,
+      "nfl": "MIA",
+      "age": 24.2,
+      "birth": "2002-09-19",
+      "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 863,
+      "val": 1028,
       "src": "market",
       "status": "Bench"
      },
@@ -1776,9 +1912,23 @@
       "yrs": 2,
       "inj": "IR",
       "inj_body": "Finger",
-      "val": 769,
+      "val": 885,
       "src": "market",
       "status": "IR"
+     },
+     {
+      "id": "13289",
+      "name": "Drew Allar",
+      "pos": "QB",
+      "nfl": "PIT",
+      "age": 22.7,
+      "birth": "2004-03-08",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 801,
+      "src": "market",
+      "status": "Taxi"
      }
     ],
     "picks": [
@@ -1786,50 +1936,50 @@
       "season": 2027,
       "round": 1,
       "from": 11,
-      "val": 2492,
-      "slot": "Late"
+      "val": 3277,
+      "slot": "Mid"
      },
      {
       "season": 2027,
       "round": 3,
       "from": 12,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 7,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 7,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 8,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 60770,
-    "pickVal": 8162,
-    "total": 68932,
+    "playerVal": 62640,
+    "pickVal": 8995,
+    "total": 71635,
     "wage": 25.2,
-    "youngShare": 47,
+    "youngShare": 49,
     "oldShare": 9,
     "drank": 2,
     "window": "Dynasty power",
-    "allplay": 4.55,
-    "luck": -3.55,
-    "proj": 4.3,
-    "strength": 139.3,
+    "allplay": 5.18,
+    "luck": -3.18,
+    "proj": 5.0,
+    "strength": 149.6,
     "fcCount": 23,
     "sched": [
      {
@@ -1887,6 +2037,13 @@
       "pts": 115.68,
       "oppPts": 116.86,
       "ap": 3
+     },
+     {
+      "w": 9,
+      "opp": 4,
+      "pts": 146.54,
+      "oppPts": 74.26,
+      "ap": 7
      }
     ],
     "breakdown": {
@@ -1910,12 +2067,12 @@
       "name": "Jeremiyah Love",
       "pos": "RB",
       "nfl": "ARI",
-      "age": 21.4,
+      "age": 21.5,
       "birth": "2005-05-31",
       "yrs": 0,
       "inj": "IR",
       "inj_body": "Ankle",
-      "val": 4732,
+      "val": 4513,
       "src": "market",
       "status": "IR"
      },
@@ -1924,26 +2081,26 @@
       "name": "Nico Collins",
       "pos": "WR",
       "nfl": "HOU",
-      "age": 27.6,
+      "age": 27.7,
       "birth": "1999-03-19",
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 3703,
+      "val": 3747,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
       "id": "6797",
       "name": "Justin Herbert",
       "pos": "QB",
       "nfl": "LAC",
-      "age": 28.6,
+      "age": 28.7,
       "birth": "1998-03-10",
       "yrs": 6,
-      "inj": null,
-      "inj_body": null,
-      "val": 3561,
+      "inj": "Questionable",
+      "inj_body": "Finger",
+      "val": 3424,
       "src": "market",
       "status": "Starter"
      },
@@ -1952,12 +2109,12 @@
       "name": "Chase Brown",
       "pos": "RB",
       "nfl": "CIN",
-      "age": 26.6,
+      "age": 26.7,
       "birth": "2000-03-21",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 3001,
+      "val": 3073,
       "src": "market",
       "status": "Starter"
      },
@@ -1971,21 +2128,7 @@
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 2933,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "12507",
-      "name": "Omarion Hampton",
-      "pos": "RB",
-      "nfl": "LAC",
-      "age": 23.6,
-      "birth": "2003-03-16",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 2775,
+      "val": 2873,
       "src": "market",
       "status": "Starter"
      },
@@ -1999,7 +2142,21 @@
       "yrs": 9,
       "inj": null,
       "inj_body": null,
-      "val": 2576,
+      "val": 2760,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "12507",
+      "name": "Omarion Hampton",
+      "pos": "RB",
+      "nfl": "LAC",
+      "age": 23.7,
+      "birth": "2003-03-16",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 2626,
       "src": "market",
       "status": "Starter"
      },
@@ -2013,7 +2170,7 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 2438,
+      "val": 2547,
       "src": "market",
       "status": "Bench"
      },
@@ -2022,14 +2179,28 @@
       "name": "Cam Ward",
       "pos": "QB",
       "nfl": "TEN",
-      "age": 24.4,
+      "age": 24.5,
       "birth": "2002-05-25",
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 2428,
+      "val": 2375,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "9500",
+      "name": "Josh Downs",
+      "pos": "WR",
+      "nfl": "KC",
+      "age": 25.3,
+      "birth": "2001-08-12",
+      "yrs": 3,
+      "inj": null,
+      "inj_body": null,
+      "val": 1867,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "11631",
@@ -2041,23 +2212,9 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 1835,
+      "val": 1788,
       "src": "market",
       "status": "Bench"
-     },
-     {
-      "id": "9500",
-      "name": "Josh Downs",
-      "pos": "WR",
-      "nfl": "IND",
-      "age": 25.2,
-      "birth": "2001-08-12",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 1658,
-      "src": "market",
-      "status": "Starter"
      },
      {
       "id": "1373",
@@ -2069,21 +2226,7 @@
       "yrs": 13,
       "inj": null,
       "inj_body": null,
-      "val": 1606,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "8132",
-      "name": "Tyler Allgeier",
-      "pos": "RB",
-      "nfl": "ARI",
-      "age": 26.5,
-      "birth": "2000-04-15",
-      "yrs": 4,
-      "inj": null,
-      "inj_body": null,
-      "val": 1546,
+      "val": 1589,
       "src": "market",
       "status": "Starter"
      },
@@ -2092,12 +2235,26 @@
       "name": "Xavier Worthy",
       "pos": "WR",
       "nfl": "KC",
-      "age": 23.5,
+      "age": 23.6,
       "birth": "2003-04-27",
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 1282,
+      "val": 1322,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "8132",
+      "name": "Tyler Allgeier",
+      "pos": "RB",
+      "nfl": "ARI",
+      "age": 26.6,
+      "birth": "2000-04-15",
+      "yrs": 4,
+      "inj": null,
+      "inj_body": null,
+      "val": 1313,
       "src": "market",
       "status": "Starter"
      },
@@ -2106,12 +2263,12 @@
       "name": "Malik Washington",
       "pos": "WR",
       "nfl": "MIA",
-      "age": 25.8,
+      "age": 25.9,
       "birth": "2001-01-04",
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 1274,
+      "val": 1229,
       "src": "market",
       "status": "Starter"
      },
@@ -2123,23 +2280,9 @@
       "age": 27.8,
       "birth": "1999-01-18",
       "yrs": 4,
-      "inj": "Questionable",
-      "inj_body": "Ankle",
-      "val": 1241,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "5012",
-      "name": "Mark Andrews",
-      "pos": "TE",
-      "nfl": "BAL",
-      "age": 31.2,
-      "birth": "1995-09-06",
-      "yrs": 8,
-      "inj": null,
-      "inj_body": null,
-      "val": 1182,
+      "inj": "Out",
+      "inj_body": "Knee",
+      "val": 1181,
       "src": "market",
       "status": "Bench"
      },
@@ -2153,8 +2296,36 @@
       "yrs": 1,
       "inj": "IR",
       "inj_body": "Toe",
-      "val": 1060,
+      "val": 1150,
       "src": "market",
+      "status": "Taxi"
+     },
+     {
+      "id": "5012",
+      "name": "Mark Andrews",
+      "pos": "TE",
+      "nfl": "BAL",
+      "age": 31.2,
+      "birth": "1995-09-06",
+      "yrs": 8,
+      "inj": null,
+      "inj_body": null,
+      "val": 954,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "13348",
+      "name": "J'Mari Taylor",
+      "pos": "RB",
+      "nfl": "JAX",
+      "age": 24,
+      "birth": "2002-03-15",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 900,
+      "src": "est",
       "status": "Taxi"
      },
      {
@@ -2167,7 +2338,7 @@
       "yrs": 3,
       "inj": "IR",
       "inj_body": "Abdomen",
-      "val": 675,
+      "val": 681,
       "src": "market",
       "status": "Bench"
      },
@@ -2176,12 +2347,12 @@
       "name": "Tory Horton",
       "pos": "WR",
       "nfl": "SEA",
-      "age": 23.9,
+      "age": 24.0,
       "birth": "2002-11-29",
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 519,
+      "val": 535,
       "src": "market",
       "status": "Taxi"
      },
@@ -2190,7 +2361,7 @@
       "name": "Dohnte Meyers",
       "pos": "WR",
       "nfl": "CIN",
-      "age": 26.3,
+      "age": 26.4,
       "birth": "2000-07-06",
       "yrs": 0,
       "inj": null,
@@ -2209,23 +2380,9 @@
       "yrs": 4,
       "inj": "IR",
       "inj_body": "Back",
-      "val": 282,
+      "val": 187,
       "src": "market",
       "status": "IR"
-     },
-     {
-      "id": "13348",
-      "name": "J'Mari Taylor",
-      "pos": "RB",
-      "nfl": "JAX",
-      "age": 24.6,
-      "birth": "2002-03-15",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 82,
-      "src": "market",
-      "status": "Taxi"
      }
     ],
     "picks": [
@@ -2233,44 +2390,44 @@
       "season": 2027,
       "round": 3,
       "from": 2,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 2,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 12,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 2,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 42713,
-    "pickVal": 4825,
-    "total": 47538,
-    "wage": 26.2,
-    "youngShare": 42,
-    "oldShare": 13,
+    "playerVal": 42958,
+    "pickVal": 4897,
+    "total": 47855,
+    "wage": 26.3,
+    "youngShare": 43,
+    "oldShare": 12,
     "drank": 11,
     "window": "Rebuild",
-    "allplay": 2.36,
-    "luck": -0.36,
-    "proj": 4.0,
-    "strength": 116.2,
-    "fcCount": 23,
+    "allplay": 2.45,
+    "luck": -0.45,
+    "proj": 3.4,
+    "strength": 112.9,
+    "fcCount": 22,
     "sched": [
      {
       "w": 1,
@@ -2327,6 +2484,13 @@
       "pts": 116.96,
       "oppPts": 211.96,
       "ap": 5
+     },
+     {
+      "w": 9,
+      "opp": 8,
+      "pts": 81.72,
+      "oppPts": 161.36,
+      "ap": 1
      }
     ],
     "breakdown": {
@@ -2350,12 +2514,12 @@
       "name": "Jahmyr Gibbs",
       "pos": "RB",
       "nfl": "DET",
-      "age": 24.6,
+      "age": 24.7,
       "birth": "2002-03-20",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 10320,
+      "val": 10411,
       "src": "market",
       "status": "Starter"
      },
@@ -2369,21 +2533,7 @@
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 8435,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "9493",
-      "name": "Puka Nacua",
-      "pos": "WR",
-      "nfl": "LAR",
-      "age": 25.4,
-      "birth": "2001-05-29",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 7908,
+      "val": 8805,
       "src": "market",
       "status": "Starter"
      },
@@ -2397,9 +2547,23 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 7266,
+      "val": 7691,
       "src": "market",
       "status": "Starter"
+     },
+     {
+      "id": "9493",
+      "name": "Puka Nacua",
+      "pos": "WR",
+      "nfl": "LAR",
+      "age": 25.5,
+      "birth": "2001-05-29",
+      "yrs": 3,
+      "inj": "Out",
+      "inj_body": "Knee - MCL",
+      "val": 7190,
+      "src": "market",
+      "status": "IR"
      },
      {
       "id": "8150",
@@ -2411,7 +2575,7 @@
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 3714,
+      "val": 3790,
       "src": "market",
       "status": "Starter"
      },
@@ -2420,12 +2584,12 @@
       "name": "Tyler Warren",
       "pos": "TE",
       "nfl": "IND",
-      "age": 24.4,
+      "age": 24.5,
       "birth": "2002-05-24",
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 3658,
+      "val": 3682,
       "src": "market",
       "status": "Starter"
      },
@@ -2434,12 +2598,12 @@
       "name": "Derrick Henry",
       "pos": "RB",
       "nfl": "BAL",
-      "age": 32.8,
+      "age": 32.9,
       "birth": "1994-01-04",
       "yrs": 10,
       "inj": null,
       "inj_body": null,
-      "val": 2917,
+      "val": 2679,
       "src": "market",
       "status": "Starter"
      },
@@ -2448,14 +2612,14 @@
       "name": "A.J. Brown",
       "pos": "WR",
       "nfl": "NE",
-      "age": 29.3,
+      "age": 29.4,
       "birth": "1997-06-30",
       "yrs": 7,
       "inj": "Questionable",
-      "inj_body": "Ankle",
-      "val": 2403,
+      "inj_body": "Knee",
+      "val": 2480,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "4892",
@@ -2467,7 +2631,21 @@
       "yrs": 8,
       "inj": null,
       "inj_body": null,
-      "val": 2282,
+      "val": 2240,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "1166",
+      "name": "Kirk Cousins",
+      "pos": "QB",
+      "nfl": "MIN",
+      "age": 38.3,
+      "birth": "1988-08-19",
+      "yrs": 14,
+      "inj": null,
+      "inj_body": null,
+      "val": 2043,
       "src": "market",
       "status": "Bench"
      },
@@ -2481,37 +2659,23 @@
       "yrs": 12,
       "inj": "Questionable",
       "inj_body": "Achilles",
-      "val": 1991,
+      "val": 1954,
       "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "1166",
-      "name": "Kirk Cousins",
-      "pos": "QB",
-      "nfl": "LV",
-      "age": 38.2,
-      "birth": "1988-08-19",
-      "yrs": 14,
-      "inj": null,
-      "inj_body": null,
-      "val": 1769,
-      "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "96",
       "name": "Aaron Rodgers",
       "pos": "QB",
       "nfl": "PIT",
-      "age": 42.9,
+      "age": 43.0,
       "birth": "1983-12-02",
       "yrs": 21,
       "inj": null,
       "inj_body": null,
-      "val": 1433,
+      "val": 1500,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
       "id": "5872",
@@ -2523,9 +2687,9 @@
       "yrs": 7,
       "inj": "Questionable",
       "inj_body": "Hamstring",
-      "val": 1272,
+      "val": 1358,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
       "id": "8136",
@@ -2537,7 +2701,7 @@
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 1210,
+      "val": 1353,
       "src": "market",
       "status": "Bench"
      },
@@ -2546,28 +2710,70 @@
       "name": "Aaron Jones Sr.",
       "pos": "RB",
       "nfl": "MIN",
-      "age": 31.9,
+      "age": 32.0,
       "birth": "1994-12-02",
       "yrs": 9,
       "inj": null,
       "inj_body": null,
-      "val": 1140,
+      "val": 1252,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "8210",
+      "name": "Chig Okonkwo",
+      "pos": "TE",
+      "nfl": "WAS",
+      "age": 27.2,
+      "birth": "1999-09-08",
+      "yrs": 4,
+      "inj": null,
+      "inj_body": null,
+      "val": 1237,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "1479",
       "name": "Keenan Allen",
       "pos": "WR",
-      "nfl": "IND",
-      "age": 34.5,
+      "nfl": "SF",
+      "age": 34.6,
       "birth": "1992-04-27",
       "yrs": 13,
       "inj": null,
       "inj_body": null,
-      "val": 1077,
+      "val": 1132,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "12718",
+      "name": "Konata Mumpfield",
+      "pos": "WR",
+      "nfl": "LAR",
+      "age": 24.1,
+      "birth": "2002-10-24",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 800,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "11569",
+      "name": "Jarquez Hunter",
+      "pos": "RB",
+      "nfl": null,
+      "age": 23,
+      "birth": "2002-12-29",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 700,
+      "src": "est",
+      "status": "Taxi"
      },
      {
       "id": "12535",
@@ -2579,36 +2785,8 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 765,
+      "val": 655,
       "src": "market",
-      "status": "Taxi"
-     },
-     {
-      "id": "11569",
-      "name": "Jarquez Hunter",
-      "pos": "RB",
-      "nfl": "NO",
-      "age": 23,
-      "birth": "2002-12-29",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 700,
-      "src": "est",
-      "status": "Taxi"
-     },
-     {
-      "id": "12641",
-      "name": "Jaylin Lane",
-      "pos": "WR",
-      "nfl": "WAS",
-      "age": 24,
-      "birth": "2002-05-01",
-      "yrs": 1,
-      "inj": "IR",
-      "inj_body": "Ankle",
-      "val": 700,
-      "src": "est",
       "status": "Taxi"
      },
      {
@@ -2619,25 +2797,25 @@
       "age": 25.3,
       "birth": "2001-07-30",
       "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 449,
+      "inj": "Questionable",
+      "inj_body": "Ankle",
+      "val": 412,
       "src": "market",
       "status": "Bench"
      },
      {
-      "id": "12718",
-      "name": "Konata Mumpfield",
+      "id": "12641",
+      "name": "Jaylin Lane",
       "pos": "WR",
-      "nfl": "LAR",
-      "age": 24.0,
-      "birth": "2002-10-24",
+      "nfl": "WAS",
+      "age": 24.5,
+      "birth": "2002-05-01",
       "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 301,
+      "inj": "IR",
+      "inj_body": "Ankle",
+      "val": 64,
       "src": "market",
-      "status": "Bench"
+      "status": "Taxi"
      }
     ],
     "picks": [
@@ -2645,51 +2823,51 @@
       "season": 2027,
       "round": 3,
       "from": 3,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 11,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 3,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 3,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 3,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 61710,
-    "pickVal": 6753,
-    "total": 68463,
-    "wage": 28.2,
-    "youngShare": 27,
+    "playerVal": 63428,
+    "pickVal": 6845,
+    "total": 70273,
+    "wage": 28.3,
+    "youngShare": 26,
     "oldShare": 38,
     "drank": 3,
     "window": "Dynasty power",
-    "allplay": 6.45,
-    "luck": -0.45,
-    "proj": 11.1,
-    "strength": 160.4,
-    "fcCount": 19,
+    "allplay": 7.36,
+    "luck": -0.36,
+    "proj": 11.3,
+    "strength": 164.4,
+    "fcCount": 21,
     "sched": [
      {
       "w": 1,
@@ -2746,6 +2924,13 @@
       "pts": 211.96,
       "oppPts": 116.96,
       "ap": 11
+     },
+     {
+      "w": 9,
+      "opp": 9,
+      "pts": 161.66,
+      "oppPts": 96.98,
+      "ap": 10
      }
     ],
     "breakdown": {
@@ -2774,7 +2959,35 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 7593,
+      "val": 7492,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "13272",
+      "name": "Carson Beck",
+      "pos": "QB",
+      "nfl": "ARI",
+      "age": 24.0,
+      "birth": "2002-11-19",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 1852,
+      "src": "market",
+      "status": "Taxi"
+     },
+     {
+      "id": "13274",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "nfl": "PIT",
+      "age": 23.0,
+      "birth": "2003-12-02",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 1801,
       "src": "market",
       "status": "Starter"
      },
@@ -2788,7 +3001,7 @@
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 2115,
+      "val": 1777,
       "src": "market",
       "status": "Starter"
      },
@@ -2802,51 +3015,37 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 2013,
+      "val": 1734,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "13274",
-      "name": "Germie Bernard",
-      "pos": "WR",
-      "nfl": "PIT",
-      "age": 22.9,
-      "birth": "2003-12-02",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 1855,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "13272",
-      "name": "Carson Beck",
-      "pos": "QB",
-      "nfl": "ARI",
-      "age": 23.9,
-      "birth": "2002-11-19",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 1435,
-      "src": "market",
-      "status": "Taxi"
      },
      {
       "id": "13296",
       "name": "Caleb Douglas",
       "pos": "WR",
       "nfl": "MIA",
-      "age": 23.1,
+      "age": 23.2,
       "birth": "2003-09-09",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 1387,
+      "val": 1616,
       "src": "market",
       "status": "Starter"
+     },
+     {
+      "id": "12492",
+      "name": "Pat Bryant",
+      "pos": "WR",
+      "nfl": "DEN",
+      "age": 23.9,
+      "birth": "2002-12-10",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 1335,
+      "src": "market",
+      "status": "Bench"
      },
      {
       "id": "13285",
@@ -2858,49 +3057,7 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 1335,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "9229",
-      "name": "Anthony Richardson Sr.",
-      "pos": "QB",
-      "nfl": "IND",
-      "age": 24.4,
-      "birth": "2002-05-22",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 1177,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "12492",
-      "name": "Pat Bryant",
-      "pos": "WR",
-      "nfl": "DEN",
-      "age": 23.9,
-      "birth": "2002-12-10",
-      "yrs": 1,
-      "inj": "IR",
-      "inj_body": "Ankle",
-      "val": 1077,
-      "src": "market",
-      "status": "IR"
-     },
-     {
-      "id": "12498",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "nfl": "NYJ",
-      "age": 22.5,
-      "birth": "2004-05-08",
-      "yrs": 1,
-      "inj": "Questionable",
-      "inj_body": "Back",
-      "val": 960,
+      "val": 1319,
       "src": "market",
       "status": "Starter"
      },
@@ -2914,7 +3071,63 @@
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 926,
+      "val": 1061,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "9229",
+      "name": "Anthony Richardson Sr.",
+      "pos": "QB",
+      "nfl": "IND",
+      "age": 24.5,
+      "birth": "2002-05-22",
+      "yrs": 3,
+      "inj": null,
+      "inj_body": null,
+      "val": 964,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "12634",
+      "name": "Jordan Watkins",
+      "pos": "WR",
+      "nfl": "SF",
+      "age": 24.7,
+      "birth": "2002-02-15",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 782,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "12498",
+      "name": "Mason Taylor",
+      "pos": "TE",
+      "nfl": "NYJ",
+      "age": 22.5,
+      "birth": "2004-05-08",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 701,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "13268",
+      "name": "Elijah Sarratt",
+      "pos": "WR",
+      "nfl": "BAL",
+      "age": 23.5,
+      "birth": "2003-05-28",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 447,
       "src": "market",
       "status": "Bench"
      },
@@ -2928,9 +3141,9 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 531,
+      "val": 439,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "13302",
@@ -2942,7 +3155,7 @@
       "yrs": 0,
       "inj": "IR",
       "inj_body": "Undisclosed",
-      "val": 529,
+      "val": 433,
       "src": "market",
       "status": "IR"
      },
@@ -2951,42 +3164,14 @@
       "name": "Rashod Bateman",
       "pos": "WR",
       "nfl": "BAL",
-      "age": 26.9,
+      "age": 27.0,
       "birth": "1999-11-29",
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 469,
+      "val": 416,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "13347",
-      "name": "Demond Claiborne",
-      "pos": "RB",
-      "nfl": "MIN",
-      "age": 23.1,
-      "birth": "2003-10-09",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 445,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "13402",
-      "name": "Skyler Bell",
-      "pos": "WR",
-      "nfl": "BUF",
-      "age": 24.3,
-      "birth": "2002-07-05",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 428,
-      "src": "market",
-      "status": "Bench"
      },
      {
       "id": "12510",
@@ -2998,9 +3183,37 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 356,
+      "val": 402,
       "src": "market",
       "status": "Taxi"
+     },
+     {
+      "id": "13347",
+      "name": "Demond Claiborne",
+      "pos": "RB",
+      "nfl": "MIN",
+      "age": 23.1,
+      "birth": "2003-10-09",
+      "yrs": 0,
+      "inj": "IR",
+      "inj_body": "Knee",
+      "val": 367,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "13402",
+      "name": "Skyler Bell",
+      "pos": "WR",
+      "nfl": "BUF",
+      "age": 24.4,
+      "birth": "2002-07-05",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 362,
+      "src": "market",
+      "status": "Bench"
      },
      {
       "id": "11256",
@@ -3012,21 +3225,7 @@
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 307,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "13268",
-      "name": "Elijah Sarratt",
-      "pos": "WR",
-      "nfl": "BAL",
-      "age": 23.4,
-      "birth": "2003-05-28",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 297,
+      "val": 344,
       "src": "market",
       "status": "Bench"
      },
@@ -3035,28 +3234,14 @@
       "name": "Max Klare",
       "pos": "TE",
       "nfl": "LAR",
-      "age": 23.3,
+      "age": 23.4,
       "birth": "2003-07-08",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 288,
+      "val": 308,
       "src": "market",
       "status": "Taxi"
-     },
-     {
-      "id": "12634",
-      "name": "Jordan Watkins",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 24.7,
-      "birth": "2002-02-15",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 158,
-      "src": "market",
-      "status": "Starter"
      },
      {
       "id": "11571",
@@ -3068,23 +3253,9 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 142,
+      "val": 42,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "13322",
-      "name": "Sam Roush",
-      "pos": "TE",
-      "nfl": "CHI",
-      "age": 23.1,
-      "birth": "2003-09-06",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 79,
-      "src": "market",
-      "status": "Bench"
      }
     ],
     "picks": [
@@ -3092,107 +3263,107 @@
       "season": 2027,
       "round": 1,
       "from": 4,
-      "val": 4886,
+      "val": 4976,
       "slot": "Early"
      },
      {
       "season": 2027,
       "round": 1,
       "from": 5,
-      "val": 3217,
-      "slot": "Mid"
+      "val": 2535,
+      "slot": "Late"
      },
      {
       "season": 2027,
       "round": 1,
       "from": 7,
-      "val": 3217,
+      "val": 3277,
       "slot": "Mid"
      },
      {
       "season": 2027,
       "round": 2,
       "from": 4,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 2,
       "from": 6,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 2,
       "from": 12,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 7,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 9,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 1,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 4,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 4,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 4,
-      "val": 994,
+      "val": 1020,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 5,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 25902,
-    "pickVal": 26056,
-    "total": 51958,
-    "wage": 24.1,
-    "youngShare": 85,
+    "playerVal": 25994,
+    "pickVal": 25661,
+    "total": 51655,
+    "wage": 24.2,
+    "youngShare": 86,
     "oldShare": 0,
     "drank": 9,
     "window": "Rebuild",
     "allplay": 1.64,
     "luck": 1.36,
-    "proj": 3.6,
-    "strength": 83.3,
-    "fcCount": 23,
+    "proj": 3.7,
+    "strength": 90.6,
+    "fcCount": 22,
     "sched": [
      {
       "w": 1,
@@ -3249,38 +3420,31 @@
       "pts": 85.56,
       "oppPts": 185.22,
       "ap": 1
+     },
+     {
+      "w": 9,
+      "opp": 1,
+      "pts": 74.26,
+      "oppPts": 146.54,
+      "ap": 0
      }
     ],
     "breakdown": {
      "by": "simone",
-     "headline": "More Value in Picks Than Players, and a Quarterback Who Scored 28 on Thursday",
+     "asOf": 10,
+     "headline": "Players Finally Worth More Than Picks, by 333, and Three 2027 Firsts Still in the Drawer",
      "p": [
-      "ClutchJuice is 2-4, scores 91.0 a game, 11th, and is 10th in dynasty value at 51,614. The number that matters: its picks are worth 27,137, the most in the league, and its players are worth 24,477. No other team in the league has picks worth more than its roster.",
-      "The roster is built around Drake Maye (7,157), 24, who scored 28.44 on Thursday. Germie Bernard (2,362) gained 537 this week and Kyle Pitts Sr. (2,221) gained 337. Eighty-seven percent of the value is in players 25 or younger, the highest share in the league. On Tuesday it added Anthony Richardson Sr. (849) from Very Naughty Boys for its 2028 fifth-round pick.",
-      "Here's the pick list. In 2027: its own first (projected early, 5,103), brimley's and #StopAsianHate's firsts (both projected mid), its own, Panic Trade Project's and Jackie aCHANe's seconds, and #StopAsianHate's and Very Naughty Boys' thirds. In 2028: its own first and Sheev's first, its own second, and its own and brimley's thirds.",
-      "The projected win total is 2.6, which is fine. Every loss improves the 2027 first."
+      "ClutchJuice is 3-6, scores 94.2 a game, 11th, and is ninth in dynasty value at 51,655. Here's what changed: when this desk last looked, in Week 7, its picks were worth more than its players. Not anymore. The players are worth 25,994 and the picks 25,661, a gap of 333. The picks are still the most valuable stash in the league by 3,771.",
+      "The roster is still Drake Maye (7,492), 24, and everyone else. The risers this week: Jordan Watkins gained 624, Carson Beck (taxi) gained 417 and is in line to start for Arizona with Gardner Minshew II hurt, Pat Bryant gained 258 and Caleb Douglas 229. The fallers: Kyle Pitts Sr. lost 338, Braelon Allen 279 and Mason Taylor 259. Eighty-six percent of the value is in players 25 or younger, the most in the league, and it's the only team with nothing in players 29 or older.",
+      "The pick list, straight from Sleeper. In 2027: its own first (projected early, 4,976), #StopAsianHate's (mid, 3,277) and brimley's (late, 2,535); its own, Panic Trade Project's and Jackie aCHANe's seconds; #StopAsianHate's and Very Naughty Boys' thirds. In 2028: its own first and Sheev's first, its own second, and its own and brimley's thirds.",
+      "The projected win total is 3.7. Every loss from here helps the one pick that matters most, its own 2027 first."
      ],
-     "verdict": "The league's biggest pick stash, a starting quarterback, and not much else yet.",
-     "move": "Turn two of the three 2027 firsts into one young running back or receiver who's already producing. Three firsts in one draft is more than one roster can use.",
-     "asOf": 7
+     "verdict": "Still the league's biggest pick stash, now with a roster that's caught up to it on paper. Not yet on the field.",
+     "move": "Stop waiting on Beck and Watkins to become the plan. Package the brimley first, the late one, with a second for a young receiver who's already producing, and give Maye somebody to throw to."
     }
    },
    "5": {
     "players": [
-     {
-      "id": "8130",
-      "name": "Trey McBride",
-      "pos": "TE",
-      "nfl": "ARI",
-      "age": 26.9,
-      "birth": "1999-11-22",
-      "yrs": 4,
-      "inj": null,
-      "inj_body": null,
-      "val": 7020,
-      "src": "market",
-      "status": "Starter"
-     },
      {
       "id": "11632",
       "name": "Malik Nabers",
@@ -3291,21 +3455,21 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 6710,
+      "val": 6778,
       "src": "market",
       "status": "Starter"
      },
      {
-      "id": "7523",
-      "name": "Trevor Lawrence",
-      "pos": "QB",
-      "nfl": "JAX",
-      "age": 27.1,
-      "birth": "1999-10-06",
-      "yrs": 5,
+      "id": "8130",
+      "name": "Trey McBride",
+      "pos": "TE",
+      "nfl": "ARI",
+      "age": 27.0,
+      "birth": "1999-11-22",
+      "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 6045,
+      "val": 6707,
       "src": "market",
       "status": "Starter"
      },
@@ -3319,7 +3483,21 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 5496,
+      "val": 6027,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "7523",
+      "name": "Trevor Lawrence",
+      "pos": "QB",
+      "nfl": "JAX",
+      "age": 27.1,
+      "birth": "1999-10-06",
+      "yrs": 5,
+      "inj": null,
+      "inj_body": null,
+      "val": 5992,
       "src": "market",
       "status": "Starter"
      },
@@ -3333,7 +3511,21 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 4883,
+      "val": 5526,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "8167",
+      "name": "Christian Watson",
+      "pos": "WR",
+      "nfl": "GB",
+      "age": 27.5,
+      "birth": "1999-05-12",
+      "yrs": 4,
+      "inj": null,
+      "inj_body": null,
+      "val": 4476,
       "src": "market",
       "status": "Starter"
      },
@@ -3347,49 +3539,35 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 3990,
+      "val": 4298,
       "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "8167",
-      "name": "Christian Watson",
-      "pos": "WR",
-      "nfl": "GB",
-      "age": 27.5,
-      "birth": "1999-05-12",
-      "yrs": 4,
-      "inj": "Questionable",
-      "inj_body": "Undisclosed",
-      "val": 3886,
-      "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "4866",
       "name": "Saquon Barkley",
       "pos": "RB",
       "nfl": "PHI",
-      "age": 29.7,
+      "age": 29.8,
       "birth": "1997-02-09",
       "yrs": 8,
-      "inj": "Questionable",
-      "inj_body": "Hamstring",
-      "val": 2644,
+      "inj": null,
+      "inj_body": null,
+      "val": 2425,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "4983",
       "name": "DJ Moore",
       "pos": "WR",
       "nfl": "BUF",
-      "age": 29.5,
+      "age": 29.6,
       "birth": "1997-04-14",
       "yrs": 8,
-      "inj": "Questionable",
-      "inj_body": "Undisclosed",
-      "val": 2191,
+      "inj": null,
+      "inj_body": null,
+      "val": 2147,
       "src": "market",
       "status": "Starter"
      },
@@ -3403,7 +3581,7 @@
       "yrs": 5,
       "inj": "IR",
       "inj_body": "Hamstring",
-      "val": 1961,
+      "val": 1979,
       "src": "market",
       "status": "IR"
      },
@@ -3417,7 +3595,49 @@
       "yrs": 7,
       "inj": null,
       "inj_body": null,
-      "val": 1756,
+      "val": 1863,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "12524",
+      "name": "Shedeur Sanders",
+      "pos": "QB",
+      "nfl": "CLE",
+      "age": 24.8,
+      "birth": "2002-02-07",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 1640,
+      "src": "market",
+      "status": "Taxi"
+     },
+     {
+      "id": "3257",
+      "name": "Jacoby Brissett",
+      "pos": "QB",
+      "nfl": "BAL",
+      "age": 33.9,
+      "birth": "1992-12-11",
+      "yrs": 10,
+      "inj": null,
+      "inj_body": null,
+      "val": 1420,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "10213",
+      "name": "Tre Tucker",
+      "pos": "WR",
+      "nfl": "LV",
+      "age": 25.7,
+      "birth": "2001-03-08",
+      "yrs": 3,
+      "inj": null,
+      "inj_body": null,
+      "val": 1396,
       "src": "market",
       "status": "Bench"
      },
@@ -3426,124 +3646,82 @@
       "name": "Stefon Diggs",
       "pos": "WR",
       "nfl": "WAS",
-      "age": 32.9,
+      "age": 33.0,
       "birth": "1993-11-29",
       "yrs": 11,
       "inj": null,
       "inj_body": null,
-      "val": 1471,
+      "val": 1371,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "10213",
-      "name": "Tre Tucker",
-      "pos": "WR",
-      "nfl": "LV",
-      "age": 25.6,
-      "birth": "2001-03-08",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 1435,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "3257",
-      "name": "Jacoby Brissett",
-      "pos": "QB",
-      "nfl": "ARI",
-      "age": 33.9,
-      "birth": "1992-12-11",
-      "yrs": 10,
-      "inj": null,
-      "inj_body": null,
-      "val": 1416,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "13317",
-      "name": "Ted Hurst III",
-      "pos": "WR",
-      "nfl": "TB",
-      "age": 22.3,
-      "birth": "2004-07-02",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 1287,
-      "src": "market",
-      "status": "Taxi"
      },
      {
       "id": "9754",
       "name": "Quentin Johnston",
       "pos": "WR",
       "nfl": "LAC",
-      "age": 25.1,
+      "age": 25.2,
       "birth": "2001-09-06",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 1155,
+      "val": 1184,
       "src": "market",
       "status": "Bench"
-     },
-     {
-      "id": "12524",
-      "name": "Shedeur Sanders",
-      "pos": "QB",
-      "nfl": "CLE",
-      "age": 24.7,
-      "birth": "2002-02-07",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 1137,
-      "src": "market",
-      "status": "Taxi"
      },
      {
       "id": "8121",
       "name": "Romeo Doubs",
       "pos": "WR",
       "nfl": "NE",
-      "age": 26.5,
+      "age": 26.6,
       "birth": "2000-04-13",
       "yrs": 4,
       "inj": "IR",
       "inj_body": "Shoulder",
-      "val": 1076,
+      "val": 1111,
       "src": "market",
       "status": "IR"
+     },
+     {
+      "id": "13317",
+      "name": "Ted Hurst III",
+      "pos": "WR",
+      "nfl": "TB",
+      "age": 22.4,
+      "birth": "2004-07-02",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 1083,
+      "src": "market",
+      "status": "Taxi"
+     },
+     {
+      "id": "11581",
+      "name": "MarShawn Lloyd",
+      "pos": "RB",
+      "nfl": "GB",
+      "age": 25.9,
+      "birth": "2001-01-05",
+      "yrs": 2,
+      "inj": null,
+      "inj_body": null,
+      "val": 796,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "8154",
       "name": "Brian Robinson Jr.",
       "pos": "RB",
       "nfl": "ATL",
-      "age": 27.6,
+      "age": 27.7,
       "birth": "1999-03-22",
       "yrs": 4,
-      "inj": "Questionable",
+      "inj": "IR",
       "inj_body": "Hamstring",
-      "val": 986,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "7083",
-      "name": "Tyler Huntley",
-      "pos": "QB",
-      "nfl": "BAL",
-      "age": 28.7,
-      "birth": "1998-02-03",
-      "yrs": 6,
-      "inj": "Out",
-      "inj_body": "Toe",
-      "val": 884,
+      "val": 760,
       "src": "market",
       "status": "Bench"
      },
@@ -3551,27 +3729,27 @@
       "id": "9757",
       "name": "Kendre Miller",
       "pos": "RB",
-      "nfl": "NO",
+      "nfl": "DAL",
       "age": 24.4,
       "birth": "2002-06-11",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 872,
+      "val": 692,
       "src": "market",
       "status": "Bench"
      },
      {
-      "id": "11581",
-      "name": "MarShawn Lloyd",
-      "pos": "RB",
-      "nfl": "GB",
-      "age": 25.8,
-      "birth": "2001-01-05",
-      "yrs": 2,
+      "id": "4177",
+      "name": "Mack Hollins",
+      "pos": "WR",
+      "nfl": "NE",
+      "age": 33.2,
+      "birth": "1993-09-16",
+      "yrs": 9,
       "inj": null,
       "inj_body": null,
-      "val": 727,
+      "val": 301,
       "src": "market",
       "status": "Bench"
      },
@@ -3585,7 +3763,7 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 147,
+      "val": 155,
       "src": "market",
       "status": "Taxi"
      }
@@ -3595,57 +3773,57 @@
       "season": 2027,
       "round": 2,
       "from": 5,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 5,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 10,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 5,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 5,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 1,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 59175,
-    "pickVal": 8343,
-    "total": 67518,
+    "playerVal": 60127,
+    "pickVal": 8449,
+    "total": 68576,
     "wage": 26.9,
     "youngShare": 24,
     "oldShare": 16,
     "drank": 4,
     "window": "Dynasty power",
-    "allplay": 5.82,
+    "allplay": 6.82,
     "luck": -0.82,
-    "proj": 9.4,
-    "strength": 156.3,
+    "proj": 9.7,
+    "strength": 153.9,
     "fcCount": 23,
     "sched": [
      {
@@ -3703,6 +3881,13 @@
       "pts": 185.22,
       "oppPts": 85.56,
       "ap": 9
+     },
+     {
+      "w": 9,
+      "opp": 12,
+      "pts": 161.76,
+      "oppPts": 139.26,
+      "ap": 11
      }
     ],
     "breakdown": {
@@ -3731,7 +3916,7 @@
       "yrs": 1,
       "inj": "IR",
       "inj_body": "Knee - Meniscus",
-      "val": 3976,
+      "val": 4146,
       "src": "market",
       "status": "IR"
      },
@@ -3745,9 +3930,9 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 3502,
+      "val": 3622,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "13279",
@@ -3757,25 +3942,53 @@
       "age": 21.8,
       "birth": "2005-01-19",
       "yrs": 0,
-      "inj": "Out",
+      "inj": "Questionable",
       "inj_body": "Shoulder",
-      "val": 3364,
+      "val": 3525,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
       "id": "12514",
       "name": "Emeka Egbuka",
       "pos": "WR",
       "nfl": "TB",
-      "age": 24.0,
+      "age": 24.1,
       "birth": "2002-10-14",
       "yrs": 1,
-      "inj": "Questionable",
-      "inj_body": "Foot",
-      "val": 3194,
+      "inj": null,
+      "inj_body": null,
+      "val": 2873,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
+     },
+     {
+      "id": "11620",
+      "name": "Rome Odunze",
+      "pos": "WR",
+      "nfl": "CHI",
+      "age": 24.5,
+      "birth": "2002-06-03",
+      "yrs": 2,
+      "inj": null,
+      "inj_body": null,
+      "val": 2545,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "13294",
+      "name": "Makai Lemon",
+      "pos": "WR",
+      "nfl": "PHI",
+      "age": 22.5,
+      "birth": "2004-06-02",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 2465,
+      "src": "market",
+      "status": "Bench"
      },
      {
       "id": "13276",
@@ -3785,23 +3998,9 @@
       "age": 22.9,
       "birth": "2003-12-14",
       "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 2446,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "11620",
-      "name": "Rome Odunze",
-      "pos": "WR",
-      "nfl": "CHI",
-      "age": 24.4,
-      "birth": "2002-06-03",
-      "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 2357,
+      "inj": "Questionable",
+      "inj_body": "Ankle",
+      "val": 2349,
       "src": "market",
       "status": "Starter"
      },
@@ -3815,23 +4014,9 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 2320,
+      "val": 2112,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "13294",
-      "name": "Makai Lemon",
-      "pos": "WR",
-      "nfl": "PHI",
-      "age": 22.4,
-      "birth": "2004-06-02",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 2297,
-      "src": "market",
-      "status": "Bench"
      },
      {
       "id": "13275",
@@ -3843,7 +4028,7 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 2053,
+      "val": 2033,
       "src": "market",
       "status": "Taxi"
      },
@@ -3852,12 +4037,12 @@
       "name": "Marvin Harrison Jr.",
       "pos": "WR",
       "nfl": "HOU",
-      "age": 24.2,
+      "age": 24.3,
       "birth": "2002-08-11",
       "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 1988,
+      "inj": "Questionable",
+      "inj_body": "Hamstring",
+      "val": 1740,
       "src": "market",
       "status": "Bench"
      },
@@ -3866,28 +4051,14 @@
       "name": "Eli Stowers",
       "pos": "TE",
       "nfl": "PHI",
-      "age": 23.5,
+      "age": 23.6,
       "birth": "2003-04-15",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 1511,
+      "val": 1495,
       "src": "market",
       "status": "Taxi"
-     },
-     {
-      "id": "13421",
-      "name": "Eli Raridon",
-      "pos": "TE",
-      "nfl": "NE",
-      "age": 22.7,
-      "birth": "2004-02-12",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 1434,
-      "src": "market",
-      "status": "Starter"
      },
      {
       "id": "13293",
@@ -3899,9 +4070,23 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 1367,
+      "val": 1429,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
+     },
+     {
+      "id": "13421",
+      "name": "Eli Raridon",
+      "pos": "TE",
+      "nfl": "NE",
+      "age": 22.8,
+      "birth": "2004-02-12",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 1388,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "11583",
@@ -3913,9 +4098,23 @@
       "yrs": 2,
       "inj": "IR",
       "inj_body": "Abdomen",
-      "val": 1241,
+      "val": 1287,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "11637",
+      "name": "Keon Coleman",
+      "pos": "WR",
+      "nfl": "BUF",
+      "age": 23.5,
+      "birth": "2003-05-17",
+      "yrs": 2,
+      "inj": null,
+      "inj_body": null,
+      "val": 1221,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "11557",
@@ -3927,7 +4126,21 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 1173,
+      "val": 1139,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "9508",
+      "name": "Tyjae Spears",
+      "pos": "RB",
+      "nfl": "TEN",
+      "age": 25.4,
+      "birth": "2001-06-15",
+      "yrs": 3,
+      "inj": "Questionable",
+      "inj_body": "Knee",
+      "val": 846,
       "src": "market",
       "status": "Starter"
      },
@@ -3941,37 +4154,9 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 1145,
+      "val": 829,
       "src": "market",
       "status": "Taxi"
-     },
-     {
-      "id": "9508",
-      "name": "Tyjae Spears",
-      "pos": "RB",
-      "nfl": "TEN",
-      "age": 25.4,
-      "birth": "2001-06-15",
-      "yrs": 3,
-      "inj": "Out",
-      "inj_body": "Knee",
-      "val": 902,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "11647",
-      "name": "Kimani Vidal",
-      "pos": "RB",
-      "nfl": "LAC",
-      "age": 25.2,
-      "birth": "2001-08-28",
-      "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 801,
-      "src": "market",
-      "status": "Starter"
      },
      {
       "id": "6130",
@@ -3983,23 +4168,9 @@
       "yrs": 7,
       "inj": null,
       "inj_body": null,
-      "val": 782,
+      "val": 824,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "9511",
-      "name": "Keaton Mitchell",
-      "pos": "RB",
-      "nfl": "LAC",
-      "age": 24.8,
-      "birth": "2002-01-17",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 753,
-      "src": "market",
-      "status": "Bench"
      },
      {
       "id": "11618",
@@ -4011,7 +4182,7 @@
       "yrs": 2,
       "inj": "IR",
       "inj_body": "Knee - PCL",
-      "val": 572,
+      "val": 663,
       "src": "market",
       "status": "IR"
      },
@@ -4025,9 +4196,9 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 473,
+      "val": 373,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
       "id": "8207",
@@ -4037,9 +4208,23 @@
       "age": 26.0,
       "birth": "2000-11-10",
       "yrs": 4,
+      "inj": "Out",
+      "inj_body": "Knee",
+      "val": 156,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "12969",
+      "name": "Lan Larison",
+      "pos": "RB",
+      "nfl": "NE",
+      "age": 25.1,
+      "birth": "2001-10-11",
+      "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 365,
+      "val": 17,
       "src": "market",
       "status": "Starter"
      }
@@ -4049,85 +4234,85 @@
       "season": 2027,
       "round": 1,
       "from": 6,
-      "val": 3217,
+      "val": 3277,
       "slot": "Mid"
      },
      {
       "season": 2027,
       "round": 1,
       "from": 10,
-      "val": 2492,
+      "val": 2535,
       "slot": "Late"
      },
      {
       "season": 2027,
       "round": 2,
       "from": 1,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 2,
       "from": 10,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 2,
       "from": 11,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 6,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 6,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 10,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 6,
-      "val": 994,
+      "val": 1020,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 12,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 40016,
-    "pickVal": 17434,
-    "total": 57450,
+    "playerVal": 39077,
+    "pickVal": 17610,
+    "total": 56687,
     "wage": 24.0,
-    "youngShare": 81,
+    "youngShare": 83,
     "oldShare": 2,
     "drank": 7,
     "window": "Rebuild",
-    "allplay": 1.55,
-    "luck": 2.45,
-    "proj": 5.1,
-    "strength": 97.3,
+    "allplay": 1.91,
+    "luck": 2.09,
+    "proj": 4.5,
+    "strength": 76.0,
     "fcCount": 23,
     "sched": [
      {
@@ -4185,6 +4370,13 @@
       "pts": 72.68,
       "oppPts": 123.26,
       "ap": 0
+     },
+     {
+      "w": 9,
+      "opp": 7,
+      "pts": 103.94,
+      "oppPts": 143.6,
+      "ap": 4
      }
     ],
     "breakdown": {
@@ -4208,12 +4400,12 @@
       "name": "Jaxon Smith-Njigba",
       "pos": "WR",
       "nfl": "SEA",
-      "age": 24.7,
+      "age": 24.8,
       "birth": "2002-02-14",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 10301,
+      "val": 10219,
       "src": "market",
       "status": "Starter"
      },
@@ -4222,26 +4414,12 @@
       "name": "Kenneth Walker III",
       "pos": "RB",
       "nfl": "KC",
-      "age": 26.0,
+      "age": 26.1,
       "birth": "2000-10-20",
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 6488,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "9997",
-      "name": "Zay Flowers",
-      "pos": "WR",
-      "nfl": "BAL",
-      "age": 26.1,
-      "birth": "2000-09-11",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 4385,
+      "val": 7048,
       "src": "market",
       "status": "Starter"
      },
@@ -4255,7 +4433,21 @@
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 4023,
+      "val": 4869,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "9997",
+      "name": "Zay Flowers",
+      "pos": "WR",
+      "nfl": "BAL",
+      "age": 26.2,
+      "birth": "2000-09-11",
+      "yrs": 3,
+      "inj": null,
+      "inj_body": null,
+      "val": 4236,
       "src": "market",
       "status": "Starter"
      },
@@ -4269,7 +4461,7 @@
       "yrs": 4,
       "inj": "Questionable",
       "inj_body": "Hamstring",
-      "val": 3672,
+      "val": 3500,
       "src": "market",
       "status": "Starter"
      },
@@ -4278,14 +4470,28 @@
       "name": "Jalen Hurts",
       "pos": "QB",
       "nfl": "PHI",
-      "age": 28.2,
+      "age": 28.3,
       "birth": "1998-08-07",
       "yrs": 6,
       "inj": "IR",
       "inj_body": "Calf",
-      "val": 3313,
+      "val": 3304,
       "src": "market",
       "status": "IR"
+     },
+     {
+      "id": "10229",
+      "name": "Rashee Rice",
+      "pos": "WR",
+      "nfl": "KC",
+      "age": 26.6,
+      "birth": "2000-04-22",
+      "yrs": 3,
+      "inj": null,
+      "inj_body": null,
+      "val": 2830,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "8228",
@@ -4297,21 +4503,7 @@
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 2890,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "10229",
-      "name": "Rashee Rice",
-      "pos": "WR",
-      "nfl": "KC",
-      "age": 26.5,
-      "birth": "2000-04-22",
-      "yrs": 3,
-      "inj": "Questionable",
-      "inj_body": "Hamstring",
-      "val": 2725,
+      "val": 2789,
       "src": "market",
       "status": "Starter"
      },
@@ -4323,23 +4515,23 @@
       "age": 25.0,
       "birth": "2001-11-11",
       "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 2462,
+      "inj": "Questionable",
+      "inj_body": "Back",
+      "val": 2470,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "12481",
       "name": "Cam Skattebo",
       "pos": "RB",
       "nfl": "NYG",
-      "age": 24.7,
+      "age": 24.8,
       "birth": "2002-02-05",
       "yrs": 1,
-      "inj": "Questionable",
-      "inj_body": "Hamstring",
-      "val": 2390,
+      "inj": null,
+      "inj_body": null,
+      "val": 2382,
       "src": "market",
       "status": "Bench"
      },
@@ -4353,9 +4545,23 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 2136,
+      "val": 2118,
       "src": "market",
       "status": "Taxi"
+     },
+     {
+      "id": "11586",
+      "name": "Blake Corum",
+      "pos": "RB",
+      "nfl": "LAR",
+      "age": 26.0,
+      "birth": "2000-11-25",
+      "yrs": 2,
+      "inj": null,
+      "inj_body": null,
+      "val": 1978,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "7611",
@@ -4365,37 +4571,9 @@
       "age": 28.7,
       "birth": "1998-02-23",
       "yrs": 5,
-      "inj": null,
-      "inj_body": null,
-      "val": 1938,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "11586",
-      "name": "Blake Corum",
-      "pos": "RB",
-      "nfl": "LAR",
-      "age": 25.9,
-      "birth": "2000-11-25",
-      "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 1837,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "4017",
-      "name": "Deshaun Watson",
-      "pos": "QB",
-      "nfl": "CLE",
-      "age": 31.1,
-      "birth": "1995-09-14",
-      "yrs": 9,
-      "inj": "Questionable",
-      "inj_body": "Concussion",
-      "val": 1632,
+      "inj": "Doubtful",
+      "inj_body": "Knee",
+      "val": 1712,
       "src": "market",
       "status": "Bench"
      },
@@ -4404,40 +4582,40 @@
       "name": "RJ Harvey",
       "pos": "RB",
       "nfl": "DEN",
-      "age": 25.7,
+      "age": 25.8,
       "birth": "2001-02-04",
       "yrs": 1,
       "inj": "IR",
       "inj_body": "Knee",
-      "val": 1459,
+      "val": 1609,
       "src": "market",
       "status": "IR"
+     },
+     {
+      "id": "4017",
+      "name": "Deshaun Watson",
+      "pos": "QB",
+      "nfl": "CLE",
+      "age": 31.2,
+      "birth": "1995-09-14",
+      "yrs": 9,
+      "inj": null,
+      "inj_body": null,
+      "val": 1502,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "5022",
       "name": "Dallas Goedert",
       "pos": "TE",
       "nfl": "PHI",
-      "age": 31.8,
+      "age": 31.9,
       "birth": "1995-01-03",
       "yrs": 8,
       "inj": null,
       "inj_body": null,
-      "val": 1429,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "6011",
-      "name": "Gardner Minshew II",
-      "pos": "QB",
-      "nfl": "ARI",
-      "age": 30.5,
-      "birth": "1996-05-16",
-      "yrs": 7,
-      "inj": null,
-      "inj_body": null,
-      "val": 1162,
+      "val": 1332,
       "src": "market",
       "status": "Starter"
      },
@@ -4446,12 +4624,26 @@
       "name": "Kenny Gainwell",
       "pos": "RB",
       "nfl": "TB",
-      "age": 27.6,
+      "age": 27.7,
       "birth": "1999-03-14",
       "yrs": 5,
-      "inj": "Questionable",
-      "inj_body": "Hip",
-      "val": 1032,
+      "inj": null,
+      "inj_body": null,
+      "val": 1209,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "12491",
+      "name": "Corey Kiner",
+      "pos": "RB",
+      "nfl": "NE",
+      "age": 24.8,
+      "birth": "2002-01-21",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 1090,
       "src": "market",
       "status": "Bench"
      },
@@ -4465,7 +4657,21 @@
       "yrs": 6,
       "inj": "IR",
       "inj_body": "Foot",
-      "val": 980,
+      "val": 991,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "11579",
+      "name": "Audric Estime",
+      "pos": "RB",
+      "nfl": "NO",
+      "age": 23.2,
+      "birth": "2003-09-06",
+      "yrs": 2,
+      "inj": null,
+      "inj_body": null,
+      "val": 819,
       "src": "market",
       "status": "Bench"
      },
@@ -4474,40 +4680,26 @@
       "name": "Cyrus Allen",
       "pos": "WR",
       "nfl": "KC",
-      "age": 23.7,
+      "age": 23.8,
       "birth": "2003-02-11",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 943,
+      "val": 788,
       "src": "market",
       "status": "Taxi"
      },
      {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "pos": "RB",
-      "nfl": "NE",
-      "age": 24.8,
-      "birth": "2002-01-21",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 340,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "11575",
-      "name": "Ray Davis",
-      "pos": "RB",
-      "nfl": "BUF",
-      "age": 27.0,
-      "birth": "1999-11-11",
-      "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 239,
+      "id": "6011",
+      "name": "Gardner Minshew II",
+      "pos": "QB",
+      "nfl": "ARI",
+      "age": 30.5,
+      "birth": "1996-05-16",
+      "yrs": 7,
+      "inj": "IR",
+      "inj_body": "Elbow",
+      "val": 668,
       "src": "market",
       "status": "Bench"
      },
@@ -4516,12 +4708,12 @@
       "name": "LeQuint Allen Jr.",
       "pos": "RB",
       "nfl": "JAX",
-      "age": 22.2,
+      "age": 22.3,
       "birth": "2004-08-05",
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 156,
+      "val": 148,
       "src": "market",
       "status": "Taxi"
      }
@@ -4531,36 +4723,36 @@
       "season": 2027,
       "round": 2,
       "from": 7,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 4,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 7,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 57932,
-    "pickVal": 3667,
-    "total": 61599,
-    "wage": 26.2,
-    "youngShare": 32,
-    "oldShare": 9,
+    "playerVal": 59611,
+    "pickVal": 3751,
+    "total": 63362,
+    "wage": 26.1,
+    "youngShare": 34,
+    "oldShare": 8,
     "drank": 6,
     "window": "Dynasty power",
-    "allplay": 5.18,
-    "luck": -2.18,
-    "proj": 6.9,
-    "strength": 146.1,
+    "allplay": 5.73,
+    "luck": -1.73,
+    "proj": 7.0,
+    "strength": 137.8,
     "fcCount": 23,
     "sched": [
      {
@@ -4618,6 +4810,13 @@
       "pts": 112.96,
       "oppPts": 130.58,
       "ap": 2
+     },
+     {
+      "w": 9,
+      "opp": 6,
+      "pts": 143.6,
+      "oppPts": 103.94,
+      "ap": 6
      }
     ],
     "breakdown": {
@@ -4641,12 +4840,12 @@
       "name": "Josh Allen",
       "pos": "QB",
       "nfl": "BUF",
-      "age": 30.4,
+      "age": 30.5,
       "birth": "1996-05-21",
       "yrs": 8,
       "inj": null,
       "inj_body": null,
-      "val": 10779,
+      "val": 10617,
       "src": "market",
       "status": "Starter"
      },
@@ -4655,12 +4854,12 @@
       "name": "Bijan Robinson",
       "pos": "RB",
       "nfl": "ATL",
-      "age": 24.7,
+      "age": 24.8,
       "birth": "2002-01-30",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 9146,
+      "val": 9392,
       "src": "market",
       "status": "Starter"
      },
@@ -4674,7 +4873,7 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 7817,
+      "val": 8033,
       "src": "market",
       "status": "Starter"
      },
@@ -4683,12 +4882,12 @@
       "name": "Amon-Ra St. Brown",
       "pos": "WR",
       "nfl": "DET",
-      "age": 27.0,
+      "age": 27.1,
       "birth": "1999-10-24",
       "yrs": 5,
       "inj": "Questionable",
       "inj_body": "Ribs",
-      "val": 6871,
+      "val": 6928,
       "src": "market",
       "status": "Starter"
      },
@@ -4697,12 +4896,12 @@
       "name": "Ashton Jeanty",
       "pos": "RB",
       "nfl": "LV",
-      "age": 22.9,
+      "age": 23.0,
       "birth": "2003-12-02",
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 4737,
+      "val": 4461,
       "src": "market",
       "status": "Starter"
      },
@@ -4714,23 +4913,9 @@
       "age": 30.4,
       "birth": "1996-06-07",
       "yrs": 9,
-      "inj": "Questionable",
-      "inj_body": "Calf",
-      "val": 4405,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "3294",
-      "name": "Dak Prescott",
-      "pos": "QB",
-      "nfl": "DAL",
-      "age": 33.3,
-      "birth": "1993-07-29",
-      "yrs": 10,
       "inj": null,
       "inj_body": null,
-      "val": 4068,
+      "val": 4439,
       "src": "market",
       "status": "Starter"
      },
@@ -4744,7 +4929,21 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 3832,
+      "val": 4439,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "3294",
+      "name": "Dak Prescott",
+      "pos": "QB",
+      "nfl": "DAL",
+      "age": 33.3,
+      "birth": "1993-07-29",
+      "yrs": 10,
+      "inj": null,
+      "inj_body": null,
+      "val": 3989,
       "src": "market",
       "status": "Starter"
      },
@@ -4758,7 +4957,7 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 3742,
+      "val": 3685,
       "src": "market",
       "status": "Bench"
      },
@@ -4770,11 +4969,11 @@
       "age": 28.0,
       "birth": "1998-11-14",
       "yrs": 5,
-      "inj": "Questionable",
+      "inj": "Out",
       "inj_body": "Hamstring",
-      "val": 2731,
+      "val": 2676,
       "src": "market",
-      "status": "IR"
+      "status": "Bench"
      },
      {
       "id": "10232",
@@ -4784,37 +4983,23 @@
       "age": 26.7,
       "birth": "2000-02-23",
       "yrs": 3,
-      "inj": "Questionable",
-      "inj_body": "Ribs",
-      "val": 2663,
+      "inj": "IR",
+      "inj_body": "Neck",
+      "val": 2414,
       "src": "market",
-      "status": "Starter"
+      "status": "IR"
      },
      {
       "id": "5850",
       "name": "Josh Jacobs",
       "pos": "RB",
       "nfl": "GB",
-      "age": 28.7,
+      "age": 28.8,
       "birth": "1998-02-11",
       "yrs": 7,
-      "inj": null,
-      "inj_body": null,
-      "val": 2633,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "7526",
-      "name": "Jaylen Waddle",
-      "pos": "WR",
-      "nfl": "DEN",
-      "age": 27.9,
-      "birth": "1998-11-25",
-      "yrs": 5,
-      "inj": null,
-      "inj_body": null,
-      "val": 1870,
+      "inj": "Out",
+      "inj_body": "Finger",
+      "val": 2379,
       "src": "market",
       "status": "Bench"
      },
@@ -4828,21 +5013,35 @@
       "yrs": 12,
       "inj": "IR",
       "inj_body": "Hamstring",
-      "val": 1729,
+      "val": 1941,
       "src": "market",
       "status": "IR"
+     },
+     {
+      "id": "7526",
+      "name": "Jaylen Waddle",
+      "pos": "WR",
+      "nfl": "DEN",
+      "age": 28.0,
+      "birth": "1998-11-25",
+      "yrs": 5,
+      "inj": "Out",
+      "inj_body": "Head",
+      "val": 1926,
+      "src": "market",
+      "status": "Bench"
      },
      {
       "id": "13414",
       "name": "Kaelon Black",
       "pos": "RB",
       "nfl": "SF",
-      "age": 25.0,
+      "age": 25.1,
       "birth": "2001-10-17",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 1571,
+      "val": 1393,
       "src": "market",
       "status": "Taxi"
      },
@@ -4851,14 +5050,28 @@
       "name": "Michael Mayer",
       "pos": "TE",
       "nfl": "LV",
-      "age": 25.3,
+      "age": 25.4,
       "birth": "2001-07-06",
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 1315,
+      "val": 1345,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "11783",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "nfl": "DAL",
+      "age": 27.1,
+      "birth": "1999-10-27",
+      "yrs": 2,
+      "inj": null,
+      "inj_body": null,
+      "val": 1333,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "3214",
@@ -4870,49 +5083,21 @@
       "yrs": 10,
       "inj": "Questionable",
       "inj_body": "Foot",
-      "val": 1161,
+      "val": 1129,
       "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "11783",
-      "name": "Ryan Flournoy",
-      "pos": "WR",
-      "nfl": "DAL",
-      "age": 27.0,
-      "birth": "1999-10-27",
-      "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 1110,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "12502",
-      "name": "Gunnar Helm",
-      "pos": "TE",
-      "nfl": "TEN",
-      "age": 24.1,
-      "birth": "2002-09-06",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 953,
-      "src": "market",
-      "status": "Taxi"
+      "status": "Starter"
      },
      {
       "id": "13288",
       "name": "Nicholas Singleton",
       "pos": "RB",
       "nfl": "TEN",
-      "age": 22.8,
+      "age": 22.9,
       "birth": "2004-01-06",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 849,
+      "val": 909,
       "src": "market",
       "status": "Taxi"
      },
@@ -4921,26 +5106,40 @@
       "name": "Brandon Aiyuk",
       "pos": "WR",
       "nfl": "SF",
-      "age": 28.6,
+      "age": 28.7,
       "birth": "1998-03-17",
       "yrs": 6,
       "inj": "DNR",
       "inj_body": "Knee - ACL + MCL",
-      "val": 772,
+      "val": 832,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "12502",
+      "name": "Gunnar Helm",
+      "pos": "TE",
+      "nfl": "TEN",
+      "age": 24.2,
+      "birth": "2002-09-06",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 787,
+      "src": "market",
+      "status": "Taxi"
      },
      {
       "id": "12542",
       "name": "Efton Chism III",
       "pos": "WR",
       "nfl": "NE",
-      "age": 25.0,
+      "age": 25.1,
       "birth": "2001-10-26",
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 485,
+      "val": 601,
       "src": "market",
       "status": "Bench"
      },
@@ -4952,9 +5151,9 @@
       "age": 32.7,
       "birth": "1994-03-01",
       "yrs": 10,
-      "inj": "Questionable",
+      "inj": "",
       "inj_body": "Knee - ACL",
-      "val": 363,
+      "val": 492,
       "src": "market",
       "status": "Bench"
      }
@@ -4964,57 +5163,57 @@
       "season": 2027,
       "round": 1,
       "from": 2,
-      "val": 4886,
+      "val": 4976,
       "slot": "Early"
      },
      {
       "season": 2027,
       "round": 2,
       "from": 2,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 8,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 11,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 8,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 11,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 75602,
-    "pickVal": 13282,
-    "total": 88884,
-    "wage": 27.4,
-    "youngShare": 34,
+    "playerVal": 76140,
+    "pickVal": 13367,
+    "total": 89507,
+    "wage": 27.5,
+    "youngShare": 31,
     "oldShare": 30,
     "drank": 1,
     "window": "Dynasty power",
-    "allplay": 7.0,
-    "luck": 1.0,
-    "proj": 13.6,
-    "strength": 185.4,
+    "allplay": 7.82,
+    "luck": 1.18,
+    "proj": 13.7,
+    "strength": 177.8,
     "fcCount": 23,
     "sched": [
      {
@@ -5072,38 +5271,31 @@
       "pts": 199.56,
       "oppPts": 135.2,
       "ap": 10
+     },
+     {
+      "w": 9,
+      "opp": 2,
+      "pts": 161.36,
+      "oppPts": 81.72,
+      "ap": 9
      }
     ],
     "breakdown": {
      "by": "margaret",
-     "headline": "Six Wins, the Most Valuable Player in the League, and a First From God Bless Vodka",
+     "asOf": 10,
+     "headline": "9-0, 17,872 Clear in Value, and the Same Three Thirty-Somethings at Quarterback and Running Back",
      "p": [
-      "Bijan Your Face 🍆💦 is 6-0, the last unbeaten team, and first in dynasty value at 91,566. The gap to second-place Send Nudes is 17,941, which is about the value of Bijan Robinson and Brock Bowers combined. It scores 184.8 a game, best in the league, and its projected win total is now 13.5.",
-      "The roster is built at the top. Josh Allen (10,740) is the most valuable player in the league, and he's on the bench this week only because Buffalo has a bye. Bijan Robinson (10,074), 24, Bowers (7,666), 23, and Ashton Jeanty (5,617), 22, give it three young cornerstones. Amon-Ra St. Brown (7,489) gained 558 in value since last Sunday. The losses were at the edges: Davante Adams (IR) fell 682 and Michael Wilson 464.",
-      "Age is the one thing to watch. Thirty percent of the value is in players 29 or older: Allen and Christian McCaffrey are both 30.4, and Dak Prescott is 33.3. Only 34% is 25 or younger.",
-      "The draft capital covers it. Bijan holds God Bless Vodka's 2027 first, and with God Bless Vodka at 1-5, it currently projects early and is worth 5,103. It also has God Bless Vodka's 2027 second, its own 2028 first and second, and Ben Football Team's 2028 first and third. Its own 2027 first belongs to Jackie aCHANe. Pick value is 13,753, fifth. This week it spent $13 on Michael Mayer and $6 on Ryan Flournoy for depth."
+      "Bijan Your Face 🍆💦 is 9-0, the only unbeaten team, and scores 184.9 a game, first by 10.4. It's first in dynasty value at 89,507, and the gap to second-place Sheev is 17,872. Its projected win total is 13.7 of 14.",
+      "The top of the roster held. Josh Allen (10,617) is still the most valuable player in the league, down 162 this week. Bijan Robinson (9,392) gained 246 and Brock Bowers (8,033) gained 216. The biggest gain on the roster belongs to Tee Higgins, up 607 to 4,439, and Ryan Flournoy gained 223. The losses are all injuries: Ashton Jeanty fell 276, Josh Jacobs 254 with a fractured finger, and Michael Wilson 249 with a season-ending neck injury.",
+      "The detail worth watching is the age. Thirty percent of the value is in players 29 or older, third-most in the league. Allen is 30.5, Christian McCaffrey 30.4 and Dak Prescott 33.3, and those three start at quarterback, quarterback and running back this week. Only 31% is in players 25 or younger.",
+      "The draft capital is the hedge. Bijan holds God Bless Vodka's 2027 first, projected early at 4,976 because God Bless Vodka is 2-7, plus God Bless Vodka's 2027 second, its own 2028 first and second, and Ben Football Team's 2028 first and third. Its own 2027 first and third belong to Jackie aCHANe. Pick value is 13,367, fifth."
      ],
-     "verdict": "The best team in the league now, and an early first from a struggling team to restock later.",
-     "move": "Nothing big. Use the God Bless Vodka first or the Ben 2028 first to get younger at running back behind McCaffrey before his value falls further.",
-     "asOf": 7
+     "verdict": "The best team in the league by a distance, carrying more age at the top than any contender should be comfortable with.",
+     "move": "Hold for the title. In the offseason, use the God Bless Vodka first to get younger behind McCaffrey before his value slides further."
     }
    },
    "9": {
     "players": [
-     {
-      "id": "12517",
-      "name": "Colston Loveland",
-      "pos": "TE",
-      "nfl": "CHI",
-      "age": 22.6,
-      "birth": "2004-04-09",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 4168,
-      "src": "market",
-      "status": "Starter"
-     },
      {
       "id": "13269",
       "name": "Fernando Mendoza",
@@ -5114,9 +5306,23 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 3913,
+      "val": 4429,
       "src": "market",
       "status": "Taxi"
+     },
+     {
+      "id": "12517",
+      "name": "Colston Loveland",
+      "pos": "TE",
+      "nfl": "CHI",
+      "age": 22.6,
+      "birth": "2004-04-09",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 4016,
+      "src": "market",
+      "status": "Bench"
      },
      {
       "id": "13345",
@@ -5128,21 +5334,7 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 2573,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "4943",
-      "name": "Sam Darnold",
-      "pos": "QB",
-      "nfl": "SEA",
-      "age": 29.4,
-      "birth": "1997-06-05",
-      "yrs": 8,
-      "inj": "Out",
-      "inj_body": "Quadriceps",
-      "val": 2490,
+      "val": 2903,
       "src": "market",
       "status": "Bench"
      },
@@ -5156,49 +5348,35 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 2456,
+      "val": 2459,
       "src": "market",
       "status": "Starter"
+     },
+     {
+      "id": "4943",
+      "name": "Sam Darnold",
+      "pos": "QB",
+      "nfl": "SEA",
+      "age": 29.5,
+      "birth": "1997-06-05",
+      "yrs": 8,
+      "inj": "Out",
+      "inj_body": "Quadriceps",
+      "val": 2371,
+      "src": "market",
+      "status": "Bench"
      },
      {
       "id": "10236",
       "name": "Dalton Kincaid",
       "pos": "TE",
       "nfl": "BUF",
-      "age": 27.0,
+      "age": 27.1,
       "birth": "1999-10-18",
       "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 2040,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "11565",
-      "name": "J.J. McCarthy",
-      "pos": "QB",
-      "nfl": "NYG",
-      "age": 23.8,
-      "birth": "2003-01-20",
-      "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 1955,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "13301",
-      "name": "Antonio Williams",
-      "pos": "WR",
-      "nfl": "WAS",
-      "age": 22.3,
-      "birth": "2004-07-14",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 1656,
+      "inj": "Questionable",
+      "inj_body": "Ankle",
+      "val": 2220,
       "src": "market",
       "status": "Starter"
      },
@@ -5212,7 +5390,49 @@
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 1588,
+      "val": 1909,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "11565",
+      "name": "J.J. McCarthy",
+      "pos": "QB",
+      "nfl": "NYG",
+      "age": 23.8,
+      "birth": "2003-01-20",
+      "yrs": 2,
+      "inj": null,
+      "inj_body": null,
+      "val": 1877,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "nfl": "WAS",
+      "age": 22.3,
+      "birth": "2004-07-14",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 1614,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "12469",
+      "name": "Dylan Sampson",
+      "pos": "RB",
+      "nfl": "CLE",
+      "age": 22.2,
+      "birth": "2004-09-14",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 1342,
       "src": "market",
       "status": "Starter"
      },
@@ -5226,7 +5446,7 @@
       "yrs": 1,
       "inj": "IR",
       "inj_body": "Knee - ACL",
-      "val": 1398,
+      "val": 1341,
       "src": "market",
       "status": "IR"
      },
@@ -5240,21 +5460,21 @@
       "yrs": 1,
       "inj": "IR",
       "inj_body": "Groin",
-      "val": 1209,
+      "val": 1258,
       "src": "market",
       "status": "IR"
      },
      {
-      "id": "12469",
-      "name": "Dylan Sampson",
-      "pos": "RB",
-      "nfl": "CLE",
-      "age": 22.1,
-      "birth": "2004-09-14",
-      "yrs": 1,
+      "id": "9501",
+      "name": "DeMario Douglas",
+      "pos": "WR",
+      "nfl": "NE",
+      "age": 25.9,
+      "birth": "2000-12-08",
+      "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 1187,
+      "val": 1240,
       "src": "market",
       "status": "Starter"
      },
@@ -5268,7 +5488,7 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 1178,
+      "val": 1069,
       "src": "market",
       "status": "Bench"
      },
@@ -5282,37 +5502,9 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 1069,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "9501",
-      "name": "DeMario Douglas",
-      "pos": "WR",
-      "nfl": "NE",
-      "age": 25.9,
-      "birth": "2000-12-08",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 1051,
+      "val": 1064,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "9230",
-      "name": "Tanner McKee",
-      "pos": "QB",
-      "nfl": "PHI",
-      "age": 26.5,
-      "birth": "2000-04-27",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 1040,
-      "src": "market",
-      "status": "Bench"
      },
      {
       "id": "9486",
@@ -5322,9 +5514,9 @@
       "age": 25.4,
       "birth": "2001-06-16",
       "yrs": 3,
-      "inj": "Questionable",
+      "inj": "Out",
       "inj_body": "Ankle",
-      "val": 992,
+      "val": 890,
       "src": "market",
       "status": "Bench"
      },
@@ -5333,12 +5525,12 @@
       "name": "Treylon Burks",
       "pos": "WR",
       "nfl": "WAS",
-      "age": 26.6,
+      "age": 26.7,
       "birth": "2000-03-23",
       "yrs": 4,
-      "inj": "Questionable",
-      "inj_body": "Foot",
-      "val": 792,
+      "inj": null,
+      "inj_body": null,
+      "val": 557,
       "src": "market",
       "status": "Bench"
      },
@@ -5352,7 +5544,21 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 509,
+      "val": 365,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "9230",
+      "name": "Tanner McKee",
+      "pos": "QB",
+      "nfl": "PHI",
+      "age": 26.6,
+      "birth": "2000-04-27",
+      "yrs": 3,
+      "inj": null,
+      "inj_body": null,
+      "val": 322,
       "src": "market",
       "status": "Bench"
      },
@@ -5361,14 +5567,28 @@
       "name": "Jahan Dotson",
       "pos": "WR",
       "nfl": "ATL",
-      "age": 26.6,
+      "age": 26.7,
       "birth": "2000-03-22",
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 333,
+      "val": 293,
       "src": "market",
       "status": "Starter"
+     },
+     {
+      "id": "13405",
+      "name": "Kaytron Allen",
+      "pos": "RB",
+      "nfl": "MIA",
+      "age": 23.9,
+      "birth": "2003-01-08",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 263,
+      "src": "market",
+      "status": "Taxi"
      },
      {
       "id": "4663",
@@ -5380,35 +5600,21 @@
       "yrs": 9,
       "inj": null,
       "inj_body": null,
-      "val": 305,
+      "val": 245,
       "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "13405",
-      "name": "Kaytron Allen",
-      "pos": "RB",
-      "nfl": "MIA",
-      "age": 23.8,
-      "birth": "2003-01-08",
-      "yrs": 0,
-      "inj": "Questionable",
-      "inj_body": "Quadriceps",
-      "val": 303,
-      "src": "market",
-      "status": "Taxi"
+      "status": "Starter"
      },
      {
       "id": "13423",
       "name": "Eli Heidenreich",
       "pos": "RB",
       "nfl": "PIT",
-      "age": 23.3,
+      "age": 23.4,
       "birth": "2003-06-28",
       "yrs": 0,
-      "inj": "Out",
-      "inj_body": "Coach's Decision",
-      "val": 112,
+      "inj": null,
+      "inj_body": null,
+      "val": 44,
       "src": "market",
       "status": "Taxi"
      }
@@ -5418,78 +5624,78 @@
       "season": 2027,
       "round": 1,
       "from": 1,
-      "val": 4886,
+      "val": 4976,
       "slot": "Early"
      },
      {
       "season": 2027,
       "round": 1,
       "from": 3,
-      "val": 2492,
+      "val": 2535,
       "slot": "Late"
      },
      {
       "season": 2027,
       "round": 1,
       "from": 9,
-      "val": 4886,
+      "val": 4976,
       "slot": "Early"
      },
      {
       "season": 2027,
       "round": 2,
       "from": 3,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 2,
       "from": 8,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2027,
       "round": 2,
       "from": 9,
-      "val": 1590,
+      "val": 1604,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 9,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 9,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 9,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 34317,
-    "pickVal": 21621,
-    "total": 55938,
-    "wage": 24.5,
-    "youngShare": 67,
+    "playerVal": 34091,
+    "pickVal": 21890,
+    "total": 55981,
+    "wage": 24.4,
+    "youngShare": 69,
     "oldShare": 8,
     "drank": 8,
     "window": "Rebuild",
-    "allplay": 1.64,
-    "luck": -1.64,
-    "proj": 1.4,
-    "strength": 97.6,
+    "allplay": 1.91,
+    "luck": -1.91,
+    "proj": 1.0,
+    "strength": 95.8,
     "fcCount": 23,
     "sched": [
      {
@@ -5547,20 +5753,27 @@
       "pts": 135.2,
       "oppPts": 199.56,
       "ap": 8
+     },
+     {
+      "w": 9,
+      "opp": 3,
+      "pts": 96.98,
+      "oppPts": 161.66,
+      "ap": 3
      }
     ],
     "breakdown": {
      "by": "anita",
-     "headline": "0-6, Three 2027 Firsts, and a Tight End Who Just Got More Targets",
+     "asOf": 10,
+     "headline": "0-9, 39.5 Points on Thursday, and Two Early Firsts That Keep Getting Earlier",
      "p": [
-      "Very Naughty Boys is 0-6, scores 86.0 a game, last, and projects for 0.8 wins. Clinically, that's the plan working. Dynasty value rose 2,262 to 56,246, eighth.",
-      "Three trades in two days this week. It sent Anthony Richardson Sr. to ClutchJuice for a 2028 fifth, sent Chris Godwin Jr. and Justin Fields to Ben Football Team for Dontayvion Wicks, and added Austin Ekeler from God Bless Vodka for a 2027 fourth. Wicks is out this week with an ankle injury. J.J. McCarthy gained 994 in value and Colston Loveland (3,955) gained 549. Loveland scored 19.9 on Thursday, and Cole Kmet's knee injury could make him Chicago's only real tight end.",
-      "Sixty-five percent of the value is in players 25 or younger. Fernando Mendoza (3,990) on the taxi squad is the most valuable player on the roster.",
-      "The draft capital is the second-best in the league at 22,515. Very Naughty Boys holds three 2027 firsts: its own and Sheev's, both projected early at 5,103 each, and Send Nudes' (projected late). It also holds Send Nudes', Bijan's and its own 2027 seconds, plus its own 2028 first, second and third. Its own 2027 third belongs to ClutchJuice."
+      "Very Naughty Boys is 0-9, scores 95.2 a game, 10th, and projects for 1.0 wins. It banked 39.5 on Thursday night, more than brimley, which I'd call a symptom rather than a recovery. Dynasty value is 55,981, eighth, up 43 from last Sunday.",
+      "Fernando Mendoza (4,429) on the taxi squad gained 516 and is the most valuable player on the roster. Colston Loveland (4,016) lost 152 and sits on a bye this week. Jonah Coleman gained 330 and is Denver's starter with RJ Harvey on injured reserve, and Jordan Addison gained 321. The biggest loss was Tanner McKee, down 718. Sam Darnold (2,371) is out again with ribs and a quad.",
+      "Sixty-nine percent of the value is in players 25 or younger, third in the league, and only 8% is 29 or older.",
+      "The draft capital is second in the league at 21,890. Very Naughty Boys holds three 2027 firsts: its own and Sheev's, both projected early at 4,976, and Send Nudes' (projected late, 2,535). It also holds Send Nudes', Bijan's and its own 2027 seconds, plus its own 2028 first, second and third. Its own 2027 third belongs to ClutchJuice."
      ],
-     "verdict": "The cleanest tank in the league, with two early firsts and a third that's late.",
-     "move": "Keep selling veterans for picks. Package the Send Nudes first with a second to move up if a top quarterback prospect is there.",
-     "asOf": 7
+     "verdict": "The tank is clinically sound: two early firsts, a quarterback prospect on the taxi squad, and nothing on the roster worth protecting.",
+     "move": "Sell Darnold and Kincaid to a contender before the deadline for anything with a 2027 tag on it. Neither is part of the next good Very Naughty Boys team."
     }
    },
    "10": {
@@ -5570,14 +5783,14 @@
       "name": "Caleb Williams",
       "pos": "QB",
       "nfl": "CHI",
-      "age": 24.9,
+      "age": 25.0,
       "birth": "2001-11-18",
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 7713,
+      "val": 7345,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      },
      {
       "id": "6786",
@@ -5589,21 +5802,7 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 6454,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "6813",
-      "name": "Jonathan Taylor",
-      "pos": "RB",
-      "nfl": "IND",
-      "age": 27.8,
-      "birth": "1999-01-19",
-      "yrs": 6,
-      "inj": null,
-      "inj_body": null,
-      "val": 5404,
+      "val": 7056,
       "src": "market",
       "status": "Starter"
      },
@@ -5617,7 +5816,7 @@
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 5308,
+      "val": 5188,
       "src": "market",
       "status": "Starter"
      },
@@ -5631,7 +5830,21 @@
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 5083,
+      "val": 5107,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "6813",
+      "name": "Jonathan Taylor",
+      "pos": "RB",
+      "nfl": "IND",
+      "age": 27.8,
+      "birth": "1999-01-19",
+      "yrs": 6,
+      "inj": null,
+      "inj_body": null,
+      "val": 5078,
       "src": "market",
       "status": "Starter"
      },
@@ -5640,12 +5853,12 @@
       "name": "Chris Olave",
       "pos": "WR",
       "nfl": "NO",
-      "age": 26.3,
+      "age": 26.4,
       "birth": "2000-06-27",
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 4666,
+      "val": 4792,
       "src": "market",
       "status": "Starter"
      },
@@ -5659,7 +5872,7 @@
       "yrs": 4,
       "inj": "Questionable",
       "inj_body": "Concussion",
-      "val": 3819,
+      "val": 3840,
       "src": "market",
       "status": "Starter"
      },
@@ -5668,12 +5881,12 @@
       "name": "Javonte Williams",
       "pos": "RB",
       "nfl": "DAL",
-      "age": 26.5,
+      "age": 26.6,
       "birth": "2000-04-25",
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 3422,
+      "val": 3791,
       "src": "market",
       "status": "Starter"
      },
@@ -5687,9 +5900,23 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 3184,
+      "val": 3136,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "421",
+      "name": "Matthew Stafford",
+      "pos": "QB",
+      "nfl": "LAR",
+      "age": 38.8,
+      "birth": "1988-02-07",
+      "yrs": 17,
+      "inj": null,
+      "inj_body": null,
+      "val": 2287,
+      "src": "market",
+      "status": "Starter"
      },
      {
       "id": "11559",
@@ -5701,21 +5928,7 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 2427,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "421",
-      "name": "Matthew Stafford",
-      "pos": "QB",
-      "nfl": "LAR",
-      "age": 38.7,
-      "birth": "1988-02-07",
-      "yrs": 17,
-      "inj": null,
-      "inj_body": null,
-      "val": 2283,
+      "val": 2155,
       "src": "market",
       "status": "Starter"
      },
@@ -5729,7 +5942,7 @@
       "yrs": 1,
       "inj": "IR",
       "inj_body": "Ankle",
-      "val": 1541,
+      "val": 1596,
       "src": "market",
       "status": "IR"
      },
@@ -5741,9 +5954,9 @@
       "age": 37.1,
       "birth": "1989-10-05",
       "yrs": 13,
-      "inj": "Questionable",
-      "inj_body": "Ankle",
-      "val": 1488,
+      "inj": null,
+      "inj_body": null,
+      "val": 1526,
       "src": "market",
       "status": "Starter"
      },
@@ -5757,49 +5970,7 @@
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 1372,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "11637",
-      "name": "Keon Coleman",
-      "pos": "WR",
-      "nfl": "BUF",
-      "age": 23.5,
-      "birth": "2003-05-17",
-      "yrs": 2,
-      "inj": null,
-      "inj_body": null,
-      "val": 1315,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "13424",
-      "name": "Seth McGowan",
-      "pos": "RB",
-      "nfl": "IND",
-      "age": 25.0,
-      "birth": "2001-10-23",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 1253,
-      "src": "market",
-      "status": "Taxi"
-     },
-     {
-      "id": "8408",
-      "name": "Jordan Mason",
-      "pos": "RB",
-      "nfl": "MIN",
-      "age": 27.4,
-      "birth": "1999-05-24",
-      "yrs": 4,
-      "inj": null,
-      "inj_body": null,
-      "val": 1245,
+      "val": 1425,
       "src": "market",
       "status": "Bench"
      },
@@ -5808,14 +5979,42 @@
       "name": "Juwan Johnson",
       "pos": "TE",
       "nfl": "NO",
-      "age": 30.1,
+      "age": 30.2,
       "birth": "1996-09-13",
       "yrs": 6,
       "inj": null,
       "inj_body": null,
-      "val": 1218,
+      "val": 1264,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "8408",
+      "name": "Jordan Mason",
+      "pos": "RB",
+      "nfl": "MIN",
+      "age": 27.5,
+      "birth": "1999-05-24",
+      "yrs": 4,
+      "inj": null,
+      "inj_body": null,
+      "val": 1226,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "13424",
+      "name": "Seth McGowan",
+      "pos": "RB",
+      "nfl": "IND",
+      "age": 25.1,
+      "birth": "2001-10-23",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 1142,
+      "src": "market",
+      "status": "Taxi"
      },
      {
       "id": "4035",
@@ -5827,7 +6026,21 @@
       "yrs": 9,
       "inj": "Questionable",
       "inj_body": "Back",
-      "val": 1087,
+      "val": 1079,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "8172",
+      "name": "Greg Dulcich",
+      "pos": "TE",
+      "nfl": "MIA",
+      "age": 26.6,
+      "birth": "2000-03-26",
+      "yrs": 4,
+      "inj": null,
+      "inj_body": null,
+      "val": 729,
       "src": "market",
       "status": "Bench"
      },
@@ -5836,12 +6049,26 @@
       "name": "Zavion Thomas",
       "pos": "WR",
       "nfl": "CHI",
-      "age": 22.7,
+      "age": 22.8,
       "birth": "2004-02-14",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 352,
+      "val": 403,
+      "src": "market",
+      "status": "Taxi"
+     },
+     {
+      "id": "12505",
+      "name": "Jalen Royals",
+      "pos": "WR",
+      "nfl": "KC",
+      "age": 23.7,
+      "birth": "2003-02-18",
+      "yrs": 1,
+      "inj": null,
+      "inj_body": null,
+      "val": 141,
       "src": "market",
       "status": "Taxi"
      },
@@ -5855,23 +6082,9 @@
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 280,
+      "val": 87,
       "src": "market",
       "status": "Bench"
-     },
-     {
-      "id": "12505",
-      "name": "Jalen Royals",
-      "pos": "WR",
-      "nfl": "KC",
-      "age": 23.7,
-      "birth": "2003-02-18",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 203,
-      "src": "market",
-      "status": "Taxi"
      }
     ],
     "picks": [
@@ -5879,29 +6092,29 @@
       "season": 2028,
       "round": 1,
       "from": 10,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 3,
       "from": 10,
-      "val": 994,
+      "val": 1020,
       "slot": null
      }
     ],
-    "playerVal": 61117,
-    "pickVal": 3213,
-    "total": 64330,
-    "wage": 27.3,
-    "youngShare": 20,
+    "playerVal": 60393,
+    "pickVal": 3216,
+    "total": 63609,
+    "wage": 27.4,
+    "youngShare": 16,
     "oldShare": 10,
     "drank": 5,
     "window": "Dynasty power",
-    "allplay": 6.09,
-    "luck": -1.09,
-    "proj": 9.7,
-    "strength": 160.2,
+    "allplay": 6.82,
+    "luck": -0.82,
+    "proj": 9.9,
+    "strength": 163.6,
     "fcCount": 22,
     "sched": [
      {
@@ -5959,6 +6172,13 @@
       "pts": 123.26,
       "oppPts": 72.68,
       "ap": 6
+     },
+     {
+      "w": 9,
+      "opp": 11,
+      "pts": 159.98,
+      "oppPts": 86.68,
+      "ap": 8
      }
     ],
     "breakdown": {
@@ -5982,12 +6202,12 @@
       "name": "Patrick Mahomes",
       "pos": "QB",
       "nfl": "KC",
-      "age": 31.1,
+      "age": 31.2,
       "birth": "1995-09-17",
       "yrs": 9,
       "inj": null,
       "inj_body": null,
-      "val": 5310,
+      "val": 5354,
       "src": "market",
       "status": "Starter"
      },
@@ -5999,9 +6219,9 @@
       "age": 32.1,
       "birth": "1994-10-14",
       "yrs": 10,
-      "inj": null,
-      "inj_body": null,
-      "val": 4033,
+      "inj": "Questionable",
+      "inj_body": "Chest",
+      "val": 3777,
       "src": "market",
       "status": "Starter"
      },
@@ -6010,26 +6230,12 @@
       "name": "Bhayshul Tuten",
       "pos": "RB",
       "nfl": "JAX",
-      "age": 23.7,
+      "age": 23.8,
       "birth": "2003-02-14",
       "yrs": 1,
       "inj": "Questionable",
       "inj_body": "Ankle",
-      "val": 3830,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "10859",
-      "name": "Sam LaPorta",
-      "pos": "TE",
-      "nfl": "DET",
-      "age": 25.8,
-      "birth": "2001-01-12",
-      "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 3168,
+      "val": 3534,
       "src": "market",
       "status": "Starter"
      },
@@ -6043,7 +6249,21 @@
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 3164,
+      "val": 3054,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "10859",
+      "name": "Sam LaPorta",
+      "pos": "TE",
+      "nfl": "DET",
+      "age": 25.8,
+      "birth": "2001-01-12",
+      "yrs": 3,
+      "inj": null,
+      "inj_body": null,
+      "val": 2883,
       "src": "market",
       "status": "Starter"
      },
@@ -6056,8 +6276,8 @@
       "birth": "2003-12-06",
       "yrs": 0,
       "inj": "Questionable",
-      "inj_body": "Calf",
-      "val": 2273,
+      "inj_body": "Toe",
+      "val": 2520,
       "src": "market",
       "status": "Starter"
      },
@@ -6071,7 +6291,7 @@
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 1837,
+      "val": 1886,
       "src": "market",
       "status": "Starter"
      },
@@ -6085,7 +6305,7 @@
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 1632,
+      "val": 1661,
       "src": "market",
       "status": "Bench"
      },
@@ -6099,21 +6319,21 @@
       "yrs": 7,
       "inj": null,
       "inj_body": null,
-      "val": 1613,
+      "val": 1630,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
       "id": "5844",
       "name": "T.J. Hockenson",
       "pos": "TE",
       "nfl": "MIN",
-      "age": 29.3,
+      "age": 29.4,
       "birth": "1997-07-03",
       "yrs": 7,
-      "inj": null,
-      "inj_body": null,
-      "val": 1572,
+      "inj": "Questionable",
+      "inj_body": "Wrist",
+      "val": 1619,
       "src": "market",
       "status": "Starter"
      },
@@ -6122,42 +6342,14 @@
       "name": "Mike Washington Jr.",
       "pos": "RB",
       "nfl": "LV",
-      "age": 23.3,
+      "age": 23.4,
       "birth": "2003-07-03",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 1548,
+      "val": 1407,
       "src": "market",
       "status": "Bench"
-     },
-     {
-      "id": "13311",
-      "name": "Chris Bell",
-      "pos": "WR",
-      "nfl": "MIA",
-      "age": 22.4,
-      "birth": "2004-06-07",
-      "yrs": 0,
-      "inj": null,
-      "inj_body": null,
-      "val": 1336,
-      "src": "market",
-      "status": "Bench"
-     },
-     {
-      "id": "11638",
-      "name": "Ricky Pearsall",
-      "pos": "WR",
-      "nfl": "SF",
-      "age": 26.1,
-      "birth": "2000-09-09",
-      "yrs": 2,
-      "inj": "IR",
-      "inj_body": "Knee - PCL",
-      "val": 1319,
-      "src": "market",
-      "status": "IR"
      },
      {
       "id": "11625",
@@ -6169,21 +6361,35 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 1299,
+      "val": 1331,
       "src": "market",
       "status": "Starter"
      },
      {
-      "id": "4037",
-      "name": "Chris Godwin Jr.",
+      "id": "11638",
+      "name": "Ricky Pearsall",
       "pos": "WR",
-      "nfl": "TB",
-      "age": 30.7,
-      "birth": "1996-02-27",
-      "yrs": 9,
-      "inj": null,
-      "inj_body": null,
-      "val": 1127,
+      "nfl": "SF",
+      "age": 26.2,
+      "birth": "2000-09-09",
+      "yrs": 2,
+      "inj": "IR",
+      "inj_body": "Knee - PCL",
+      "val": 1275,
+      "src": "market",
+      "status": "IR"
+     },
+     {
+      "id": "13311",
+      "name": "Chris Bell",
+      "pos": "WR",
+      "nfl": "MIA",
+      "age": 22.4,
+      "birth": "2004-06-07",
+      "yrs": 0,
+      "inj": "Questionable",
+      "inj_body": "Knee",
+      "val": 1272,
       "src": "market",
       "status": "Bench"
      },
@@ -6197,35 +6403,35 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 1114,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "8676",
-      "name": "Rashid Shaheed",
-      "pos": "WR",
-      "nfl": "SEA",
-      "age": 28.2,
-      "birth": "1998-08-31",
-      "yrs": 4,
-      "inj": "Questionable",
-      "inj_body": "Knee",
-      "val": 767,
+      "val": 1143,
       "src": "market",
       "status": "Bench"
      },
      {
-      "id": "11435",
-      "name": "Emanuel Wilson",
+      "id": "12504",
+      "name": "Kaleb Johnson",
       "pos": "RB",
-      "nfl": "SEA",
-      "age": 27.5,
-      "birth": "1999-05-08",
-      "yrs": 3,
+      "nfl": "GB",
+      "age": 23.3,
+      "birth": "2003-08-14",
+      "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 703,
+      "val": 1074,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "4037",
+      "name": "Chris Godwin Jr.",
+      "pos": "WR",
+      "nfl": "TB",
+      "age": 30.7,
+      "birth": "1996-02-27",
+      "yrs": 9,
+      "inj": null,
+      "inj_body": null,
+      "val": 1048,
       "src": "market",
       "status": "Bench"
      },
@@ -6239,23 +6445,23 @@
       "yrs": 0,
       "inj": "IR",
       "inj_body": "Knee",
-      "val": 578,
+      "val": 711,
       "src": "market",
       "status": "Taxi"
      },
      {
-      "id": "13319",
-      "name": "Oscar Delp",
-      "pos": "TE",
-      "nfl": "NO",
-      "age": 23.2,
-      "birth": "2003-08-04",
-      "yrs": 0,
+      "id": "8676",
+      "name": "Rashid Shaheed",
+      "pos": "WR",
+      "nfl": "SEA",
+      "age": 28.2,
+      "birth": "1998-08-31",
+      "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 364,
+      "val": 618,
       "src": "market",
-      "status": "Taxi"
+      "status": "Bench"
      },
      {
       "id": "7591",
@@ -6267,21 +6473,35 @@
       "yrs": 5,
       "inj": null,
       "inj_body": null,
-      "val": 255,
+      "val": 409,
       "src": "market",
       "status": "Bench"
+     },
+     {
+      "id": "13319",
+      "name": "Oscar Delp",
+      "pos": "TE",
+      "nfl": "NO",
+      "age": 23.3,
+      "birth": "2003-08-04",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 308,
+      "src": "market",
+      "status": "Taxi"
      },
      {
       "id": "13306",
       "name": "Taylen Green",
       "pos": "QB",
       "nfl": "CLE",
-      "age": 24.0,
+      "age": 24.1,
       "birth": "2002-10-18",
       "yrs": 0,
       "inj": null,
       "inj_body": null,
-      "val": 65,
+      "val": 30,
       "src": "market",
       "status": "Taxi"
      }
@@ -6291,22 +6511,22 @@
       "season": 2028,
       "round": 2,
       "from": 11,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      }
     ],
-    "playerVal": 38907,
-    "pickVal": 1374,
-    "total": 40281,
-    "wage": 26.9,
-    "youngShare": 38,
+    "playerVal": 38544,
+    "pickVal": 1375,
+    "total": 39919,
+    "wage": 26.8,
+    "youngShare": 41,
     "oldShare": 31,
     "drank": 12,
     "window": "Rebuild",
-    "allplay": 3.36,
-    "luck": 2.64,
-    "proj": 8.6,
-    "strength": 127.3,
+    "allplay": 3.55,
+    "luck": 2.45,
+    "proj": 8.1,
+    "strength": 123.3,
     "fcCount": 22,
     "sched": [
      {
@@ -6364,6 +6584,13 @@
       "pts": 130.58,
       "oppPts": 112.96,
       "ap": 7
+     },
+     {
+      "w": 9,
+      "opp": 10,
+      "pts": 86.68,
+      "oppPts": 159.98,
+      "ap": 2
      }
     ],
     "breakdown": {
@@ -6387,12 +6614,12 @@
       "name": "Matthew Golden",
       "pos": "WR",
       "nfl": "GB",
-      "age": 23.2,
+      "age": 23.3,
       "birth": "2003-08-01",
       "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 4148,
+      "val": 5036,
       "src": "market",
       "status": "Starter"
      },
@@ -6401,12 +6628,12 @@
       "name": "De'Von Achane",
       "pos": "RB",
       "nfl": "MIA",
-      "age": 25.0,
+      "age": 25.1,
       "birth": "2001-10-13",
       "yrs": 3,
       "inj": "IR",
       "inj_body": "Knee - ACL",
-      "val": 3735,
+      "val": 3881,
       "src": "market",
       "status": "IR"
      },
@@ -6420,7 +6647,7 @@
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 3466,
+      "val": 3829,
       "src": "market",
       "status": "Starter"
      },
@@ -6434,21 +6661,7 @@
       "yrs": 3,
       "inj": null,
       "inj_body": null,
-      "val": 3096,
-      "src": "market",
-      "status": "Starter"
-     },
-     {
-      "id": "5849",
-      "name": "Kyler Murray",
-      "pos": "QB",
-      "nfl": "MIN",
-      "age": 29.2,
-      "birth": "1997-08-07",
-      "yrs": 7,
-      "inj": "Questionable",
-      "inj_body": "Hamstring",
-      "val": 2239,
+      "val": 2836,
       "src": "market",
       "status": "Starter"
      },
@@ -6457,12 +6670,12 @@
       "name": "Malik Willis",
       "pos": "QB",
       "nfl": "MIA",
-      "age": 27.4,
+      "age": 27.5,
       "birth": "1999-05-25",
       "yrs": 4,
-      "inj": null,
-      "inj_body": null,
-      "val": 2018,
+      "inj": "IR",
+      "inj_body": "Groin",
+      "val": 1754,
       "src": "market",
       "status": "Bench"
      },
@@ -6476,51 +6689,51 @@
       "yrs": 4,
       "inj": "IR",
       "inj_body": "Heel",
-      "val": 1644,
+      "val": 1684,
       "src": "market",
       "status": "IR"
+     },
+     {
+      "id": "5849",
+      "name": "Kyler Murray",
+      "pos": "QB",
+      "nfl": "MIN",
+      "age": 29.3,
+      "birth": "1997-08-07",
+      "yrs": 7,
+      "inj": "Doubtful",
+      "inj_body": "Hamstring",
+      "val": 1651,
+      "src": "market",
+      "status": "Bench"
      },
      {
       "id": "5870",
       "name": "Daniel Jones",
       "pos": "QB",
       "nfl": "IND",
-      "age": 29.4,
+      "age": 29.5,
       "birth": "1997-05-27",
       "yrs": 7,
       "inj": null,
       "inj_body": null,
-      "val": 1414,
+      "val": 1626,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
       "id": "8126",
       "name": "Wan'Dale Robinson",
       "pos": "WR",
       "nfl": "TEN",
-      "age": 25.8,
+      "age": 25.9,
       "birth": "2001-01-05",
       "yrs": 4,
       "inj": null,
       "inj_body": null,
-      "val": 1348,
+      "val": 1421,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "12474",
-      "name": "Woody Marks",
-      "pos": "RB",
-      "nfl": "HOU",
-      "age": 25.8,
-      "birth": "2000-12-29",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 1337,
-      "src": "market",
-      "status": "Bench"
      },
      {
       "id": "5892",
@@ -6530,9 +6743,9 @@
       "age": 29.4,
       "birth": "1997-06-07",
       "yrs": 7,
-      "inj": "Out",
+      "inj": "Questionable",
       "inj_body": "Groin",
-      "val": 1329,
+      "val": 1399,
       "src": "market",
       "status": "Bench"
      },
@@ -6544,9 +6757,37 @@
       "age": 30.0,
       "birth": "1996-11-09",
       "yrs": 7,
-      "inj": null,
-      "inj_body": null,
-      "val": 1282,
+      "inj": "Questionable",
+      "inj_body": "Ankle",
+      "val": 1324,
+      "src": "market",
+      "status": "Starter"
+     },
+     {
+      "id": "5927",
+      "name": "Terry McLaurin",
+      "pos": "WR",
+      "nfl": "WAS",
+      "age": 31.2,
+      "birth": "1995-09-15",
+      "yrs": 7,
+      "inj": "IR",
+      "inj_body": "Knee",
+      "val": 1323,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "12474",
+      "name": "Woody Marks",
+      "pos": "RB",
+      "nfl": "HOU",
+      "age": 25.9,
+      "birth": "2000-12-29",
+      "yrs": 1,
+      "inj": "Questionable",
+      "inj_body": "Knee",
+      "val": 1315,
       "src": "market",
       "status": "Starter"
      },
@@ -6555,12 +6796,26 @@
       "name": "Jayden Reed",
       "pos": "WR",
       "nfl": "GB",
-      "age": 26.5,
+      "age": 26.6,
       "birth": "2000-04-28",
       "yrs": 3,
       "inj": "IR",
       "inj_body": "Neck",
-      "val": 1265,
+      "val": 1199,
+      "src": "market",
+      "status": "Bench"
+     },
+     {
+      "id": "5045",
+      "name": "Courtland Sutton",
+      "pos": "WR",
+      "nfl": "DEN",
+      "age": 31.1,
+      "birth": "1995-10-10",
+      "yrs": 8,
+      "inj": null,
+      "inj_body": null,
+      "val": 1158,
       "src": "market",
       "status": "Bench"
      },
@@ -6574,23 +6829,9 @@
       "yrs": 2,
       "inj": null,
       "inj_body": null,
-      "val": 1213,
+      "val": 1104,
       "src": "market",
       "status": "Starter"
-     },
-     {
-      "id": "5927",
-      "name": "Terry McLaurin",
-      "pos": "WR",
-      "nfl": "WAS",
-      "age": 31.1,
-      "birth": "1995-09-15",
-      "yrs": 7,
-      "inj": "IR",
-      "inj_body": "Knee",
-      "val": 1156,
-      "src": "market",
-      "status": "Bench"
      },
      {
       "id": "10219",
@@ -6600,9 +6841,9 @@
       "age": 27.1,
       "birth": "1999-09-26",
       "yrs": 3,
-      "inj": null,
-      "inj_body": null,
-      "val": 1040,
+      "inj": "Questionable",
+      "inj_body": "Hand",
+      "val": 1082,
       "src": "market",
       "status": "Starter"
      },
@@ -6614,25 +6855,11 @@
       "age": 22.6,
       "birth": "2004-03-29",
       "yrs": 0,
-      "inj": "Out",
+      "inj": "Doubtful",
       "inj_body": "Hamstring",
-      "val": 558,
+      "val": 712,
       "src": "market",
       "status": "Bench"
-     },
-     {
-      "id": "12499",
-      "name": "Elic Ayomanor",
-      "pos": "WR",
-      "nfl": "TEN",
-      "age": 23.4,
-      "birth": "2003-06-03",
-      "yrs": 1,
-      "inj": null,
-      "inj_body": null,
-      "val": 487,
-      "src": "market",
-      "status": "Taxi"
      },
      {
       "id": "5995",
@@ -6644,21 +6871,21 @@
       "yrs": 7,
       "inj": null,
       "inj_body": null,
-      "val": 427,
+      "val": 597,
       "src": "market",
-      "status": "Bench"
+      "status": "Starter"
      },
      {
-      "id": "13420",
-      "name": "Bryce Lance",
+      "id": "12499",
+      "name": "Elic Ayomanor",
       "pos": "WR",
-      "nfl": "NO",
-      "age": 24.2,
-      "birth": "2002-08-20",
-      "yrs": 0,
+      "nfl": "TEN",
+      "age": 23.5,
+      "birth": "2003-06-03",
+      "yrs": 1,
       "inj": null,
       "inj_body": null,
-      "val": 303,
+      "val": 474,
       "src": "market",
       "status": "Taxi"
      },
@@ -6672,37 +6899,37 @@
       "yrs": 1,
       "inj": "IR",
       "inj_body": "Shoulder",
-      "val": 280,
+      "val": 277,
       "src": "market",
       "status": "Taxi"
      },
      {
-      "id": "4454",
-      "name": "Kendrick Bourne",
+      "id": "13420",
+      "name": "Bryce Lance",
       "pos": "WR",
-      "nfl": "ARI",
-      "age": 31.2,
-      "birth": "1995-08-04",
-      "yrs": 9,
-      "inj": "IR",
-      "inj_body": "Lower Leg",
-      "val": 266,
+      "nfl": "NO",
+      "age": 24.2,
+      "birth": "2002-08-20",
+      "yrs": 0,
+      "inj": null,
+      "inj_body": null,
+      "val": 263,
       "src": "market",
-      "status": "Starter"
+      "status": "Taxi"
      },
      {
       "id": "6039",
       "name": "Ty Johnson",
       "pos": "RB",
       "nfl": "BUF",
-      "age": 29.1,
+      "age": 29.2,
       "birth": "1997-09-17",
       "yrs": 7,
       "inj": null,
       "inj_body": null,
-      "val": 157,
+      "val": 126,
       "src": "market",
-      "status": "Starter"
+      "status": "Bench"
      }
     ],
     "picks": [
@@ -6710,71 +6937,71 @@
       "season": 2027,
       "round": 1,
       "from": 8,
-      "val": 2492,
+      "val": 2535,
       "slot": "Late"
      },
      {
       "season": 2027,
       "round": 1,
       "from": 12,
-      "val": 3217,
+      "val": 3277,
       "slot": "Mid"
      },
      {
       "season": 2027,
       "round": 3,
       "from": 1,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 6,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2027,
       "round": 3,
       "from": 8,
-      "val": 1083,
+      "val": 1127,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 2,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 1,
       "from": 12,
-      "val": 2219,
+      "val": 2196,
       "slot": null
      },
      {
       "season": 2028,
       "round": 2,
       "from": 1,
-      "val": 1374,
+      "val": 1375,
       "slot": null
      }
     ],
-    "playerVal": 34208,
-    "pickVal": 14770,
-    "total": 48978,
-    "wage": 26.3,
-    "youngShare": 31,
-    "oldShare": 24,
+    "playerVal": 36071,
+    "pickVal": 14960,
+    "total": 51031,
+    "wage": 26.4,
+    "youngShare": 22,
+    "oldShare": 26,
     "drank": 10,
     "window": "Rebuild",
-    "allplay": 2.36,
-    "luck": 2.64,
-    "proj": 6.2,
-    "strength": 94.2,
+    "allplay": 2.82,
+    "luck": 2.18,
+    "proj": 6.7,
+    "strength": 113.4,
     "fcCount": 23,
     "sched": [
      {
@@ -6832,6 +7059,13 @@
       "pts": 116.86,
       "oppPts": 115.68,
       "ap": 4
+     },
+     {
+      "w": 9,
+      "opp": 5,
+      "pts": 139.26,
+      "oppPts": 161.76,
+      "ap": 5
      }
     ],
     "breakdown": {
@@ -6849,7 +7083,7 @@
     }
    }
   },
-  "method": "Dynasty score = market value of every rostered player plus draft picks. Player values come from FantasyCalc's superflex, 12-team PPR dynasty market, which covers about 400 players and already prices in age; deeper depth players get a small estimate by years in the league. Pick values also come from FantasyCalc, with 2027 firsts valued early, mid or late by the original owner's current standing. Rosters and pick ownership come straight from Sleeper. Updated with each Sunday Edition. Projected wins add the current record to 6 remaining games, played at a rate that blends all-play win rate with a strength score (half points per game, half this week's lineup projection)."
+  "method": "Dynasty score = market value of every rostered player plus draft picks. Player values come from FantasyCalc's superflex, 12-team PPR dynasty market, which covers about 400 players and already prices in age; deeper depth players get a small estimate by years in the league. Pick values also come from FantasyCalc, with 2027 firsts valued early, mid or late by the original owner's current standing. Rosters and pick ownership come straight from Sleeper. Updated with each Sunday Edition. Projected wins add the current record to 5 remaining games, played at a rate that blends all-play win rate with a strength score (half points per game, half this week's lineup projection)."
  },
  "tradeGrades": {
   "writer": "mona",
