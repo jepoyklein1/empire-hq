@@ -1,7 +1,7 @@
 {
  "season": 2026,
- "throughWeek": 9,
- "current": "sunday",
+ "throughWeek": 10,
+ "current": "tuesday",
  "order": [
   "sunday",
   "thursday",
@@ -12,37 +12,37 @@
    "id": 1,
    "team": "Sheev",
    "mgr": "HollywoodJK",
-   "w": 2,
+   "w": 3,
    "l": 7,
    "t": 0,
-   "pf": 1279.38,
-   "pa": 1295.2,
-   "max": 1437.4,
-   "streak": "1W"
+   "pf": 1457.7,
+   "pa": 1440.04,
+   "max": 1632.72,
+   "streak": "2W"
   },
   {
    "id": 2,
    "team": "God Bless Vodka",
    "mgr": "GodBlessVodka",
    "w": 2,
-   "l": 7,
+   "l": 8,
    "t": 0,
-   "pf": 927.74,
-   "pa": 1283.52,
-   "max": 1139.94,
-   "streak": "2L"
+   "pf": 1072.58,
+   "pa": 1461.84,
+   "max": 1316.2,
+   "streak": "3L"
   },
   {
    "id": 3,
    "team": "Send Nudes",
    "mgr": "RandleSavage",
-   "w": 7,
+   "w": 8,
    "l": 2,
    "t": 0,
-   "pf": 1570.46,
-   "pa": 1247.92,
-   "max": 1635.48,
-   "streak": "2W",
+   "pf": 1760.94,
+   "pa": 1333.92,
+   "max": 1849.32,
+   "streak": "3W",
    "champ": true
   },
   {
@@ -50,108 +50,108 @@
    "team": "ClutchJuice",
    "mgr": "ClutchJuice",
    "w": 3,
-   "l": 6,
+   "l": 7,
    "t": 0,
-   "pf": 847.46,
-   "pa": 1097.8,
-   "max": 887.38,
-   "streak": "2L"
+   "pf": 896.28,
+   "pa": 1266.72,
+   "max": 938.62,
+   "streak": "3L"
   },
   {
    "id": 5,
    "team": "brimley",
    "mgr": "brimley",
-   "w": 6,
+   "w": 7,
    "l": 3,
    "t": 0,
-   "pf": 1451.08,
-   "pa": 1386.8,
-   "max": 1598.24,
-   "streak": "5W"
+   "pf": 1589.36,
+   "pa": 1482.52,
+   "max": 1751.62,
+   "streak": "6W"
   },
   {
    "id": 6,
    "team": "Panic Trade Project",
    "mgr": "bhegg97",
    "w": 4,
-   "l": 5,
+   "l": 6,
    "t": 0,
-   "pf": 842.92,
-   "pa": 1130.12,
-   "max": 959.94,
-   "streak": "2L"
+   "pf": 928.92,
+   "pa": 1320.6,
+   "max": 1056.62,
+   "streak": "3L"
   },
   {
    "id": 7,
    "team": "#StopAsianHate",
    "mgr": "MasturBasian",
-   "w": 4,
+   "w": 5,
    "l": 5,
    "t": 0,
-   "pf": 1322.0,
-   "pa": 1319.54,
-   "max": 1537.52,
-   "streak": "1W"
+   "pf": 1490.92,
+   "pa": 1368.36,
+   "max": 1717.34,
+   "streak": "2W"
   },
   {
    "id": 8,
    "team": "Bijan Your Face 🍆💦",
    "mgr": "BlackSheepFF",
    "w": 9,
-   "l": 0,
+   "l": 1,
    "t": 0,
-   "pf": 1663.86,
-   "pa": 1113.88,
-   "max": 1817.86,
-   "streak": "9W"
+   "pf": 1848.82,
+   "pa": 1301.52,
+   "max": 2028.42,
+   "streak": "1L"
   },
   {
    "id": 9,
    "team": "Very Naughty Boys",
    "mgr": "poulbri",
    "w": 0,
-   "l": 9,
+   "l": 10,
    "t": 0,
-   "pf": 857.02,
-   "pa": 1193.12,
-   "max": 939.3,
-   "streak": "9L"
+   "pf": 952.74,
+   "pa": 1331.4,
+   "max": 1047.54,
+   "streak": "10L"
   },
   {
    "id": 10,
    "team": "Stroke The Post",
    "mgr": "RhinosFF",
-   "w": 6,
+   "w": 7,
    "l": 3,
    "t": 0,
-   "pf": 1478.66,
-   "pa": 1226.04,
-   "max": 1674.14,
-   "streak": "2W"
+   "pf": 1618.16,
+   "pa": 1286.86,
+   "max": 1830.04,
+   "streak": "3W"
   },
   {
    "id": 11,
    "team": "Ben Football Team",
    "mgr": "BenFootballTeam",
-   "w": 6,
+   "w": 7,
    "l": 3,
    "t": 0,
-   "pf": 1074.88,
-   "pa": 1047.14,
-   "max": 1219.44,
-   "streak": "1L"
+   "pf": 1262.52,
+   "pa": 1232.1,
+   "max": 1413.38,
+   "streak": "1W"
   },
   {
    "id": 12,
    "team": "Jackie aCHANe",
    "mgr": "Churboy323",
    "w": 5,
-   "l": 4,
+   "l": 5,
    "t": 0,
-   "pf": 1017.02,
-   "pa": 991.4,
-   "max": 1247.84,
-   "streak": "1L"
+   "pf": 1077.84,
+   "pa": 1130.9,
+   "max": 1320.16,
+   "streak": "2L"
   }
  ],
  "weekly": {
@@ -280,10 +280,400 @@
    "10": 159.98,
    "11": 86.68,
    "12": 139.26
+  },
+  "10": {
+   "1": 178.32,
+   "2": 144.84,
+   "3": 190.48,
+   "4": 48.82,
+   "5": 138.28,
+   "6": 86.0,
+   "7": 168.92,
+   "8": 184.96,
+   "9": 95.72,
+   "10": 139.5,
+   "11": 187.64,
+   "12": 60.82
   }
  },
- "movesNote": "Weeks 9 and 10 · through Thursday morning",
+ "movesNote": "Weeks 10 and 11 · through Tuesday morning",
  "moves": [
+  {
+   "type": "free_agent",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 8,
+     "adds": [
+      "Darren Waller"
+     ],
+     "drops": [
+      "Efton Chism III"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "free_agent",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 12,
+     "adds": [
+      "Deion Burks"
+     ],
+     "drops": [
+      "Anthony Gould"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 12,
+     "adds": [
+      "Anthony Gould"
+     ],
+     "drops": [],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 5,
+     "adds": [
+      "Zonovan Knight"
+     ],
+     "drops": [
+      "Kendre Miller"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 3,
+     "adds": [
+      "Mike Gesicki"
+     ],
+     "drops": [],
+     "picks": []
+    }
+   ],
+   "bid": 8
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Chimere Dike"
+     ],
+     "drops": [],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "free_agent",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 8,
+     "adds": [],
+     "drops": [
+      "Brandon Aiyuk"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 12,
+     "adds": [
+      "Ashton Dulin"
+     ],
+     "drops": [],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "trade",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 8,
+     "adds": [
+      "Jakobi Meyers"
+     ],
+     "drops": [],
+     "picks": []
+    },
+    {
+     "team": 12,
+     "adds": [],
+     "drops": [
+      "Jakobi Meyers"
+     ],
+     "picks": [
+      "2027 5th (Jackie aCHANe)"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "free_agent",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [],
+     "drops": [
+      "Trey Benson"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "trade",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [
+      "Ricky Pearsall"
+     ],
+     "drops": [],
+     "picks": []
+    },
+    {
+     "team": 12,
+     "adds": [],
+     "drops": [
+      "Ricky Pearsall"
+     ],
+     "picks": [
+      "2028 4th (ClutchJuice)"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "free_agent",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [],
+     "drops": [
+      "Deion Burks"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "trade",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Chris Rodriguez Jr."
+     ],
+     "drops": [
+      "Ricky Pearsall"
+     ],
+     "picks": []
+    },
+    {
+     "team": 12,
+     "adds": [
+      "Ricky Pearsall"
+     ],
+     "drops": [
+      "Chris Rodriguez Jr."
+     ],
+     "picks": [
+      "2027 5th (Ben Football Team)"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 10,
+     "adds": [
+      "Reggie Virgil"
+     ],
+     "drops": [
+      "Greg Dulcich"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 10,
+     "adds": [
+      "Savion Williams"
+     ],
+     "drops": [
+      "Elijah Mitchell"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Tutu Atwell"
+     ],
+     "drops": [
+      "Rashid Shaheed"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 8
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 4,
+     "adds": [
+      "Trey Benson"
+     ],
+     "drops": [
+      "Rashod Bateman"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 3,
+     "adds": [
+      "CJ Daniels"
+     ],
+     "drops": [
+      "Chig Okonkwo"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 6
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 11,
+     "adds": [
+      "Deion Burks"
+     ],
+     "drops": [
+      "Devaughn Vele"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 3
+  },
+  {
+   "type": "trade",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 7,
+     "adds": [
+      "Bo Nix",
+      "Emeka Egbuka"
+     ],
+     "drops": [
+      "Jalen Hurts",
+      "George Pickens"
+     ],
+     "picks": []
+    },
+    {
+     "team": 6,
+     "adds": [
+      "Jalen Hurts",
+      "George Pickens"
+     ],
+     "drops": [
+      "Bo Nix",
+      "Emeka Egbuka"
+     ],
+     "picks": []
+    }
+   ]
+  },
+  {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 7,
+     "adds": [
+      "Tyler Higbee"
+     ],
+     "drops": [
+      "Gardner Minshew II"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 0
+  },
   {
    "type": "waiver",
    "leg": 10,
@@ -302,6 +692,23 @@
    "bid": 1
   },
   {
+   "type": "waiver",
+   "leg": 10,
+   "sides": [
+    {
+     "team": 6,
+     "adds": [
+      "Drew Lock"
+     ],
+     "drops": [
+      "Tyler Goodson"
+     ],
+     "picks": []
+    }
+   ],
+   "bid": 9
+  },
+  {
    "type": "free_agent",
    "leg": 10,
    "sides": [
@@ -310,300 +717,6 @@
      "adds": [],
      "drops": [
       "Carson Wentz"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [
-      "Kyle McCord"
-     ],
-     "drops": [
-      "Demarcus Robinson"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "Mike Gesicki"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [
-      "Kaleb Johnson"
-     ],
-     "drops": [
-      "Emanuel Wilson"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 30
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [],
-     "drops": [
-      "Darius Cooper"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 5,
-     "adds": [
-      "Mack Hollins"
-     ],
-     "drops": [
-      "Drew Lock"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 4,
-     "adds": [],
-     "drops": [
-      "Sam Roush"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 7,
-     "adds": [
-      "Audric Estime"
-     ],
-     "drops": [
-      "Ray Davis"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [
-      "Darius Cooper"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 10,
-     "adds": [
-      "Greg Dulcich"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 6,
-     "adds": [
-      "Keon Coleman"
-     ],
-     "drops": [
-      "Keaton Mitchell"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 4
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [
-      "Chig Okonkwo"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 2
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [
-      "Mike Gesicki"
-     ],
-     "drops": [],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 1,
-     "adds": [
-      "Demarcus Robinson"
-     ],
-     "drops": [
-      "Joe Fagnano"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 0
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 12,
-     "adds": [
-      "Courtland Sutton"
-     ],
-     "drops": [
-      "Kendrick Bourne"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 2
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 10,
-     "adds": [
-      "Carson Wentz"
-     ],
-     "drops": [
-      "Keon Coleman"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 23
-  },
-  {
-   "type": "waiver",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 5,
-     "adds": [
-      "Drew Lock"
-     ],
-     "drops": [
-      "Tyler Huntley"
-     ],
-     "picks": []
-    }
-   ],
-   "bid": 1
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [],
-     "drops": [
-      "Chig Okonkwo"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 3,
-     "adds": [],
-     "drops": [
-      "Courtland Sutton"
-     ],
-     "picks": []
-    }
-   ]
-  },
-  {
-   "type": "free_agent",
-   "leg": 9,
-   "sides": [
-    {
-     "team": 11,
-     "adds": [],
-     "drops": [
-      "DJ Giddens"
      ],
      "picks": []
     }
@@ -794,7 +907,7 @@
        "p": [
         "Stroke The Post is 6-3 and third in scoring at 164.3 a game. Jackie aCHANe is 5-4 with a luck factor of +2.18, second-luckiest, and it scores 113.0. Stroke projects 162.8 to 113.8, a 49.0-point favorite, and neither team has played.",
         "Stroke's money is in Dallas. CeeDee Lamb (20.12) and Javonte Williams (17.74) get the 49ers in the biggest total on the board, 55.75, with the Cowboys implied for 25.75 and Jake Ferguson out. James Cook III (16.41) is in Buffalo's 29.25, Chris Olave (16.36) in New Orleans' 25.5, and Travis Kelce (12.23) in Kansas City's 25.25 with Kenneth Walker III out. That's five in 25-plus offenses. The question mark is Garrett Wilson (14.37), questionable with the concussion; New York's coach is optimistic, and if he sits, Rico Dowdle (9.92) and Jordan Mason (9.47) are on the bench. Matthew Stafford (16.58) gets Arizona with Puka Nacua on injured reserve, so Stafford's throwing to whoever's left.",
-        "Jackie has Jacksonville. Jakobi Meyers (9.74) and Chris Rodriguez Jr. (7.39) are both off the Jaguars' final report and in that 28.5. Woody Marks (13.13) leads Houston's backfield with David Montgomery ruled out, but Houston is only implied for 22.5 in Cleveland. Bryce Young (19.36) gets New Orleans with Carolina at 23.0. Matthew Golden (15.27) and Tucker Kraft (11.05) are in Green Bay's 22.4. Nothing here is a disaster, and nothing here is 49 points. Stroke, and I'll take the over on Lamb."
+        "Jackie traded away its Jacksonville pieces, Jakobi Meyers and Chris Rodriguez Jr., on Friday, so the Jaguars' 28.5 does it no good. Woody Marks (13.13) leads Houston's backfield with David Montgomery ruled out, but Houston is only implied for 22.5 in Cleveland. Bryce Young (19.36) gets New Orleans with Carolina at 23.0. Matthew Golden (15.27) and Tucker Kraft (11.05) are in Green Bay's 22.4. Nothing here is a disaster, and nothing here is 49 points. Stroke, and I'll take the over on Lamb."
        ],
        "book": {
         "line": "Stroke The Post -49.0",
@@ -813,7 +926,7 @@
        "note": "#StopAsianHate. Two zeros in the lineup and Cam Skattebo's 27 on the bench, and it still projects 128.7 to 86.9.",
        "p": [
         "#StopAsianHate has had a week. Kenneth Walker III is out with the groin and still in its lineup at zero. Dallas Goedert is on bye and still in its lineup at zero. Cam Skattebo scored about 27.2 on Thursday night on its bench. And it still projects 128.7 to 86.9, a 41.8-point favorite over ClutchJuice. That tells you about ClutchJuice, which is 3-6 and scores 94.2 a game, 11th.",
-        "If #StopAsianHate fixes the holes, this gets uglier. Corey Kiner (11.75) could lead New England's backfield with Rhamondre Stevenson questionable, and Ladd McConkey (11.71) is available on Monday if his back allows it. As it stands: Jaxon Smith-Njigba (23.81) gets the Raiders, but with Drew Lock at quarterback in an offense implied for 23.5. C.J. Stroud (17.94) is in Cleveland with Houston at 22.5. Rashee Rice (14.14) is in Kansas City's 25.25 and should see more of the ball with Walker out. George Pickens (13.67) was taken off Dallas's report Friday and gets the 25.75. Jaylen Warren (17.28) is in Pittsburgh's 22.9.",
+        "If #StopAsianHate fixes the holes, this gets uglier. Corey Kiner (11.75) could lead New England's backfield with Rhamondre Stevenson questionable, and Ladd McConkey (11.71) is available on Monday if his back allows it. As it stands: Jaxon Smith-Njigba (23.81) gets the Raiders, but with Drew Lock at quarterback in an offense implied for 23.5. C.J. Stroud (17.94) is in Cleveland with Houston at 22.5. Rashee Rice (14.14) is in Kansas City's 25.25 and should see more of the ball with Walker out. Jaylen Warren (17.28) is in Pittsburgh's 22.9.",
         "ClutchJuice is Drake Maye (23.15) and a prayer. Maye gets Detroit in Munich, New England implied for 23.75 in a 50.25 total, which is a good spot. Malachi Fields put 9.2 in the bank. After that it's three Jets, Braelon Allen (8.29), Mason Taylor (6.63) and Isaiah Davis (0.37, which is not a typo), in a 21.25 against Buffalo, plus Jordan Watkins (6.88) as the fourth receiver in San Francisco's 30.0. One starter in a 25-plus offense. #StopAsianHate, and somebody please wake up whoever sets that lineup."
        ],
        "book": {
@@ -842,7 +955,7 @@
       "Three quarterback rooms changed. Sam Darnold (Very Naughty Boys bench) is out with rib and quad injuries, so Drew Lock starts in Seattle. That's a downgrade for Jaxon Smith-Njigba (#StopAsianHate), Zach Charbonnet (Sheev) and AJ Barner (Jackie aCHANe). Gardner Minshew II (#StopAsianHate bench) has a feared UCL tear, and NBC Sports expects Carson Beck (ClutchJuice taxi squad) to start for Arizona; that matters for Trey McBride (brimley) and Tyler Allgeier (God Bless Vodka). Malik Willis (Jackie aCHANe bench) went on injured reserve with a groin injury that progressed to his abdomen, so Kyle McCord (Sheev bench) starts for Miami, for Ollie Gordon II (Ben Football Team), Malik Washington (God Bless Vodka) and Caleb Douglas (ClutchJuice). Kyler Murray (Jackie aCHANe bench) has a Grade 2 hamstring strain and is expected to miss three to four weeks, which keeps Minnesota's offense, and Justin Jefferson (brimley) and Jordan Addison (Very Naughty Boys), in lower gear.",
       "Two backfields changed hands. David Montgomery (Jackie aCHANe bench) has been ruled out with the groin, per NBC Sports, though one CBS list carried him as questionable; either way Woody Marks (Jackie aCHANe) is off the injury report and is Houston's lead back. Josh Jacobs (Bijan Your Face 🍆💦 bench) is out two to three weeks with a fractured finger, and Kaleb Johnson (Ben Football Team bench) is expected to lead Green Bay. That's not good news for MarShawn Lloyd, who is starting for brimley. In New England, TreVeyon Henderson (Sheev bench) is out again with the illness, and Rhamondre Stevenson (#StopAsianHate bench) is questionable with a knee tendon issue, which would make Corey Kiner (#StopAsianHate bench) the lead back if he sits.",
       "The questionables. Garrett Wilson (Stroke The Post) is questionable with the concussion, though the Jets' coach is optimistic. Omar Cooper Jr. (Panic Trade Project) and Adonai Mitchell (Ben Football Team) are questionable and expected to play. Amon-Ra St. Brown (Bijan) is questionable with the ribs he played through last week. A.J. Brown (Send Nudes bench) is questionable with the knee and ankle and traveled to Germany. Jordan Addison hurt his thumb in Friday's practice. Denzel Boston (Ben Football Team) is questionable with the toe; if he sits, KC Concepcion Jr. (Very Naughty Boys) and Harold Fannin Jr. (Sheev) get more of Cleveland's targets. Tyjae Spears (Panic Trade Project) is questionable and hasn't played since Week 7. Ladd McConkey (#StopAsianHate bench) did not practice Friday with his back, for a Monday game.",
-      "The cleared list, which is the good news. Jacksonville's final report has none of Bhayshul Tuten (Ben Football Team), Jakobi Meyers or Chris Rodriguez Jr. (both Jackie aCHANe) on it. George Pickens (#StopAsianHate) came off Dallas's report Friday. Deebo Samuel Sr. (Send Nudes) says he's ready, and he isn't on San Francisco's final report. Dalton Kincaid (Very Naughty Boys) and Hunter Henry (Bijan) were removed from their reports. Patrick Mahomes (Ben) practiced in full with the elbow, and Jared Goff (Ben) and Justin Herbert (God Bless Vodka) carry minor chest and hand issues without a designation. Harold Fannin Jr. and Tank Dell (Sheev) are not on their teams' final reports.",
+      "The cleared list, which is the good news. Jacksonville's final report has none of Bhayshul Tuten (Ben Football Team), Jakobi Meyers (Bijan Your Face 🍆💦) or Chris Rodriguez Jr. (Ben Football Team) on it. George Pickens (Panic Trade Project) came off Dallas's report Friday. Deebo Samuel Sr. (Send Nudes) says he's ready, and he isn't on San Francisco's final report. Dalton Kincaid (Very Naughty Boys) and Hunter Henry (Bijan) were removed from their reports. Patrick Mahomes (Ben) practiced in full with the elbow, and Jared Goff (Ben) and Justin Herbert (God Bless Vodka) carry minor chest and hand issues without a designation. Harold Fannin Jr. and Tank Dell (Sheev) are not on their teams' final reports.",
       "Thursday is done, and nobody from Commanders-Giants came out of it with a reported injury. Elsewhere, the long-term list keeps growing: Puka Nacua (Send Nudes) went to injured reserve Friday with knee and toe injuries, Michael Wilson (Bijan) has a season-ending neck injury, and Lamar Jackson (Sheev) is likely done for the season with the thumb. My prescription is the same as last week. Check the three starters who were ruled out, and if you start Garrett Wilson, check him again 90 minutes before one o'clock."
      ]
     }
@@ -1088,7 +1201,7 @@
      "injury": "Ankle, ankle, hand",
      "teams": [
       11,
-      12
+      8
      ],
      "impact": "Not on Jacksonville's final report. Jacksonville implied for 28.5."
     },
@@ -1098,9 +1211,9 @@
      "nfl": "DAL · WR",
      "injury": "Hamstring",
      "teams": [
-      7
+      6
      ],
-     "impact": "#StopAsianHate starter. Removed from Dallas's report Friday."
+     "impact": "Panic Trade Project starter, acquired from #StopAsianHate Thursday night. Removed from Dallas's report Friday."
     },
     {
      "status": "clear",
@@ -1448,136 +1561,136 @@
   "tuesday": {
    "key": "tuesday",
    "label": "Tuesday Edition",
-   "week": 9,
-   "published": "Tue, Nov 10, 2026",
+   "week": 10,
+   "published": "Tue, Nov 17, 2026",
    "scoreboard": {
     "mode": "final",
-    "label": "Week 9",
+    "label": "Week 10",
     "sublabel": "Final scores",
     "games": [
      {
-      "a": 5,
-      "b": 12,
-      "aPts": 161.76,
-      "bPts": 139.26,
-      "status": "Final"
-     },
-     {
       "a": 8,
-      "b": 2,
-      "aPts": 161.36,
-      "bPts": 81.72,
-      "status": "Final"
-     },
-     {
-      "a": 3,
-      "b": 9,
-      "aPts": 161.66,
-      "bPts": 96.98,
-      "status": "Final"
-     },
-     {
-      "a": 10,
       "b": 11,
-      "aPts": 159.98,
-      "bPts": 86.68,
-      "status": "Final"
-     },
-     {
-      "a": 7,
-      "b": 6,
-      "aPts": 143.6,
-      "bPts": 103.94,
+      "aPts": 184.96,
+      "bPts": 187.64,
       "status": "Final"
      },
      {
       "a": 1,
-      "b": 4,
-      "aPts": 146.54,
-      "bPts": 74.26,
+      "b": 2,
+      "aPts": 178.32,
+      "bPts": 144.84,
+      "status": "Final"
+     },
+     {
+      "a": 3,
+      "b": 6,
+      "aPts": 190.48,
+      "bPts": 86.0,
+      "status": "Final"
+     },
+     {
+      "a": 5,
+      "b": 9,
+      "aPts": 138.28,
+      "bPts": 95.72,
+      "status": "Final"
+     },
+     {
+      "a": 10,
+      "b": 12,
+      "aPts": 139.5,
+      "bPts": 60.82,
+      "status": "Final"
+     },
+     {
+      "a": 4,
+      "b": 7,
+      "aPts": 48.82,
+      "bPts": 168.92,
       "status": "Final"
      }
     ]
    },
    "lead": {
-    "flag": "Front page · Tuesday Edition · Week 9 final",
-    "headline": "STROUD'S REVENGE! THE LAMAR TRADE PAYS #STOPASIANHATE IN WEEK ONE, FOUR TEAMS FINISH 1.78 APART, AND BIJAN YOUR FACE GOES 9-0",
-    "deck": "C.J. Stroud scores 36.36 in his first game for #StopAsianHate, the most by any player in the league, while the quarterback he was traded for scores 0.0 on Sheev's bench; brimley edges Send Nudes, Bijan Your Face 🍆💦 and Stroke The Post for the week's top score; and Very Naughty Boys falls to 0-9."
+    "flag": "Front page · Tuesday Edition · Week 10 final",
+    "headline": "PERFECT NO MORE! 43-POINT DOG BEN FOOTBALL TEAM STUNS BIJAN BY 2.68 AS 19.1 POINTS ROT ON THE BENCH, AND CLUTCHJUICE HITS ROCK BOTTOM AT 48.82",
+    "deck": "Ben Football Team, a 43.4-point underdog in Sunday's lines, beats Bijan Your Face 🍆💦 187.64 to 184.96, the highest losing score of the season, while Ryan Flournoy scores 19.1 on Bijan's bench; ClutchJuice posts the lowest score of the season; and brimley wins its sixth straight."
    },
    "stories": [
     {
      "writer": "Margaret Lee",
      "role": "Matchup Recaps",
-     "kicker": "Week 9 recap",
+     "kicker": "Week 10 recap",
      "avatar": "margaret",
      "color": "blue",
      "serif": true,
-     "headline": "A Photo Finish at the Top, a Blowout Everywhere Else: How Week 9 Was Decided",
+     "headline": "The Perfect Season Ends on the Bench: How Week 10 Was Decided",
      "intro": [
-      "The league averaged 126.48 points in Week 9, down 7.39 from Week 8. The top of the scoreboard was the tightest it has been all season: brimley scored 161.76, Send Nudes 161.66, Bijan Your Face 🍆💦 161.36 and Stroke The Post 159.98, four teams separated by 1.78 points. ClutchJuice's 74.26 was the low. All six favorites from Sunday's lines won, and five of the six games were decided by 39 points or more. The closest was brimley over Jackie aCHANe by 22.5.",
-      "Bijan Your Face 🍆💦 is 9-0. Send Nudes is 7-2. Stroke The Post, brimley and Ben Football Team are 6-3, and Jackie aCHANe holds the sixth and final playoff spot at 5-4, a game ahead of #StopAsianHate and Panic Trade Project at 4-5. Five weeks remain before the playoffs start in Week 15. Here is every game."
+      "The league averaged 135.36 points in Week 10, up 8.88 from Week 9. Send Nudes had the top score at 190.48, followed by Ben Football Team at 187.64 and Bijan Your Face 🍆💦 at 184.96, which makes Bijan's the highest losing score of the season. At the other end, ClutchJuice scored 48.82, the lowest score by any team this season, and Jackie aCHANe's 60.82 is now the second-lowest. Five of Sunday's six favorites won. The one that lost was Bijan, a 43.4-point favorite.",
+      "Bijan Your Face 🍆💦 is 9-1 and still leads Send Nudes by a game. Stroke The Post, brimley and Ben Football Team are 7-3, in that order on points. #StopAsianHate and Jackie aCHANe are both 5-5 for the sixth and final playoff spot, and #StopAsianHate holds it with 413.08 more points for. Panic Trade Project is 4-6. Four weeks remain before the playoffs start in Week 15. Here is every game."
      ],
      "paragraphs": [],
      "sections": [
       {
-       "a": 5,
-       "b": 12,
-       "tag": "Game of the week",
+       "a": 11,
+       "b": 8,
+       "tag": "Upset of the season",
        "p": [
-        "brimley beat Jackie aCHANe 161.76 to 139.26, the closest game of the week and the highest score of the week, by a tenth of a point over Send Nudes. It was brimley's fifth straight win, and it moves brimley to 6-3.",
-        "This game was a Green Bay Packers game in disguise. Jordan Love scored 36.18 in brimley's superflex spot and Christian Watson added 30.1. On the other side, Matthew Golden scored 32.4 for Jackie and Tucker Kraft 1.9. Packers players accounted for 100.58 of the 301.02 points scored in this matchup. brimley also got 28.5 from Bucky Irving, which covered for a quiet day from its stars: Justin Jefferson scored 8.8, Malik Nabers 9.3 and Saquon Barkley 8.2.",
-        "Jackie deserves credit. Sunday's lines projected it for 78.6 with Kyler Murray out, and it scored 139.26, more than five other teams this week. Justice Hill scored 18.2, AJ Barner 15.0, Bryce Young 21.34, and Courtland Sutton, a $2 waiver claim last week, scored 15.5 in his first start for his third roster in two weeks. The one miss was Malik Willis, who scored 4.82 at quarterback while Daniel Jones scored 11.3 on the bench. It didn't matter. Jackie's best possible lineup was 149.54, still 12.22 short.",
-        "One more detail: brimley has now allowed 1,386.8 points this season, the most in the league, and it is 6-3 anyway. And Shedeur Sanders scored 22.68 on brimley's taxi squad, where he can't be started."
-       ]
-      },
-      {
-       "a": 8,
-       "b": 2,
-       "tag": "Still perfect",
-       "p": [
-        "Bijan Your Face 🍆💦 beat God Bless Vodka 161.36 to 81.72 and is 9-0, the only unbeaten team in the league and three games clear of everyone but Send Nudes. It was a 56.6-point favorite on Sunday and won by 79.64.",
-        "Bijan Robinson scored 26.7, Christian McCaffrey 22.7, Brock Bowers 22.3 and Tee Higgins 20.2. That was enough to survive a lineup that left 21.54 points on the bench, the most of any team this week. Efton Chism III scored 15.9 on the bench while Josh Jacobs scored 0.5 in the flex, and Jacobs is now listed out. Tyler Shough scored 19.7 on the bench while Josh Allen scored 13.86 in the superflex spot.",
-        "God Bless Vodka scored 81.72, the second-lowest score of the week, and fell to 2-7. Nobody in its lineup reached 16 points; Nico Collins led with 15.5. Its bench had Jadarian Price at 11.8, Xavier Worthy at 10.8 and Jake Ferguson at 10.1, while Malik Washington (4.1), Jameson Williams (5.0) and Josh Downs (5.4) started. Its best possible lineup was 102.22, which still would have lost by 59."
-       ]
-      },
-      {
-       "a": 3,
-       "b": 9,
-       "tag": "Bengals again",
-       "p": [
-        "Send Nudes beat Very Naughty Boys 161.66 to 96.98 and is 7-2, two games behind Bijan Your Face 🍆💦 and one game clear of the three teams at 6-3.",
-        "The champs ran it back with the Bengals. Joe Burrow scored 29.54 and Ja'Marr Chase 31.5, for 61.04 from one passing game, a week after the same pair put up 73.58. Puka Nacua scored 35.0, the fourth-highest score by any player in the league this week. That covered for Jahmyr Gibbs, who scored 13.4 against a 25.57 projection, and Kyren Williams at 9.1. Chig Okonkwo, whom Send Nudes dropped on Wednesday and claimed back for $2 on Saturday, scored 11.7 on the bench.",
-        "Very Naughty Boys is 0-9. It got 18.8 each from Jonah Coleman and KC Concepcion Jr. and 15.2 from DeMario Douglas, but J.J. McCarthy scored 7.28 and Jahan Dotson 3.6 in the superflex spot. Its best possible lineup was 98.78. There was no version of this game it won."
-       ]
-      },
-      {
-       "a": 10,
-       "b": 11,
-       "tag": "The upset that wasn't",
-       "p": [
-        "Stroke The Post beat Ben Football Team 159.98 to 86.68. Jeff Longwood took Ben as his upset of the week as a 24.4-point underdog. Ben lost by 73.3.",
-        "Stroke got 33.5 from CeeDee Lamb and 22.4 from Javonte Williams, 55.9 from two Cowboys. Travis Kelce added 17.3, Caleb Williams 16.76 and James Cook III 16.7. Stroke still left 10.56 on the bench: D'Andre Swift scored 3.1 in the flex while Juwan Johnson scored 11.4 on the bench, and Michael Penix Jr. scored 14.48 on the bench while Matthew Stafford scored 12.22 at quarterback. Carson Wentz, a $23 waiver claim on Thursday, scored -0.76 on the bench.",
-        "Ben's quarterbacks were the problem. Jared Goff scored 6.3 against a 19.69 projection, and Patrick Mahomes scored 16.48. Adonai Mitchell, who scored 27.2 on Ben's bench last week, started this week and scored 0.0. Denzel Boston led the team with 15.8. Ben's best possible lineup was 94.58. It drops from a tie for second to fifth at 6-3, and its 1,074.88 points are the seventh-most in the league."
-       ]
-      },
-      {
-       "a": 7,
-       "b": 6,
-       "tag": "Trade dividend",
-       "p": [
-        "#StopAsianHate beat Panic Trade Project 143.6 to 103.94, and the reason was the trade. C.J. Stroud, acquired from Sheev last Tuesday for Lamar Jackson and a third-round pick, scored 36.36 in his first game for #StopAsianHate, the most by any player on any roster in the league this week. Lamar, out with the thumb injury, scored 0.0 for Sheev.",
-        "Kenneth Walker III scored 36.3, six hundredths behind Stroud, and the two combined for 72.66 of #StopAsianHate's 143.6. The rest of the lineup was uneven. Ladd McConkey scored 0.0 in the lineup, Jaxon Smith-Njigba scored 12.1 against a 24.11 projection, and Gardner Minshew II scored 7.04 in the superflex spot. Audric Estime, added as a free agent Sunday morning, scored 14.7 on the bench, and Corey Kiner added 11.5 there. #StopAsianHate left 19.16 points on its bench and won by 39.66 anyway.",
-        "Panic got 16.68 from Bo Nix and 16.0 from Rome Odunze, but Devin Singletary scored 5.9 against a 14.32 projection and Kimani Vidal 4.6. Its best lineup was 107.04. Both teams are now 4-5, one game behind Jackie aCHANe for sixth. Panic has scored the fewest points in the league, 842.92."
+        "Ben Football Team beat Bijan Your Face 🍆💦 187.64 to 184.96 and ended the last perfect record in the league. Sunday's lines had Bijan at 170.7 and Ben at 127.3, a 43.4-point spread. Ben scored 60.34 more than that projection, and Bijan scored 184.96, more than any losing team this season, and lost anyway.",
+        "Ben won it at running back. Its four backs scored 105.1: Emmett Johnson 35.1, Chuba Hubbard 34.2, Bhayshul Tuten 20.3 and Ollie Gordon II 15.5. Johnson was on Ben's bench in Sunday's edition, and Dr. Wang's injury report flagged him as Kansas City's lead back with Kenneth Walker III out. Ben started him, and that decision was worth more than the final margin. Its quarterbacks added 57.84, with Patrick Mahomes at 35.42 and Jared Goff at 22.42. The rest of the lineup was thin: Denzel Boston, Sam LaPorta and Chimere Dike scored 9.3 combined, and Ben still won. It left only 6.3 points on its bench, the second-fewest of any team this week.",
+        "Bijan lost it on its bench. Christian McCaffrey scored 46.3, the most by any player in the league this week, Dak Prescott 35.42, Amon-Ra St. Brown 25.8 and Josh Allen 23.34. But Brock Bowers scored 3.8 in a flex spot against a 15.12 projection, Hunter Henry 4.2 at tight end, and Jakobi Meyers 6.4. Bijan traded a 2027 fifth-round pick for Meyers on Friday and started him right away, while Ryan Flournoy scored 19.1 on the bench. Kaelon Black added 14.6 there. Bijan's best possible lineup was 210.56, so it left 25.6 points on the bench, the second-most this week. Flournoy for Meyers alone would have won the game by 10.02.",
+        "The standings change less than it feels like. Bijan is 9-1 with 87.88 more points than anyone else. Ben is 7-3 with the seventh-most points in the league, 2.55 wins ahead of its all-play record, the luckiest team in the league by that measure. That luck will be tested over the next four weeks."
        ]
       },
       {
        "a": 1,
-       "b": 4,
+       "b": 2,
        "tag": "Toilet bowl",
        "p": [
-        "Sheev beat ClutchJuice 146.54 to 74.26, ending a four-game losing streak. Sheev is 2-7.",
-        "Brock Purdy scored 26.28, Luther Burden III 20.7 and Isaiah Likely 16.3, and every Sheev starter scored at least 5.5. The one regret is Tank Dell. Last week Dell scored 0.0 on Sheev's bench. This week he scored 20.5 on Sheev's bench, while Quinshon Judkins scored 5.5 in the lineup. Sheev has scored the sixth-most points in the league, 1,279.38, and still has the worst luck rating, -3.18.",
-        "ClutchJuice scored 74.26, the lowest score of the week. Drake Maye scored 21.26 and Jordan Watkins 18.6, but two starters scored 0.0: Isaiah Davis, who was projected for 0.37, and Kyle Williams. Pat Bryant scored 15.6 on the bench. ClutchJuice is 3-6."
+        "Sheev beat God Bless Vodka 178.32 to 144.84, the fourth-highest score of the week, for its second straight win. Sheev was a 34.3-point favorite and won by 33.48, almost exactly on the number.",
+        "Sheev did most of its work at quarterback. Brock Purdy scored 31.66 in the superflex spot and Jayden Daniels 22.76. Parker Washington scored 28.2 and Isaiah Likely 27.7, and Likely and Daniels had already banked 50.46 on Thursday night. Quinshon Judkins and Harold Fannin Jr. each scored 16.1. The misses were at receiver: Tetairoa McMillan scored 6.5 against a 15.6 projection and Tank Dell 5.1, while Jordyn Tyson scored 19.0 on the bench.",
+        "God Bless Vodka left 31.42 points on its bench, the most in the league this week. Geno Smith started at quarterback and scored 5.92 while Cam Ward scored 20.14 on the bench, and Tyler Allgeier scored 1.4 in a flex spot while Mark Andrews scored 16.2 on the bench. Chase Brown (28.3) and Nico Collins (24.4) did their part. It wouldn't have been enough: God Bless Vodka's best possible lineup was 176.26, 2.06 short. It is 2-8 and has lost three straight."
+       ]
+      },
+      {
+       "a": 3,
+       "b": 6,
+       "tag": "Lock of the week",
+       "p": [
+        "Send Nudes beat Panic Trade Project 190.48 to 86.0, the top score of the week, and covered the 96-point spread from Sunday's lines by 8.48. It's Send Nudes' third straight win, and at 8-2 it sits a game behind Bijan Your Face 🍆💦.",
+        "The Cincinnati stack did it. Joe Burrow scored 33.16 and Ja'Marr Chase 34.1, 67.26 together. Jahmyr Gibbs added 44.2, Deebo Samuel Sr. 25.9 and Derrick Henry 19.0. Four starters were quiet: Tyler Warren scored 2.4, A.J. Brown 4.7, Kyren Williams 5.2 and Rachaad White 6.2. Send Nudes could still have scored 213.84, with Kirk Cousins (16.38) and Aaron Jones Sr. (12.5) on the bench.",
+        "Panic's story is George Pickens. It acquired him from #StopAsianHate on Thursday night with Jalen Hurts, and he scored 43.5 in his first game for Panic, 50.6% of its 86.0 points. Drew Lock, a $9 waiver claim last Wednesday night, added 15.6. The other eight starters scored 26.9 combined, including Omar Cooper Jr. at 0.0 and Devin Singletary and Jalen Coker at 0.3 each. Panic is 4-6 and has lost three straight, a game behind the playoff line."
+       ]
+      },
+      {
+       "a": 5,
+       "b": 9,
+       "tag": "Six straight",
+       "p": [
+        "brimley beat Very Naughty Boys 138.28 to 95.72 for its sixth straight win. It was a 50.2-point favorite and won by 42.56, so it didn't cover, but it is 7-3 and fourth on points.",
+        "Very Naughty Boys led after Thursday, 39.52 to 29.7, and then brimley's Sunday took over. Trevor Lawrence scored 27.78, Tony Pollard 23.9, DJ Moore 19.4 and Justin Jefferson 16.4. Several big names were quiet: Jordan Love scored 11.8 in the superflex spot, Malik Nabers 7.4, Trey McBride 8.7 and Christian Watson 6.7. Stefon Diggs scored 20.3 on the bench, the main part of the 15.1 points brimley left there.",
+        "Very Naughty Boys got 18.12 from J.J. McCarthy and 13.6 from Tre' Harris, but DeMario Douglas scored 1.4 and Treylon Burks 4.7. Fernando Mendoza scored 13.92 on the bench. Its best possible lineup was 108.24, so the result doesn't change. Very Naughty Boys is 0-10. brimley has also had 1,482.52 points scored against it, the most in the league, and it has the longest active winning streak."
+       ]
+      },
+      {
+       "a": 10,
+       "b": 12,
+       "tag": "Sunday",
+       "p": [
+        "Stroke The Post beat Jackie aCHANe 139.5 to 60.82, covering the 49-point spread by 29.68. It's Stroke's third straight win and moves it to 7-3, third on points.",
+        "Stroke underperformed its own projection by a lot and still won by 78.68. James Cook III scored 21.7, Matthew Stafford 20.76, CeeDee Lamb 20.2, Drake London 16.9 and Garrett Wilson 15.6. The misses were Javonte Williams (7.7 against 17.18 projected), Chris Olave (6.0 against 16.26) and Travis Kelce (5.0 against 12.73). Alvin Kamara scored 16.4 on the bench.",
+        "Jackie's 60.82 is its lowest score of the season, and the second-lowest by any team this season. Matthew Golden led it with 12.0. Bryce Young scored 8.1 against a 19.12 projection, Daniel Jones 7.22, Tucker Kraft 2.9 and Ty Johnson 1.4. Elic Ayomanor scored 12.9 on the bench, and the best possible lineup was 72.32. It also didn't help that on Friday morning Jackie traded away Jakobi Meyers and Chris Rodriguez Jr., two players it had in its lineup as of Thursday, for a 2028 fourth and two fifth-round picks. Jackie is 5-5, tied with #StopAsianHate for sixth, but 413.08 points behind it on the tiebreaker."
+       ]
+      },
+      {
+       "a": 7,
+       "b": 4,
+       "tag": "Season low",
+       "p": [
+        "#StopAsianHate beat ClutchJuice 168.92 to 48.82. The 120.1-point margin is the biggest of the week and the third-biggest of the season, and ClutchJuice's 48.82 is the lowest score by any team this season.",
+        "#StopAsianHate had five starters score 20 or more: Jaxon Smith-Njigba 31.1, Cam Skattebo 27.2, Deshaun Watson 22.38, C.J. Stroud 21.44 and Blake Corum 20.9. Skattebo was on its bench when Sunday's edition went to press, and it started him. Tyler Higbee, a $0 waiver claim on Thursday, added 10.7. The one miss was Rhamondre Stevenson at 1.5.",
+        "ClutchJuice's problem started at quarterback. Drake Maye scored 3.02 against a 23.14 projection. Isaiah Davis and Kyle Williams scored 0.0, and Germie Bernard 1.0 against an 11.12 projection. Its bench had one player score, Carson Beck at 2.42, and its best possible lineup was 51.24. ClutchJuice is 3-7 and has lost three straight. #StopAsianHate is 5-5 with two straight wins and holds the last playoff spot."
        ]
       }
      ]
@@ -1588,13 +1701,14 @@
      "kicker": "Tuesday takes",
      "avatar": "kenny",
      "color": "red",
-     "headline": "Stroud Got His Revenge, Tank Dell Got Benched Twice, and Jeff Longwood Is Somehow 10-2",
+     "headline": "Ben Football Team Is the Luckiest Team Alive, Bijan Lost to a Fifth-Round Pick, and I Owe Sheev an Apology",
      "paragraphs": [
-      "Last Tuesday #StopAsianHate traded Lamar Jackson and a third-round pick for C.J. Stroud, and Mona Lott gave it a C. Right idea, wrong price. This week Stroud scored 36.36, the most by any player in this league, and #StopAsianHate won by 39.66. Lamar scored 0.0 for Sheev, because Lamar is hurt. I'm not saying Mona was wrong. Grades are about value, and dynasty is a long game. I'm saying that if I were #StopAsianHate, I'd print the box score and tape it to Mona's door.",
-      "Jeff Longwood went 5-1 again. That's 10-2 in two weeks, from a man who bets his watch on everything. His lone loss was his upset pick, Ben Football Team as a 24.4-point dog against Stroke The Post. Ben lost by 73.3. Jared Goff scored 6.3. Adonai Mitchell, who scored 27.2 on Ben's bench last week, got promoted to the starting lineup and scored 0.0. That is the most Ben Football Team thing that has ever happened, and Ben is still 6-3 with the seventh-most points in the league.",
-      "Commissioner, we need to talk about Tank Dell. In Week 8 you dropped Courtland Sutton to get him. Last week Dell scored 0.0 on your bench. So this week you benched him again, and he scored 20.5. Meanwhile Sutton is on his third roster in two weeks and scored 15.5 for Jackie aCHANe, who paid $2 for him. Sheev did win, 146.54 to 74.26, and it snapped a four-game losing streak. I'll allow it. Next up is God Bless Vodka, which is also 2-7. Start Dell.",
-      "Four teams finished within 1.78 points of each other at the top: brimley 161.76, Send Nudes 161.66, Bijan Your Face 🍆💦 161.36, Stroke The Post 159.98. brimley got the week's top score by a tenth of a point, and it got there with Jordan Love scoring 36.18 in the superflex spot while Trevor Lawrence played quarterback. That's five straight wins for brimley, which has also had the most points scored against it in the league. Every week somebody throws their best game at brimley, and every week lately brimley throws a better one back.",
-      "Quick ones. Bijan Your Face 🍆💦 is 9-0 and left 21.54 points on the bench, the most of anyone this week, and won by 79.64. Very Naughty Boys is 0-9, and its best possible lineup this week would have scored 98.78. Stroke The Post paid $23 for Carson Wentz, and Wentz scored -0.76 on the bench. You can't make money on that bet. And Week 10 has Bijan Your Face 🍆💦 against Ben Football Team. Somebody tell Jeff."
+      "Last week I wrote: Week 10 has Bijan Your Face 🍆💦 against Ben Football Team, somebody tell Jeff. Jeff took Bijan. Sunday's lines had Ben as a 43.4-point dog. Ben scored 187.64, Bijan scored 184.96, and the last unbeaten team in the league is 9-1. Ben has the seventh-most points in the league and a 7-3 record. By all-play it should have about four and a half wins. It has seven. That's 2.55 wins of luck, the most in the league. I don't care. A win over a 9-0 team counts double in my heart.",
+      "Now let's talk about how Bijan lost. On Friday it traded a 2027 fifth-round pick for Jakobi Meyers. On Sunday it started Meyers, who scored 6.4, and benched Ryan Flournoy, who scored 19.1. That's a 12.7-point swing in a game lost by 2.68. Bijan scored the most points by a losing team this season and got beat by its own trade. Mona will grade the trade on value, and it's probably a good one. The lineup decision was not.",
+      "Last Tuesday I told the commissioner to start Tank Dell. Sheev started Tank Dell. Tank Dell scored 5.1, and Jordyn Tyson scored 19.0 on the bench. I apologize to Sheev and to everybody who listens to me. Sheev won anyway, 178.32 to 144.84, because Brock Purdy scored 31.66 and Parker Washington 28.2. Two straight wins, 3-7, and the sixth-most points in the league. Nobody wants to play Sheev in December. Unfortunately, at two games out with four to play, Sheev probably won't be playing in December either.",
+      "On Thursday night #StopAsianHate traded George Pickens and the injured Jalen Hurts to Panic Trade Project for Bo Nix and Emeka Egbuka. Pickens scored 43.5 for Panic. Nix and Egbuka scored 0.0 on #StopAsianHate's bench. And #StopAsianHate won by 120.1 while Panic lost by 104.48. Fantasy football doesn't care how you feel about a trade.",
+      "ClutchJuice scored 48.82, the lowest score in the league this season. Drake Maye was projected for 23.14 and scored 3.02. Two starters scored zero. Its best possible lineup was 51.24, so this wasn't a lineup problem, it was a roster problem. Meanwhile Jeff Longwood went 4-2, and his upset pick lost for the second straight week. God Bless Vodka was his dog, and God Bless Vodka benched Cam Ward's 20.14 to start Geno Smith's 5.92. Jeff, I'm not sure that one's on you.",
+      "The race: four weeks left. Bijan 9-1, Send Nudes 8-2, then Stroke The Post, brimley and Ben all at 7-3. #StopAsianHate and Jackie aCHANe are 5-5 and #StopAsianHate has 413.08 more points, which is the tiebreaker. Jackie scored 60.82 this week after trading away two starters on Friday. Panic is a game back at 4-6. If you're Jackie, you need wins, not fifth-round picks."
      ]
     }
    ],
@@ -7087,10 +7201,109 @@
  },
  "tradeGrades": {
   "writer": "mona",
-  "asOf": "Week 9",
-  "headline": "#StopAsianHate Pays a Third to Swap Lamar's Thumb for C.J. Stroud",
-  "intro": "One new trade since Sunday's edition. On Tuesday, two days after Lamar Jackson hurt his throwing thumb on Baltimore's first snap, #StopAsianHate sent him and Jackie aCHANe's 2027 third-round pick to Sheev for C.J. Stroud. I grade every trade three ways: value, fit and timing. Value is market price, using FantasyCalc's dynasty values for players and the same pick values as our Dynasty Rankings. Winning on value with the wrong timeline is still a bad trade. The four older trades keep the values and grades from the editions that graded them.",
+  "asOf": "Week 10",
+  "headline": "Jackie aCHANe Sells Two Starters Within Half an Hour, and Bijan's Fifth-Round Receiver Costs It the Perfect Season",
+  "intro": "Four new trades since the last graded edition, all made between Thursday night and Friday morning of Week 10. #StopAsianHate and Panic Trade Project swapped two quarterbacks and two receivers, and then Jackie aCHANe made three trades within half an hour on Friday morning, sending out Chris Rodriguez Jr. and Jakobi Meyers and briefly holding Ricky Pearsall. I grade every trade three ways: value, fit and timing. Value is market price, using FantasyCalc's dynasty values for players and picks. FantasyCalc doesn't price fifth-round picks, so they count as zero here. Winning on value with the wrong timeline is still a bad trade.",
   "trades": [
+   {
+    "week": 10,
+    "title": "Meyers to Bijan for a fifth",
+    "sides": [
+     {
+      "team": 8,
+      "gets": [
+       "Jakobi Meyers (WR, 30.0)"
+      ],
+      "value": 1292,
+      "grade": "A-",
+      "reason": "A 9-1 team added a receiver worth 1,292 for a 2027 fifth-round pick that FantasyCalc doesn't even price. That is a value win and the right timing for a team that should be playing in Week 17. The minus is age: Meyers is 30, so this is a rental. I grade the trade, not the lineup, but Bijan started Meyers on Sunday, got 6.4, benched Ryan Flournoy's 19.1 and lost by 2.68."
+     },
+     {
+      "team": 12,
+      "gets": [
+       "2027 5th (Jackie aCHANe)"
+      ],
+      "value": 0,
+      "grade": "D",
+      "reason": "Jackie got its own fifth-round pick back for a receiver it had in its lineup as of Thursday. It was 5-5 and tied for the last playoff spot when it made the trade. Two days later it scored 60.82, its lowest score of the season. If Jackie is rebuilding, a fifth is too little for a 1,292 asset. If it is contending, it shouldn't be selling at all."
+     }
+    ]
+   },
+   {
+    "week": 10,
+    "title": "Pearsall flipped to ClutchJuice",
+    "sides": [
+     {
+      "team": 4,
+      "gets": [
+       "Ricky Pearsall (WR, 26.2)"
+      ],
+      "value": 1268,
+      "grade": "A-",
+      "reason": "ClutchJuice paid a 2028 fourth worth 797 for a 26-year-old receiver worth 1,268, a 471-point win. Pearsall is on injured reserve, which is why he was cheap, and a 3-7 team with the league's youngest core (24.2) is exactly who should be buying injured young players. It's a smart, small move."
+     },
+     {
+      "team": 12,
+      "gets": [
+       "2028 4th (ClutchJuice)"
+      ],
+      "value": 797,
+      "grade": "C-",
+      "reason": "Less than five minutes after acquiring Pearsall, Jackie sold him for 471 less than his market value. Adding a 2028 fourth isn't nothing, and ClutchJuice's pick could be an early one. But this was part of a Friday morning in which Jackie turned two players into a fourth and two fifths."
+     }
+    ]
+   },
+   {
+    "week": 10,
+    "title": "Rodriguez to Ben for Pearsall",
+    "sides": [
+     {
+      "team": 11,
+      "gets": [
+       "Chris Rodriguez Jr. (RB, 27.2)"
+      ],
+      "value": 1138,
+      "grade": "B-",
+      "reason": "Ben gave up Pearsall (1,268) and a 2027 fifth for a running back worth 1,138, a small overpay. But Pearsall is on injured reserve and Rodriguez plays in Jacksonville with Bhayshul Tuten, who is already Ben's starter. For a 7-3 team, a healthy handcuff is worth more than an injured receiver. He scored 0.5 on the bench this week, which is what a handcuff is supposed to do."
+     },
+     {
+      "team": 12,
+      "gets": [
+       "Ricky Pearsall (WR, 26.2)",
+       "2027 5th (Ben Football Team)"
+      ],
+      "value": 1268,
+      "grade": "B",
+      "reason": "On its own, this is a fine trade for Jackie: 1,268 in value plus a fifth for 1,138. Then it flipped Pearsall to ClutchJuice for a 2028 fourth worth 797. Graded as one deal, Jackie turned Rodriguez into a fourth and a fifth, which is a C."
+     }
+    ]
+   },
+   {
+    "week": 10,
+    "title": "Pickens and Hurts to Panic for Nix and Egbuka",
+    "sides": [
+     {
+      "team": 7,
+      "gets": [
+       "Bo Nix (QB, 26.7)",
+       "Emeka Egbuka (WR, 24.1)"
+      ],
+      "value": 7073,
+      "grade": "B",
+      "reason": "#StopAsianHate got 7,073 in market value for 6,860, a 213-point win, and turned Jalen Hurts, who is on injured reserve, into a healthy third quarterback for the superflex slot. Egbuka is a year and a half younger than Pickens. The cost came right away: Pickens scored 43.5 for Panic on Sunday while Nix and Egbuka scored 0.0 on the bench. #StopAsianHate won by 120.1 anyway, but for a 5-5 team in a playoff race, giving up a receiver who was in its lineup is a real price this season."
+     },
+     {
+      "team": 6,
+      "gets": [
+       "Jalen Hurts (QB, 28.3)",
+       "George Pickens (WR, 25.7)"
+      ],
+      "value": 6860,
+      "grade": "C+",
+      "reason": "Panic took a 213-point loss and got older at quarterback: Hurts is 28 and on injured reserve, while Nix is 26. Pickens is 25 and fits a young roster, and his 43.5 on Sunday was the third-most by any player this week. But Panic is 4-6, lost that game by 104.48 and is a rebuilding team by our rankings. A rebuilding team should be the one receiving the healthy young assets, not the injured one."
+     }
+    ]
+   },
    {
     "week": 8,
     "title": "Lamar Jackson to Sheev for C.J. Stroud",
@@ -7115,105 +7328,8 @@
       "reason": "#StopAsianHate needed a healthy quarterback now. Hurts is on injured reserve, Watson is a questionable backup, and at 3-5 it is two games out of sixth with six weeks left. Stroud starts this week at 17.75 and is almost five years younger than Lamar, so the fit is real. But it sold Lamar after his value had already dropped 1,281 since Sunday's rankings, added a third-round pick on top, and the next morning spent $23 on Gardner Minshew II anyway. Right idea, wrong price."
      }
     ]
-   },
-   {
-    "week": 8,
-    "title": "Ferguson to Stroke The Post",
-    "sides": [
-     {
-      "team": 10,
-      "gets": [
-       "Terrance Ferguson (TE, 23.7)"
-      ],
-      "value": 1616,
-      "grade": "C+",
-      "reason": "Stroke The Post got a 23-year-old tight end worth 1,616 for a pick worth 1,603, so the value is even. The fit makes sense on paper: Travis Kelce is 37 and Stroke needs his replacement. The timing is the problem. Ferguson is on the Rams' injured reserve with an ankle injury and can't help a 4-3 team now, and the deal used Stroke's last 2027 pick."
-     },
-     {
-      "team": 6,
-      "gets": [
-       "2027 2nd (Stroke The Post)"
-      ],
-      "value": 1603,
-      "grade": "B",
-      "reason": "Panic Trade Project turned an injured tight end into a second-round pick at market price. Ferguson's value has dropped 161 since last Sunday. A 4-3 team with the league's best luck factor and the 11th-best scoring should be adding picks, and this is Panic's third 2027 second. It doesn't win the trade on value, but it wins on timing."
-     }
-    ]
-   },
-   {
-    "week": 6,
-    "title": "Godwin and Fields to Ben Football Team",
-    "sides": [
-     {
-      "team": 11,
-      "gets": [
-       "Chris Godwin Jr. (WR, 30.7)",
-       "Justin Fields (QB, 27.6)"
-      ],
-      "value": 1418,
-      "grade": "B",
-      "reason": "Ben Football Team won on market value by 378, Godwin at 1,142 and Fields at 276 for Wicks at 1,040. The fit is mixed. Godwin starts this week at 9.7 projected, but he averaged 7.7 in six starts for Very Naughty Boys, while Wicks averaged 9.8 in five starts for Ben. Fields is Kansas City's backup, and Ben starts Patrick Mahomes, so in superflex he's a sensible handcuff; Ben released Jameis Winston a minute after the trade. The timing works: Ben is 5-1 and 12th in dynasty value, so this is a team cashing in a season it's actually winning."
-     },
-     {
-      "team": 9,
-      "gets": [
-       "Dontayvion Wicks (WR, 25.4)"
-      ],
-      "value": 1040,
-      "grade": "B-",
-      "reason": "Very Naughty Boys gave up 378 in market value and got five years younger at receiver. For an 0-6 team that is eighth in dynasty value and owns three 2027 first-round picks, younger is the right direction, and Godwin's value only drops from here at 30. Wicks starts Monday night against Dallas at 6.35 projected. The knock is the price: it handed a contender a starter and a quarterback handcuff for a smaller return."
-     }
-    ]
-   },
-   {
-    "week": 6,
-    "title": "Richardson to ClutchJuice",
-    "sides": [
-     {
-      "team": 4,
-      "gets": [
-       "Anthony Richardson Sr. (QB, 24.4)"
-      ],
-      "value": 697,
-      "grade": "B+",
-      "reason": "ClutchJuice paid a 2028 fifth-round pick for a 24-year-old quarterback worth 697. In superflex, that's about as cheap as a quarterback lottery ticket gets. Drake Maye is its only starting quarterback, and this week it has running back Demond Claiborne in the superflex slot at 0.64 projected. Richardson is Indianapolis's backup and has no Week 7 projection, so he doesn't fix that yet. At 2-4 and 11th in dynasty value, buying a young quarterback is the right move for this team."
-     },
-     {
-      "team": 9,
-      "gets": [
-       "2028 5th (ClutchJuice)"
-      ],
-      "value": 0,
-      "grade": "C",
-      "reason": "FantasyCalc doesn't price fifth-round picks; its 2028 fourth is worth 845, so this pick is worth less than that. Richardson was a backup with no projection, and Very Naughty Boys still has Sam Darnold and Tanner McKee starting, so it didn't lose a lineup piece. But a rebuilding superflex team should be buying 24-year-old quarterbacks, not selling them for a fifth. Twelve minutes later it traded Fields too."
-     }
-    ]
-   },
-   {
-    "week": 6,
-    "title": "Tucker to brimley",
-    "sides": [
-     {
-      "team": 5,
-      "gets": [
-       "Tre Tucker (WR, 25.6)"
-      ],
-      "value": 1317,
-      "grade": "B+",
-      "reason": "brimley gave up 90 in market value, Brooks at 1,407 for Tucker at 1,317, and that is close to even. The fit is strong: Romeo Doubs is on brimley's IR and DJ Moore is listed out, and Tucker scored 26.7 on Sunday and 78.5 in six starts this season. Brooks never scored for brimley and is on NFL injured reserve with an abdomen injury, per Sleeper. A 3-3 team holding sixth place turned a player it couldn't use into a starter, and took him from the team it is tied with."
-     },
-     {
-      "team": 6,
-      "gets": [
-       "Jonathon Brooks (RB, 23.3)"
-      ],
-      "value": 1407,
-      "grade": "C",
-      "reason": "Panic Trade Project won on value by 90 and got two years younger, which fits its rebuild ranking, seventh in dynasty value. The timing is the problem. It is 3-3, tied with brimley for the last playoff spot, and it sold its leading scorer to brimley hours after his best game, for a running back who can't play right now. Choosing to rebuild is fine. Doing it by strengthening the one team you are chasing, for a player you can't start, is a C."
-     }
-    ]
    }
   ],
-  "note": "Week 8 trade values for the Lamar Jackson trade are current as of Nov. 5; the Ferguson trade's values are as of Nov. 1. Older trades show values as of the edition that graded them. Trade details come straight from Sleeper's transaction records."
+  "note": "Week 10 trade values are FantasyCalc dynasty values as of Nov. 17. The Lamar Jackson trade keeps the values and grades from the edition that graded it (values as of Nov. 5). Trade details come straight from Sleeper's transaction records."
  }
 }
