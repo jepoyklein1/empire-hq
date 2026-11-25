@@ -24,10 +24,18 @@ editions in `editions` untouched so readers can toggle back to them.
 
 ## Run procedure (scheduled runs)
 
-1. `git pull origin main`. Check `data/updated_at.txt`. If it is more than 6 hours old, the data workflow did
-   not run: continue with what is there, and say so in your final summary.
+1. **Get fresh data first. Do not rely on the scheduled data pull**: GitHub often runs it hours late.
+   Start it through GitHub's REST API (`gh workflow run` does NOT work from Claude sessions):
+   `gh api -X POST repos/jepoyklein1/empire-hq/actions/workflows/sleeper-data.yml/dispatches -f ref=main`
+   Then poll every ~12 seconds until the newest run shows `workflow_dispatch completed success`:
+   `gh api "repos/jepoyklein1/empire-hq/actions/workflows/sleeper-data.yml/runs?per_page=1" -q '.workflow_runs[0] | "\(.event) \(.status) \(.conclusion)"'`
+   (it takes about 20 seconds), then `git pull origin main` and confirm `data/updated_at.txt` is from the last hour.
+   If `gh` fails, `git pull` and use what is there, but check freshness as in step 2.
 2. `python3 src/prep.py` and read `data/derived.json`. Use `week_by_date` for the current NFL week.
    Tuesday recaps `week_by_date` (Monday night just finished). Thursday previews `week_by_date`. Sunday covers `week_by_date`.
+   **Never publish a "pending" edition.** Tuesday needs every team's final score for the week (it must be in
+   `final_weeks`). If it is missing, re-run the data workflow up to 3 times, 5 minutes apart. If it is still missing,
+   publish NOTHING: leave the previous edition live and say why in your final summary.
 3. Research on the web (WebSearch, then WebFetch on result pages):
    - Sunday: the week's final NFL injury report (Out / Doubtful / Questionable) and current spreads + totals for every game.
    - Thursday: opening or current spreads + totals for the week.
@@ -45,7 +53,7 @@ picks written like `2028 1st (Ben Football Team)`), `movesNote`.
 
 **Tuesday Edition** (`editions.tuesday`)
 - `scoreboard`: `mode: "final"`, all six results with `aPts`/`bPts`, `status: "Final"`.
-- `lead`: a sensational newspaper-style headline about the weekend and a one-sentence deck.
+- `lead`: a sensational newspaper-style headline about the weekend (8 words or fewer, under 50 characters, like a real front page) and a one-sentence deck.
 - Margaret Lee (`avatar: "margaret"`, `color: "blue"`, `serif: true`): matchup-by-matchup recap. Use `sections`
   (one per game: `a`, `b`, `tag`, `p` paragraphs, no `pick`). Real takes on why each game went the way it did:
   which starters hit or busted, bench points left behind, what it means for the standings.
@@ -82,6 +90,9 @@ picks written like `2028 1st (Ben Football Team)`), `movesNote`.
 5 most recent. Each side: team, gets, value (market value received), grade (A to F), reason (2–4 sentences).
 Grade on value (FantasyCalc market values in derived dynasty data; picks valued as in derived `picks`), fit, and
 timing (does the move match the team's window?). Be honest: a value win with the wrong timeline is not an A.
+
+**Layout limits (all editions):** lead headlines 8 words / 50 characters max. Article headlines 12 words max.
+Scoreboard `label` and `sublabel` 20 characters max each (e.g. `Week 12` / `Final`). Long text breaks the page on phones.
 
 ## Writer bible
 

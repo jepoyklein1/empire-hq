@@ -1,10 +1,12 @@
 name: Pull Sleeper data
 
-# Runs at 06:00 UTC on Sun, Tue and Thu: 1:00 AM Central in daylight time
-# (midnight in standard time), about an hour before each 2:00 AM edition.
 on:
+  # Backup pulls only: GitHub often starts scheduled runs hours late, so each edition run
+  # also starts this workflow itself before writing (see CLAUDE.md).
   schedule:
-    - cron: "0 6 * * 0,2,4"
+    - cron: "17 5 * * 0,2,4"
+    - cron: "47 6 * * 0,2,4"
+    - cron: "17 9 * * 0,2,4"
   workflow_dispatch: {}
 
 permissions:
