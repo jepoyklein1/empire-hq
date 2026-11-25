@@ -6,8 +6,9 @@ The league newspaper for **The Empire Strikes Back**, a 12-team superflex PPR dy
 - Live site: https://jepoyklein1.github.io/empire-hq/ (GitHub Pages, `main` branch, repo root)
 - Layout: `src/template.html` · All content and numbers: `src/edition.json` · Portraits: `src/av/p_*.jpg`
 - Build: `python3 src/build.py` writes `index.html` at the repo root. Always rebuild before committing.
-- Data: `data/` is refreshed from Sleeper and FantasyCalc by `.github/workflows/sleeper-data.yml`
-  at 06:00 UTC (1:00 AM Central) on Sun, Tue and Thu. `python3 src/prep.py` turns it into `data/derived.json`.
+- Data: `data/` is refreshed from Sleeper and FantasyCalc by `.github/workflows/sleeper-data.yml`. Each edition run
+  starts it on demand (Run procedure, step 1); its own schedule is only a backup because GitHub often runs scheduled
+  jobs hours late. `python3 src/prep.py` turns the data into `data/derived.json`.
 - Sleeper's API is blocked from Claude's workspace. Never try to fetch it; use the files in `data/`.
 
 ## Schedule
